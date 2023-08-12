@@ -23,7 +23,7 @@
       "mixtos_graded_date": "2023-08-11 22:20:22",
       "classic_graded_date": null,
       "mixtos2_graded_date": "2023-08-11 22:20:22",
-      "marca_stats_graded_date": "2023-08-12 14:20:57",
+      "marca_stats_graded_date": "2023-08-12 17:37:42",
       "finished_at": "2023-08-11 21:29:27",
       "n1": "Almería",
       "n2": "Rayo Vallecano",
@@ -54,7 +54,7 @@
       "mixtos_graded_date": "2023-08-12 00:45:45",
       "classic_graded_date": null,
       "mixtos2_graded_date": "2023-08-12 00:45:45",
-      "marca_stats_graded_date": "2023-08-12 11:35:32",
+      "marca_stats_graded_date": "2023-08-12 17:22:44",
       "finished_at": "2023-08-12 00:06:24",
       "n1": "Sevilla",
       "n2": "Valencia",
@@ -67,13 +67,13 @@
       "id_gameweek": 2520,
       "id_home": 16,
       "id_away": 222,
-      "goals_home": 0,
-      "goals_away": 0,
-      "status": "fixture",
+      "goals_home": 1,
+      "goals_away": 1,
+      "status": "playing",
       "date": {
         "ts": 1691852400,
-        "text": "Hoy 17:00",
-        "format": "'Hoy' H:mm"
+        "text": "En juego +90",
+        "format": "'En juego' +90'"
       },
       "id_gsm": null,
       "id_sofa": 11369293,
@@ -384,8 +384,8 @@
       "status": "fixture",
       "date": {
         "ts": 1692457200,
-        "text": "19 ago 17:00",
-        "format": "d MMM H:mm"
+        "text": "sáb 17:00",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 11368605,
