@@ -161,25 +161,25 @@
       "id_home": 5,
       "id_away": 50,
       "goals_home": 0,
-      "goals_away": 0,
-      "status": "fixture",
+      "goals_away": 2,
+      "status": "played",
       "date": {
         "ts": 1691938800,
-        "text": "Hoy 17:00",
-        "format": "'Hoy' H:mm"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "id_gsm": null,
       "id_sofa": 11369288,
       "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
+      "as_graded_date": "2023-08-13 19:27:08",
+      "marca_graded_date": "2023-08-13 19:57:48",
+      "sofascore_graded_date": "2023-08-13 19:11:47",
+      "mundodeportivo_graded_date": "2023-08-13 19:22:46",
+      "mixtos_graded_date": "2023-08-13 19:57:48",
       "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
-      "finished_at": null,
+      "mixtos2_graded_date": "2023-08-13 19:57:48",
+      "marca_stats_graded_date": "2023-08-13 20:19:35",
+      "finished_at": "2023-08-13 18:54:30",
       "n1": "Celta",
       "n2": "Osasuna",
       "gameweek": 1,
@@ -191,13 +191,13 @@
       "id_gameweek": 2520,
       "id_home": 20,
       "id_away": 4,
-      "goals_home": 0,
-      "goals_away": 0,
-      "status": "fixture",
+      "goals_home": 1,
+      "goals_away": 1,
+      "status": "playing",
       "date": {
         "ts": 1691947800,
-        "text": "Hoy 19:30",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 74",
+        "format": "'En juego' 74'"
       },
       "id_gsm": null,
       "id_sofa": 11369292,
@@ -477,8 +477,8 @@
       "status": "fixture",
       "date": {
         "ts": 1692545400,
-        "text": "20 ago 17:30",
-        "format": "d MMM H:mm"
+        "text": "dom 17:30",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 11368594,
@@ -508,8 +508,8 @@
       "status": "fixture",
       "date": {
         "ts": 1692552600,
-        "text": "20 ago 19:30",
-        "format": "d MMM H:mm"
+        "text": "dom 19:30",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 11368595,
