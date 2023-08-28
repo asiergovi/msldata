@@ -21546,7 +21546,7 @@
               "slot": 9,
               "position": 4,
               "id_team": 48,
-              "status": null,
+              "status": "other",
               "ts_pic": 1629485690,
               "played": 0,
               "short": "M. Sylla",
@@ -22846,20 +22846,20 @@
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20230828"
             },
             "4": {
-              "id": 19747,
-              "name": "Thierry Correia",
-              "points": 2,
+              "id": 18555,
+              "name": "Domingos Duarte",
+              "points": "?",
               "slot": 4,
               "position": 2,
-              "id_team": 19,
+              "id_team": 9,
               "status": null,
-              "ts_pic": 1567517959,
-              "played": 1,
-              "short": "T. Correia",
-              "bg": 2,
+              "ts_pic": 1563439705,
+              "played": 0,
+              "short": "D. Duarte",
+              "bg": 0,
               "best_xi": "",
-              "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19747.png?version=20190903153919",
-              "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20230828"
+              "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18555.png?version=20190718104825",
+              "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20230828"
             }
           },
           "3": {
@@ -23155,6 +23155,64 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22618.png?version=20200731224550",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20230828"
+        },
+        "19747": {
+          "id": 19747,
+          "name": "Thierry Correia",
+          "position": 2,
+          "id_team": 19,
+          "points": 10,
+          "avg": 3.3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1567517959,
+          "streak": [
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 2,
+              "color": 2
+            }
+          ],
+          "streak_sum": 10,
+          "value": 5732000,
+          "prev_value": 5668000,
+          "last_points": 2,
+          "id_uc": 12054777,
+          "floor": 5902717,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 5732000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "T. Correia",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19747.png?version=20190903153919",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20230828"
         },
         "5916": {
           "id": 5916,
@@ -25195,60 +25253,6 @@
           "bg": 0,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28774.png?version=20210718093007",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20230828"
-        },
-        "18555": {
-          "id": 18555,
-          "name": "Domingos Duarte",
-          "position": 2,
-          "id_team": 9,
-          "points": 6,
-          "avg": 3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1563439705,
-          "streak": [
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 1,
-              "color": 2
-            }
-          ],
-          "streak_sum": 6,
-          "value": 2631000,
-          "prev_value": 2582000,
-          "last_points": "?",
-          "id_uc": 12054485,
-          "floor": 3728250,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 0,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 2631000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "D. Duarte",
-          "bg": 0,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18555.png?version=20190718104825",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20230828"
         },
         "456": {
           "id": 456,
