@@ -1635,7 +1635,7 @@
         "floor": 5872000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11315245604,
+        "id_market": 11316750905,
         "price": 6017000,
         "public": 1,
         "bid": null,
@@ -1749,11 +1749,11 @@
         "last_points": 2,
         "id_uc": 12054572,
         "floor": 1397000,
-        "multiplier": 2.5,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11316751023,
+        "price": 1397000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -1761,14 +1761,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1397000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1397000
         },
         "barter": [],
         "popup": "bid",
@@ -2263,7 +2263,7 @@
         "floor": 5872000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11315245604,
+        "id_market": 11316750905,
         "price": 6017000,
         "public": 1,
         "bid": null,
@@ -2377,11 +2377,11 @@
         "last_points": 2,
         "id_uc": 12054572,
         "floor": 1397000,
-        "multiplier": 2.5,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11316751023,
+        "price": 1397000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -2389,14 +2389,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1397000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1397000
         },
         "barter": [],
         "popup": "bid",
@@ -3045,8 +3045,8 @@
     "id": "12054777",
     "name": "ROILOA",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/649de7fbdd51c.png",
-    "played": "15 jug.",
-    "money": "77.048.000",
+    "played": "16 jug.",
+    "money": "79.679.000",
     "points": 158,
     "lineup": {
       "positions": {
@@ -4819,7 +4819,7 @@
             "slot": 9,
             "position": 4,
             "id_team": 15,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1686129187,
             "played": 1,
             "short": "V. Júnior",
@@ -5670,7 +5670,7 @@
         "id_team": 15,
         "points": 18,
         "avg": 6,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1686129187,
         "streak": [
@@ -8727,8 +8727,8 @@
     "id": "12054485",
     "name": "Josep (FC La Celeneta)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305517412de7.png",
-    "played": "16 jug.",
-    "money": "91.545.000",
+    "played": "15 jug.",
+    "money": "88.914.000",
     "points": 130,
     "lineup": {
       "positions": {
