@@ -22534,9 +22534,9 @@
           "floor": 1274001,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11325699650,
+          "price": 1800000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -22546,12 +22546,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 1224000
+            "active": 1,
+            "input": 1800000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1800000
           },
           "barter": [],
           "popup": "bid",
@@ -22593,7 +22593,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11324414425,
-          "price": 9857000,
+          "price": 11000000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -22605,11 +22605,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 9857000
+            "input": 11000000
           },
           "offer": {
             "active": 0,
-            "input": 9857000
+            "input": 11000000
           },
           "barter": [],
           "popup": "bid",
@@ -22650,9 +22650,9 @@
           "floor": 1018000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11325699689,
+          "price": 1600000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -22662,12 +22662,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 1018000
+            "active": 1,
+            "input": 1600000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1600000
           },
           "barter": [],
           "popup": "bid",
@@ -22708,12 +22708,12 @@
           "floor": 5521258,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11324414452,
-          "price": 5350000,
+          "id_market": 11325671303,
+          "price": 7500000,
           "public": 1,
-          "bid": 6350001,
-          "weeks": 0,
-          "type": "normal",
+          "bid": null,
+          "weeks": null,
+          "type": null,
           "player_1": null,
           "player_2": null,
           "player_3": null,
@@ -22721,11 +22721,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 5350000
+            "input": 7500000
           },
           "offer": {
-            "active": 1,
-            "input": 6350001
+            "active": 0,
+            "input": 7500000
           },
           "barter": [],
           "popup": "bid",
@@ -22733,6 +22733,64 @@
           "bg": 4,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/415.png?version=20150723163906",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20230830"
+        },
+        "40032": {
+          "id": 40032,
+          "name": "Mika Mármol",
+          "position": 2,
+          "id_team": 11,
+          "points": 9,
+          "avg": 4.5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1691744824,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 4,
+              "color": 2
+            }
+          ],
+          "streak_sum": 9,
+          "value": 1102000,
+          "prev_value": 1056000,
+          "last_points": 4,
+          "id_uc": 12054468,
+          "floor": 1653000,
+          "multiplier": 2,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 1,
+          "market": {
+            "active": 0,
+            "input": 1102000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Mármol",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40032.png?version=20230811110704",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20230830"
         },
         "22620": {
           "id": 22620,
@@ -22767,7 +22825,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11324414465,
-          "price": 8700000,
+          "price": 9500000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -22779,11 +22837,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 8700000
+            "input": 9500000
           },
           "offer": {
             "active": 0,
-            "input": 8700000
+            "input": 9500000
           },
           "barter": [],
           "popup": "bid",
@@ -22825,7 +22883,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11324414476,
-          "price": 2110000,
+          "price": 2400000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -22837,11 +22895,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 2110000
+            "input": 2400000
           },
           "offer": {
             "active": 0,
-            "input": 2110000
+            "input": 2400000
           },
           "barter": [],
           "popup": "bid",
@@ -22883,7 +22941,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11324414511,
-          "price": 6284000,
+          "price": 8000000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -22895,11 +22953,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 6284000
+            "input": 8000000
           },
           "offer": {
             "active": 0,
-            "input": 6284000
+            "input": 8000000
           },
           "barter": [],
           "popup": "bid",
@@ -23391,64 +23449,6 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22618.png?version=20200731224550",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20230830"
-        },
-        "40032": {
-          "id": 40032,
-          "name": "Mika Mármol",
-          "position": 2,
-          "id_team": 11,
-          "points": 9,
-          "avg": 4.5,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1691744824,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 4,
-              "color": 2
-            }
-          ],
-          "streak_sum": 9,
-          "value": 1102000,
-          "prev_value": 1056000,
-          "last_points": 4,
-          "id_uc": 12054777,
-          "floor": 1102000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1102000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "M. Mármol",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40032.png?version=20230811110704",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20230830"
         },
         "19747": {
           "id": 19747,
