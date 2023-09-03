@@ -3459,7 +3459,7 @@
     "img": "https://cdn.gomister.com/file/cdn-mister/users/61785a75b93b0.png",
     "played": "19 jug.",
     "money": "101.254.000",
-    "points": 211,
+    "points": 212,
     "lineup": {
       "positions": {
         "1": {
@@ -3548,7 +3548,7 @@
           "6": {
             "id": 28274,
             "name": "Stefan Mitrović",
-            "points": 0,
+            "points": 1,
             "slot": 6,
             "position": 2,
             "id_team": 9,
@@ -3556,7 +3556,7 @@
             "ts_pic": 1625574123,
             "played": 1,
             "short": "S. Mitrović",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28274.png?version=20210706142203",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20230903"
@@ -4701,8 +4701,8 @@
         "name": "Stefan Mitrović",
         "position": 2,
         "id_team": 9,
-        "points": 7,
-        "avg": 1.8,
+        "points": 8,
+        "avg": 2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1625574123,
@@ -4716,14 +4716,14 @@
             "color": 2
           },
           {
-            "points": 0,
-            "color": 0
+            "points": 1,
+            "color": 2
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 4,
         "value": 1652000,
         "prev_value": 1679000,
-        "last_points": 0,
+        "last_points": 1,
         "id_uc": 12054468,
         "floor": 2450000,
         "multiplier": 1.5,
@@ -4750,7 +4750,7 @@
         "barter": [],
         "popup": "bid",
         "short": "S. Mitrović",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28274.png?version=20210706142203",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20230903"
       },
@@ -5313,8 +5313,8 @@
         "gameweek": 4,
         "type": "regular",
         "status": "started",
-        "points": 33,
-        "rank": 8,
+        "points": 34,
+        "rank": 7,
         "negative": 0,
         "formation": "1-5-4-1"
       }
@@ -5345,9 +5345,9 @@
         "status": "closed"
       },
       "4": {
-        "points": 33,
+        "points": 34,
         "negative": 0,
-        "width": 33,
+        "width": 34,
         "short": "J4",
         "color": 2,
         "status": "started"
@@ -5360,7 +5360,7 @@
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c1641dbf205.png",
     "played": "13 jug.",
     "money": "83.200.000",
-    "points": 211,
+    "points": 210,
     "lineup": {
       "positions": {
         "1": {
@@ -5483,7 +5483,7 @@
           "8": {
             "id": 53114,
             "name": "Jude Bellingham",
-            "points": 13,
+            "points": 12,
             "slot": 8,
             "position": 3,
             "id_team": 15,
@@ -5583,9 +5583,9 @@
         "floor": 1986000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11342947031,
+        "price": 1986000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5595,12 +5595,12 @@
         "played": 1,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1986000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1986000
         },
         "barter": [],
         "popup": "bid",
@@ -5759,9 +5759,9 @@
         "floor": 1986000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11342947031,
+        "price": 1986000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5771,12 +5771,12 @@
         "played": 1,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1986000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1986000
         },
         "barter": [],
         "popup": "bid",
@@ -6080,8 +6080,8 @@
         "name": "Jude Bellingham",
         "position": 3,
         "id_team": 15,
-        "points": 61,
-        "avg": 15.3,
+        "points": 60,
+        "avg": 15,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1686904061,
@@ -6095,14 +6095,14 @@
             "color": 4
           },
           {
-            "points": 13,
+            "points": 12,
             "color": 4
           }
         ],
-        "streak_sum": 47,
+        "streak_sum": 46,
         "value": 19993000,
         "prev_value": 19933000,
-        "last_points": 13,
+        "last_points": 12,
         "id_uc": 12067027,
         "floor": 31000020,
         "multiplier": 3,
@@ -6339,9 +6339,9 @@
         "floor": 2081000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11342946958,
+        "price": 2081000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -6351,12 +6351,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2081000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2081000
         },
         "barter": [],
         "popup": "bid",
@@ -6460,7 +6460,7 @@
         "gameweek": 4,
         "type": "regular",
         "status": "started",
-        "points": 43,
+        "points": 42,
         "rank": 4,
         "negative": 0,
         "formation": "1-3-5-2"
@@ -6492,9 +6492,9 @@
         "status": "closed"
       },
       "4": {
-        "points": 43,
+        "points": 42,
         "negative": 0,
-        "width": 43,
+        "width": 42,
         "short": "J4",
         "color": 3,
         "status": "started"
@@ -9948,7 +9948,7 @@
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c21d6f7e092.png",
     "played": "20 jug.",
     "money": "91.668.000",
-    "points": 173,
+    "points": 172,
     "lineup": {
       "positions": {
         "1": {
@@ -10121,7 +10121,7 @@
           "11": {
             "id": 40029,
             "name": "Juanmi Latasa",
-            "points": 4,
+            "points": 3,
             "slot": 11,
             "position": 4,
             "id_team": 9,
@@ -11596,8 +11596,8 @@
         "name": "Juanmi Latasa",
         "position": 4,
         "id_team": 9,
-        "points": 17,
-        "avg": 4.3,
+        "points": 16,
+        "avg": 4,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1687168867,
@@ -11611,14 +11611,14 @@
             "color": 3
           },
           {
-            "points": 4,
+            "points": 3,
             "color": 2
           }
         ],
-        "streak_sum": 15,
+        "streak_sum": 14,
         "value": 3511000,
         "prev_value": 3440000,
-        "last_points": 4,
+        "last_points": 3,
         "id_uc": 12055022,
         "floor": 3511000,
         "multiplier": 1.5,
@@ -11860,7 +11860,7 @@
         "gameweek": 4,
         "type": "regular",
         "status": "started",
-        "points": 44,
+        "points": 43,
         "rank": 3,
         "negative": 0,
         "formation": "1-3-5-2"
@@ -11892,9 +11892,9 @@
         "status": "closed"
       },
       "4": {
-        "points": 44,
+        "points": 43,
         "negative": 0,
-        "width": 44,
+        "width": 43,
         "short": "J4",
         "color": 3,
         "status": "started"
@@ -15082,8 +15082,8 @@
         "name": "Mauro Arambarri",
         "position": 3,
         "id_team": 9,
-        "points": 1,
-        "avg": 1,
+        "points": 2,
+        "avg": 2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1502364751,
@@ -15097,14 +15097,14 @@
             "color": 0
           },
           {
-            "points": 1,
+            "points": 2,
             "color": 2
           }
         ],
-        "streak_sum": 1,
+        "streak_sum": 2,
         "value": 1054000,
         "prev_value": 1027000,
-        "last_points": 1,
+        "last_points": 2,
         "id_uc": 12054564,
         "floor": 2000000,
         "multiplier": 2,
@@ -15780,8 +15780,8 @@
         "name": "Mauro Arambarri",
         "position": 3,
         "id_team": 9,
-        "points": 1,
-        "avg": 1,
+        "points": 2,
+        "avg": 2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1502364751,
@@ -15795,14 +15795,14 @@
             "color": 0
           },
           {
-            "points": 1,
+            "points": 2,
             "color": 2
           }
         ],
-        "streak_sum": 1,
+        "streak_sum": 2,
         "value": 1054000,
         "prev_value": 1027000,
-        "last_points": 1,
+        "last_points": 2,
         "id_uc": 12054564,
         "floor": 2000000,
         "multiplier": 2,
@@ -17656,7 +17656,7 @@
         "type": "regular",
         "status": "started",
         "points": 33,
-        "rank": 7,
+        "rank": 8,
         "negative": 0,
         "formation": "1-4-3-3"
       }
