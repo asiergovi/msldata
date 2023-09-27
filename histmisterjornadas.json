@@ -56033,7 +56033,7 @@
           "id_team": 19,
           "points": 0,
           "avg": 0,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1693565554,
           "streak": [
@@ -56633,7 +56633,7 @@
           "id_team": 20,
           "points": 43,
           "avg": 7.2,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
@@ -57452,7 +57452,7 @@
           "floor": 934000,
           "multiplier": 3.5,
           "shield": 0,
-          "id_market": 11457785177,
+          "id_market": 11457978731,
           "price": 3000000,
           "public": 1,
           "bid": null,
@@ -57568,7 +57568,7 @@
           "floor": 2450000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11457785160,
+          "id_market": 11457978706,
           "price": 3000000,
           "public": 1,
           "bid": null,
@@ -57743,7 +57743,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11450198478,
-          "price": 7364000,
+          "price": 7538000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -57755,11 +57755,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 7364000
+            "input": 7538000
           },
           "offer": {
             "active": 0,
-            "input": 7364000
+            "input": 7538000
           },
           "barter": [],
           "popup": "bid",
@@ -58085,7 +58085,7 @@
           "id_team": 20,
           "points": 46,
           "avg": 7.7,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1594669569,
           "streak": [
@@ -58395,7 +58395,7 @@
           "id_team": 19,
           "points": 14,
           "avg": 4.7,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1503099722,
           "streak": [
@@ -61654,7 +61654,7 @@
               "slot": 8,
               "position": 3,
               "id_team": 20,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1594669569,
               "played": 0,
               "short": "A. Baena",
@@ -61982,9 +61982,9 @@
           "floor": 887000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11456529766,
-          "price": 975410,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -61994,12 +61994,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 1,
-            "input": 975410
+            "active": 0,
+            "input": 887000
           },
           "offer": {
             "active": 0,
-            "input": 975410
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -62040,7 +62040,7 @@
           "floor": 1392560,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11456530869,
+          "id_market": 11457999199,
           "price": 1341780,
           "public": 1,
           "bid": null,
@@ -62156,7 +62156,7 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11456530948,
+          "id_market": 11457999274,
           "price": 479770,
           "public": 1,
           "bid": null,
