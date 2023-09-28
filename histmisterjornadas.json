@@ -55975,7 +55975,7 @@
           "id_team": 48,
           "points": 18,
           "avg": 3.6,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1687160878,
           "streak": [
@@ -57362,64 +57362,6 @@
         "count": 11
       },
       "bench": {
-        "55453": {
-          "id": 55453,
-          "name": "Ørjan Nyland",
-          "position": 1,
-          "id_team": 17,
-          "points": 6,
-          "avg": 3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1692526340,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 1,
-              "color": 2
-            }
-          ],
-          "streak_sum": 6,
-          "value": 460000,
-          "prev_value": 393000,
-          "last_points": 1,
-          "id_uc": 12054468,
-          "floor": 1334505,
-          "multiplier": 4,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 460000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "Ø. Nyland",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55453.png?version=20230820121220",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230928"
-        },
         "63": {
           "id": 63,
           "name": "Marc Bartra",
@@ -57452,9 +57394,9 @@
           "floor": 4354000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11462535221,
+          "price": 5300000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -57464,12 +57406,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 4354000
+            "active": 1,
+            "input": 5300000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 5300000
           },
           "barter": [],
           "popup": "bid",
@@ -57684,8 +57626,8 @@
           "floor": 2450000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11461155464,
-          "price": 3000000,
+          "id_market": 11462535022,
+          "price": 3400000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -57697,11 +57639,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 3000000
+            "input": 3400000
           },
           "offer": {
             "active": 0,
-            "input": 3000000
+            "input": 3400000
           },
           "barter": [],
           "popup": "bid",
@@ -57949,7 +57891,7 @@
           "id_team": 2,
           "points": 17,
           "avg": 4.3,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1676920773,
           "streak": [
@@ -60162,9 +60104,9 @@
           "floor": 1567899,
           "multiplier": 2,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11462554322,
+          "price": 695000,
+          "public": 0,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -60174,12 +60116,12 @@
           "played": 0,
           "default": 1,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 695000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 695000
           },
           "barter": [],
           "popup": "bid",
@@ -60336,7 +60278,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 2,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1437662345,
               "played": 0,
               "short": "S. Savić",
@@ -60434,7 +60376,7 @@
               "slot": 8,
               "position": 3,
               "id_team": 2,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1694591674,
               "played": 0,
               "short": "R. De Paul",
@@ -60878,7 +60820,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 48,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1437662345,
               "played": 0,
               "short": "R. Duarte",
@@ -61582,6 +61524,64 @@
         "count": 11
       },
       "bench": {
+        "55453": {
+          "id": 55453,
+          "name": "Ørjan Nyland",
+          "position": 1,
+          "id_team": 17,
+          "points": 6,
+          "avg": 3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1692526340,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 1,
+              "color": 2
+            }
+          ],
+          "streak_sum": 6,
+          "value": 460000,
+          "prev_value": 393000,
+          "last_points": 1,
+          "id_uc": 12055602,
+          "floor": 5338020,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 460000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "Ø. Nyland",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55453.png?version=20230820121220",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230928"
+        },
         "55662": {
           "id": 55662,
           "name": "Boubakary Soumaré",
