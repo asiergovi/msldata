@@ -55884,9 +55884,9 @@
           "floor": 1494000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11461135798,
+          "price": 1494000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -55896,12 +55896,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1494000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1494000
           },
           "barter": [],
           "popup": "bid",
@@ -56174,9 +56174,9 @@
           "floor": 1802000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11461135867,
+          "price": 1511000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -56186,12 +56186,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1511000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1511000
           },
           "barter": [],
           "popup": "bid",
@@ -62240,64 +62240,6 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48194.png?version=20220617145918",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20230928"
         },
-        "55523": {
-          "id": 55523,
-          "name": "Anastasios Douvikas",
-          "position": 4,
-          "id_team": 5,
-          "points": 12,
-          "avg": 4,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1693226591,
-          "streak": [
-            {
-              "points": 1,
-              "color": 2
-            },
-            {
-              "points": 1,
-              "color": 2
-            },
-            {
-              "points": 10,
-              "color": 4
-            }
-          ],
-          "streak_sum": 12,
-          "value": 1373000,
-          "prev_value": 1338000,
-          "last_points": "?",
-          "id_uc": 12055022,
-          "floor": 1392560,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": 11457999199,
-          "price": 1341780,
-          "public": 1,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 0,
-          "default": 0,
-          "market": {
-            "active": 1,
-            "input": 1341780
-          },
-          "offer": {
-            "active": 0,
-            "input": 1341780
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "A. Douvikas",
-          "bg": 0,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55523.png?version=20230828144311",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20230928"
-        },
         "35943": {
           "id": 35943,
           "name": "Javi Llabrés",
@@ -62666,6 +62608,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49101.png?version=20220819113817",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20230928"
         },
+        "5": {
+          "id": 5,
+          "name": "Óscar De Marcos",
+          "position": 2,
+          "id_team": 1,
+          "points": 25,
+          "avg": 5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1437662345,
+          "streak": [
+            {
+              "points": 9,
+              "color": 3
+            },
+            {
+              "points": 8,
+              "color": 3
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 22,
+          "value": 3558000,
+          "prev_value": 3407000,
+          "last_points": 5,
+          "id_uc": 12054509,
+          "floor": 8895000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 3558000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "Ó. De Marcos",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5.png?version=20150723163905",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20230928"
+        },
         "6057": {
           "id": 6057,
           "name": "Rubén Alcaraz",
@@ -62723,6 +62723,64 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6057.png?version=20170605133039",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20230928"
+        },
+        "55523": {
+          "id": 55523,
+          "name": "Anastasios Douvikas",
+          "position": 4,
+          "id_team": 5,
+          "points": 12,
+          "avg": 4,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1693226591,
+          "streak": [
+            {
+              "points": 1,
+              "color": 2
+            },
+            {
+              "points": 1,
+              "color": 2
+            },
+            {
+              "points": 10,
+              "color": 4
+            }
+          ],
+          "streak_sum": 12,
+          "value": 1373000,
+          "prev_value": 1338000,
+          "last_points": "?",
+          "id_uc": 12054509,
+          "floor": 2088840,
+          "multiplier": 3,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "default": 3,
+          "market": {
+            "active": 0,
+            "input": 1373000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "A. Douvikas",
+          "bg": 0,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55523.png?version=20230828144311",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20230928"
         }
       }
     }
