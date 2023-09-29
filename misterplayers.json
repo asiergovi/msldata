@@ -2093,64 +2093,6 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/334.png?version=20230904173832",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230929"
       },
-      "17450": {
-        "id": 17450,
-        "name": "Aitor Ruibal",
-        "position": 3,
-        "id_team": 4,
-        "points": 19,
-        "avg": 3.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1558544639,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 12,
-        "value": 879000,
-        "prev_value": 817000,
-        "last_points": 5,
-        "id_uc": 12054777,
-        "floor": 879000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11465943864,
-        "price": 879000,
-        "public": 0,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 879000
-        },
-        "offer": {
-          "active": 0,
-          "input": 879000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Ruibal",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17450.png?version=20190522190359",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20230929"
-      },
       "49292": {
         "id": 49292,
         "name": "Brian Ocampo",
@@ -2906,64 +2848,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/334.png?version=20230904173832",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230929"
-      },
-      {
-        "id": 17450,
-        "name": "Aitor Ruibal",
-        "position": 3,
-        "id_team": 4,
-        "points": 19,
-        "avg": 3.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1558544639,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 12,
-        "value": 879000,
-        "prev_value": 817000,
-        "last_points": 5,
-        "id_uc": 12054777,
-        "floor": 879000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11465943864,
-        "price": 879000,
-        "public": 0,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 879000
-        },
-        "offer": {
-          "active": 0,
-          "input": 879000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Ruibal",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17450.png?version=20190522190359",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20230929"
       },
       {
         "id": 49292,
@@ -10256,7 +10140,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 19,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1567517959,
             "played": 1,
             "short": "T. Correia",
@@ -10775,7 +10659,7 @@
         "id_team": 19,
         "points": 25,
         "avg": 3.6,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1567517959,
         "streak": [
@@ -11431,7 +11315,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 19,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1693406830,
             "played": 1,
             "short": "J. Luis Gayà",
@@ -12266,7 +12150,7 @@
         "id_team": 19,
         "points": 36,
         "avg": 5.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693406830,
         "streak": [
@@ -13458,6 +13342,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/192.png?version=20230902010651",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20230929"
       },
+      "17450": {
+        "id": 17450,
+        "name": "Aitor Ruibal",
+        "position": 3,
+        "id_team": 4,
+        "points": 19,
+        "avg": 3.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1558544639,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 12,
+        "value": 879000,
+        "prev_value": 817000,
+        "last_points": 5,
+        "id_uc": 12054564,
+        "floor": 879000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 879000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Ruibal",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17450.png?version=20190522190359",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20230929"
+      },
       "15339": {
         "id": 15339,
         "name": "Valery Fernández",
@@ -13923,6 +13865,64 @@
         "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/332.png?version=20150723163906",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20230929"
+      },
+      {
+        "id": 17450,
+        "name": "Aitor Ruibal",
+        "position": 3,
+        "id_team": 4,
+        "points": 19,
+        "avg": 3.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1558544639,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 12,
+        "value": 879000,
+        "prev_value": 817000,
+        "last_points": 5,
+        "id_uc": 12054564,
+        "floor": 879000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 879000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Ruibal",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17450.png?version=20190522190359",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20230929"
       },
       {
         "id": 31484,
@@ -19210,7 +19210,7 @@
             "slot": 6,
             "position": 3,
             "id_team": 19,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1661502812,
             "played": 1,
             "short": "A. Almeida",
@@ -19487,7 +19487,7 @@
         "id_team": 17,
         "points": 22,
         "avg": 4.4,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -20011,7 +20011,7 @@
         "id_team": 19,
         "points": 30,
         "avg": 4.3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661502812,
         "streak": [
@@ -20243,7 +20243,7 @@
         "id_team": 17,
         "points": 22,
         "avg": 4.4,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
