@@ -54604,7 +54604,7 @@
               "slot": 9,
               "position": 3,
               "id_team": 19,
-              "status": null,
+              "status": "double",
               "ts_pic": 1693377127,
               "played": 1,
               "short": "S. Amallah",
@@ -54684,9 +54684,9 @@
           "floor": 2390000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11465930744,
+          "price": 1730000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -54696,12 +54696,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1730000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1730000
           },
           "barter": [],
           "popup": "bid",
@@ -54859,7 +54859,7 @@
           "multiplier": 1.5,
           "shield": 0,
           "id_market": 11461055876,
-          "price": 366000,
+          "price": 510000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -54871,11 +54871,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 366000
+            "input": 510000
           },
           "offer": {
             "active": 0,
-            "input": 366000
+            "input": 510000
           },
           "barter": [],
           "popup": "bid",
@@ -55033,7 +55033,7 @@
           "multiplier": 2.5,
           "shield": 0,
           "id_market": 11464097661,
-          "price": 8085000,
+          "price": 5674000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -55045,11 +55045,11 @@
           "default": 2,
           "market": {
             "active": 1,
-            "input": 8085000
+            "input": 5674000
           },
           "offer": {
             "active": 0,
-            "input": 8085000
+            "input": 5674000
           },
           "barter": [],
           "popup": "bid",
@@ -55140,7 +55140,7 @@
               "slot": 5,
               "position": 3,
               "id_team": 1,
-              "status": null,
+              "status": "red",
               "ts_pic": 1676920729,
               "played": 1,
               "short": "O. Sancet",
@@ -55516,9 +55516,9 @@
           "floor": 879000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11465943864,
+          "price": 879000,
+          "public": 0,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -55528,12 +55528,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 879000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 879000
           },
           "barter": [],
           "popup": "bid",
@@ -55549,7 +55549,7 @@
           "id_team": 499,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1661759688,
           "streak": [
@@ -56265,7 +56265,7 @@
           "id_team": 1,
           "points": 23,
           "avg": 3.8,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1623323343,
           "streak": [
@@ -56923,7 +56923,7 @@
           "id_team": 20,
           "points": 43,
           "avg": 7.2,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
@@ -56993,7 +56993,7 @@
               "played": 1,
               "short": "Á. Valles",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53111.png?version=20230616091642",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20230929"
             }
@@ -57154,7 +57154,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 4,
-              "status": "other",
+              "status": null,
               "ts_pic": 1438944393,
               "played": 0,
               "short": "W. José",
@@ -57469,7 +57469,7 @@
               "played": 1,
               "short": "E. García",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20210602195846",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20230929"
             }
@@ -57775,7 +57775,7 @@
           "id_team": 2,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1643701251,
           "streak": [
@@ -58065,7 +58065,7 @@
           "id_team": 2,
           "points": 17,
           "avg": 4.3,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1676920773,
           "streak": [
@@ -58301,7 +58301,7 @@
               "played": 1,
               "short": "D. Lukébakio",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55491.png?version=20230824232236",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230929"
             }
@@ -58429,7 +58429,7 @@
       }
     },
     "12054406": {
-      "points": 51,
+      "points": 50,
       "lineup": {
         "positions": {
           "1": {
@@ -58586,7 +58586,7 @@
             "10": {
               "id": 49341,
               "name": "Jørgen Strand Larsen",
-              "points": 4,
+              "points": 3,
               "slot": 10,
               "position": 4,
               "id_team": 5,
@@ -58611,7 +58611,7 @@
               "played": 1,
               "short": "Raphinha",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48657.png?version=20220713133421",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20230929"
             }
@@ -59121,7 +59121,7 @@
               "played": 1,
               "short": "Y. Berchiche",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/361.png?version=20150723163906",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20230929"
             },
@@ -59203,7 +59203,7 @@
               "played": 1,
               "short": "Suso",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20481.png?version=20200129212214",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20230929"
             },
@@ -59232,7 +59232,7 @@
               "slot": 9,
               "position": 4,
               "id_team": 50,
-              "status": null,
+              "status": "red",
               "ts_pic": 1527190137,
               "played": 1,
               "short": "E. Ávila",
@@ -60084,7 +60084,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 15,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1622219037,
               "played": 1,
               "short": "D. Alaba",
@@ -60200,7 +60200,7 @@
               "slot": 9,
               "position": 4,
               "id_team": 2,
-              "status": null,
+              "status": "double",
               "ts_pic": 1466591180,
               "played": 1,
               "short": "Á. Morata",
@@ -60369,7 +60369,7 @@
           "id_team": 14,
           "points": 19,
           "avg": 4.8,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1627541835,
           "streak": [
@@ -60452,7 +60452,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 2,
-              "status": "injury",
+              "status": "doubt",
               "ts_pic": 1437662345,
               "played": 0,
               "short": "S. Savić",
@@ -60550,7 +60550,7 @@
               "slot": 8,
               "position": 3,
               "id_team": 2,
-              "status": "injury",
+              "status": "doubt",
               "ts_pic": 1694591674,
               "played": 0,
               "short": "R. De Paul",
@@ -61337,7 +61337,7 @@
           "id_team": 17,
           "points": 22,
           "avg": 4.4,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1437662345,
           "streak": [
@@ -62288,7 +62288,7 @@
               "slot": 3,
               "position": 2,
               "id_team": 11,
-              "status": "double",
+              "status": null,
               "ts_pic": 1691744824,
               "played": 0,
               "short": "M. Mármol",
@@ -62754,7 +62754,7 @@
           "last_points": 9,
           "id_uc": 12054509,
           "floor": 908600,
-          "multiplier": 3,
+          "multiplier": 4,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -62766,7 +62766,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 3,
+          "default": 0,
           "market": {
             "active": 0,
             "input": 684000
