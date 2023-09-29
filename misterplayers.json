@@ -4254,7 +4254,7 @@
         "last_points": 7,
         "id_uc": 12069044,
         "floor": 666666.6666666666,
-        "multiplier": 1.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -4266,7 +4266,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 482000
@@ -4604,9 +4604,9 @@
         "floor": 909000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11467204370,
+        "price": 1222560,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4616,12 +4616,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 909000
+          "active": 1,
+          "input": 1222560
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1222560
         },
         "barter": [],
         "popup": "bid",
@@ -13838,7 +13838,7 @@
         "last_points": 10,
         "id_uc": 12054564,
         "floor": 8829000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -13850,7 +13850,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1935000
@@ -19976,7 +19976,7 @@
         "last_points": 3,
         "id_uc": 12054571,
         "floor": 7723000,
-        "multiplier": 2.5,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -19988,7 +19988,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 7723000
@@ -20440,7 +20440,7 @@
         "last_points": 3,
         "id_uc": 12054571,
         "floor": 9588000,
-        "multiplier": 3,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -20452,7 +20452,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 9588000
