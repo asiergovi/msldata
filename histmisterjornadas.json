@@ -55007,7 +55007,7 @@
           "id_team": 10,
           "points": 26,
           "avg": 3.7,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1691770549,
           "streak": [
@@ -55491,7 +55491,7 @@
           "id_team": 499,
           "points": 0,
           "avg": 0,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1661759688,
           "streak": [
@@ -56207,7 +56207,7 @@
           "id_team": 1,
           "points": 23,
           "avg": 3.8,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1623323343,
           "streak": [
@@ -56832,9 +56832,9 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11467176584,
+          "price": 561000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -56844,12 +56844,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 561000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 561000
           },
           "barter": [],
           "popup": "bid",
@@ -56865,7 +56865,7 @@
           "id_team": 20,
           "points": 43,
           "avg": 7.2,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
@@ -57096,7 +57096,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 4,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1438944393,
               "played": 0,
               "short": "W. José",
@@ -57626,7 +57626,7 @@
           "floor": 934000,
           "multiplier": 3.5,
           "shield": 0,
-          "id_market": 11462810666,
+          "id_market": 11467169164,
           "price": 3000000,
           "public": 1,
           "bid": null,
@@ -57684,9 +57684,9 @@
           "floor": 6324000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11467175067,
+          "price": 9000000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -57696,12 +57696,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 6324000
+            "active": 1,
+            "input": 9000000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 9000000
           },
           "barter": [],
           "popup": "bid",
@@ -57717,7 +57717,7 @@
           "id_team": 2,
           "points": 0,
           "avg": 0,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1643701251,
           "streak": [
@@ -57856,7 +57856,7 @@
           "last_points": 10,
           "id_uc": 12054468,
           "floor": 9622040,
-          "multiplier": 2,
+          "multiplier": 2.5,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -57868,7 +57868,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 1,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 5177000
@@ -57974,9 +57974,9 @@
           "floor": 5983000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11467174295,
+          "price": 6500000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -57986,12 +57986,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 5533000
+            "active": 1,
+            "input": 6500000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 6500000
           },
           "barter": [],
           "popup": "bid",
@@ -58007,7 +58007,7 @@
           "id_team": 2,
           "points": 17,
           "avg": 4.3,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1676920773,
           "streak": [
@@ -58032,8 +58032,8 @@
           "floor": 15087580,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11463839084,
-          "price": 7538000,
+          "id_market": 11467169131,
+          "price": 15000000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -58045,11 +58045,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 7538000
+            "input": 15000000
           },
           "offer": {
             "active": 0,
-            "input": 7538000
+            "input": 15000000
           },
           "barter": [],
           "popup": "bid",
@@ -58432,7 +58432,7 @@
               "slot": 4,
               "position": 2,
               "id_team": 19,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1693406830,
               "played": 1,
               "short": "J. Luis Gayà",
@@ -58801,7 +58801,7 @@
           "id_team": 21,
           "points": 31,
           "avg": 5.2,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
@@ -61010,7 +61010,7 @@
               "slot": 3,
               "position": 2,
               "id_team": 499,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1596228388,
               "played": 1,
               "short": "I. Carcelén",
@@ -61584,7 +61584,7 @@
               "slot": 5,
               "position": 2,
               "id_team": 9,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1679394096,
               "played": 1,
               "short": "J. Ángel Carmona",
