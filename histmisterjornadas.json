@@ -63552,7 +63552,7 @@
           "floor": 10259000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11487508210,
+          "id_market": 11489120408,
           "price": 16083572,
           "public": 1,
           "bid": null,
@@ -63610,7 +63610,7 @@
           "floor": 12775943,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11487514731,
+          "id_market": 11489120327,
           "price": 16033511,
           "public": 1,
           "bid": null,
@@ -63726,7 +63726,7 @@
           "floor": 4683865,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11486050995,
+          "id_market": 11489120291,
           "price": 7664833,
           "public": 1,
           "bid": null,
@@ -63900,7 +63900,7 @@
           "floor": 2373000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11486050981,
+          "id_market": 11489120216,
           "price": 5656216,
           "public": 1,
           "bid": null,
@@ -65758,7 +65758,7 @@
           "floor": 1802000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11486027425,
+          "id_market": 11489083284,
           "price": 1507000,
           "public": 1,
           "bid": null,
@@ -66068,9 +66068,9 @@
           "floor": 1231000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11489101731,
+          "price": 1231000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -66080,12 +66080,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1231000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1231000
           },
           "barter": [],
           "popup": "bid",
@@ -66184,9 +66184,9 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11489101796,
+          "price": 662000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -66196,12 +66196,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 662000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 662000
           },
           "barter": [],
           "popup": "bid",
@@ -66416,9 +66416,9 @@
           "floor": 5929000,
           "multiplier": 3,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11489101860,
+          "price": 5929000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -66428,12 +66428,12 @@
           "played": 1,
           "default": 3,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 5929000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 5929000
           },
           "barter": [],
           "popup": "bid",
@@ -67293,6 +67293,64 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27428.png?version=20210610130903",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231004"
+        },
+        "55754": {
+          "id": 55754,
+          "name": "Assane Diao",
+          "position": 3,
+          "id_team": 4,
+          "points": 25,
+          "avg": 12.5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1695917251,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 13,
+              "color": 4
+            },
+            {
+              "points": 12,
+              "color": 4
+            }
+          ],
+          "streak_sum": 25,
+          "value": 560000,
+          "prev_value": 468000,
+          "last_points": 12,
+          "id_uc": 12054484,
+          "floor": 22684428,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 560000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "A. Diao",
+          "bg": 4,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55754.png?version=20230928180731",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231004"
         },
         "55009": {
           "id": 55009,
@@ -69829,64 +69887,6 @@
           "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14691.png?version=20180809194421",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231004"
-        },
-        "55754": {
-          "id": 55754,
-          "name": "Assane Diao",
-          "position": 3,
-          "id_team": 4,
-          "points": 25,
-          "avg": 12.5,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1695917251,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 13,
-              "color": 4
-            },
-            {
-              "points": 12,
-              "color": 4
-            }
-          ],
-          "streak_sum": 25,
-          "value": 560000,
-          "prev_value": 468000,
-          "last_points": 12,
-          "id_uc": 12055602,
-          "floor": 15122952,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 560000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "A. Diao",
-          "bg": 4,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55754.png?version=20230928180731",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231004"
         }
       }
     },
@@ -70772,7 +70772,7 @@
           "floor": 1225000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11486070369,
+          "id_market": 11489090133,
           "price": 1302800,
           "public": 1,
           "bid": null,
@@ -70888,7 +70888,7 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11486070352,
+          "id_market": 11489090098,
           "price": 604280,
           "public": 1,
           "bid": null,
