@@ -2261,9 +2261,9 @@
         "floor": 10140280,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11493878496,
-        "price": 15101866,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -2273,12 +2273,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 1,
-          "input": 15101866
+          "active": 0,
+          "input": 10133000
         },
         "offer": {
           "active": 0,
-          "input": 15101866
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -3311,8 +3311,8 @@
     "id": "12069044",
     "name": "Cuzz ( FC Cuzzyroos 🦘)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/63a21583e5a0f.png",
-    "played": "12 jug.",
-    "money": "80.496.000",
+    "played": "11 jug.",
+    "money": "68.722.000",
     "points": 431,
     "lineup": {
       "positions": {
@@ -3969,64 +3969,6 @@
         "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20230616092913",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231005"
-      },
-      {
-        "id": 40166,
-        "name": "Aurélien Tchouaméni",
-        "position": 3,
-        "id_team": 15,
-        "points": 52,
-        "avg": 6.5,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1654950452,
-        "streak": [
-          {
-            "points": 6,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 14,
-            "color": 4
-          }
-        ],
-        "streak_sum": 24,
-        "value": 11774000,
-        "prev_value": 11699000,
-        "last_points": 14,
-        "id_uc": 12069044,
-        "floor": 22246418,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 11774000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Tchouaméni",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20220611142732",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231005"
       },
       {
         "id": 7024,
@@ -8070,8 +8012,8 @@
     "id": "12054406",
     "name": "Carlod ( pachukas f.c )",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c2bf3c52256.png",
-    "played": "16 jug.",
-    "money": "91.917.000",
+    "played": "15 jug.",
+    "money": "84.442.000",
     "points": 398,
     "lineup": {
       "positions": {
@@ -8437,36 +8379,36 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1689.png?version=20160529154727",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231005"
       },
-      "298": {
-        "id": 298,
-        "name": "Sergi Darder",
+      "40166": {
+        "id": 40166,
+        "name": "Aurélien Tchouaméni",
         "position": 3,
-        "id_team": 408,
-        "points": 45,
-        "avg": 5.6,
+        "id_team": 15,
+        "points": 52,
+        "avg": 6.5,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1691759838,
+        "ts_pic": 1654950452,
         "streak": [
           {
-            "points": 5,
+            "points": 6,
             "color": 3
           },
           {
-            "points": 5,
-            "color": 3
+            "points": 4,
+            "color": 2
           },
           {
-            "points": 7,
-            "color": 3
+            "points": 14,
+            "color": 4
           }
         ],
-        "streak_sum": 17,
-        "value": 13173000,
-        "prev_value": 13128000,
-        "last_points": 7,
+        "streak_sum": 24,
+        "value": 11774000,
+        "prev_value": 11699000,
+        "last_points": 14,
         "id_uc": 12054406,
-        "floor": 22677000,
+        "floor": 33369627,
         "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
@@ -8482,7 +8424,7 @@
         "default": 0,
         "market": {
           "active": 0,
-          "input": 13173000
+          "input": 11774000
         },
         "offer": {
           "active": 0,
@@ -8490,10 +8432,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "S. Darder",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231005"
+        "short": "A. Tchouaméni",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20220611142732",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231005"
       },
       "44": {
         "id": 44,
@@ -8701,7 +8643,7 @@
         "last_points": 1,
         "id_uc": 12054406,
         "floor": 5190000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -8713,7 +8655,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 2541000
@@ -8962,6 +8904,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231005"
       },
       {
+        "id": 40166,
+        "name": "Aurélien Tchouaméni",
+        "position": 3,
+        "id_team": 15,
+        "points": 52,
+        "avg": 6.5,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1654950452,
+        "streak": [
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 14,
+            "color": 4
+          }
+        ],
+        "streak_sum": 24,
+        "value": 11774000,
+        "prev_value": 11699000,
+        "last_points": 14,
+        "id_uc": 12054406,
+        "floor": 33369627,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 11774000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Tchouaméni",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20220611142732",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231005"
+      },
+      {
         "id": 11091,
         "name": "Brais Méndez",
         "position": 3,
@@ -8991,7 +8991,7 @@
         "last_points": 5,
         "id_uc": 12054406,
         "floor": 14625000,
-        "multiplier": 3,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -9003,7 +9003,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 14625000
@@ -9078,64 +9078,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231005"
       },
       {
-        "id": 6040,
-        "name": "Nemanja Maksimović",
-        "position": 3,
-        "id_team": 9,
-        "points": 43,
-        "avg": 5.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1496015741,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 14,
-        "value": 6076000,
-        "prev_value": 5997000,
-        "last_points": 7,
-        "id_uc": 12054406,
-        "floor": 7800000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 6076000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "N. Maksimović",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6040.png?version=20170529015541",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231005"
-      },
-      {
         "id": 46,
         "name": "Saúl Ñíguez",
         "position": 3,
@@ -9165,7 +9107,7 @@
         "last_points": 8,
         "id_uc": 12054406,
         "floor": 6674000,
-        "multiplier": 3.5,
+        "multiplier": 4,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -9192,64 +9134,6 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/46.png?version=20150723163905",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231005"
-      },
-      {
-        "id": 298,
-        "name": "Sergi Darder",
-        "position": 3,
-        "id_team": 408,
-        "points": 45,
-        "avg": 5.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1691759838,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 17,
-        "value": 13173000,
-        "prev_value": 13128000,
-        "last_points": 7,
-        "id_uc": 12054406,
-        "floor": 22677000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 13173000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "S. Darder",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231005"
       },
       {
         "id": 607,
@@ -9281,7 +9165,7 @@
         "last_points": 4,
         "id_uc": 12054406,
         "floor": 13452000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -9293,7 +9177,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 7849000
@@ -9638,7 +9522,7 @@
     "name": "Jum (Usera Spurs)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305d51a41d7c.png",
     "played": "19 jug.",
-    "money": "118.566.000",
+    "money": "120.914.000",
     "points": 397,
     "lineup": {
       "positions": {
@@ -16137,8 +16021,8 @@
     "id": "12054815",
     "name": "Stefano (Castolo FC)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305dac61c4c6.png",
-    "played": "14 jug.",
-    "money": "101.820.000",
+    "played": "15 jug.",
+    "money": "112.645.000",
     "points": 386,
     "lineup": {
       "positions": {
@@ -16561,6 +16445,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/13697.png?version=20180712180140",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231005"
+      },
+      "298": {
+        "id": 298,
+        "name": "Sergi Darder",
+        "position": 3,
+        "id_team": 408,
+        "points": 45,
+        "avg": 5.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1691759838,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 17,
+        "value": 13173000,
+        "prev_value": 13128000,
+        "last_points": 7,
+        "id_uc": 12054815,
+        "floor": 34015500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 13173000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Darder",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231005"
       },
       "12916": {
         "id": 12916,
@@ -17201,6 +17143,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27518.png?version=20210621082039",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231005"
+      },
+      {
+        "id": 298,
+        "name": "Sergi Darder",
+        "position": 3,
+        "id_team": 408,
+        "points": 45,
+        "avg": 5.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1691759838,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 17,
+        "value": 13173000,
+        "prev_value": 13128000,
+        "last_points": 7,
+        "id_uc": 12054815,
+        "floor": 34015500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 13173000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Darder",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231005"
       },
       {
         "id": 12916,
@@ -24842,8 +24842,8 @@
     "id": "12054509",
     "name": "Peter Crouch FanClub",
     "img": "",
-    "played": "15 jug.",
-    "money": "73.061.000",
+    "played": "16 jug.",
+    "money": "79.137.000",
     "points": 301,
     "lineup": {
       "positions": {
@@ -25382,6 +25382,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20220601085526",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231005"
+      },
+      "6040": {
+        "id": 6040,
+        "name": "Nemanja Maksimović",
+        "position": 3,
+        "id_team": 9,
+        "points": 43,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1496015741,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 14,
+        "value": 6076000,
+        "prev_value": 5997000,
+        "last_points": 7,
+        "id_uc": 12054509,
+        "floor": 11700000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 6076000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "N. Maksimović",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6040.png?version=20170529015541",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231005"
       },
       "55523": {
         "id": 55523,
@@ -25964,6 +26022,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20220601085526",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231005"
+      },
+      {
+        "id": 6040,
+        "name": "Nemanja Maksimović",
+        "position": 3,
+        "id_team": 9,
+        "points": 43,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1496015741,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 14,
+        "value": 6076000,
+        "prev_value": 5997000,
+        "last_points": 7,
+        "id_uc": 12054509,
+        "floor": 11700000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 6076000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "N. Maksimović",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6040.png?version=20170529015541",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231005"
       },
       {
         "id": 270,
