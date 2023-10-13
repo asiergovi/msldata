@@ -72812,6 +72812,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/74.png?version=20150723163905",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231013"
         },
+        "15344": {
+          "id": 15344,
+          "name": "Brahim Díaz",
+          "position": 3,
+          "id_team": 15,
+          "points": 31,
+          "avg": 4.4,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1686904011,
+          "streak": [
+            {
+              "points": 10,
+              "color": 4
+            },
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 3,
+              "color": 2
+            }
+          ],
+          "streak_sum": 16,
+          "value": 5085000,
+          "prev_value": 5094000,
+          "last_points": 3,
+          "id_uc": 12067022,
+          "floor": 5967675,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 5085000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "B. Díaz",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15344.png?version=20230616102651",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231013"
+        },
         "96": {
           "id": 96,
           "name": "Dani Ceballos",
@@ -75244,9 +75302,9 @@
           "floor": 973000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11531901850,
+          "price": 1500000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -75256,12 +75314,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 973000
+            "active": 1,
+            "input": 1500000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1500000
           },
           "barter": [],
           "popup": "bid",
@@ -75302,9 +75360,9 @@
           "floor": 8268000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11531901893,
+          "price": 9250000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -75314,12 +75372,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 8181000
+            "active": 1,
+            "input": 9250000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 9250000
           },
           "barter": [],
           "popup": "bid",
