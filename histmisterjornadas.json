@@ -73225,7 +73225,7 @@
           "id_team": 21,
           "points": 19,
           "avg": 2.4,
-          "status": null,
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1692197608,
           "streak": [
@@ -73502,7 +73502,7 @@
           "floor": 6012010,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11535098053,
+          "id_market": 11536798384,
           "price": 13998797,
           "public": 1,
           "bid": null,
@@ -74274,7 +74274,7 @@
           "last_points": 4,
           "id_uc": 12067027,
           "floor": 7602000,
-          "multiplier": 1.5,
+          "multiplier": 2,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -74286,7 +74286,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 0,
+          "default": 1,
           "market": {
             "active": 0,
             "input": 7445000
@@ -74392,7 +74392,7 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11535115272,
+          "id_market": 11536784999,
           "price": 160000,
           "public": 1,
           "bid": null,
@@ -74954,7 +74954,7 @@
           "floor": 1536000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11532101671,
+          "id_market": 11536776268,
           "price": 2000000,
           "public": 1,
           "bid": null,
@@ -75012,7 +75012,7 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11532101718,
+          "id_market": 11536776290,
           "price": 900000,
           "public": 1,
           "bid": null,
@@ -75302,7 +75302,7 @@
           "floor": 1015000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11532101658,
+          "id_market": 11536776245,
           "price": 1500000,
           "public": 1,
           "bid": null,
@@ -75418,7 +75418,7 @@
           "floor": 15087580,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11532101664,
+          "id_market": 11536776260,
           "price": 15000000,
           "public": 1,
           "bid": null,
@@ -76973,64 +76973,6 @@
           "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/345.png?version=20150723163906",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231014"
-        },
-        "5653": {
-          "id": 5653,
-          "name": "Toni Lato",
-          "position": 2,
-          "id_team": 408,
-          "points": 26,
-          "avg": 4.3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1484046160,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 4,
-              "color": 2
-            },
-            {
-              "points": 5,
-              "color": 3
-            }
-          ],
-          "streak_sum": 9,
-          "value": 2340000,
-          "prev_value": 2283000,
-          "last_points": 5,
-          "id_uc": 12054406,
-          "floor": 2417000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 2340000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "T. Lato",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20170110120240",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231014"
         },
         "27517": {
           "id": 27517,
@@ -79258,6 +79200,64 @@
         "count": 11
       },
       "bench": {
+        "5653": {
+          "id": 5653,
+          "name": "Toni Lato",
+          "position": 2,
+          "id_team": 408,
+          "points": 26,
+          "avg": 4.3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1484046160,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 9,
+          "value": 2340000,
+          "prev_value": 2283000,
+          "last_points": 5,
+          "id_uc": 12054571,
+          "floor": 3625500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 2340000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "T. Lato",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20170110120240",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231014"
+        },
         "54817": {
           "id": 54817,
           "name": "Arda Güler",
@@ -79612,7 +79612,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 21,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1692197608,
               "played": 1,
               "short": "I. Koné",
