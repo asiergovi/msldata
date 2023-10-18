@@ -261,7 +261,7 @@
         "id_team": 3,
         "points": 20,
         "avg": 5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -959,7 +959,7 @@
         "id_team": 3,
         "points": 20,
         "avg": 5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -5153,7 +5153,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 20,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1690356634,
             "played": 1,
             "short": "A. Sørloth",
@@ -6178,7 +6178,7 @@
         "id_team": 20,
         "points": 45,
         "avg": 5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1690356634,
         "streak": [
@@ -12804,7 +12804,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 20,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1437662346,
             "played": 1,
             "short": "G. Moreno",
@@ -14277,7 +14277,7 @@
         "id_team": 20,
         "points": 52,
         "avg": 7.4,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -22865,9 +22865,9 @@
         "floor": 29333925,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11554658315,
+        "price": 63141155,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -22877,12 +22877,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 15245000
+          "active": 1,
+          "input": 63141155
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 63141155
         },
         "barter": [],
         "popup": "bid",
