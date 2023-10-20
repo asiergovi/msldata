@@ -72819,7 +72819,7 @@
           "id_team": 15,
           "points": 11,
           "avg": 3.7,
-          "status": null,
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1437662345,
           "streak": [
@@ -74780,9 +74780,9 @@
           "floor": 5550000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11563501084,
+          "price": 5550000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -74792,12 +74792,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 5550000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 5550000
           },
           "barter": [],
           "popup": "bid",
