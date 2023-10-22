@@ -15,9 +15,24 @@
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231022"
   },
   {
+    "id": 222,
+    "name": "Girona",
+    "pos": 2,
+    "points": 23,
+    "played": 10,
+    "won": 7,
+    "draw": 2,
+    "lost": 1,
+    "goals_for": 21,
+    "goals_against": 13,
+    "diff": 8,
+    "zone": "CL",
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231022"
+  },
+  {
     "id": 2,
     "name": "Atlético",
-    "pos": 2,
+    "pos": 3,
     "points": 22,
     "played": 9,
     "won": 7,
@@ -28,21 +43,6 @@
     "diff": 15,
     "zone": "CL",
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231022"
-  },
-  {
-    "id": 222,
-    "name": "Girona",
-    "pos": 3,
-    "points": 22,
-    "played": 9,
-    "won": 7,
-    "draw": 1,
-    "lost": 1,
-    "goals_for": 19,
-    "goals_against": 11,
-    "diff": 8,
-    "zone": "CL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231022"
   },
   {
     "id": 3,
@@ -90,9 +90,24 @@
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231022"
   },
   {
+    "id": 14,
+    "name": "Rayo Vallecano",
+    "pos": 7,
+    "points": 16,
+    "played": 10,
+    "won": 4,
+    "draw": 4,
+    "lost": 2,
+    "goals_for": 12,
+    "goals_against": 13,
+    "diff": -1,
+    "zone": null,
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231022"
+  },
+  {
     "id": 4,
     "name": "Betis",
-    "pos": 7,
+    "pos": 8,
     "points": 14,
     "played": 10,
     "won": 3,
@@ -103,21 +118,6 @@
     "diff": -2,
     "zone": null,
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231022"
-  },
-  {
-    "id": 14,
-    "name": "Rayo Vallecano",
-    "pos": 8,
-    "points": 14,
-    "played": 10,
-    "won": 3,
-    "draw": 5,
-    "lost": 2,
-    "goals_for": 11,
-    "goals_against": 13,
-    "diff": -2,
-    "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231022"
   },
   {
     "id": 50,
@@ -135,24 +135,9 @@
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231022"
   },
   {
-    "id": 11,
-    "name": "Las Palmas",
-    "pos": 10,
-    "points": 12,
-    "played": 10,
-    "won": 3,
-    "draw": 3,
-    "lost": 4,
-    "goals_for": 6,
-    "goals_against": 8,
-    "diff": -2,
-    "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231022"
-  },
-  {
     "id": 19,
     "name": "Valencia",
-    "pos": 11,
+    "pos": 10,
     "points": 11,
     "played": 9,
     "won": 3,
@@ -167,7 +152,7 @@
   {
     "id": 9,
     "name": "Getafe",
-    "pos": 12,
+    "pos": 11,
     "points": 11,
     "played": 10,
     "won": 2,
@@ -178,6 +163,21 @@
     "diff": -3,
     "zone": null,
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231022"
+  },
+  {
+    "id": 11,
+    "name": "Las Palmas",
+    "pos": 12,
+    "points": 11,
+    "played": 10,
+    "won": 3,
+    "draw": 2,
+    "lost": 5,
+    "goals_for": 6,
+    "goals_against": 9,
+    "diff": -3,
+    "zone": null,
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231022"
   },
   {
     "id": 17,
@@ -288,13 +288,13 @@
     "id": 21,
     "name": "Almería",
     "pos": 20,
-    "points": 3,
-    "played": 9,
+    "points": 4,
+    "played": 10,
     "won": 0,
-    "draw": 3,
+    "draw": 4,
     "lost": 6,
-    "goals_for": 11,
-    "goals_against": 24,
+    "goals_for": 13,
+    "goals_against": 26,
     "diff": -13,
     "zone": "releg",
     "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231022"
