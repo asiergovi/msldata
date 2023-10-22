@@ -377,7 +377,7 @@
         "id_team": 11,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1686899776,
         "streak": [
@@ -959,7 +959,7 @@
         "id_team": 11,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1686899776,
         "streak": [
@@ -2003,7 +2003,7 @@
         "last_points": "?",
         "id_uc": 12054777,
         "floor": 3130786,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2015,7 +2015,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1529000
@@ -2118,8 +2118,8 @@
         "prev_value": 1061000,
         "last_points": "?",
         "id_uc": 12054777,
-        "floor": 1090530,
-        "multiplier": 1.5,
+        "floor": 2453692,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2131,7 +2131,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1060000
@@ -2154,7 +2154,7 @@
         "id_team": 3,
         "points": 55,
         "avg": 6.1,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1695105022,
         "streak": [
@@ -2527,7 +2527,7 @@
         "last_points": "?",
         "id_uc": 12054777,
         "floor": 3130786,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2539,7 +2539,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1529000
@@ -2816,8 +2816,8 @@
         "prev_value": 1061000,
         "last_points": "?",
         "id_uc": 12054777,
-        "floor": 1090530,
-        "multiplier": 1.5,
+        "floor": 2453692,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2829,7 +2829,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1060000
@@ -3026,7 +3026,7 @@
         "id_team": 3,
         "points": 55,
         "avg": 6.1,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1695105022,
         "streak": [
@@ -6673,7 +6673,7 @@
         "id_team": 11,
         "points": 22,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -7777,7 +7777,7 @@
         "id_team": 11,
         "points": 22,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -9589,7 +9589,7 @@
         "id_team": 3,
         "points": 37,
         "avg": 4.6,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1627019947,
         "streak": [
@@ -10113,7 +10113,7 @@
         "id_team": 3,
         "points": 37,
         "avg": 4.6,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1627019947,
         "streak": [
@@ -11329,7 +11329,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 11,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1688548080,
             "played": 0,
             "short": "J. Araujo",
@@ -11832,7 +11832,7 @@
         "id_team": 11,
         "points": 35,
         "avg": 5,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1688548080,
         "streak": [
@@ -13937,7 +13937,7 @@
             "slot": 9,
             "position": 3,
             "id_team": 11,
-            "status": null,
+            "status": "other",
             "ts_pic": 1686899907,
             "played": 0,
             "short": "J. Viera",
@@ -15154,7 +15154,7 @@
         "id_team": 11,
         "points": 64,
         "avg": 7.1,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1686899907,
         "streak": [
@@ -15179,9 +15179,9 @@
         "floor": 20621250,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11572203795,
+        "price": 14483000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -15191,12 +15191,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 12483000
+          "active": 1,
+          "input": 14483000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 14483000
         },
         "barter": [],
         "popup": "bid",
@@ -16117,7 +16117,7 @@
         "id_team": 11,
         "points": 4,
         "avg": 4,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1686900444,
         "streak": [
@@ -16583,7 +16583,7 @@
         "id_team": 11,
         "points": 4,
         "avg": 4,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1686900444,
         "streak": [
@@ -19464,9 +19464,9 @@
         "floor": 3375000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11572209104,
+        "price": 1076000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -19476,12 +19476,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1076000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1076000
         },
         "barter": [],
         "popup": "bid",
@@ -20278,9 +20278,9 @@
         "floor": 3375000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11572209104,
+        "price": 1076000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -20290,12 +20290,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1076000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1076000
         },
         "barter": [],
         "popup": "bid",
