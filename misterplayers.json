@@ -3,8 +3,8 @@
     "id": "12067022",
     "name": "Palancas F.C.",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6306345fa2044.png",
-    "played": "14 jug.",
-    "money": "114.489.000",
+    "played": "15 jug.",
+    "money": "115.998.000",
     "points": 612,
     "lineup": {
       "positions": {
@@ -171,7 +171,7 @@
             "played": 1,
             "short": "A. Dovbyk",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55058.png?version=20230806174505",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231024"
           },
@@ -196,6 +196,64 @@
       "count": 11
     },
     "bench": {
+      "23184": {
+        "id": 23184,
+        "name": "Jorge Cuenca",
+        "position": 2,
+        "id_team": 20,
+        "points": 37,
+        "avg": 6.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1600768798,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 8,
+        "value": 1509000,
+        "prev_value": 1458000,
+        "last_points": 8,
+        "id_uc": 12067022,
+        "floor": 2726790,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1509000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Cuenca",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231024"
+      },
       "28784": {
         "id": 28784,
         "name": "José Ángel Carmona",
@@ -229,7 +287,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11578175336,
-        "price": 1500000,
+        "price": 2320000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -241,11 +299,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 1500000
+          "input": 2320000
         },
         "offer": {
           "active": 0,
-          "input": 1500000
+          "input": 2320000
         },
         "barter": [],
         "popup": "bid",
@@ -319,7 +377,7 @@
         "id_team": 15,
         "points": 11,
         "avg": 3.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -344,9 +402,9 @@
         "floor": 1282020,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11579614584,
+        "price": 1153000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -356,12 +414,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1153000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1153000
         },
         "barter": [],
         "popup": "bid",
@@ -377,7 +435,7 @@
         "id_team": 3,
         "points": 22,
         "avg": 11,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1686129260,
         "streak": [
@@ -605,6 +663,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231024"
       },
       {
+        "id": 23184,
+        "name": "Jorge Cuenca",
+        "position": 2,
+        "id_team": 20,
+        "points": 37,
+        "avg": 6.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1600768798,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 8,
+        "value": 1509000,
+        "prev_value": 1458000,
+        "last_points": 8,
+        "id_uc": 12067022,
+        "floor": 2726790,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1509000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Cuenca",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231024"
+      },
+      {
         "id": 28784,
         "name": "José Ángel Carmona",
         "position": 2,
@@ -637,7 +753,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11578175336,
-        "price": 1500000,
+        "price": 2320000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -649,11 +765,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 1500000
+          "input": 2320000
         },
         "offer": {
           "active": 0,
-          "input": 1500000
+          "input": 2320000
         },
         "barter": [],
         "popup": "bid",
@@ -694,7 +810,7 @@
         "floor": 9886365,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11578096903,
+        "id_market": 11579614407,
         "price": 8803000,
         "public": 1,
         "bid": null,
@@ -901,7 +1017,7 @@
         "id_team": 15,
         "points": 11,
         "avg": 3.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -926,9 +1042,9 @@
         "floor": 1282020,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11579614584,
+        "price": 1153000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -938,12 +1054,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1153000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1153000
         },
         "barter": [],
         "popup": "bid",
@@ -959,7 +1075,7 @@
         "id_team": 3,
         "points": 22,
         "avg": 11,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1686129260,
         "streak": [
@@ -1156,7 +1272,7 @@
         "last_points": 16,
         "id_uc": 12067022,
         "floor": 8649000,
-        "multiplier": 3,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1168,7 +1284,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 8649000
@@ -1338,7 +1454,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 62,
         "rank": 3,
         "negative": 0,
@@ -1424,7 +1540,7 @@
         "width": 62,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -1484,7 +1600,7 @@
             "played": 1,
             "short": "S. Ramos",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/334.png?version=20230904173832",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231024"
           },
@@ -1600,7 +1716,7 @@
             "played": 1,
             "short": "A. Griezmann",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/51.png?version=20150723163905",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231024"
           },
@@ -3057,7 +3173,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 82,
         "rank": 1,
         "negative": 0,
@@ -3143,7 +3259,7 @@
         "width": 82,
         "short": "J10",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -3269,7 +3385,7 @@
             "played": 1,
             "short": "B. Méndez",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11091.png?version=20170922005208",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231024"
           },
@@ -4544,7 +4660,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 70,
         "rank": 2,
         "negative": 0,
@@ -4630,7 +4746,7 @@
         "width": 70,
         "short": "J10",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -4722,7 +4838,7 @@
             "played": 1,
             "short": "D. Carvajal",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/328.png?version=20150723163906",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231024"
           }
@@ -5683,7 +5799,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 47,
         "rank": 10,
         "negative": 0,
@@ -5769,7 +5885,7 @@
         "width": 47,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -5795,7 +5911,7 @@
             "played": 1,
             "short": "A. Remiro",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6032.png?version=20170529015532",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231024"
           }
@@ -5895,7 +6011,7 @@
             "played": 1,
             "short": "I. Martín",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27874.png?version=20210701092441",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231024"
           },
@@ -6325,7 +6441,7 @@
         "id_team": 499,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661759688,
         "streak": [
@@ -6441,7 +6557,7 @@
         "id_team": 222,
         "points": 40,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693899120,
         "streak": [
@@ -6499,7 +6615,7 @@
         "id_team": 2,
         "points": 17,
         "avg": 4.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1676920773,
         "streak": [
@@ -6557,7 +6673,7 @@
         "id_team": 11,
         "points": 22,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -7139,7 +7255,7 @@
         "id_team": 499,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661759688,
         "streak": [
@@ -7429,7 +7545,7 @@
         "id_team": 222,
         "points": 40,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693899120,
         "streak": [
@@ -7487,7 +7603,7 @@
         "id_team": 2,
         "points": 17,
         "avg": 4.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1676920773,
         "streak": [
@@ -7603,7 +7719,7 @@
         "id_team": 11,
         "points": 22,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -7808,7 +7924,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 56,
         "rank": 6,
         "negative": 0,
@@ -7894,7 +8010,7 @@
         "width": 56,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -7949,7 +8065,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 48,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1592738441,
             "played": 0,
             "short": "J. López",
@@ -8160,7 +8276,7 @@
         "id_team": 4,
         "points": 33,
         "avg": 4.7,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1438944393,
         "streak": [
@@ -8336,7 +8452,7 @@
         "id_team": 48,
         "points": 21,
         "avg": 3.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1592738441,
         "streak": [
@@ -8916,7 +9032,7 @@
         "id_team": 4,
         "points": 33,
         "avg": 4.7,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1438944393,
         "streak": [
@@ -9063,7 +9179,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 38,
         "rank": 14,
         "negative": 0,
@@ -9149,7 +9265,7 @@
         "width": 38,
         "short": "J10",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -9302,7 +9418,7 @@
             "slot": 9,
             "position": 3,
             "id_team": 11,
-            "status": "other",
+            "status": null,
             "ts_pic": 1686899907,
             "played": 0,
             "short": "J. Viera",
@@ -10577,7 +10693,7 @@
         "id_team": 11,
         "points": 64,
         "avg": 7.1,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1686899907,
         "streak": [
@@ -11130,7 +11246,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 57,
         "rank": 5,
         "negative": 0,
@@ -11216,7 +11332,7 @@
         "width": 57,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -11540,7 +11656,7 @@
         "id_team": 10,
         "points": 38,
         "avg": 3.8,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1442794243,
         "streak": [
@@ -12180,7 +12296,7 @@
         "id_team": 10,
         "points": 38,
         "avg": 3.8,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1442794243,
         "streak": [
@@ -12501,9 +12617,9 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 45,
-        "rank": 11,
+        "rank": 12,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -12587,7 +12703,7 @@
         "width": 45,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -12626,7 +12742,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 20,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1601803815,
             "played": 0,
             "short": "J. Foyth",
@@ -12911,7 +13027,7 @@
         "id_team": 4,
         "points": 13,
         "avg": 4.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1624457978,
         "streak": [
@@ -12969,7 +13085,7 @@
         "id_team": 4,
         "points": 39,
         "avg": 4.3,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1579029061,
         "streak": [
@@ -13609,7 +13725,7 @@
         "id_team": 20,
         "points": 51,
         "avg": 5.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1601803815,
         "streak": [
@@ -13667,7 +13783,7 @@
         "id_team": 4,
         "points": 13,
         "avg": 4.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1624457978,
         "streak": [
@@ -13783,7 +13899,7 @@
         "id_team": 4,
         "points": 39,
         "avg": 4.3,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1579029061,
         "streak": [
@@ -14568,7 +14684,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 55,
         "rank": 7,
         "negative": 0,
@@ -14654,7 +14770,7 @@
         "width": 55,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -15823,7 +15939,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 41,
         "rank": 13,
         "negative": 0,
@@ -15909,7 +16025,7 @@
         "width": 41,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -16003,7 +16119,7 @@
             "played": 1,
             "short": "A. García",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/464.png?version=20150723163906",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231024"
           },
@@ -16117,7 +16233,7 @@
         "id_team": 222,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1655718305,
         "streak": [
@@ -16175,7 +16291,7 @@
         "id_team": 11,
         "points": 4,
         "avg": 4,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1686900444,
         "streak": [
@@ -16291,7 +16407,7 @@
         "id_team": 20,
         "points": 46,
         "avg": 5.8,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1594669569,
         "streak": [
@@ -16409,7 +16525,7 @@
         "id_team": 222,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1655718305,
         "streak": [
@@ -16699,7 +16815,7 @@
         "id_team": 11,
         "points": 4,
         "avg": 4,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1686900444,
         "streak": [
@@ -16873,7 +16989,7 @@
         "id_team": 20,
         "points": 46,
         "avg": 5.8,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1594669569,
         "streak": [
@@ -17368,7 +17484,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 50,
         "rank": 8,
         "negative": 0,
@@ -17454,7 +17570,7 @@
         "width": 50,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -17493,7 +17609,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 2,
-            "status": "other",
+            "status": null,
             "ts_pic": 1437662345,
             "played": 0,
             "short": "S. Savić",
@@ -17646,7 +17762,7 @@
             "played": 1,
             "short": "A. Budimir",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18004.png?version=20190628204759",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231024"
           }
@@ -17836,7 +17952,7 @@
         "id_team": 5,
         "points": 8,
         "avg": 2.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1558352816,
         "streak": [
@@ -17952,7 +18068,7 @@
         "id_team": 20,
         "points": 27,
         "avg": 4.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1603649353,
         "streak": [
@@ -18360,7 +18476,7 @@
         "id_team": 2,
         "points": 24,
         "avg": 4,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -18476,7 +18592,7 @@
         "id_team": 5,
         "points": 8,
         "avg": 2.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1558352816,
         "streak": [
@@ -18882,7 +18998,7 @@
         "id_team": 20,
         "points": 27,
         "avg": 4.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1603649353,
         "streak": [
@@ -19029,7 +19145,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 58,
         "rank": 4,
         "negative": 0,
@@ -19115,7 +19231,7 @@
         "width": 58,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -19323,7 +19439,7 @@
         "id_team": 19,
         "points": 33,
         "avg": 4.1,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661502812,
         "streak": [
@@ -19381,7 +19497,7 @@
         "id_team": 15,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1688667928,
         "streak": [
@@ -19555,7 +19671,7 @@
         "id_team": 16,
         "points": 5,
         "avg": 2.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1690982955,
         "streak": [
@@ -19905,7 +20021,7 @@
         "id_team": 19,
         "points": 33,
         "avg": 4.1,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661502812,
         "streak": [
@@ -19963,7 +20079,7 @@
         "id_team": 15,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1688667928,
         "streak": [
@@ -20369,7 +20485,7 @@
         "id_team": 16,
         "points": 5,
         "avg": 2.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1690982955,
         "streak": [
@@ -20632,7 +20748,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 50,
         "rank": 9,
         "negative": 0,
@@ -20718,7 +20834,7 @@
         "width": 50,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -20773,7 +20889,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 21,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1528736886,
             "played": 0,
             "short": "S. Akieme",
@@ -20871,7 +20987,7 @@
             "slot": 9,
             "position": 3,
             "id_team": 1,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1471956529,
             "played": 0,
             "short": "M. Vesga",
@@ -21042,7 +21158,7 @@
         "id_team": 19,
         "points": 7,
         "avg": 3.5,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1652645015,
         "streak": [
@@ -21392,7 +21508,7 @@
         "id_team": 21,
         "points": 36,
         "avg": 4.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1528736886,
         "streak": [
@@ -21682,7 +21798,7 @@
         "id_team": 19,
         "points": 7,
         "avg": 3.5,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1652645015,
         "streak": [
@@ -21740,7 +21856,7 @@
         "id_team": 1,
         "points": 39,
         "avg": 5.6,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1471956529,
         "streak": [
@@ -22119,9 +22235,9 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 45,
-        "rank": 12,
+        "rank": 11,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -22205,7 +22321,7 @@
         "width": 45,
         "short": "J10",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -22213,8 +22329,8 @@
     "id": "12055602",
     "name": "Se Birla F.C",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c254d05c2ae.png",
-    "played": "12 jug.",
-    "money": "73.075.000",
+    "played": "11 jug.",
+    "money": "71.566.000",
     "points": 401,
     "lineup": {
       "positions": {
@@ -22406,64 +22522,6 @@
       "count": 11
     },
     "bench": {
-      "23184": {
-        "id": 23184,
-        "name": "Jorge Cuenca",
-        "position": 2,
-        "id_team": 20,
-        "points": 37,
-        "avg": 6.2,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1600768798,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 8,
-            "color": 3
-          }
-        ],
-        "streak_sum": 8,
-        "value": 1509000,
-        "prev_value": 1458000,
-        "last_points": 8,
-        "id_uc": 12055602,
-        "floor": 1817860,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1509000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Cuenca",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231024"
-      },
       "27874": {
         "id": 27874,
         "name": "Iván Martín",
@@ -22587,7 +22645,7 @@
         "id_team": 3,
         "points": 62,
         "avg": 7.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1657987737,
         "streak": [
@@ -22813,64 +22871,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20210602195846",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231024"
-      },
-      {
-        "id": 23184,
-        "name": "Jorge Cuenca",
-        "position": 2,
-        "id_team": 20,
-        "points": 37,
-        "avg": 6.2,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1600768798,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 8,
-            "color": 3
-          }
-        ],
-        "streak_sum": 8,
-        "value": 1509000,
-        "prev_value": 1458000,
-        "last_points": 8,
-        "id_uc": 12055602,
-        "floor": 1817860,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1509000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Cuenca",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231024"
       },
       {
         "id": 17450,
@@ -23285,7 +23285,7 @@
         "id_team": 3,
         "points": 62,
         "avg": 7.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1657987737,
         "streak": [
@@ -23432,7 +23432,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 37,
         "rank": 15,
         "negative": 0,
@@ -23518,7 +23518,7 @@
         "width": 37,
         "short": "J10",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -24850,7 +24850,7 @@
         "id_gameweek": 2529,
         "gameweek": 10,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 35,
         "rank": 16,
         "negative": 0,
@@ -24936,7 +24936,7 @@
         "width": 35,
         "short": "J10",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   }
