@@ -81834,64 +81834,6 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231026"
         },
-        "28784": {
-          "id": 28784,
-          "name": "José Ángel Carmona",
-          "position": 2,
-          "id_team": 9,
-          "points": 26,
-          "avg": 4.3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1679394096,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 2,
-              "color": 2
-            },
-            {
-              "points": 6,
-              "color": 3
-            }
-          ],
-          "streak_sum": 8,
-          "value": 1275000,
-          "prev_value": 1238000,
-          "last_points": 6,
-          "id_uc": 12067022,
-          "floor": 2320815,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1275000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "J. Ángel Carmona",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28784.png?version=20230321112136",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231026"
-        },
         "53098": {
           "id": 53098,
           "name": "Alberto Moleiro",
@@ -81982,9 +81924,9 @@
           "floor": 1282020,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11590055106,
+          "price": 1064000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -81994,12 +81936,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1064000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1064000
           },
           "barter": [],
           "popup": "bid",
@@ -83479,64 +83421,6 @@
           "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/192.png?version=20230902010651",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231026"
-        },
-        "36332": {
-          "id": 36332,
-          "name": "Giovanni González",
-          "position": 2,
-          "id_team": 408,
-          "points": 21,
-          "avg": 2.6,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1643471184,
-          "streak": [
-            {
-              "points": 0,
-              "color": 0
-            },
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 3,
-              "color": 2
-            }
-          ],
-          "streak_sum": 8,
-          "value": 1452000,
-          "prev_value": 1419000,
-          "last_points": 3,
-          "id_uc": 12054468,
-          "floor": 1536000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": 11585476365,
-          "price": 2000000,
-          "public": 1,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 1,
-            "input": 2000000
-          },
-          "offer": {
-            "active": 0,
-            "input": 2000000
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "G. González",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36332.png?version=20220129164624",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231026"
         },
         "40164": {
           "id": 40164,
@@ -88958,6 +88842,64 @@
         "count": 11
       },
       "bench": {
+        "36332": {
+          "id": 36332,
+          "name": "Giovanni González",
+          "position": 2,
+          "id_team": 408,
+          "points": 21,
+          "avg": 2.6,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1643471184,
+          "streak": [
+            {
+              "points": 0,
+              "color": 0
+            },
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 3,
+              "color": 2
+            }
+          ],
+          "streak_sum": 8,
+          "value": 1452000,
+          "prev_value": 1419000,
+          "last_points": 3,
+          "id_uc": 12055602,
+          "floor": 2304000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1452000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "G. González",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36332.png?version=20220129164624",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231026"
+        },
         "27874": {
           "id": 27874,
           "name": "Iván Martín",
