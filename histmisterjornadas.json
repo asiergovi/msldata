@@ -89858,6 +89858,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6053.png?version=20170605133034",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231031"
         },
+        "20131": {
+          "id": 20131,
+          "name": "Manu Sánchez",
+          "position": 2,
+          "id_team": 5,
+          "points": 28,
+          "avg": 3.5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1576349986,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 11,
+          "value": 1254000,
+          "prev_value": 1230000,
+          "last_points": 5,
+          "id_uc": 12067022,
+          "floor": 2023500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1254000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Sánchez",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20131.png?version=20191214195946",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231031"
+        },
         "73": {
           "id": 73,
           "name": "Ivan Rakitić",
@@ -91541,64 +91599,6 @@
           "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20150723163905",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231031"
-        },
-        "20131": {
-          "id": 20131,
-          "name": "Manu Sánchez",
-          "position": 2,
-          "id_team": 5,
-          "points": 28,
-          "avg": 3.5,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1576349986,
-          "streak": [
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 5,
-              "color": 3
-            }
-          ],
-          "streak_sum": 11,
-          "value": 1254000,
-          "prev_value": 1230000,
-          "last_points": 5,
-          "id_uc": 12054468,
-          "floor": 1349000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": 11607288917,
-          "price": 1900000,
-          "public": 1,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 1,
-            "input": 1900000
-          },
-          "offer": {
-            "active": 0,
-            "input": 1900000
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "M. Sánchez",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20131.png?version=20191214195946",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231031"
         },
         "19168": {
           "id": 19168,
@@ -96782,9 +96782,9 @@
           "floor": 901530,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11610145435,
+          "price": 42092252,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -96794,12 +96794,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 183000
+            "active": 1,
+            "input": 42092252
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 42092252
           },
           "barter": [],
           "popup": "bid",
