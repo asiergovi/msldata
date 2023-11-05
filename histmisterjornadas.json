@@ -97600,7 +97600,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1693595639,
-              "played": 0,
+              "played": 1,
               "short": "Pepelu",
               "bg": 0,
               "best_xi": "",
@@ -97616,7 +97616,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1693377127,
-              "played": 0,
+              "played": 1,
               "short": "S. Amallah",
               "bg": 0,
               "best_xi": "",
@@ -98060,7 +98060,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1567517959,
-              "played": 0,
+              "played": 1,
               "short": "T. Correia",
               "bg": 0,
               "best_xi": "",
@@ -98142,7 +98142,7 @@
               "id_team": 10,
               "status": null,
               "ts_pic": 1686899741,
-              "played": 0,
+              "played": 1,
               "short": "B. Zaragoza",
               "bg": 0,
               "best_xi": "",
@@ -98383,8 +98383,8 @@
           "name": "Sergio Arribas",
           "position": 3,
           "id_team": 21,
-          "points": 62,
-          "avg": 5.6,
+          "points": 64,
+          "avg": 5.3,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1691599263,
@@ -98405,7 +98405,7 @@
           "streak_sum": 6,
           "value": 8249000,
           "prev_value": 8414000,
-          "last_points": "?",
+          "last_points": 2,
           "id_uc": 12067022,
           "floor": 8249000,
           "multiplier": 1.5,
@@ -98419,7 +98419,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 1,
@@ -98432,14 +98432,14 @@
           "barter": [],
           "popup": "bid",
           "short": "S. Arribas",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23173.png?version=20230809184103",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
         }
       }
     },
     "12067027": {
-      "points": 17,
+      "points": 20,
       "lineup": {
         "positions": {
           "1": {
@@ -98612,15 +98612,15 @@
             "11": {
               "id": 55041,
               "name": "Samu Omorodion",
-              "points": "?",
+              "points": 3,
               "slot": 11,
               "position": 4,
               "id_team": 48,
               "status": null,
               "ts_pic": 1692952101,
-              "played": 0,
+              "played": 1,
               "short": "S. Omorodion",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55041.png?version=20230825102821",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -98946,7 +98946,7 @@
             "9": {
               "id": 49350,
               "name": "Lázaro Vinicius",
-              "points": "?",
+              "points": "-",
               "slot": 9,
               "position": 3,
               "id_team": 21,
@@ -98997,7 +98997,124 @@
         },
         "count": 11
       },
-      "bench": []
+      "bench": {
+        "3728": {
+          "id": 3728,
+          "name": "Marc Roca",
+          "position": 3,
+          "id_team": 4,
+          "points": 68,
+          "avg": 5.7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1689588298,
+          "streak": [
+            {
+              "points": 11,
+              "color": 4
+            },
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 6,
+              "color": 3
+            }
+          ],
+          "streak_sum": 21,
+          "value": 10324000,
+          "prev_value": 10324000,
+          "last_points": 6,
+          "id_uc": 12069044,
+          "floor": 15486000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 10324000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Roca",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3728.png?version=20230717120458",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231105"
+        },
+        "40095": {
+          "id": 40095,
+          "name": "Samuel Costa",
+          "position": 3,
+          "id_team": 408,
+          "points": 63,
+          "avg": 5.3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1691693887,
+          "streak": [
+            {
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 7,
+              "color": 3
+            }
+          ],
+          "streak_sum": 19,
+          "value": 8269000,
+          "prev_value": 8131000,
+          "last_points": 7,
+          "id_uc": 12069044,
+          "floor": 13223250,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 8269000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "S. Costa",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40095.png?version=20230810205807",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231105"
+        }
+      }
     },
     "12054572": {
       "points": 26,
@@ -99013,7 +99130,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1625124281,
-              "played": 0,
+              "played": 1,
               "short": "G. Mamardashvili",
               "bg": 0,
               "best_xi": "",
@@ -99079,7 +99196,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1693406830,
-              "played": 0,
+              "played": 1,
               "short": "J. Luis Gayà",
               "bg": 0,
               "best_xi": "",
@@ -99145,7 +99262,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1691737146,
-              "played": 0,
+              "played": 1,
               "short": "J. Guerra",
               "bg": 0,
               "best_xi": "",
@@ -99254,8 +99371,8 @@
           "name": "Abdelkabir Abqar",
           "position": 2,
           "id_team": 48,
-          "points": 27,
-          "avg": 3.4,
+          "points": 32,
+          "avg": 3.6,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1687160663,
@@ -99265,18 +99382,18 @@
               "color": 2
             },
             {
-              "points": 4,
+              "points": 2,
               "color": 2
             },
             {
-              "points": 2,
-              "color": 2
+              "points": 5,
+              "color": 3
             }
           ],
-          "streak_sum": 10,
+          "streak_sum": 11,
           "value": 1167000,
           "prev_value": 1164000,
-          "last_points": "?",
+          "last_points": 5,
           "id_uc": 12054572,
           "floor": 1167000,
           "multiplier": 1.5,
@@ -99290,7 +99407,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -99303,7 +99420,7 @@
           "barter": [],
           "popup": "bid",
           "short": "A. Abqar",
-          "bg": 0,
+          "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28621.png?version=20230619094423",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
         },
@@ -99602,16 +99719,12 @@
           "name": "Léo Baptistão",
           "position": 4,
           "id_team": 21,
-          "points": 36,
-          "avg": 4.5,
+          "points": 40,
+          "avg": 4.4,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
             {
               "points": 16,
               "color": 4
@@ -99619,12 +99732,16 @@
             {
               "points": 4,
               "color": 2
+            },
+            {
+              "points": 4,
+              "color": 2
             }
           ],
-          "streak_sum": 20,
+          "streak_sum": 24,
           "value": 1581000,
           "prev_value": 1557000,
-          "last_points": "?",
+          "last_points": 4,
           "id_uc": 12054572,
           "floor": 2773000,
           "multiplier": 2,
@@ -99638,7 +99755,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 1,
           "market": {
             "active": 0,
@@ -99651,14 +99768,14 @@
           "barter": [],
           "popup": "bid",
           "short": "L. Baptistão",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/477.png?version=20150723163906",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
         }
       }
     },
     "12054406": {
-      "points": 24,
+      "points": 36,
       "lineup": {
         "positions": {
           "1": {
@@ -99705,7 +99822,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1503099722,
-              "played": 0,
+              "played": 1,
               "short": "G. Paulista",
               "bg": 0,
               "best_xi": "",
@@ -99781,15 +99898,15 @@
             "8": {
               "id": 322,
               "name": "Adri Embarba",
-              "points": "?",
+              "points": 3,
               "slot": 8,
               "position": 3,
               "id_team": 21,
               "status": null,
               "ts_pic": 1437662346,
-              "played": 0,
+              "played": 1,
               "short": "A. Embarba",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/322.png?version=20150723163906",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
@@ -99797,15 +99914,15 @@
             "9": {
               "id": 16868,
               "name": "Ander Guevara",
-              "points": "?",
+              "points": 9,
               "slot": 9,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1552680587,
-              "played": 0,
+              "played": 1,
               "short": "A. Guevara",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/16868.png?version=20190315210947",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -100258,7 +100375,7 @@
       }
     },
     "12054564": {
-      "points": 41,
+      "points": 46,
       "lineup": {
         "positions": {
           "1": {
@@ -100349,15 +100466,15 @@
             "6": {
               "id": 55518,
               "name": "Ianis Hagi",
-              "points": "?",
+              "points": 5,
               "slot": 6,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1693148088,
-              "played": 0,
+              "played": 1,
               "short": "I. Hagi",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55518.png?version=20230827165448",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -101167,7 +101284,7 @@
       }
     },
     "12054484": {
-      "points": 38,
+      "points": 41,
       "lineup": {
         "positions": {
           "1": {
@@ -101208,15 +101325,15 @@
             "3": {
               "id": 11092,
               "name": "Andoni Gorosabel",
-              "points": "?",
+              "points": 3,
               "slot": 3,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1506034329,
-              "played": 0,
+              "played": 1,
               "short": "A. Gorosabel",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11092.png?version=20170922005209",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -101312,7 +101429,7 @@
               "id_team": 10,
               "status": null,
               "ts_pic": 1442794243,
-              "played": 0,
+              "played": 1,
               "short": "G. Gumbau",
               "bg": 0,
               "best_xi": "",
@@ -101593,22 +101710,22 @@
       }
     },
     "12054815": {
-      "points": 29,
+      "points": 41,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 7893,
               "name": "Antonio Sivera",
-              "points": "?",
+              "points": 6,
               "slot": 1,
               "position": 1,
               "id_team": 48,
               "status": null,
               "ts_pic": 1687160732,
-              "played": 0,
+              "played": 1,
               "short": "A. Sivera",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7893.png?version=20230619094532",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -101634,15 +101751,15 @@
             "3": {
               "id": 20107,
               "name": "Édgar González",
-              "points": "?",
+              "points": 6,
               "slot": 3,
               "position": 2,
               "id_team": 21,
               "status": null,
               "ts_pic": 1574527616,
-              "played": 0,
+              "played": 1,
               "short": "É. González",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20107.png?version=20191123174656",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
@@ -102251,7 +102368,7 @@
       }
     },
     "12054755": {
-      "points": 41,
+      "points": 47,
       "lineup": {
         "positions": {
           "1": {
@@ -102332,7 +102449,7 @@
               "id_team": 10,
               "status": null,
               "ts_pic": 1691189198,
-              "played": 0,
+              "played": 1,
               "short": "G. Villar",
               "bg": 0,
               "best_xi": "",
@@ -102374,15 +102491,15 @@
             "8": {
               "id": 55067,
               "name": "Dion Lopy",
-              "points": "?",
+              "points": 5,
               "slot": 8,
               "position": 3,
               "id_team": 21,
               "status": null,
               "ts_pic": 1691422578,
-              "played": 0,
+              "played": 1,
               "short": "D. Lopy",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55067.png?version=20230807173618",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
@@ -102408,15 +102525,15 @@
             "10": {
               "id": 40090,
               "name": "Largie Ramazani",
-              "points": "?",
+              "points": 1,
               "slot": 10,
               "position": 4,
               "id_team": 21,
               "status": null,
               "ts_pic": 1654066526,
-              "played": 0,
+              "played": 1,
               "short": "L. Ramazani",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40090.png?version=20220601085526",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
@@ -103103,7 +103220,7 @@
       }
     },
     "12054571": {
-      "points": 25,
+      "points": 35,
       "lineup": {
         "positions": {
           "1": {
@@ -103128,15 +103245,15 @@
             "2": {
               "id": 16779,
               "name": "Álex Sola",
-              "points": "?",
+              "points": 4,
               "slot": 2,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1550404827,
-              "played": 0,
+              "played": 1,
               "short": "Á. Sola",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/16779.png?version=20190217130027",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -103178,15 +103295,15 @@
             "5": {
               "id": 18109,
               "name": "Luis Rioja",
-              "points": "?",
+              "points": 6,
               "slot": 5,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1561994202,
-              "played": 0,
+              "played": 1,
               "short": "L. Rioja",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -103248,7 +103365,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1661948568,
-              "played": 0,
+              "played": 1,
               "short": "F. Pérez",
               "bg": 0,
               "best_xi": "",
@@ -103282,7 +103399,7 @@
               "id_team": 19,
               "status": null,
               "ts_pic": 1691737014,
-              "played": 0,
+              "played": 1,
               "short": "D. López",
               "bg": 0,
               "best_xi": "",
@@ -103359,7 +103476,7 @@
           "id_team": 19,
           "points": 33,
           "avg": 4.1,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1661502812,
           "streak": [
@@ -103587,7 +103704,7 @@
       }
     },
     "12055022": {
-      "points": 27,
+      "points": 43,
       "lineup": {
         "positions": {
           "1": {
@@ -103628,15 +103745,15 @@
             "3": {
               "id": 18532,
               "name": "Aleksandar Sedlar",
-              "points": "?",
+              "points": 12,
               "slot": 3,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1687160761,
-              "played": 0,
+              "played": 1,
               "short": "A. Sedlar",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18532.png?version=20230619094601",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -103678,15 +103795,15 @@
             "6": {
               "id": 5916,
               "name": "Jon Guridi",
-              "points": "?",
+              "points": 4,
               "slot": 6,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1491414757,
-              "played": 0,
+              "played": 1,
               "short": "J. Guridi",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5916.png?version=20170405195237",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231105"
@@ -103805,7 +103922,7 @@
           "streak_sum": 0,
           "value": 164000,
           "prev_value": 160000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 12055022,
           "floor": 666666.6666666666,
           "multiplier": null,
@@ -103897,7 +104014,7 @@
       }
     },
     "12054509": {
-      "points": 17,
+      "points": 24,
       "lineup": {
         "positions": {
           "1": {
@@ -104036,15 +104153,15 @@
             "9": {
               "id": 40093,
               "name": "Lucas Robertone",
-              "points": "?",
+              "points": 7,
               "slot": 9,
               "position": 3,
               "id_team": 21,
               "status": null,
               "ts_pic": 1654066526,
-              "played": 0,
+              "played": 1,
               "short": "L. Robertone",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20220601085526",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231105"
@@ -104076,7 +104193,7 @@
               "id_team": 10,
               "status": null,
               "ts_pic": 1693429398,
-              "played": 0,
+              "played": 1,
               "short": "L. Boyé",
               "bg": 0,
               "best_xi": "",
