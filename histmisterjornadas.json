@@ -97778,64 +97778,6 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/334.png?version=20230904173832",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231106"
         },
-        "17572": {
-          "id": 17572,
-          "name": "Javi Muñoz",
-          "position": 3,
-          "id_team": 11,
-          "points": 38,
-          "avg": 3.2,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1687162280,
-          "streak": [
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 7,
-              "color": 3
-            },
-            {
-              "points": 5,
-              "color": 3
-            }
-          ],
-          "streak_sum": 15,
-          "value": 1230000,
-          "prev_value": 1193000,
-          "last_points": 5,
-          "id_uc": 12054777,
-          "floor": 1230000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1230000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "J. Muñoz",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231106"
-        },
         "12941": {
           "id": 12941,
           "name": "Óscar Trejo",
@@ -99454,7 +99396,7 @@
           "last_points": 3,
           "id_uc": 12054572,
           "floor": 1743000,
-          "multiplier": 2,
+          "multiplier": 1.5,
           "shield": 0,
           "id_market": 11632901524,
           "price": 2203000,
@@ -99466,7 +99408,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 1,
+          "default": 0,
           "market": {
             "active": 1,
             "input": 2203000
@@ -100346,9 +100288,9 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11635726548,
+          "price": 6467700,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -100358,12 +100300,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 167000
+            "active": 1,
+            "input": 6467700
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 6467700
           },
           "barter": [],
           "popup": "bid",
@@ -101198,9 +101140,9 @@
           "floor": 28373070,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11635740393,
+          "price": 15043000,
+          "public": 0,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -101210,12 +101152,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 15043000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 15043000
           },
           "barter": [],
           "popup": "bid",
@@ -104670,6 +104612,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28774.png?version=20210718093007",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231106"
         },
+        "3117": {
+          "id": 3117,
+          "name": "Diego Rico",
+          "position": 2,
+          "id_team": 9,
+          "points": 43,
+          "avg": 6.1,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1471522420,
+          "streak": [
+            {
+              "points": 8,
+              "color": 3
+            },
+            {
+              "points": 7,
+              "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
+            }
+          ],
+          "streak_sum": 21,
+          "value": 5885000,
+          "prev_value": 5772000,
+          "last_points": "?",
+          "id_uc": 12054509,
+          "floor": 11770000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 5885000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "D. Rico",
+          "bg": 0,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3117.png?version=20160818141340",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231106"
+        },
         "36321": {
           "id": 36321,
           "name": "Gastón Álvarez",
@@ -104702,9 +104702,9 @@
           "floor": 8000000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11635744516,
+          "price": 8000000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -104714,12 +104714,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 5840000
+            "active": 1,
+            "input": 8000000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 8000000
           },
           "barter": [],
           "popup": "bid",
@@ -104727,6 +104727,122 @@
           "bg": 0,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36321.png?version=20230730094728",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231106"
+        },
+        "17572": {
+          "id": 17572,
+          "name": "Javi Muñoz",
+          "position": 3,
+          "id_team": 11,
+          "points": 38,
+          "avg": 3.2,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1687162280,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 7,
+              "color": 3
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 15,
+          "value": 1230000,
+          "prev_value": 1193000,
+          "last_points": 5,
+          "id_uc": 12054509,
+          "floor": 1845000,
+          "multiplier": 2.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 2,
+          "market": {
+            "active": 0,
+            "input": 1230000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "J. Muñoz",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231106"
+        },
+        "18223": {
+          "id": 18223,
+          "name": "Lucas Ocampos",
+          "position": 4,
+          "id_team": 17,
+          "points": 62,
+          "avg": 6.2,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1676921312,
+          "streak": [
+            {
+              "points": 8,
+              "color": 3
+            },
+            {
+              "points": 12,
+              "color": 4
+            },
+            {
+              "points": 6,
+              "color": 3
+            }
+          ],
+          "streak_sum": 26,
+          "value": 10167000,
+          "prev_value": 10101000,
+          "last_points": 6,
+          "id_uc": 12054509,
+          "floor": 25417500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 10167000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "L. Ocampos",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18223.png?version=20230220202832",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231106"
         }
       }
     },
