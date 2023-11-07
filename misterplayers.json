@@ -1474,7 +1474,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 59,
         "rank": 4,
         "negative": 0,
@@ -1576,7 +1576,7 @@
         "width": 59,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -1809,9 +1809,9 @@
         "floor": 3678010,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11639837344,
+        "price": 6737869,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -1821,12 +1821,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3585000
+          "active": 1,
+          "input": 6737869
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 6737869
         },
         "barter": [],
         "popup": "bid",
@@ -2159,9 +2159,9 @@
         "floor": 3678010,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11639837344,
+        "price": 6737869,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -2171,12 +2171,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3585000
+          "active": 1,
+          "input": 6737869
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 6737869
         },
         "barter": [],
         "popup": "bid",
@@ -3171,9 +3171,9 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 51,
-        "rank": 12,
+        "rank": 11,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -3273,7 +3273,7 @@
         "width": 51,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -4462,7 +4462,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 55,
         "rank": 8,
         "negative": 0,
@@ -4564,7 +4564,7 @@
         "width": 55,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -6391,7 +6391,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 62,
         "rank": 3,
         "negative": 0,
@@ -6493,7 +6493,7 @@
         "width": 62,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -7566,7 +7566,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 74,
         "rank": 1,
         "negative": 0,
@@ -7668,7 +7668,7 @@
         "width": 74,
         "short": "J12",
         "color": 4,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -8973,7 +8973,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 56,
         "rank": 7,
         "negative": 0,
@@ -9075,7 +9075,7 @@
         "width": 56,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -9196,7 +9196,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 16,
-            "status": null,
+            "status": "five",
             "ts_pic": 1506034328,
             "played": 1,
             "short": "B. Méndez",
@@ -10329,7 +10329,7 @@
         "id_team": 16,
         "points": 78,
         "avg": 6.5,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1506034328,
         "streak": [
@@ -10844,7 +10844,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 52,
         "rank": 10,
         "negative": 0,
@@ -10946,7 +10946,7 @@
         "width": 52,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -11001,7 +11001,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 15,
-            "status": null,
+            "status": "five",
             "ts_pic": 1654171731,
             "played": 1,
             "short": "A. Rüdiger",
@@ -11179,7 +11179,7 @@
         "floor": 1000000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 11636992413,
+        "id_market": 11639852001,
         "price": 3000000,
         "public": 1,
         "bid": null,
@@ -11411,7 +11411,7 @@
         "floor": 7500000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992455,
+        "id_market": 11639852069,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -11701,7 +11701,7 @@
         "floor": 15087580,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992466,
+        "id_market": 11639852079,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -11759,7 +11759,7 @@
         "floor": 2638000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992404,
+        "id_market": 11639851990,
         "price": 4000000,
         "public": 1,
         "bid": null,
@@ -11819,7 +11819,7 @@
         "floor": 11354000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992423,
+        "id_market": 11639852016,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -11877,7 +11877,7 @@
         "floor": 1000000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 11636992413,
+        "id_market": 11639852001,
         "price": 3000000,
         "public": 1,
         "bid": null,
@@ -11910,7 +11910,7 @@
         "id_team": 15,
         "points": 54,
         "avg": 4.5,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1654171731,
         "streak": [
@@ -11935,7 +11935,7 @@
         "floor": 11547000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992475,
+        "id_market": 11639852086,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -11993,7 +11993,7 @@
         "floor": 3997000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11636992398,
+        "id_market": 11639851979,
         "price": 7500000,
         "public": 1,
         "bid": null,
@@ -12225,7 +12225,7 @@
         "floor": 7500000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992455,
+        "id_market": 11639852069,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -12399,7 +12399,7 @@
         "floor": 7779000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992418,
+        "id_market": 11639852009,
         "price": 10000000,
         "public": 1,
         "bid": null,
@@ -12515,7 +12515,7 @@
         "floor": 5607000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992437,
+        "id_market": 11639852023,
         "price": 7500000,
         "public": 1,
         "bid": null,
@@ -12689,7 +12689,7 @@
         "floor": 15087580,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992466,
+        "id_market": 11639852079,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -12747,7 +12747,7 @@
         "floor": 30431475,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11636992446,
+        "id_market": 11639852052,
         "price": 40000000,
         "public": 1,
         "bid": null,
@@ -12805,7 +12805,7 @@
         "floor": 2638000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11636992404,
+        "id_market": 11639851990,
         "price": 4000000,
         "public": 1,
         "bid": null,
@@ -13005,9 +13005,9 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 51,
-        "rank": 11,
+        "rank": 12,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -13107,7 +13107,7 @@
         "width": 51,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -14470,7 +14470,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 53,
         "rank": 9,
         "negative": 0,
@@ -14572,7 +14572,7 @@
         "width": 53,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -15877,7 +15877,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 57,
         "rank": 6,
         "negative": 0,
@@ -15979,7 +15979,7 @@
         "width": 57,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -18096,7 +18096,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 46,
         "rank": 14,
         "negative": 0,
@@ -18198,7 +18198,7 @@
         "width": 46,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -19793,7 +19793,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 48,
         "rank": 13,
         "negative": 0,
@@ -19895,7 +19895,7 @@
         "width": 48,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -21664,7 +21664,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 58,
         "rank": 5,
         "negative": 0,
@@ -21766,7 +21766,7 @@
         "width": 58,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -21805,7 +21805,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 16,
-            "status": null,
+            "status": "five",
             "ts_pic": 1491414840,
             "played": 1,
             "short": "I. Zubeldia",
@@ -22324,7 +22324,7 @@
         "id_team": 16,
         "points": 37,
         "avg": 3.1,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1491414840,
         "streak": [
@@ -22955,7 +22955,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 67,
         "rank": 2,
         "negative": 0,
@@ -23057,7 +23057,7 @@
         "width": 67,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -24304,7 +24304,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 46,
         "rank": 15,
         "negative": 0,
@@ -24406,7 +24406,7 @@
         "width": 46,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -24543,7 +24543,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 3,
-            "status": null,
+            "status": "five",
             "ts_pic": 1627108104,
             "played": 1,
             "short": "Gavi",
@@ -25312,7 +25312,7 @@
         "id_team": 3,
         "points": 68,
         "avg": 5.7,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1627108104,
         "streak": [
@@ -25711,7 +25711,7 @@
         "id_gameweek": 2531,
         "gameweek": 12,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 42,
         "rank": 16,
         "negative": 0,
@@ -25813,7 +25813,7 @@
         "width": 42,
         "short": "J12",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   }
