@@ -97662,64 +97662,6 @@
         "count": 11
       },
       "bench": {
-        "192": {
-          "id": 192,
-          "name": "Vicente Guaita",
-          "position": 1,
-          "id_team": 5,
-          "points": 15,
-          "avg": 5,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1693609611,
-          "streak": [
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 9,
-              "color": 3
-            }
-          ],
-          "streak_sum": 15,
-          "value": 1071000,
-          "prev_value": 1031000,
-          "last_points": 9,
-          "id_uc": 12054777,
-          "floor": 4124000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1071000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "V. Guaita",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/192.png?version=20230902010651",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231109"
-        },
         "334": {
           "id": 334,
           "name": "Sergio Ramos",
@@ -98178,9 +98120,9 @@
           "floor": 1000000,
           "multiplier": 3.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11648287279,
+          "price": 2711000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -98190,12 +98132,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 711000
+            "active": 1,
+            "input": 2711000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 2711000
           },
           "barter": [],
           "popup": "bid",
@@ -98203,64 +98145,6 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49342.png?version=20220901152739",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231109"
-        },
-        "175": {
-          "id": 175,
-          "name": "Antonio Raíllo",
-          "position": 2,
-          "id_team": 408,
-          "points": 21,
-          "avg": 7,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1437662345,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 4,
-              "color": 2
-            }
-          ],
-          "streak_sum": 4,
-          "value": 1102000,
-          "prev_value": 1065000,
-          "last_points": 4,
-          "id_uc": 12067022,
-          "floor": 3525000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1102000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "A. Raíllo",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/175.png?version=20150723163905",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231109"
         },
         "53113": {
           "id": 53113,
@@ -99229,6 +99113,64 @@
           "bg": 3,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3778.png?version=20160901123604",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231109"
+        },
+        "23171": {
+          "id": 23171,
+          "name": "Marvin Park",
+          "position": 4,
+          "id_team": 11,
+          "points": 29,
+          "avg": 3.6,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1692363949,
+          "streak": [
+            {
+              "points": 1,
+              "color": 2
+            },
+            {
+              "points": 8,
+              "color": 3
+            },
+            {
+              "points": 3,
+              "color": 2
+            }
+          ],
+          "streak_sum": 12,
+          "value": 1172000,
+          "prev_value": 1136000,
+          "last_points": 3,
+          "id_uc": 12069044,
+          "floor": 1758000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1172000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Park",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23171.png?version=20230818150549",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231109"
         }
       }
     },
@@ -100402,7 +100344,7 @@
           "last_points": 5,
           "id_uc": 12054406,
           "floor": 1335000,
-          "multiplier": 2.5,
+          "multiplier": 1.5,
           "shield": 0,
           "id_market": 11645503185,
           "price": 1152000,
@@ -100414,7 +100356,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 2,
+          "default": 0,
           "market": {
             "active": 1,
             "input": 1152000
@@ -103314,6 +103256,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48208.png?version=20220620114505",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231109"
         },
+        "175": {
+          "id": 175,
+          "name": "Antonio Raíllo",
+          "position": 2,
+          "id_team": 408,
+          "points": 21,
+          "avg": 7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1437662345,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 4,
+              "color": 2
+            }
+          ],
+          "streak_sum": 4,
+          "value": 1102000,
+          "prev_value": 1065000,
+          "last_points": 4,
+          "id_uc": 12054755,
+          "floor": 5287500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1102000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "A. Raíllo",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/175.png?version=20150723163905",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231109"
+        },
         "53106": {
           "id": 53106,
           "name": "Eric Curbelo",
@@ -105113,64 +105113,6 @@
           "bg": 0,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/361.png?version=20150723163906",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231109"
-        },
-        "23171": {
-          "id": 23171,
-          "name": "Marvin Park",
-          "position": 4,
-          "id_team": 11,
-          "points": 29,
-          "avg": 3.6,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1692363949,
-          "streak": [
-            {
-              "points": 1,
-              "color": 2
-            },
-            {
-              "points": 8,
-              "color": 3
-            },
-            {
-              "points": 3,
-              "color": 2
-            }
-          ],
-          "streak_sum": 12,
-          "value": 1172000,
-          "prev_value": 1136000,
-          "last_points": 3,
-          "id_uc": 12055022,
-          "floor": 1172000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 1172000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "M. Park",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23171.png?version=20230818150549",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231109"
         }
       }
     },
@@ -105850,6 +105792,64 @@
         "count": 11
       },
       "bench": {
+        "192": {
+          "id": 192,
+          "name": "Vicente Guaita",
+          "position": 1,
+          "id_team": 5,
+          "points": 15,
+          "avg": 5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1693609611,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 9,
+              "color": 3
+            }
+          ],
+          "streak_sum": 15,
+          "value": 1071000,
+          "prev_value": 1031000,
+          "last_points": 9,
+          "id_uc": 12055602,
+          "floor": 6186000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1071000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "V. Guaita",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/192.png?version=20230902010651",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231109"
+        },
         "55871": {
           "id": 55871,
           "name": "Sokratis Papastathopoulos",
