@@ -98526,9 +98526,9 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11652653555,
+          "price": 242000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -98538,12 +98538,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 242000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 242000
           },
           "barter": [],
           "popup": "bid",
@@ -104334,7 +104334,7 @@
               "slot": 1,
               "position": 1,
               "id_team": 4,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1437662345,
               "played": 1,
               "short": "C. Bravo",
