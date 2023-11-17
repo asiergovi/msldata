@@ -10021,11 +10021,11 @@
         "last_points": 6,
         "id_uc": 12054564,
         "floor": 21604500,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11683110434,
+        "price": 24440000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -10033,14 +10033,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 0,
         "market": {
-          "active": 0,
-          "input": 14440000
+          "active": 1,
+          "input": 24440000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 24440000
         },
         "barter": [],
         "popup": "bid",
@@ -11448,7 +11448,7 @@
         "floor": 10036000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11682945283,
+        "id_market": 11683114717,
         "price": 10036000,
         "public": 1,
         "bid": null,
@@ -11564,7 +11564,7 @@
         "floor": 4230000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11682945378,
+        "id_market": 11683114694,
         "price": 1957000,
         "public": 1,
         "bid": null,
@@ -12200,7 +12200,7 @@
         "last_points": 6,
         "id_uc": 12054406,
         "floor": 11432000,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11681562884,
         "price": 17672005,
@@ -12212,7 +12212,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 17672005
@@ -15625,7 +15625,7 @@
             "slot": 1,
             "position": 1,
             "id_team": 3,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1695216596,
             "played": 1,
             "short": "T. Stegen",
@@ -16046,7 +16046,7 @@
         "id_team": 3,
         "points": 69,
         "avg": 5.3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1695216596,
         "streak": [
