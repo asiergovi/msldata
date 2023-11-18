@@ -3986,7 +3986,7 @@
             "slot": 9,
             "position": 4,
             "id_team": 16,
-            "status": "doubt",
+            "status": "injury",
             "ts_pic": 1448148031,
             "played": 1,
             "short": "M. Oyarzabal",
@@ -5143,7 +5143,7 @@
         "id_team": 16,
         "points": 81,
         "avg": 6.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1448148031,
         "streak": [
@@ -8596,10 +8596,10 @@
         "last_points": 3,
         "id_uc": 12054468,
         "floor": 5210000,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11687045607,
-        "price": 7700000,
+        "price": 8300000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -8608,14 +8608,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 0,
         "market": {
           "active": 1,
-          "input": 7700000
+          "input": 8300000
         },
         "offer": {
           "active": 0,
-          "input": 7700000
+          "input": 8300000
         },
         "barter": [],
         "popup": "bid",
