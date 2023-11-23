@@ -106572,7 +106572,7 @@
               "slot": 5,
               "position": 3,
               "id_team": 4,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1700230031,
               "played": 1,
               "short": "Isco",
@@ -106772,9 +106772,9 @@
           "last_points": 9,
           "id_uc": 12054777,
           "floor": 1324000,
-          "multiplier": 4,
+          "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703312034,
+          "id_market": 11705933446,
           "price": 5533761,
           "public": 1,
           "bid": null,
@@ -107032,64 +107032,6 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54953.png?version=20230805111817",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20231123"
         },
-        "36046": {
-          "id": 36046,
-          "name": "Gonzalo Villar",
-          "position": 3,
-          "id_team": 10,
-          "points": 56,
-          "avg": 4.7,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1691189198,
-          "streak": [
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 12,
-              "color": 4
-            }
-          ],
-          "streak_sum": 20,
-          "value": 4136000,
-          "prev_value": 3982000,
-          "last_points": 12,
-          "id_uc": 12054777,
-          "floor": 4136000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 4136000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "G. Villar",
-          "bg": 4,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36046.png?version=20230805004638",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231123"
-        },
         "55041": {
           "id": 55041,
           "name": "Samu Omorodion",
@@ -107180,7 +107122,7 @@
           "floor": 906000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703312048,
+          "id_market": 11705933483,
           "price": 3329698,
           "public": 1,
           "bid": null,
@@ -110142,7 +110084,7 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703279088,
+          "id_market": 11705977797,
           "price": 850000,
           "public": 1,
           "bid": null,
@@ -110200,7 +110142,7 @@
           "floor": 1034000,
           "multiplier": 4,
           "shield": 0,
-          "id_market": 11703279053,
+          "id_market": 11705977789,
           "price": 3000000,
           "public": 1,
           "bid": null,
@@ -110316,7 +110258,7 @@
           "floor": 1966000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703279022,
+          "id_market": 11705977784,
           "price": 2500000,
           "public": 1,
           "bid": null,
@@ -110432,7 +110374,7 @@
           "floor": 919000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703279066,
+          "id_market": 11705977792,
           "price": 1150000,
           "public": 1,
           "bid": null,
@@ -110548,7 +110490,7 @@
           "floor": 1403150,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703278971,
+          "id_market": 11705977770,
           "price": 1950000,
           "public": 1,
           "bid": null,
@@ -110664,7 +110606,7 @@
           "floor": 15087580,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11703279034,
+          "id_market": 11705977788,
           "price": 15000000,
           "public": 1,
           "bid": null,
@@ -110722,7 +110664,7 @@
           "floor": 2638000,
           "multiplier": 3,
           "shield": 0,
-          "id_market": 11703278965,
+          "id_market": 11705977766,
           "price": 7000000,
           "public": 1,
           "bid": null,
@@ -114967,6 +114909,64 @@
           "bg": 0,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55088.png?version=20230810124409",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231123"
+        },
+        "36046": {
+          "id": 36046,
+          "name": "Gonzalo Villar",
+          "position": 3,
+          "id_team": 10,
+          "points": 56,
+          "avg": 4.7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1691189198,
+          "streak": [
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 12,
+              "color": 4
+            }
+          ],
+          "streak_sum": 20,
+          "value": 4136000,
+          "prev_value": 3982000,
+          "last_points": 12,
+          "id_uc": 12054509,
+          "floor": 6204000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 4136000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "G. Villar",
+          "bg": 4,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36046.png?version=20230805004638",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231123"
         }
       }
     },
