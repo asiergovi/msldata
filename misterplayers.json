@@ -344,9 +344,9 @@
         "floor": 1583000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 11707250974,
-        "price": 1064000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -356,12 +356,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 1,
-          "input": 1064000
+          "active": 0,
+          "input": 986000
         },
         "offer": {
           "active": 0,
-          "input": 1064000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -926,9 +926,9 @@
         "floor": 2390000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11722923037,
+        "price": 2390000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -938,12 +938,12 @@
         "played": 1,
         "default": 1,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2390000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2390000
         },
         "barter": [],
         "popup": "bid",
@@ -984,9 +984,9 @@
         "floor": 1583000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 11707250974,
-        "price": 1064000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -996,12 +996,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 1,
-          "input": 1064000
+          "active": 0,
+          "input": 986000
         },
         "offer": {
           "active": 0,
-          "input": 1064000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -1794,8 +1794,8 @@
     "id": "12054777",
     "name": "ROILOA NEGREIRA",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/649de7fbdd51c.png",
-    "played": "20 jug.",
-    "money": "144.296.000",
+    "played": "19 jug.",
+    "money": "143.632.000",
     "points": 811,
     "lineup": {
       "positions": {
@@ -2275,64 +2275,6 @@
         "short": "I. Akhomach",
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/33896.png?version=20230822085626",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
-      },
-      "269": {
-        "id": 269,
-        "name": "José Luis Morales",
-        "position": 4,
-        "id_team": 20,
-        "points": 36,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1437662346,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 21,
-            "color": 4
-          }
-        ],
-        "streak_sum": 21,
-        "value": 664000,
-        "prev_value": 606000,
-        "last_points": 21,
-        "id_uc": 12054777,
-        "floor": 4255573,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 664000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Luis Morales",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/269.png?version=20150723163906",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
       },
       "40090": {
@@ -3321,64 +3263,6 @@
         "short": "I. Akhomach",
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/33896.png?version=20230822085626",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
-      },
-      {
-        "id": 269,
-        "name": "José Luis Morales",
-        "position": 4,
-        "id_team": 20,
-        "points": 36,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1437662346,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 21,
-            "color": 4
-          }
-        ],
-        "streak_sum": 21,
-        "value": 664000,
-        "prev_value": 606000,
-        "last_points": 21,
-        "id_uc": 12054777,
-        "floor": 4255573,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 664000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Luis Morales",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/269.png?version=20150723163906",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
       },
       {
@@ -16521,8 +16405,8 @@
     "id": "12054484",
     "name": "Carlos López (Orgasmus united)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305e07b217d6.png",
-    "played": "15 jug.",
-    "money": "82.717.000",
+    "played": "16 jug.",
+    "money": "83.381.000",
     "points": 661,
     "lineup": {
       "positions": {
@@ -16887,6 +16771,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19168.png?version=20190725134707",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231127"
+      },
+      "269": {
+        "id": 269,
+        "name": "José Luis Morales",
+        "position": 4,
+        "id_team": 20,
+        "points": 36,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 21,
+            "color": 4
+          }
+        ],
+        "streak_sum": 21,
+        "value": 664000,
+        "prev_value": 606000,
+        "last_points": 21,
+        "id_uc": 12054484,
+        "floor": 6383359,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 664000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Luis Morales",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/269.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
       },
       "36371": {
         "id": 36371,
@@ -17701,6 +17643,64 @@
         "bg": 1,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1708.png?version=20160622122620",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231127"
+      },
+      {
+        "id": 269,
+        "name": "José Luis Morales",
+        "position": 4,
+        "id_team": 20,
+        "points": 36,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 21,
+            "color": 4
+          }
+        ],
+        "streak_sum": 21,
+        "value": 664000,
+        "prev_value": 606000,
+        "last_points": 21,
+        "id_uc": 12054484,
+        "floor": 6383359,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 664000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Luis Morales",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/269.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231127"
       },
       {
         "id": 29402,
