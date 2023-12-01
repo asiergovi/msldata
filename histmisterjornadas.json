@@ -116222,9 +116222,9 @@
           "floor": 666666.6666666666,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11738443553,
+          "price": 184000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -116234,12 +116234,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 184000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 184000
           },
           "barter": [],
           "popup": "bid",
@@ -116281,7 +116281,7 @@
           "multiplier": 3.5,
           "shield": 0,
           "id_market": 11735903905,
-          "price": 920000,
+          "price": 924000,
           "public": 1,
           "bid": null,
           "weeks": null,
@@ -116293,11 +116293,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 920000
+            "input": 924000
           },
           "offer": {
             "active": 0,
-            "input": 920000
+            "input": 924000
           },
           "barter": [],
           "popup": "bid",
@@ -119668,9 +119668,9 @@
           "floor": 6926000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11733475256,
-          "price": 6461000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -119680,12 +119680,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 1,
-            "input": 6461000
+            "active": 0,
+            "input": 6389000
           },
           "offer": {
             "active": 0,
-            "input": 6461000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -119726,9 +119726,9 @@
           "floor": 666667,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11738434947,
+          "price": 246000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -119738,12 +119738,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 246000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 246000
           },
           "barter": [],
           "popup": "bid",
@@ -122840,7 +122840,7 @@
               "slot": 9,
               "position": 3,
               "id_team": 10,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1691189198,
               "played": 1,
               "short": "G. Villar",
@@ -123198,6 +123198,64 @@
         "count": 11
       },
       "bench": {
+        "20131": {
+          "id": 20131,
+          "name": "Manu Sánchez",
+          "position": 2,
+          "id_team": 5,
+          "points": 37,
+          "avg": 3.4,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1576349986,
+          "streak": [
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 0,
+              "color": 0
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 9,
+          "value": 2684000,
+          "prev_value": 2602000,
+          "last_points": 5,
+          "id_uc": 12055602,
+          "floor": 2684000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 2684000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Sánchez",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20131.png?version=20191214195946",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231201"
+        },
         "17450": {
           "id": 17450,
           "name": "Aitor Ruibal",
