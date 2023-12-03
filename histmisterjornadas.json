@@ -124122,9 +124122,9 @@
           "floor": 666666.6666666666,
           "multiplier": 2.5,
           "shield": 0,
-          "id_market": 11734435924,
-          "price": 243000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -124134,12 +124134,12 @@
           "played": 0,
           "default": 2,
           "market": {
-            "active": 1,
-            "input": 243000
+            "active": 0,
+            "input": 171000
           },
           "offer": {
             "active": 0,
-            "input": 243000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -126517,7 +126517,7 @@
           "id_team": 408,
           "points": 27,
           "avg": 2.7,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1501610851,
           "streak": [
@@ -127510,7 +127510,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 408,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1437662345,
               "played": 0,
               "short": "A. Raíllo",
@@ -128460,7 +128460,7 @@
               "slot": 1,
               "position": 1,
               "id_team": 3,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1695216596,
               "played": 0,
               "short": "T. Stegen",
@@ -129073,7 +129073,7 @@
           "id_team": 408,
           "points": 34,
           "avg": 2.6,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
