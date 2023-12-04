@@ -428,64 +428,6 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20190205133129",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231204"
       },
-      "345": {
-        "id": 345,
-        "name": "Lucas Vázquez",
-        "position": 2,
-        "id_team": 15,
-        "points": 37,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1437662346,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 11,
-        "value": 451000,
-        "prev_value": 407000,
-        "last_points": 5,
-        "id_uc": 12067022,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 451000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "L. Vázquez",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/345.png?version=20150723163906",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231204"
-      },
       "13420": {
         "id": 13420,
         "name": "Mouctar Diakhaby",
@@ -1183,64 +1125,6 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/431.png?version=20231130100736",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231204"
-      },
-      {
-        "id": 345,
-        "name": "Lucas Vázquez",
-        "position": 2,
-        "id_team": 15,
-        "points": 37,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1437662346,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 11,
-        "value": 451000,
-        "prev_value": 407000,
-        "last_points": 5,
-        "id_uc": 12067022,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 451000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "L. Vázquez",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/345.png?version=20150723163906",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231204"
       },
       {
         "id": 13420,
@@ -4368,7 +4252,7 @@
         "floor": 12500000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172152,
+        "id_market": 11748785316,
         "price": 14000000,
         "public": 1,
         "bid": null,
@@ -4426,7 +4310,7 @@
         "floor": 11334000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172185,
+        "id_market": 11748785330,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -4484,9 +4368,9 @@
         "floor": 1327000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11748785356,
+        "price": 1244000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4496,12 +4380,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1244000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1244000
         },
         "barter": [],
         "popup": "bid",
@@ -4509,6 +4393,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/354.png?version=20150723163906",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231204"
+      },
+      "345": {
+        "id": 345,
+        "name": "Lucas Vázquez",
+        "position": 2,
+        "id_team": 15,
+        "points": 37,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 11,
+        "value": 451000,
+        "prev_value": 407000,
+        "last_points": 5,
+        "id_uc": 12054468,
+        "floor": 1000000,
+        "multiplier": 3,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 3,
+        "market": {
+          "active": 0,
+          "input": 451000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Vázquez",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/345.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231204"
       },
       "36376": {
         "id": 36376,
@@ -4600,7 +4542,7 @@
         "floor": 8132000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172081,
+        "id_market": 11748785300,
         "price": 10000000,
         "public": 1,
         "bid": null,
@@ -4716,7 +4658,7 @@
         "floor": 20000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11746172033,
+        "id_market": 11748785336,
         "price": 7784000,
         "public": 1,
         "bid": null,
@@ -4774,7 +4716,7 @@
         "floor": 15087580,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172118,
+        "id_market": 11748785311,
         "price": 4640000,
         "public": 1,
         "bid": null,
@@ -4892,7 +4834,7 @@
         "floor": 12500000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172152,
+        "id_market": 11748785316,
         "price": 14000000,
         "public": 1,
         "bid": null,
@@ -4950,7 +4892,7 @@
         "floor": 11334000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172185,
+        "id_market": 11748785330,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -5008,9 +4950,9 @@
         "floor": 1327000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11748785356,
+        "price": 1244000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5020,12 +4962,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1244000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1244000
         },
         "barter": [],
         "popup": "bid",
@@ -5066,7 +5008,7 @@
         "floor": 5528000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172094,
+        "id_market": 11748785305,
         "price": 7500000,
         "public": 1,
         "bid": null,
@@ -5091,6 +5033,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20210602195846",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231204"
+      },
+      {
+        "id": 345,
+        "name": "Lucas Vázquez",
+        "position": 2,
+        "id_team": 15,
+        "points": 37,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 11,
+        "value": 451000,
+        "prev_value": 407000,
+        "last_points": 5,
+        "id_uc": 12054468,
+        "floor": 1000000,
+        "multiplier": 3,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 3,
+        "market": {
+          "active": 0,
+          "input": 451000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Vázquez",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/345.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231204"
       },
       {
         "id": 18317,
@@ -5124,7 +5124,7 @@
         "floor": 5138000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11746172027,
+        "id_market": 11748785262,
         "price": 8000000,
         "public": 1,
         "bid": null,
@@ -5240,7 +5240,7 @@
         "floor": 8132000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172081,
+        "id_market": 11748785300,
         "price": 10000000,
         "public": 1,
         "bid": null,
@@ -5356,7 +5356,7 @@
         "floor": 20000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11746172033,
+        "id_market": 11748785336,
         "price": 7784000,
         "public": 1,
         "bid": null,
@@ -5472,7 +5472,7 @@
         "floor": 3614000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172021,
+        "id_market": 11748785255,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -5646,7 +5646,7 @@
         "floor": 15087580,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11746172118,
+        "id_market": 11748785311,
         "price": 4640000,
         "public": 1,
         "bid": null,
@@ -5820,7 +5820,7 @@
         "floor": 2638000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 11746172014,
+        "id_market": 11748785245,
         "price": 7000000,
         "public": 1,
         "bid": null,
@@ -7513,7 +7513,7 @@
         "type": "regular",
         "status": "started",
         "points": 39,
-        "rank": 11,
+        "rank": 12,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -7647,7 +7647,7 @@
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305d51a41d7c.png",
     "played": "17 jug.",
     "money": "130.256.000",
-    "points": 794,
+    "points": 795,
     "lineup": {
       "positions": {
         "1": {
@@ -9321,7 +9321,7 @@
         "gameweek": 15,
         "type": "regular",
         "status": "started",
-        "points": 45,
+        "points": 46,
         "rank": 6,
         "negative": 0,
         "formation": "1-3-5-2"
@@ -9441,9 +9441,9 @@
         "status": "closed"
       },
       "15": {
-        "points": 45,
+        "points": 46,
         "negative": 0,
-        "width": 45,
+        "width": 46,
         "short": "J15",
         "color": 3,
         "status": "started"
@@ -12369,9 +12369,9 @@
         "floor": 8668000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11737202481,
-        "price": 7963000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -12381,12 +12381,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 1,
-          "input": 7963000
+          "active": 0,
+          "input": 7678000
         },
         "offer": {
           "active": 0,
-          "input": 7963000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -13009,9 +13009,9 @@
         "floor": 8668000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11737202481,
-        "price": 7963000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -13021,12 +13021,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 1,
-          "input": 7963000
+          "active": 0,
+          "input": 7678000
         },
         "offer": {
           "active": 0,
-          "input": 7963000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -17652,7 +17652,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 16,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1545937617,
             "played": 1,
             "short": "A. Barrenetxea",
@@ -18585,7 +18585,7 @@
         "id_team": 16,
         "points": 63,
         "avg": 4.5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1545937617,
         "streak": [
@@ -25846,7 +25846,7 @@
         "type": "regular",
         "status": "started",
         "points": 39,
-        "rank": 12,
+        "rank": 11,
         "negative": 0,
         "formation": "1-4-4-2"
       }
