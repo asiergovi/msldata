@@ -128930,6 +128930,64 @@
         "count": 11
       },
       "bench": {
+        "20320": {
+          "id": 20320,
+          "name": "Iñaki Peña",
+          "position": 1,
+          "id_team": 3,
+          "points": 11,
+          "avg": 5.5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1579011617,
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            },
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 7,
+              "color": 3
+            }
+          ],
+          "streak_sum": 11,
+          "value": 883000,
+          "prev_value": 806000,
+          "last_points": 7,
+          "id_uc": 12054484,
+          "floor": 12896000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 883000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "I. Peña",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20320.png?version=20200114152017",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231205"
+        },
         "49343": {
           "id": 49343,
           "name": "Toni Fuidias",
@@ -129956,6 +130014,64 @@
         "count": 11
       },
       "bench": {
+        "53111": {
+          "id": 53111,
+          "name": "Álvaro Valles",
+          "position": 1,
+          "id_team": 11,
+          "points": 97,
+          "avg": 6.5,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1686899802,
+          "streak": [
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 10,
+              "color": 4
+            },
+            {
+              "points": 10,
+              "color": 4
+            }
+          ],
+          "streak_sum": 24,
+          "value": 13312000,
+          "prev_value": 13194000,
+          "last_points": 10,
+          "id_uc": 12054571,
+          "floor": 26624000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 13312000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "Á. Valles",
+          "bg": 4,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53111.png?version=20230616091642",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231205"
+        },
         "22617": {
           "id": 22617,
           "name": "David Gil",
@@ -130046,9 +130162,9 @@
           "floor": 1439000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11753866448,
+          "price": 1093000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -130058,12 +130174,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1093000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1093000
           },
           "barter": [],
           "popup": "bid",
@@ -130071,64 +130187,6 @@
           "bg": 0,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55741.png?version=20230917130808",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231205"
-        },
-        "20320": {
-          "id": 20320,
-          "name": "Iñaki Peña",
-          "position": 1,
-          "id_team": 3,
-          "points": 11,
-          "avg": 5.5,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1579011617,
-          "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
-            {
-              "points": 4,
-              "color": 2
-            },
-            {
-              "points": 7,
-              "color": 3
-            }
-          ],
-          "streak_sum": 11,
-          "value": 883000,
-          "prev_value": 806000,
-          "last_points": 7,
-          "id_uc": 12054571,
-          "floor": 6448000,
-          "multiplier": 2,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 1,
-          "market": {
-            "active": 0,
-            "input": 883000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "I. Peña",
-          "bg": 3,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20320.png?version=20200114152017",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231205"
         },
         "332": {
           "id": 332,
