@@ -123422,7 +123422,7 @@
               "slot": 3,
               "position": 2,
               "id_team": 11,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1692279392,
               "played": 0,
               "short": "A. Suárez",
@@ -123981,7 +123981,7 @@
           "id_team": 15,
           "points": 67,
           "avg": 5.6,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1700555417,
           "streak": [
@@ -124155,7 +124155,7 @@
           "id_team": 16,
           "points": 24,
           "avg": 2.2,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1655362764,
           "streak": [
@@ -124912,7 +124912,7 @@
               "slot": 10,
               "position": 4,
               "id_team": 11,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1437662345,
               "played": 1,
               "short": "Sandro",
@@ -125090,7 +125090,7 @@
           "floor": 11358000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11757463624,
+          "id_market": 11760002043,
           "price": 15000000,
           "public": 1,
           "bid": null,
@@ -125148,7 +125148,7 @@
           "floor": 1327000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 11756390210,
+          "id_market": 11760001942,
           "price": 1800000,
           "public": 1,
           "bid": null,
@@ -125380,9 +125380,9 @@
           "floor": 1785000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11760002191,
+          "price": 2400000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -125392,12 +125392,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 1715000
+            "active": 1,
+            "input": 2400000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 2400000
           },
           "barter": [],
           "popup": "bid",
@@ -125496,7 +125496,7 @@
           "floor": 15087580,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 11757463589,
+          "id_market": 11760002033,
           "price": 4640000,
           "public": 1,
           "bid": null,
@@ -125636,7 +125636,7 @@
               "slot": 7,
               "position": 3,
               "id_team": 15,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1700230356,
               "played": 1,
               "short": "J. Bellingham",
@@ -125897,7 +125897,7 @@
           "id_team": 20,
           "points": 66,
           "avg": 5.1,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1690356634,
           "streak": [
@@ -126046,7 +126046,7 @@
               "slot": 6,
               "position": 3,
               "id_team": 20,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1700056746,
               "played": 1,
               "short": "D. Parejo",
@@ -126094,7 +126094,7 @@
               "slot": 9,
               "position": 3,
               "id_team": 9,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1596200223,
               "played": 1,
               "short": "L. Milla",
@@ -126323,7 +126323,7 @@
           "id_team": 19,
           "points": 63,
           "avg": 5.3,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1693406830,
           "streak": [
@@ -127233,7 +127233,7 @@
           "id_team": 11,
           "points": 31,
           "avg": 5.2,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1437662345,
           "streak": [
@@ -127478,64 +127478,6 @@
         "count": 11
       },
       "bench": {
-        "23184": {
-          "id": 23184,
-          "name": "Jorge Cuenca",
-          "position": 2,
-          "id_team": 20,
-          "points": 48,
-          "avg": 5.3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1600768798,
-          "streak": [
-            {
-              "points": 2,
-              "color": 2
-            },
-            {
-              "points": 6,
-              "color": 3
-            },
-            {
-              "points": 3,
-              "color": 2
-            }
-          ],
-          "streak_sum": 11,
-          "value": 1628000,
-          "prev_value": 1582000,
-          "last_points": 3,
-          "id_uc": 12054406,
-          "floor": 1723000,
-          "multiplier": 3,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "weeks": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 3,
-          "market": {
-            "active": 0,
-            "input": 1628000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "J. Cuenca",
-          "bg": 2,
-          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
-          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231207"
-        },
         "28784": {
           "id": 28784,
           "name": "José Ángel Carmona",
@@ -127717,7 +127659,7 @@
           "id_team": 15,
           "points": 69,
           "avg": 6.3,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1654950452,
           "streak": [
@@ -128188,7 +128130,7 @@
               "slot": 8,
               "position": 3,
               "id_team": 20,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1699035303,
               "played": 1,
               "short": "A. Baena",
@@ -128400,9 +128342,9 @@
           "floor": 1889000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 11759985005,
+          "price": 1857000,
+          "public": 1,
           "bid": null,
           "weeks": null,
           "type": null,
@@ -128412,12 +128354,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1857000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1857000
           },
           "barter": [],
           "popup": "bid",
@@ -128917,7 +128859,7 @@
           "id_team": 19,
           "points": 33,
           "avg": 4.1,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1661502812,
           "streak": [
@@ -129766,7 +129708,7 @@
               "slot": 5,
               "position": 3,
               "id_team": 16,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1701935269,
               "played": 1,
               "short": "A. Barrenetxea",
@@ -129936,6 +129878,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53433.png?version=20230706093238",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231207"
         },
+        "27333": {
+          "id": 27333,
+          "name": "Eric García",
+          "position": 2,
+          "id_team": 222,
+          "points": 58,
+          "avg": 4.8,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1622656726,
+          "streak": [
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 7,
+              "color": 3
+            },
+            {
+              "points": 4,
+              "color": 2
+            }
+          ],
+          "streak_sum": 15,
+          "value": 5571000,
+          "prev_value": 5489000,
+          "last_points": 4,
+          "id_uc": 12054485,
+          "floor": 8356500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 5571000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "E. García",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20210602195846",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231207"
+        },
         "456": {
           "id": 456,
           "name": "Jaume Costa",
@@ -129993,6 +129993,64 @@
           "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/456.png?version=20150723163906",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231207"
+        },
+        "23184": {
+          "id": 23184,
+          "name": "Jorge Cuenca",
+          "position": 2,
+          "id_team": 20,
+          "points": 48,
+          "avg": 5.3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1600768798,
+          "streak": [
+            {
+              "points": 2,
+              "color": 2
+            },
+            {
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 3,
+              "color": 2
+            }
+          ],
+          "streak_sum": 11,
+          "value": 1628000,
+          "prev_value": 1582000,
+          "last_points": 3,
+          "id_uc": 12054485,
+          "floor": 5169000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 1628000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "J. Cuenca",
+          "bg": 2,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23184.png?version=20200922115958",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231207"
         },
         "6049": {
           "id": 6049,
@@ -130464,7 +130522,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 19,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1691737014,
               "played": 1,
               "short": "D. López",
@@ -131882,7 +131940,7 @@
               "slot": 9,
               "position": 3,
               "id_team": 17,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1563016906,
               "played": 1,
               "short": "Fernando",
