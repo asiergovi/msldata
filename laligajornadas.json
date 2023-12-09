@@ -4718,24 +4718,24 @@
       "id_away": 11,
       "goals_home": 0,
       "goals_away": 1,
-      "status": "playing",
+      "status": "played",
       "date": {
         "ts": 1702126800,
-        "text": "Descanso",
-        "format": "'Descanso'"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "id_gsm": null,
       "id_sofa": 11369425,
       "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
+      "as_graded_date": "2023-12-09 16:42:21",
+      "marca_graded_date": "2023-12-09 16:28:47",
+      "sofascore_graded_date": "2023-12-09 16:13:09",
+      "mundodeportivo_graded_date": "2023-12-09 16:07:52",
+      "mixtos_graded_date": "2023-12-09 16:42:21",
       "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
-      "finished_at": null,
+      "mixtos2_graded_date": "2023-12-09 16:42:21",
+      "marca_stats_graded_date": "2023-12-09 16:29:53",
+      "finished_at": "2023-12-09 15:57:46",
       "n1": "Alavés",
       "n2": "Las Palmas",
       "gameweek": 16,
@@ -4749,11 +4749,11 @@
       "id_away": 15,
       "goals_home": 0,
       "goals_away": 0,
-      "status": "fixture",
+      "status": "playing",
       "date": {
         "ts": 1702134900,
-        "text": "Hoy 16:15",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 44",
+        "format": "'En juego' 44'"
       },
       "id_gsm": null,
       "id_sofa": 11369421,
@@ -5064,8 +5064,8 @@
       "status": "fixture",
       "date": {
         "ts": 1702739700,
-        "text": "16 dic 16:15",
-        "format": "d MMM H:mm"
+        "text": "sáb 16:15",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 11369428,
@@ -6770,6 +6770,37 @@
       "awayLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231209"
     },
     {
+      "id": 23653,
+      "id_gameweek": 2541,
+      "id_home": 408,
+      "id_away": 4,
+      "goals_home": 0,
+      "goals_away": 0,
+      "status": "fixture",
+      "date": {
+        "ts": 1706468400,
+        "text": "28 ene 20:00",
+        "format": "d MMM H:mm"
+      },
+      "id_gsm": null,
+      "id_sofa": 11369483,
+      "id_besoccer": null,
+      "as_graded_date": null,
+      "marca_graded_date": null,
+      "sofascore_graded_date": null,
+      "mundodeportivo_graded_date": null,
+      "mixtos_graded_date": null,
+      "classic_graded_date": null,
+      "mixtos2_graded_date": null,
+      "marca_stats_graded_date": null,
+      "finished_at": null,
+      "n1": "Mallorca",
+      "n2": "Betis",
+      "gameweek": 22,
+      "homeLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231209",
+      "awayLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231209"
+    },
+    {
       "id": 23654,
       "id_gameweek": 2541,
       "id_home": 16,
@@ -6830,37 +6861,6 @@
       "gameweek": 22,
       "homeLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231209",
       "awayLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231209"
-    },
-    {
-      "id": 23653,
-      "id_gameweek": 2541,
-      "id_home": 408,
-      "id_away": 4,
-      "goals_home": 0,
-      "goals_away": 0,
-      "status": "fixture",
-      "date": {
-        "ts": 1706472000,
-        "text": "28 ene 21:00",
-        "format": "d MMM H:mm"
-      },
-      "id_gsm": null,
-      "id_sofa": 11369483,
-      "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
-      "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
-      "finished_at": null,
-      "n1": "Mallorca",
-      "n2": "Betis",
-      "gameweek": 22,
-      "homeLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231209",
-      "awayLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231209"
     }
   ],
   "23": [
