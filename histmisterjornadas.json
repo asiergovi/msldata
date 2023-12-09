@@ -132515,7 +132515,7 @@
   },
   "2535": {
     "12067022": {
-      "points": 0,
+      "points": 5,
       "lineup": {
         "positions": {
           "1": {
@@ -132578,7 +132578,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1690452491,
-              "played": 0,
+              "played": 1,
               "short": "C. Riad",
               "bg": 0,
               "best_xi": "",
@@ -132606,15 +132606,15 @@
             "6": {
               "id": 53098,
               "name": "Alberto Moleiro",
-              "points": "?",
+              "points": 5,
               "slot": 6,
               "position": 3,
               "id_team": 11,
               "status": null,
               "ts_pic": 1700255102,
-              "played": 0,
+              "played": 1,
               "short": "A. Moleiro",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53098.png?version=20231117220502",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -132943,29 +132943,29 @@
           "name": "Antonio Blanco",
           "position": 3,
           "id_team": 48,
-          "points": 46,
-          "avg": 3.5,
+          "points": 50,
+          "avg": 3.6,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1687160878,
           "streak": [
             {
-              "points": 3,
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 4,
               "color": 2
-            },
-            {
-              "points": 6,
-              "color": 3
-            },
-            {
-              "points": 6,
-              "color": 3
             }
           ],
-          "streak_sum": 15,
+          "streak_sum": 16,
           "value": 3055000,
           "prev_value": 2982000,
-          "last_points": "?",
+          "last_points": 4,
           "id_uc": 12067022,
           "floor": 3055000,
           "multiplier": 2.5,
@@ -132979,7 +132979,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 2,
           "market": {
             "active": 0,
@@ -132992,7 +132992,7 @@
           "barter": [],
           "popup": "bid",
           "short": "A. Blanco",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25867.png?version=20230619094758",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
         },
@@ -133037,7 +133037,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -133231,7 +133231,7 @@
       }
     },
     "12054777": {
-      "points": 4,
+      "points": 8,
       "lineup": {
         "positions": {
           "1": {
@@ -133256,15 +133256,15 @@
             "2": {
               "id": 22455,
               "name": "Javier López",
-              "points": "?",
+              "points": 4,
               "slot": 2,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1592738441,
-              "played": 0,
+              "played": 1,
               "short": "J. López",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22455.png?version=20200621132041",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -133312,7 +133312,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1700230031,
-              "played": 0,
+              "played": 1,
               "short": "Isco",
               "bg": 0,
               "best_xi": "",
@@ -133596,6 +133596,64 @@
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49092.png?version=20220817170703",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231209"
         },
+        "17572": {
+          "id": 17572,
+          "name": "Javi Muñoz",
+          "position": 3,
+          "id_team": 11,
+          "points": 58,
+          "avg": 3.6,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1687162280,
+          "streak": [
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
+            }
+          ],
+          "streak_sum": 16,
+          "value": 2435000,
+          "prev_value": 2392000,
+          "last_points": 6,
+          "id_uc": 12054777,
+          "floor": 7305000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "weeks": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 2435000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "J. Muñoz",
+          "bg": 3,
+          "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
+          "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
+        },
         "12902": {
           "id": 12902,
           "name": "Raúl de Tomás",
@@ -133659,8 +133717,8 @@
           "name": "Samu Omorodion",
           "position": 4,
           "id_team": 48,
-          "points": 58,
-          "avg": 4.1,
+          "points": 56,
+          "avg": 3.7,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1692952101,
@@ -133670,18 +133728,18 @@
               "color": 3
             },
             {
-              "points": 7,
-              "color": 3
-            },
-            {
               "points": 3,
               "color": 2
+            },
+            {
+              "points": -2,
+              "color": 1
             }
           ],
-          "streak_sum": 17,
+          "streak_sum": 8,
           "value": 7634000,
           "prev_value": 7537000,
-          "last_points": "?",
+          "last_points": -2,
           "id_uc": 12054777,
           "floor": 13755000,
           "multiplier": 1.5,
@@ -133695,7 +133753,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -133708,7 +133766,7 @@
           "barter": [],
           "popup": "bid",
           "short": "S. Omorodion",
-          "bg": 0,
+          "bg": 1,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55041.png?version=20230825102821",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
         }
@@ -133762,7 +133820,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1654171731,
-              "played": 0,
+              "played": 1,
               "short": "A. Rüdiger",
               "bg": 0,
               "best_xi": "",
@@ -133862,7 +133920,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1700552165,
-              "played": 0,
+              "played": 1,
               "short": "Rodrygo",
               "bg": 0,
               "best_xi": "",
@@ -134257,7 +134315,7 @@
       }
     },
     "12054572": {
-      "points": 10,
+      "points": 13,
       "lineup": {
         "positions": {
           "1": {
@@ -134282,15 +134340,15 @@
             "2": {
               "id": 28621,
               "name": "Abdelkabir Abqar",
-              "points": "?",
+              "points": 3,
               "slot": 2,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1700233862,
-              "played": 0,
+              "played": 1,
               "short": "A. Abqar",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28621.png?version=20231117161102",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -134799,7 +134857,7 @@
       }
     },
     "12067027": {
-      "points": 0,
+      "points": 4,
       "lineup": {
         "positions": {
           "1": {
@@ -134830,7 +134888,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1437662345,
-              "played": 0,
+              "played": 1,
               "short": "G. Pezzella",
               "bg": 0,
               "best_xi": "",
@@ -134872,15 +134930,15 @@
             "5": {
               "id": 54960,
               "name": "Rafa Marín",
-              "points": "?",
+              "points": 4,
               "slot": 5,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1690552435,
-              "played": 0,
+              "played": 1,
               "short": "R. Marín",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54960.png?version=20230728155355",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -134928,7 +134986,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1700230356,
-              "played": 0,
+              "played": 1,
               "short": "J. Bellingham",
               "bg": 0,
               "best_xi": "",
@@ -135341,7 +135399,7 @@
       }
     },
     "12069044": {
-      "points": 0,
+      "points": 5,
       "lineup": {
         "positions": {
           "1": {
@@ -135414,15 +135472,15 @@
             "5": {
               "id": 53107,
               "name": "Sergi Cardona",
-              "points": "?",
+              "points": 5,
               "slot": 5,
               "position": 2,
               "id_team": 11,
               "status": null,
               "ts_pic": 1686900553,
-              "played": 0,
+              "played": 1,
               "short": "S. Cardona",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20230616092913",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -135438,7 +135496,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1689588298,
-              "played": 0,
+              "played": 1,
               "short": "M. Roca",
               "bg": 0,
               "best_xi": "",
@@ -135454,7 +135512,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1498167188,
-              "played": 0,
+              "played": 1,
               "short": "F. Valverde",
               "bg": 0,
               "best_xi": "",
@@ -135514,7 +135572,7 @@
             "11": {
               "id": 82,
               "name": "Sandro",
-              "points": "?",
+              "points": "-",
               "slot": 11,
               "position": 4,
               "id_team": 11,
@@ -135698,7 +135756,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1622219037,
-              "played": 0,
+              "played": 1,
               "short": "D. Alaba",
               "bg": 0,
               "best_xi": "",
@@ -135730,7 +135788,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1437662346,
-              "played": 0,
+              "played": 1,
               "short": "L. Vázquez",
               "bg": 0,
               "best_xi": "",
@@ -135798,7 +135856,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1438944393,
-              "played": 0,
+              "played": 1,
               "short": "W. José",
               "bg": 0,
               "best_xi": "",
@@ -135830,7 +135888,7 @@
               "id_team": 4,
               "status": null,
               "ts_pic": 1676920837,
-              "played": 0,
+              "played": 1,
               "short": "A. Pérez",
               "bg": 0,
               "best_xi": "",
@@ -136618,7 +136676,7 @@
       }
     },
     "12054755": {
-      "points": 0,
+      "points": 8,
       "lineup": {
         "positions": {
           "1": {
@@ -136741,15 +136799,15 @@
             "8": {
               "id": 53100,
               "name": "Enzo Loiodice",
-              "points": "?",
+              "points": 4,
               "slot": 8,
               "position": 3,
               "id_team": 11,
               "status": null,
               "ts_pic": 1686899830,
-              "played": 0,
+              "played": 1,
               "short": "E. Loiodice",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53100.png?version=20230616091710",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -136791,15 +136849,15 @@
             "11": {
               "id": 1684,
               "name": "Kike García",
-              "points": "?",
+              "points": 4,
               "slot": 11,
               "position": 4,
               "id_team": 48,
               "status": null,
               "ts_pic": 1464529285,
-              "played": 0,
+              "played": 1,
               "short": "K. García",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1684.png?version=20160529154125",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -137218,7 +137276,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -138343,15 +138401,15 @@
             "3": {
               "id": 11092,
               "name": "Andoni Gorosabel",
-              "points": "?",
+              "points": 5,
               "slot": 3,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1506034329,
-              "played": 0,
+              "played": 1,
               "short": "A. Gorosabel",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11092.png?version=20170922005209",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -138554,7 +138612,7 @@
       }
     },
     "12055022": {
-      "points": 7,
+      "points": 12,
       "lineup": {
         "positions": {
           "1": {
@@ -138651,7 +138709,7 @@
               "id_team": 15,
               "status": null,
               "ts_pic": 1437662346,
-              "played": 0,
+              "played": 1,
               "short": "T. Kroos",
               "bg": 0,
               "best_xi": "",
@@ -138711,15 +138769,15 @@
             "10": {
               "id": 23171,
               "name": "Marvin Park",
-              "points": "?",
+              "points": 5,
               "slot": 10,
               "position": 4,
               "id_team": 11,
               "status": null,
               "ts_pic": 1692363949,
-              "played": 0,
+              "played": 1,
               "short": "M. Park",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23171.png?version=20230818150549",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -138772,7 +138830,7 @@
           "streak_sum": 0,
           "value": 160000,
           "prev_value": 173000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 12055022,
           "floor": 666666.6666666666,
           "multiplier": null,
@@ -138866,18 +138924,18 @@
           "name": "Jon Guridi",
           "position": 3,
           "id_team": 48,
-          "points": 57,
+          "points": 61,
           "avg": 4.1,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1491414757,
           "streak": [
             {
-              "points": 4,
+              "points": 1,
               "color": 2
             },
             {
-              "points": 1,
+              "points": 4,
               "color": 2
             },
             {
@@ -138888,7 +138946,7 @@
           "streak_sum": 9,
           "value": 5249000,
           "prev_value": 5207000,
-          "last_points": "?",
+          "last_points": 4,
           "id_uc": 12055022,
           "floor": 7318000,
           "multiplier": 1.5,
@@ -138902,7 +138960,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -138915,7 +138973,7 @@
           "barter": [],
           "popup": "bid",
           "short": "J. Guridi",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5916.png?version=20170405195237",
           "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
         },
@@ -138926,7 +138984,7 @@
           "id_team": 1,
           "points": 52,
           "avg": 4.7,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1471956529,
           "streak": [
@@ -139018,7 +139076,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -139096,22 +139154,22 @@
       }
     },
     "12054571": {
-      "points": 3,
+      "points": 22,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 53111,
               "name": "Álvaro Valles",
-              "points": "?",
+              "points": 8,
               "slot": 1,
               "position": 1,
               "id_team": 11,
               "status": null,
               "ts_pic": 1686899802,
-              "played": 0,
+              "played": 1,
               "short": "Á. Valles",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53111.png?version=20230616091642",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -139171,15 +139229,15 @@
             "5": {
               "id": 18109,
               "name": "Luis Rioja",
-              "points": "?",
+              "points": 7,
               "slot": 5,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1561994202,
-              "played": 0,
+              "played": 1,
               "short": "L. Rioja",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -139219,15 +139277,15 @@
             "8": {
               "id": 53143,
               "name": "Abde Rebbach",
-              "points": "?",
+              "points": 4,
               "slot": 8,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1687160628,
-              "played": 0,
+              "played": 1,
               "short": "A. Rebbach",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53143.png?version=20230619094348",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -139580,7 +139638,7 @@
       }
     },
     "12054509": {
-      "points": 6,
+      "points": 18,
       "lineup": {
         "positions": {
           "1": {
@@ -139621,15 +139679,15 @@
             "3": {
               "id": 40032,
               "name": "Mika Mármol",
-              "points": "?",
+              "points": 6,
               "slot": 3,
               "position": 2,
               "id_team": 11,
               "status": null,
               "ts_pic": 1691744824,
-              "played": 0,
+              "played": 1,
               "short": "M. Mármol",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40032.png?version=20230811110704",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -139671,15 +139729,15 @@
             "6": {
               "id": 17572,
               "name": "Javi Muñoz",
-              "points": "?",
+              "points": 6,
               "slot": 6,
               "position": 3,
               "id_team": 11,
               "status": null,
               "ts_pic": 1687162280,
-              "played": 0,
+              "played": 1,
               "short": "J. Muñoz",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -139890,22 +139948,22 @@
       }
     },
     "12055602": {
-      "points": 0,
+      "points": 20,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 7893,
               "name": "Antonio Sivera",
-              "points": "?",
+              "points": 2,
               "slot": 1,
               "position": 1,
               "id_team": 48,
               "status": null,
               "ts_pic": 1687160732,
-              "played": 0,
+              "played": 1,
               "short": "A. Sivera",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7893.png?version=20230619094532",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231209"
@@ -139981,15 +140039,15 @@
             "6": {
               "id": 53102,
               "name": "Kirian Rodríguez",
-              "points": "?",
+              "points": 12,
               "slot": 6,
               "position": 3,
               "id_team": 11,
               "status": null,
               "ts_pic": 1686900505,
-              "played": 0,
+              "played": 1,
               "short": "K. Rodríguez",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53102.png?version=20230616092825",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -140031,15 +140089,15 @@
             "9": {
               "id": 79,
               "name": "Munir El Haddadi",
-              "points": "?",
+              "points": 6,
               "slot": 9,
               "position": 4,
               "id_team": 11,
               "status": null,
               "ts_pic": 1437662345,
-              "played": 0,
+              "played": 1,
               "short": "M. El Haddadi",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/79.png?version=20150723163905",
               "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231209"
@@ -140180,7 +140238,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -140267,22 +140325,22 @@
           "ts_pic": 1552680587,
           "streak": [
             {
-              "points": 3,
-              "color": 2
-            },
-            {
               "points": 4,
               "color": 2
             },
             {
               "points": 5,
               "color": 3
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
-          "streak_sum": 12,
+          "streak_sum": 9,
           "value": 4797000,
           "prev_value": 4994000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 12055602,
           "floor": 4797000,
           "multiplier": 1.5,
