@@ -4873,11 +4873,11 @@
       "id_away": 1,
       "goals_home": 0,
       "goals_away": 1,
-      "status": "",
+      "status": "postponed",
       "date": {
         "ts": 1702221300,
-        "text": "En juego 44",
-        "format": "'En juego' 44'"
+        "text": "Aplazado",
+        "format": "'Aplazado'"
       },
       "id_gsm": null,
       "id_sofa": 11369417,
@@ -4902,13 +4902,13 @@
       "id_gameweek": 2535,
       "id_home": 499,
       "id_away": 50,
-      "goals_home": 0,
+      "goals_home": 1,
       "goals_away": 0,
-      "status": "fixture",
+      "status": "playing",
       "date": {
         "ts": 1702229400,
-        "text": "Hoy 18:30",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 29",
+        "format": "'En juego' 29'"
       },
       "id_gsm": null,
       "id_sofa": 11369422,
@@ -5219,8 +5219,8 @@
       "status": "fixture",
       "date": {
         "ts": 1702834200,
-        "text": "17 dic 18:30",
-        "format": "d MMM H:mm"
+        "text": "dom 18:30",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 11369434,
