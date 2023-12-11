@@ -344,7 +344,7 @@
         "floor": 3712000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11773604124,
+        "id_market": 11776032985,
         "price": 6595000,
         "public": 1,
         "bid": null,
@@ -750,7 +750,7 @@
         "floor": 666666.6666666666,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": 11773604178,
+        "id_market": 11776032995,
         "price": 160000,
         "public": 1,
         "bid": null,
@@ -1158,7 +1158,7 @@
         "floor": 3712000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11773604124,
+        "id_market": 11776032985,
         "price": 6595000,
         "public": 1,
         "bid": null,
@@ -1970,7 +1970,7 @@
         "floor": 666666.6666666666,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": 11773604178,
+        "id_market": 11776032995,
         "price": 160000,
         "public": 1,
         "bid": null,
@@ -4445,7 +4445,7 @@
         "type": "regular",
         "status": "started",
         "points": 49,
-        "rank": 6,
+        "rank": 7,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -8041,7 +8041,7 @@
         "type": "regular",
         "status": "started",
         "points": 49,
-        "rank": 7,
+        "rank": 5,
         "negative": 0,
         "formation": "1-4-3-3"
       }
@@ -8636,7 +8636,7 @@
         "last_points": 11,
         "id_uc": 12054572,
         "floor": 2773000,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -8648,7 +8648,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 1425000
@@ -9334,7 +9334,7 @@
         "last_points": 6,
         "id_uc": 12054572,
         "floor": 4450000,
-        "multiplier": 3,
+        "multiplier": 4,
         "shield": 0,
         "id_market": 11774822912,
         "price": 2819000,
@@ -9346,7 +9346,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 2819000
@@ -9566,7 +9566,7 @@
         "last_points": 11,
         "id_uc": 12054572,
         "floor": 2773000,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -9578,7 +9578,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 1425000
@@ -9752,7 +9752,7 @@
         "type": "regular",
         "status": "started",
         "points": 49,
-        "rank": 5,
+        "rank": 6,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -11185,7 +11185,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 17,
-            "status": "injury",
+            "status": null,
             "ts_pic": 1692912156,
             "played": 1,
             "short": "D. Lukébakio",
@@ -11419,7 +11419,7 @@
         "last_points": "?",
         "id_uc": 12054755,
         "floor": 1197000,
-        "multiplier": 1.5,
+        "multiplier": 4,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -12094,7 +12094,7 @@
         "id_team": 17,
         "points": 61,
         "avg": 5.1,
-        "status": "injury",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1692912156,
         "streak": [
@@ -12119,9 +12119,9 @@
         "floor": 6926000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11776025661,
+        "price": 5813000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -12131,12 +12131,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 5813000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5813000
         },
         "barter": [],
         "popup": "bid",
@@ -12291,7 +12291,7 @@
         "last_points": "?",
         "id_uc": 12054755,
         "floor": 1197000,
-        "multiplier": 1.5,
+        "multiplier": 4,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -14093,7 +14093,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 16,
-            "status": "injury",
+            "status": null,
             "ts_pic": 1506034328,
             "played": 1,
             "short": "B. Méndez",
@@ -15458,7 +15458,7 @@
         "id_team": 16,
         "points": 92,
         "avg": 6.1,
-        "status": "injury",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1506034328,
         "streak": [
@@ -18388,8 +18388,8 @@
     "id": "12055022",
     "name": "Asier (Real Suciedad)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c21d6f7e092.png",
-    "played": "18 jug.",
-    "money": "122.312.000",
+    "played": "17 jug.",
+    "money": "118.345.000",
     "points": 756,
     "lineup": {
       "positions": {
@@ -19800,64 +19800,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/33734.png?version=20211031083742",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231211"
-      },
-      {
-        "id": 7910,
-        "name": "Christian Stuani",
-        "position": 4,
-        "id_team": 222,
-        "points": 86,
-        "avg": 5.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1500847997,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 17,
-            "color": 4
-          },
-          {
-            "points": 14,
-            "color": 4
-          }
-        ],
-        "streak_sum": 34,
-        "value": 3967000,
-        "prev_value": 3804000,
-        "last_points": 14,
-        "id_uc": 12055022,
-        "floor": 6500003,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11774823366,
-        "price": 4846900,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 4846900
-        },
-        "offer": {
-          "active": 0,
-          "input": 4846900
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "C. Stuani",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
       },
       {
         "id": 54896,
@@ -25348,8 +25290,8 @@
     "id": "12054509",
     "name": "Peter Crouch FanClub",
     "img": "",
-    "played": "13 jug.",
-    "money": "76.594.000",
+    "played": "14 jug.",
+    "money": "82.440.000",
     "points": 680,
     "lineup": {
       "positions": {
@@ -25687,7 +25629,7 @@
         "last_points": 5,
         "id_uc": 12054509,
         "floor": 1864500,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -25699,7 +25641,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 1102000
@@ -25714,6 +25656,64 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49348.png?version=20230901124506",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
+      },
+      "27518": {
+        "id": 27518,
+        "name": "Óscar Valentín",
+        "position": 3,
+        "id_team": 14,
+        "points": 58,
+        "avg": 4.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1624256439,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 1,
+            "color": 2
+          }
+        ],
+        "streak_sum": 12,
+        "value": 5846000,
+        "prev_value": 5926000,
+        "last_points": "?",
+        "id_uc": 12054509,
+        "floor": 9000000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5846000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Ó. Valentín",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27518.png?version=20210621082039",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231211"
       },
       "24": {
         "id": 24,
@@ -25745,7 +25745,7 @@
         "last_points": "?",
         "id_uc": 12054509,
         "floor": 1735500,
-        "multiplier": 2.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -25757,7 +25757,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 2,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1173000
@@ -26095,7 +26095,7 @@
         "last_points": 5,
         "id_uc": 12054509,
         "floor": 1864500,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -26107,7 +26107,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 1102000
@@ -26298,6 +26298,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231211"
       },
       {
+        "id": 27518,
+        "name": "Óscar Valentín",
+        "position": 3,
+        "id_team": 14,
+        "points": 58,
+        "avg": 4.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1624256439,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 1,
+            "color": 2
+          }
+        ],
+        "streak_sum": 12,
+        "value": 5846000,
+        "prev_value": 5926000,
+        "last_points": "?",
+        "id_uc": 12054509,
+        "floor": 9000000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5846000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Ó. Valentín",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27518.png?version=20210621082039",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231211"
+      },
+      {
         "id": 24,
         "name": "Unai López",
         "position": 3,
@@ -26327,7 +26385,7 @@
         "last_points": "?",
         "id_uc": 12054509,
         "floor": 1735500,
-        "multiplier": 2.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -26339,7 +26397,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 2,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1173000
@@ -26828,7 +26886,7 @@
     "name": "Se Birla F.C",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c254d05c2ae.png",
     "played": "19 jug.",
-    "money": "73.762.000",
+    "money": "71.883.000",
     "points": 652,
     "lineup": {
       "positions": {
@@ -27541,6 +27599,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/321.png?version=20230726151150",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231211"
+      },
+      "7910": {
+        "id": 7910,
+        "name": "Christian Stuani",
+        "position": 4,
+        "id_team": 222,
+        "points": 86,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1500847997,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 17,
+            "color": 4
+          },
+          {
+            "points": 14,
+            "color": 4
+          }
+        ],
+        "streak_sum": 34,
+        "value": 3967000,
+        "prev_value": 3804000,
+        "last_points": 14,
+        "id_uc": 12055602,
+        "floor": 9750004,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 3967000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Stuani",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
       }
     },
     "team_now": [
@@ -28241,64 +28357,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231211"
       },
       {
-        "id": 27518,
-        "name": "Óscar Valentín",
-        "position": 3,
-        "id_team": 14,
-        "points": 58,
-        "avg": 4.1,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1624256439,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 6,
-            "color": 3
-          },
-          {
-            "points": 1,
-            "color": 2
-          }
-        ],
-        "streak_sum": 12,
-        "value": 5846000,
-        "prev_value": 5926000,
-        "last_points": "?",
-        "id_uc": 12055602,
-        "floor": 6000000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11772326174,
-        "price": 33906061,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 33906061
-        },
-        "offer": {
-          "active": 0,
-          "input": 33906061
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Ó. Valentín",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27518.png?version=20210621082039",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231211"
-      },
-      {
         "id": 48185,
         "name": "Pablo Torre",
         "position": 3,
@@ -28529,6 +28587,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/321.png?version=20230726151150",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231211"
+      },
+      {
+        "id": 7910,
+        "name": "Christian Stuani",
+        "position": 4,
+        "id_team": 222,
+        "points": 86,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1500847997,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 17,
+            "color": 4
+          },
+          {
+            "points": 14,
+            "color": 4
+          }
+        ],
+        "streak_sum": 34,
+        "value": 3967000,
+        "prev_value": 3804000,
+        "last_points": 14,
+        "id_uc": 12055602,
+        "floor": 9750004,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 3967000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Stuani",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
       },
       {
         "id": 79,
