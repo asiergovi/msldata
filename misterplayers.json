@@ -9336,9 +9336,9 @@
         "floor": 4450000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774822912,
+        "price": 2819000,
+        "public": 0,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -9348,12 +9348,12 @@
         "played": 1,
         "default": 3,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2819000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2819000
         },
         "barter": [],
         "popup": "bid",
@@ -11185,7 +11185,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 17,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1692912156,
             "played": 1,
             "short": "D. Lukébakio",
@@ -12094,7 +12094,7 @@
         "id_team": 17,
         "points": 61,
         "avg": 5.1,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1692912156,
         "streak": [
@@ -14093,7 +14093,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 16,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1506034328,
             "played": 1,
             "short": "B. Méndez",
@@ -15400,7 +15400,7 @@
         "id_team": 16,
         "points": 92,
         "avg": 6.1,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1506034328,
         "streak": [
@@ -16271,8 +16271,8 @@
     "id": "12054815",
     "name": "Stefano (Castolo FC)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305dac61c4c6.png",
-    "played": "20 jug.",
-    "money": "115.809.000",
+    "played": "19 jug.",
+    "money": "114.707.000",
     "points": 773,
     "lineup": {
       "positions": {
@@ -16580,64 +16580,6 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55453.png?version=20230820121220",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231211"
       },
-      "49348": {
-        "id": 49348,
-        "name": "Matija Nastasić",
-        "position": 2,
-        "id_team": 408,
-        "points": 41,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1693565106,
-        "streak": [
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 13,
-        "value": 1102000,
-        "prev_value": 1089000,
-        "last_points": 5,
-        "id_uc": 12054815,
-        "floor": 1243000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11764966023,
-        "price": 1149000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 1149000
-        },
-        "offer": {
-          "active": 0,
-          "input": 1149000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Nastasić",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49348.png?version=20230901124506",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
-      },
       "27841": {
         "id": 27841,
         "name": "Youssouf Sabaly",
@@ -16844,9 +16786,9 @@
         "floor": 36144500,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11764965945,
-        "price": 13777000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -16856,12 +16798,12 @@
         "played": 1,
         "default": 1,
         "market": {
-          "active": 1,
-          "input": 13777000
+          "active": 0,
+          "input": 14079000
         },
         "offer": {
           "active": 0,
-          "input": 13777000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -17337,64 +17279,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231211"
       },
       {
-        "id": 49348,
-        "name": "Matija Nastasić",
-        "position": 2,
-        "id_team": 408,
-        "points": 41,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1693565106,
-        "streak": [
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 13,
-        "value": 1102000,
-        "prev_value": 1089000,
-        "last_points": 5,
-        "id_uc": 12054815,
-        "floor": 1243000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11764966023,
-        "price": 1149000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 1149000
-        },
-        "offer": {
-          "active": 0,
-          "input": 1149000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Nastasić",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49348.png?version=20230901124506",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
-      },
-      {
         "id": 27841,
         "name": "Youssouf Sabaly",
         "position": 2,
@@ -17484,9 +17368,9 @@
         "floor": 6950000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774823015,
+        "price": 5131000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -17496,12 +17380,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 5131000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5131000
         },
         "barter": [],
         "popup": "bid",
@@ -17832,64 +17716,6 @@
         "floor": 36144500,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11764965945,
-        "price": 13777000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 1,
-        "market": {
-          "active": 1,
-          "input": 13777000
-        },
-        "offer": {
-          "active": 0,
-          "input": 13777000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Dovbyk",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55058.png?version=20230806174505",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
-      },
-      {
-        "id": 54896,
-        "name": "Jonathan Bamba",
-        "position": 4,
-        "id_team": 5,
-        "points": 81,
-        "avg": 5.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1689667614,
-        "streak": [
-          {
-            "points": 10,
-            "color": 4
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 9,
-            "color": 3
-          }
-        ],
-        "streak_sum": 24,
-        "value": 11715000,
-        "prev_value": 11646000,
-        "last_points": "?",
-        "id_uc": 12054815,
-        "floor": 11715000,
-        "multiplier": 1.5,
-        "shield": 0,
         "id_market": null,
         "price": null,
         "public": null,
@@ -17899,11 +17725,11 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
-        "default": 0,
+        "played": 1,
+        "default": 1,
         "market": {
           "active": 0,
-          "input": 11715000
+          "input": 14079000
         },
         "offer": {
           "active": 0,
@@ -17911,10 +17737,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "J. Bamba",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54896.png?version=20230718100654",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231211"
+        "short": "A. Dovbyk",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55058.png?version=20230806174505",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
       },
       {
         "id": 23327,
@@ -18122,9 +17948,9 @@
         "floor": 13196000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774823459,
+        "price": 15688000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -18134,12 +17960,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 9688000
+          "active": 1,
+          "input": 15688000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15688000
         },
         "barter": [],
         "popup": "bid",
@@ -18729,9 +18555,9 @@
         "floor": 4665285,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774823190,
+        "price": 4009860,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -18741,12 +18567,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3509000
+          "active": 1,
+          "input": 4009860
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4009860
         },
         "barter": [],
         "popup": "bid",
@@ -18928,6 +18754,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/33734.png?version=20211031083742",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231211"
+      },
+      "54896": {
+        "id": 54896,
+        "name": "Jonathan Bamba",
+        "position": 4,
+        "id_team": 5,
+        "points": 81,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1689667614,
+        "streak": [
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          }
+        ],
+        "streak_sum": 24,
+        "value": 11715000,
+        "prev_value": 11646000,
+        "last_points": "?",
+        "id_uc": 12055022,
+        "floor": 17572500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 11715000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Bamba",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54896.png?version=20230718100654",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231211"
       },
       "40029": {
         "id": 40029,
@@ -19137,9 +19021,9 @@
         "floor": 4665285,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774823190,
+        "price": 4009860,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -19149,12 +19033,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3509000
+          "active": 1,
+          "input": 4009860
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4009860
         },
         "barter": [],
         "popup": "bid",
@@ -19775,9 +19659,9 @@
         "floor": 6500003,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774823366,
+        "price": 4846900,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -19787,12 +19671,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3967000
+          "active": 1,
+          "input": 4846900
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4846900
         },
         "barter": [],
         "popup": "bid",
@@ -19800,6 +19684,64 @@
         "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231211"
+      },
+      {
+        "id": 54896,
+        "name": "Jonathan Bamba",
+        "position": 4,
+        "id_team": 5,
+        "points": 81,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1689667614,
+        "streak": [
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          }
+        ],
+        "streak_sum": 24,
+        "value": 11715000,
+        "prev_value": 11646000,
+        "last_points": "?",
+        "id_uc": 12055022,
+        "floor": 17572500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 11715000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Bamba",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54896.png?version=20230718100654",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231211"
       },
       {
         "id": 40029,
@@ -25232,8 +25174,8 @@
     "id": "12054509",
     "name": "Peter Crouch FanClub",
     "img": "",
-    "played": "13 jug.",
-    "money": "82.739.000",
+    "played": "14 jug.",
+    "money": "83.841.000",
     "points": 680,
     "lineup": {
       "positions": {
@@ -25515,9 +25457,9 @@
         "floor": 11770000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774821797,
+        "price": 10000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -25527,12 +25469,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 8155000
+          "active": 1,
+          "input": 10000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 10000000
         },
         "barter": [],
         "popup": "bid",
@@ -25540,6 +25482,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3117.png?version=20160818141340",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231211"
+      },
+      "49348": {
+        "id": 49348,
+        "name": "Matija Nastasić",
+        "position": 2,
+        "id_team": 408,
+        "points": 41,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1693565106,
+        "streak": [
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 13,
+        "value": 1102000,
+        "prev_value": 1089000,
+        "last_points": 5,
+        "id_uc": 12054509,
+        "floor": 1864500,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 1102000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Nastasić",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49348.png?version=20230901124506",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
       },
       "24": {
         "id": 24,
@@ -25571,7 +25571,7 @@
         "last_points": "?",
         "id_uc": 12054509,
         "floor": 1735500,
-        "multiplier": 1.5,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -25583,7 +25583,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 1173000
@@ -25807,9 +25807,9 @@
         "floor": 11770000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11774821797,
+        "price": 10000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -25819,12 +25819,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 8155000
+          "active": 1,
+          "input": 10000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 10000000
         },
         "barter": [],
         "popup": "bid",
@@ -25889,6 +25889,64 @@
         "short": "M. Valjent",
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17979.png?version=20190624194729",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
+      },
+      {
+        "id": 49348,
+        "name": "Matija Nastasić",
+        "position": 2,
+        "id_team": 408,
+        "points": 41,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1693565106,
+        "streak": [
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 13,
+        "value": 1102000,
+        "prev_value": 1089000,
+        "last_points": 5,
+        "id_uc": 12054509,
+        "floor": 1864500,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 1102000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Nastasić",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49348.png?version=20230901124506",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231211"
       },
       {
@@ -26153,7 +26211,7 @@
         "last_points": "?",
         "id_uc": 12054509,
         "floor": 1735500,
-        "multiplier": 1.5,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -26165,7 +26223,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 1173000
