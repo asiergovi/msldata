@@ -100,7 +100,7 @@
             "slot": 6,
             "position": 3,
             "id_team": 11,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1700255102,
             "played": 1,
             "short": "A. Moleiro",
@@ -959,7 +959,7 @@
         "id_team": 11,
         "points": 39,
         "avg": 4.9,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1700255102,
         "streak": [
@@ -984,9 +984,9 @@
         "floor": 7125000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11802859577,
+        "price": 20125000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -996,12 +996,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 7125000
+          "active": 1,
+          "input": 20125000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20125000
         },
         "barter": [],
         "popup": "bid",
@@ -1978,12 +1978,12 @@
             "position": 3,
             "id_team": 11,
             "status": null,
-            "ts_pic": 1687162280,
+            "ts_pic": 1702931404,
             "played": 1,
             "short": "J. Muñoz",
             "bg": 2,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20231218213004",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
           }
         },
@@ -3212,7 +3212,7 @@
         "avg": 3.5,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1687162280,
+        "ts_pic": 1702931404,
         "streak": [
           {
             "points": 5,
@@ -3258,7 +3258,7 @@
         "popup": "bid",
         "short": "J. Muñoz",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20230619101120",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17572.png?version=20231218213004",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       {
@@ -3983,8 +3983,8 @@
     "id": "12054468",
     "name": "La Florentineta",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/61785a75b93b0.png",
-    "played": "19 jug.",
-    "money": "131.414.000",
+    "played": "18 jug.",
+    "money": "127.758.000",
     "points": 944,
     "lineup": {
       "positions": {
@@ -4147,12 +4147,12 @@
             "position": 4,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1691082615,
+            "ts_pic": 1702932851,
             "played": 1,
             "short": "C. Larin",
             "bg": 3,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52130.png?version=20230803191015",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52130.png?version=20231218215411",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           },
           "11": {
@@ -5136,10 +5136,10 @@
         "last_points": "?",
         "id_uc": 12054468,
         "floor": 1566000,
-        "multiplier": 2,
+        "multiplier": 3,
         "shield": 0,
         "id_market": 11801689793,
-        "price": 2800000,
+        "price": 4300000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5148,14 +5148,14 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 1,
+        "default": 3,
         "market": {
           "active": 1,
-          "input": 2800000
+          "input": 4300000
         },
         "offer": {
           "active": 0,
-          "input": 2800000
+          "input": 4300000
         },
         "barter": [],
         "popup": "bid",
@@ -5569,64 +5569,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52044.png?version=20231218201019",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231218"
-      },
-      {
-        "id": 52130,
-        "name": "Cyle Larin",
-        "position": 4,
-        "id_team": 408,
-        "points": 58,
-        "avg": 3.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1691082615,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 9,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 16,
-        "value": 3656000,
-        "prev_value": 3550000,
-        "last_points": 5,
-        "id_uc": 12054468,
-        "floor": 5764500,
-        "multiplier": 2,
-        "shield": 0,
-        "id_market": 11801488670,
-        "price": 3656000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 1,
-        "market": {
-          "active": 1,
-          "input": 3656000
-        },
-        "offer": {
-          "active": 0,
-          "input": 3656000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "C. Larin",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52130.png?version=20230803191015",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
         "id": 27510,
@@ -6118,8 +6060,8 @@
     "id": "12054572",
     "name": "Jum (Usera Spurs)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305d51a41d7c.png",
-    "played": "16 jug.",
-    "money": "129.101.000",
+    "played": "17 jug.",
+    "money": "132.757.000",
     "points": 893,
     "lineup": {
       "positions": {
@@ -6658,6 +6600,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52372.png?version=20230811085906",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20231218"
+      },
+      "52130": {
+        "id": 52130,
+        "name": "Cyle Larin",
+        "position": 4,
+        "id_team": 408,
+        "points": 58,
+        "avg": 3.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702932851,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 16,
+        "value": 3656000,
+        "prev_value": 3550000,
+        "last_points": 5,
+        "id_uc": 12054572,
+        "floor": 3656000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 3656000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Larin",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52130.png?version=20231218215411",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       }
     },
     "team_now": [
@@ -7474,6 +7474,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231218"
       },
       {
+        "id": 52130,
+        "name": "Cyle Larin",
+        "position": 4,
+        "id_team": 408,
+        "points": 58,
+        "avg": 3.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702932851,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 16,
+        "value": 3656000,
+        "prev_value": 3550000,
+        "last_points": 5,
+        "id_uc": 12054572,
+        "floor": 3656000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 3656000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Larin",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/52130.png?version=20231218215411",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
+      },
+      {
         "id": 476,
         "name": "Gerard Moreno",
         "position": 4,
@@ -7919,12 +7977,12 @@
             "position": 1,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1658516086,
+            "ts_pic": 1702931970,
             "played": 1,
             "short": "P. Rajković",
             "bg": 2,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20220722205446",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           }
         },
@@ -9872,7 +9930,7 @@
         "avg": 5.8,
         "status": "five",
         "id_competition": 1,
-        "ts_pic": 1686900553,
+        "ts_pic": 1702931132,
         "streak": [
           {
             "points": 5,
@@ -9918,7 +9976,7 @@
         "popup": "bid",
         "short": "S. Cardona",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20230616092913",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20231218212532",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       "49350": {
@@ -10338,7 +10396,7 @@
         "avg": 5.8,
         "status": "five",
         "id_competition": 1,
-        "ts_pic": 1686900553,
+        "ts_pic": 1702931132,
         "streak": [
           {
             "points": 5,
@@ -10384,7 +10442,7 @@
         "popup": "bid",
         "short": "S. Cardona",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20230616092913",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20231218212532",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       {
@@ -11297,12 +11355,12 @@
             "position": 3,
             "id_team": 11,
             "status": null,
-            "ts_pic": 1686899830,
+            "ts_pic": 1702931286,
             "played": 1,
             "short": "E. Loiodice",
             "bg": 0,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53100.png?version=20230616091710",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53100.png?version=20231218212806",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
           },
           "9": {
@@ -11485,7 +11543,7 @@
         "avg": 5.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1686899957,
+        "ts_pic": 1702930368,
         "streak": [
           {
             "points": 4,
@@ -11531,7 +11589,7 @@
         "popup": "bid",
         "short": "S. Coco",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20230616091917",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20231218211248",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       "14762": {
@@ -11835,7 +11893,7 @@
         "avg": 5.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1686899957,
+        "ts_pic": 1702930368,
         "streak": [
           {
             "points": 4,
@@ -11881,7 +11939,7 @@
         "popup": "bid",
         "short": "S. Coco",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20230616091917",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20231218211248",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       {
@@ -12125,7 +12183,7 @@
         "avg": 3.6,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1686899830,
+        "ts_pic": 1702931286,
         "streak": [
           {
             "points": 5,
@@ -12171,7 +12229,7 @@
         "popup": "bid",
         "short": "E. Loiodice",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53100.png?version=20230616091710",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53100.png?version=20231218212806",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       {
@@ -13123,7 +13181,7 @@
         "floor": 19086000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11801478844,
+        "id_market": 11802842254,
         "price": 19868000,
         "public": 1,
         "bid": null,
@@ -13239,7 +13297,7 @@
         "floor": 29064000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11800629057,
+        "id_market": 11802842293,
         "price": 10806000,
         "public": 1,
         "bid": null,
@@ -14125,12 +14183,12 @@
             "position": 2,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1501610851,
+            "ts_pic": 1702932372,
             "played": 1,
             "short": "P. Maffeo",
             "bg": 2,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/8953.png?version=20170801200731",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/8953.png?version=20231218214612",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           }
         },
@@ -14247,7 +14305,7 @@
         "avg": 5.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1658516086,
+        "ts_pic": 1702931970,
         "streak": [
           {
             "points": 8,
@@ -14293,7 +14351,7 @@
         "popup": "bid",
         "short": "P. Rajković",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20220722205446",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       "28784": {
@@ -14713,7 +14771,7 @@
         "avg": 5.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1658516086,
+        "ts_pic": 1702931970,
         "streak": [
           {
             "points": 8,
@@ -14759,7 +14817,7 @@
         "popup": "bid",
         "short": "P. Rajković",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20220722205446",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -15003,7 +15061,7 @@
         "avg": 3,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1501610851,
+        "ts_pic": 1702932372,
         "streak": [
           {
             "points": 2,
@@ -15049,7 +15107,7 @@
         "popup": "bid",
         "short": "P. Maffeo",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/8953.png?version=20170801200731",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/8953.png?version=20231218214612",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -16054,12 +16112,12 @@
             "position": 2,
             "id_team": 11,
             "status": null,
-            "ts_pic": 1686899957,
+            "ts_pic": 1702930368,
             "played": 1,
             "short": "S. Coco",
             "bg": 3,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20230616091917",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53105.png?version=20231218211248",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
           },
           "4": {
@@ -18007,12 +18065,12 @@
             "position": 3,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1691759838,
+            "ts_pic": 1702932786,
             "played": 1,
             "short": "S. Darder",
             "bg": 3,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20231218215306",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           },
           "7": {
@@ -19412,9 +19470,9 @@
         "floor": 42559605,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11802859877,
+        "price": 16468000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -19424,12 +19482,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 16468000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 16468000
         },
         "barter": [],
         "popup": "bid",
@@ -19563,7 +19621,7 @@
         "avg": 5.5,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1691759838,
+        "ts_pic": 1702932786,
         "streak": [
           {
             "points": 4,
@@ -19609,7 +19667,7 @@
         "popup": "bid",
         "short": "S. Darder",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20230811151718",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/298.png?version=20231218215306",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -19876,7 +19934,7 @@
         "floor": 13196000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11801469604,
+        "id_market": 11802860315,
         "price": 16427000,
         "public": 1,
         "bid": null,
@@ -20332,12 +20390,12 @@
             "position": 3,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1677077708,
+            "ts_pic": 1702932548,
             "played": 1,
             "short": "D. Rodríguez",
             "bg": 3,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17980.png?version=20230222155508",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17980.png?version=20231218214908",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           },
           "8": {
@@ -20478,7 +20536,7 @@
         "avg": 2.9,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1437662346,
+        "ts_pic": 1702932234,
         "streak": [
           {
             "points": 4,
@@ -20524,7 +20582,7 @@
         "popup": "bid",
         "short": "J. Costa",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/456.png?version=20150723163906",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/456.png?version=20231218214354",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       "15342": {
@@ -20944,7 +21002,7 @@
         "avg": 2.9,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1437662346,
+        "ts_pic": 1702932234,
         "streak": [
           {
             "points": 4,
@@ -20990,7 +21048,7 @@
         "popup": "bid",
         "short": "J. Costa",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/456.png?version=20150723163906",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/456.png?version=20231218214354",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -21176,7 +21234,7 @@
         "avg": 3.7,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1677077708,
+        "ts_pic": 1702932548,
         "streak": [
           {
             "points": "-",
@@ -21222,7 +21280,7 @@
         "popup": "bid",
         "short": "D. Rodríguez",
         "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17980.png?version=20230222155508",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17980.png?version=20231218214908",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -22381,7 +22439,7 @@
         "avg": 3.7,
         "status": "injury",
         "id_competition": 1,
-        "ts_pic": 1484046160,
+        "ts_pic": 1702932462,
         "streak": [
           {
             "points": 5,
@@ -22427,7 +22485,7 @@
         "popup": "bid",
         "short": "T. Lato",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20170110120240",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20231218214742",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       "54817": {
@@ -22963,7 +23021,7 @@
         "avg": 3.7,
         "status": "injury",
         "id_competition": 1,
-        "ts_pic": 1484046160,
+        "ts_pic": 1702932462,
         "streak": [
           {
             "points": 5,
@@ -23009,7 +23067,7 @@
         "popup": "bid",
         "short": "T. Lato",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20170110120240",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20231218214742",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -23980,12 +24038,12 @@
             "position": 3,
             "id_team": 408,
             "status": null,
-            "ts_pic": 1629735920,
+            "ts_pic": 1702932624,
             "played": 1,
             "short": "O. Mascarell",
             "bg": 2,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20210823182520",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
           }
         },
@@ -24014,12 +24072,12 @@
             "position": 4,
             "id_team": 11,
             "status": null,
-            "ts_pic": 1437662345,
+            "ts_pic": 1702931688,
             "played": 1,
             "short": "M. El Haddadi",
             "bg": 2,
             "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/79.png?version=20150723163905",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/79.png?version=20231218213448",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
           },
           "11": {
@@ -24750,7 +24808,7 @@
         "avg": 3,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1629735920,
+        "ts_pic": 1702932624,
         "streak": [
           {
             "points": 7,
@@ -24796,7 +24854,7 @@
         "popup": "bid",
         "short": "O. Mascarell",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20210823182520",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231218"
       },
       {
@@ -24924,7 +24982,7 @@
         "avg": 3.8,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1437662345,
+        "ts_pic": 1702931688,
         "streak": [
           {
             "points": 5,
@@ -24970,7 +25028,7 @@
         "popup": "bid",
         "short": "M. El Haddadi",
         "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/79.png?version=20150723163905",
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/79.png?version=20231218213448",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231218"
       },
       {
