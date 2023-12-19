@@ -7097,9 +7097,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118591,
+        "price": 160000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7109,12 +7109,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 160000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 160000
         },
         "barter": [],
         "popup": "bid",
@@ -7155,9 +7155,9 @@
         "floor": 4002000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118597,
+        "price": 2567000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7167,12 +7167,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2567000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2567000
         },
         "barter": [],
         "popup": "bid",
@@ -7273,9 +7273,9 @@
         "floor": 3300000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118559,
+        "price": 2622000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7285,12 +7285,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2622000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2622000
         },
         "barter": [],
         "popup": "bid",
@@ -7795,9 +7795,9 @@
         "floor": 1093500,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118577,
+        "price": 486000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7807,12 +7807,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 486000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 486000
         },
         "barter": [],
         "popup": "bid",
@@ -7853,9 +7853,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118591,
+        "price": 160000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7865,12 +7865,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 160000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 160000
         },
         "barter": [],
         "popup": "bid",
@@ -7969,9 +7969,9 @@
         "floor": 4002000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804118597,
+        "price": 2567000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -7981,12 +7981,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2567000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2567000
         },
         "barter": [],
         "popup": "bid",
@@ -8859,7 +8859,7 @@
         "id_team": 20,
         "points": 3,
         "avg": 3,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1515759124,
         "streak": [
@@ -9499,7 +9499,7 @@
         "id_team": 20,
         "points": 3,
         "avg": 3,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1515759124,
         "streak": [
@@ -10443,7 +10443,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 20,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702842260,
             "played": 1,
             "short": "A. Baena",
@@ -11170,7 +11170,7 @@
         "id_team": 20,
         "points": 81,
         "avg": 5.4,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842260,
         "streak": [
@@ -14742,7 +14742,7 @@
     "name": "Carlod ( pachukas f.c )",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c2bf3c52256.png",
     "played": "17 jug.",
-    "money": "93.320.000",
+    "money": "94.966.000",
     "points": 860,
     "lineup": {
       "positions": {
@@ -15281,6 +15281,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/561.png?version=20231218002841",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231219"
+      },
+      "7910": {
+        "id": 7910,
+        "name": "Christian Stuani",
+        "position": 4,
+        "id_team": 222,
+        "points": 86,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1500847997,
+        "streak": [
+          {
+            "points": 17,
+            "color": 4
+          },
+          {
+            "points": 14,
+            "color": 4
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 31,
+        "value": 5265000,
+        "prev_value": 5182000,
+        "last_points": "-",
+        "id_uc": 12054406,
+        "floor": 5265000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5265000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Stuani",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231219"
       },
       "52375": {
         "id": 52375,
@@ -16155,6 +16213,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231219"
       },
       {
+        "id": 7910,
+        "name": "Christian Stuani",
+        "position": 4,
+        "id_team": 222,
+        "points": 86,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1500847997,
+        "streak": [
+          {
+            "points": 17,
+            "color": 4
+          },
+          {
+            "points": 14,
+            "color": 4
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 31,
+        "value": 5265000,
+        "prev_value": 5182000,
+        "last_points": "-",
+        "id_uc": 12054406,
+        "floor": 5265000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5265000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Stuani",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231219"
+      },
+      {
         "id": 12916,
         "name": "Ezequiel Ávila",
         "position": 4,
@@ -16327,64 +16443,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55794.png?version=20231023092440",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231219"
-      },
-      {
-        "id": 36377,
-        "name": "Myrto Uzuni",
-        "position": 4,
-        "id_team": 10,
-        "points": 69,
-        "avg": 4.1,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1691770549,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 3619000,
-        "prev_value": 3644000,
-        "last_points": 3,
-        "id_uc": 12054406,
-        "floor": 5070000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11801479670,
-        "price": 4513955,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 4513955
-        },
-        "offer": {
-          "active": 0,
-          "input": 4513955
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Uzuni",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36377.png?version=20230811181549",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231219"
       }
     ],
     "gameweeks": {
@@ -17018,7 +17076,7 @@
         "id_team": 20,
         "points": 62,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1601803815,
         "streak": [
@@ -17449,9 +17507,9 @@
         "floor": 2896000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804120306,
+        "price": 1386000,
+        "public": 0,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -17461,12 +17519,12 @@
         "played": 0,
         "default": 3,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1386000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1386000
         },
         "barter": [],
         "popup": "bid",
@@ -17832,7 +17890,7 @@
         "id_team": 20,
         "points": 62,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1601803815,
         "streak": [
@@ -18495,9 +18553,9 @@
         "floor": 2896000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11804120306,
+        "price": 1386000,
+        "public": 0,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -18507,12 +18565,12 @@
         "played": 0,
         "default": 3,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1386000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1386000
         },
         "barter": [],
         "popup": "bid",
@@ -27425,7 +27483,7 @@
     "name": "Se Birla F.C",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c254d05c2ae.png",
     "played": "12 jug.",
-    "money": "61.285.000",
+    "money": "59.639.000",
     "points": 712,
     "lineup": {
       "positions": {
@@ -27791,36 +27849,36 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/24792.png?version=20231218181506",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231219"
       },
-      "7910": {
-        "id": 7910,
-        "name": "Christian Stuani",
+      "36377": {
+        "id": 36377,
+        "name": "Myrto Uzuni",
         "position": 4,
-        "id_team": 222,
-        "points": 86,
-        "avg": 5.4,
+        "id_team": 10,
+        "points": 69,
+        "avg": 4.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1500847997,
+        "ts_pic": 1691770549,
         "streak": [
           {
-            "points": 17,
-            "color": 4
+            "points": 2,
+            "color": 2
           },
           {
-            "points": 14,
-            "color": 4
+            "points": 2,
+            "color": 2
           },
           {
-            "points": "-",
-            "color": 0
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 31,
-        "value": 5265000,
-        "prev_value": 5182000,
-        "last_points": "-",
+        "streak_sum": 7,
+        "value": 3619000,
+        "prev_value": 3644000,
+        "last_points": 3,
         "id_uc": 12055602,
-        "floor": 9750004,
+        "floor": 3619000,
         "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
@@ -27832,11 +27890,11 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
-          "input": 5265000
+          "input": 3619000
         },
         "offer": {
           "active": 0,
@@ -27844,10 +27902,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "C. Stuani",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231219"
+        "short": "M. Uzuni",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36377.png?version=20230811181549",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231219"
       }
     },
     "team_now": [
@@ -28432,35 +28490,35 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231219"
       },
       {
-        "id": 7910,
-        "name": "Christian Stuani",
+        "id": 36377,
+        "name": "Myrto Uzuni",
         "position": 4,
-        "id_team": 222,
-        "points": 86,
-        "avg": 5.4,
+        "id_team": 10,
+        "points": 69,
+        "avg": 4.1,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1500847997,
+        "ts_pic": 1691770549,
         "streak": [
           {
-            "points": 17,
-            "color": 4
+            "points": 2,
+            "color": 2
           },
           {
-            "points": 14,
-            "color": 4
+            "points": 2,
+            "color": 2
           },
           {
-            "points": "-",
-            "color": 0
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 31,
-        "value": 5265000,
-        "prev_value": 5182000,
-        "last_points": "-",
+        "streak_sum": 7,
+        "value": 3619000,
+        "prev_value": 3644000,
+        "last_points": 3,
         "id_uc": 12055602,
-        "floor": 9750004,
+        "floor": 3619000,
         "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
@@ -28472,11 +28530,11 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
-          "input": 5265000
+          "input": 3619000
         },
         "offer": {
           "active": 0,
@@ -28484,10 +28542,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "C. Stuani",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7910.png?version=20170724001317",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231219"
+        "short": "M. Uzuni",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36377.png?version=20230811181549",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231219"
       },
       {
         "id": 48684,
