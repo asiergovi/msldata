@@ -982,7 +982,7 @@
         "last_points": 15,
         "id_uc": 12067022,
         "floor": 5853000,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -994,7 +994,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 5853000
@@ -4496,7 +4496,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 16,
-            "status": "other",
+            "status": "injury",
             "ts_pic": 1692526483,
             "played": 0,
             "short": "A. Zakharyan",
@@ -5174,7 +5174,7 @@
         "floor": 7318000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11807880414,
+        "id_market": 11808922995,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -5323,7 +5323,7 @@
         "id_team": 16,
         "points": 37,
         "avg": 3.4,
-        "status": "other",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1692526483,
         "streak": [
@@ -5870,7 +5870,7 @@
         "floor": 15087580,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11807880426,
+        "id_market": 11808923028,
         "price": 15000000,
         "public": 1,
         "bid": null,
@@ -13094,9 +13094,9 @@
         "floor": 15058500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11808916396,
+        "price": 20678406,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -13106,12 +13106,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 10517000
+          "active": 1,
+          "input": 20678406
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20678406
         },
         "barter": [],
         "popup": "bid",
@@ -13560,9 +13560,9 @@
         "floor": 666666.6666666666,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11808916428,
+        "price": 1709364,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -13572,12 +13572,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 190000
+          "active": 1,
+          "input": 1709364
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1709364
         },
         "barter": [],
         "popup": "bid",
@@ -13966,9 +13966,9 @@
         "floor": 15058500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11808916396,
+        "price": 20678406,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -13978,12 +13978,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 10517000
+          "active": 1,
+          "input": 20678406
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20678406
         },
         "barter": [],
         "popup": "bid",
@@ -14082,9 +14082,9 @@
         "floor": 11432000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11808916363,
+        "price": 11661350,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -14094,12 +14094,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4084000
+          "active": 1,
+          "input": 11661350
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 11661350
         },
         "barter": [],
         "popup": "bid",
