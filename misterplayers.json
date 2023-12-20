@@ -4824,7 +4824,7 @@
         "floor": 20000000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11805445599,
+        "id_market": 11807880421,
         "price": 20000000,
         "public": 1,
         "bid": null,
@@ -5174,7 +5174,7 @@
         "floor": 7318000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11805462560,
+        "id_market": 11807880414,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -5232,9 +5232,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11807880464,
+        "price": 188000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5244,12 +5244,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 188000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 188000
         },
         "barter": [],
         "popup": "bid",
@@ -5290,7 +5290,7 @@
         "floor": 4614000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11805445688,
+        "id_market": 11807880418,
         "price": 6650000,
         "public": 1,
         "bid": null,
@@ -5348,7 +5348,7 @@
         "floor": 3000000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": 11805445676,
+        "id_market": 11807880435,
         "price": 8200000,
         "public": 1,
         "bid": null,
@@ -5406,7 +5406,7 @@
         "floor": 1566000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": 11805445563,
+        "id_market": 11807880417,
         "price": 4300000,
         "public": 1,
         "bid": null,
@@ -5580,7 +5580,7 @@
         "floor": 20000000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11805445599,
+        "id_market": 11807880421,
         "price": 20000000,
         "public": 1,
         "bid": null,
@@ -5696,9 +5696,9 @@
         "floor": 903000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11807880475,
+        "price": 313000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5708,12 +5708,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 313000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 313000
         },
         "barter": [],
         "popup": "bid",
@@ -5870,7 +5870,7 @@
         "floor": 15087580,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11805462244,
+        "id_market": 11807880426,
         "price": 28000000,
         "public": 1,
         "bid": null,
@@ -6836,7 +6836,7 @@
         "id_team": 20,
         "points": 124,
         "avg": 8.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1700230400,
         "streak": [
@@ -7766,7 +7766,7 @@
         "id_team": 20,
         "points": 124,
         "avg": 8.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1700230400,
         "streak": [
@@ -9956,8 +9956,8 @@
     "id": "12054755",
     "name": "Fran (Coca Juniors F.C.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/655280701e71b.png",
-    "played": "13 jug.",
-    "money": "111.507.000",
+    "played": "12 jug.",
+    "money": "100.743.000",
     "points": 890,
     "lineup": {
       "positions": {
@@ -10904,64 +10904,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14762.png?version=20230802152915",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231220"
-      },
-      {
-        "id": 49341,
-        "name": "Jørgen Strand Larsen",
-        "position": 4,
-        "id_team": 5,
-        "points": 95,
-        "avg": 5.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702919215,
-        "streak": [
-          {
-            "points": 12,
-            "color": 4
-          },
-          {
-            "points": 1,
-            "color": 2
-          },
-          {
-            "points": 10,
-            "color": 4
-          }
-        ],
-        "streak_sum": 23,
-        "value": 10764000,
-        "prev_value": 10684000,
-        "last_points": "?",
-        "id_uc": 12054755,
-        "floor": 17850000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 10764000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Strand Larsen",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49341.png?version=20231218180655",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231220"
       },
       {
         "id": 1684,
@@ -13965,7 +13907,7 @@
         "last_points": 5,
         "id_uc": 12054406,
         "floor": 13554000,
-        "multiplier": 2,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -13977,7 +13919,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 10068000
@@ -25447,8 +25389,8 @@
     "id": "12054509",
     "name": "Peter Crouch FanClub",
     "img": "",
-    "played": "15 jug.",
-    "money": "73.026.000",
+    "played": "16 jug.",
+    "money": "83.790.000",
     "points": 748,
     "lineup": {
       "positions": {
@@ -25870,6 +25812,64 @@
         "short": "R. Tapia",
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22543.png?version=20231218173118",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231220"
+      },
+      "49341": {
+        "id": 49341,
+        "name": "Jørgen Strand Larsen",
+        "position": 4,
+        "id_team": 5,
+        "points": 95,
+        "avg": 5.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919215,
+        "streak": [
+          {
+            "points": 12,
+            "color": 4
+          },
+          {
+            "points": 1,
+            "color": 2
+          },
+          {
+            "points": 10,
+            "color": 4
+          }
+        ],
+        "streak_sum": 23,
+        "value": 10764000,
+        "prev_value": 10684000,
+        "last_points": "?",
+        "id_uc": 12054509,
+        "floor": 26775000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10764000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Strand Larsen",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49341.png?version=20231218180655",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231220"
       }
     },
@@ -26626,6 +26626,64 @@
         "short": "R. Tapia",
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22543.png?version=20231218173118",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231220"
+      },
+      {
+        "id": 49341,
+        "name": "Jørgen Strand Larsen",
+        "position": 4,
+        "id_team": 5,
+        "points": 95,
+        "avg": 5.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919215,
+        "streak": [
+          {
+            "points": 12,
+            "color": 4
+          },
+          {
+            "points": 1,
+            "color": 2
+          },
+          {
+            "points": 10,
+            "color": 4
+          }
+        ],
+        "streak_sum": 23,
+        "value": 10764000,
+        "prev_value": 10684000,
+        "last_points": "?",
+        "id_uc": 12054509,
+        "floor": 26775000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10764000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Strand Larsen",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49341.png?version=20231218180655",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231220"
       },
       {
