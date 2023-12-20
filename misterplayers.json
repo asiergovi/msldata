@@ -5871,7 +5871,7 @@
         "multiplier": 2,
         "shield": 0,
         "id_market": 11807880426,
-        "price": 28000000,
+        "price": 18000000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5883,11 +5883,11 @@
         "default": 1,
         "market": {
           "active": 1,
-          "input": 28000000
+          "input": 18000000
         },
         "offer": {
           "active": 0,
-          "input": 28000000
+          "input": 18000000
         },
         "barter": [],
         "popup": "bid",
@@ -8430,7 +8430,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 15,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702458936,
             "played": 0,
             "short": "Joselu",
@@ -9571,7 +9571,7 @@
         "id_team": 15,
         "points": 87,
         "avg": 5.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702458936,
         "streak": [
@@ -13559,7 +13559,7 @@
         "last_points": 4,
         "id_uc": 12054406,
         "floor": 11161000,
-        "multiplier": 2,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -13571,7 +13571,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 11161000
@@ -14788,7 +14788,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 15,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1702887967,
             "played": 0,
             "short": "F. Valverde",
@@ -15283,7 +15283,7 @@
         "id_team": 15,
         "points": 118,
         "avg": 6.9,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702887967,
         "streak": [
@@ -18334,7 +18334,7 @@
         "last_points": "?",
         "id_uc": 12054815,
         "floor": 710000,
-        "multiplier": 4,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -18682,7 +18682,7 @@
         "last_points": "?",
         "id_uc": 12054815,
         "floor": 2896000,
-        "multiplier": 3,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11804120306,
         "price": 1386000,
@@ -18694,7 +18694,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 1386000
@@ -19322,7 +19322,7 @@
         "last_points": "?",
         "id_uc": 12054815,
         "floor": 710000,
-        "multiplier": 4,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -19902,7 +19902,7 @@
         "last_points": "?",
         "id_uc": 12054815,
         "floor": 2896000,
-        "multiplier": 3,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11804120306,
         "price": 1386000,
@@ -19914,7 +19914,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 1386000
