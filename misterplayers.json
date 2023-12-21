@@ -4766,9 +4766,9 @@
         "floor": 10685000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812447810,
+        "price": 18000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4778,12 +4778,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
-          "input": 9989000
+          "active": 1,
+          "input": 18000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 18000000
         },
         "barter": [],
         "popup": "bid",
@@ -4882,8 +4882,8 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11801488681,
-        "price": 2936000,
+        "id_market": 11812448357,
+        "price": 4500000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -4895,11 +4895,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 2936000
+          "input": 4500000
         },
         "offer": {
           "active": 0,
-          "input": 2936000
+          "input": 4500000
         },
         "barter": [],
         "popup": "bid",
@@ -5348,9 +5348,9 @@
         "floor": 10685000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812447810,
+        "price": 18000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5360,12 +5360,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
-          "input": 9989000
+          "active": 1,
+          "input": 18000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 18000000
         },
         "barter": [],
         "popup": "bid",
@@ -5464,8 +5464,8 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11801488681,
-        "price": 2936000,
+        "id_market": 11812448357,
+        "price": 4500000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5477,11 +5477,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 2936000
+          "input": 4500000
         },
         "offer": {
           "active": 0,
-          "input": 2936000
+          "input": 4500000
         },
         "barter": [],
         "popup": "bid",
@@ -5810,7 +5810,7 @@
         "last_points": 3,
         "id_uc": 12054468,
         "floor": 15087580,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11811318028,
         "price": 15000000,
@@ -5822,7 +5822,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 15000000
@@ -10439,6 +10439,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/29169.png?version=20210722090439",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231221"
       },
+      "343": {
+        "id": 343,
+        "name": "Toni Kroos",
+        "position": 3,
+        "id_team": 15,
+        "points": 132,
+        "avg": 7.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703154250,
+        "streak": [
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 26,
+        "value": 16927000,
+        "prev_value": 16851000,
+        "last_points": "?",
+        "id_uc": 12067027,
+        "floor": 49551750,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 16927000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "T. Kroos",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/343.png?version=20231221112410",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
+      },
       "229": {
         "id": 229,
         "name": "Darwin Machís",
@@ -11196,6 +11254,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231221"
       },
       {
+        "id": 343,
+        "name": "Toni Kroos",
+        "position": 3,
+        "id_team": 15,
+        "points": 132,
+        "avg": 7.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703154250,
+        "streak": [
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 26,
+        "value": 16927000,
+        "prev_value": 16851000,
+        "last_points": "?",
+        "id_uc": 12067027,
+        "floor": 49551750,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 16927000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "T. Kroos",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/343.png?version=20231221112410",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
+      },
+      {
         "id": 31355,
         "name": "Alexander Sørloth",
         "position": 4,
@@ -11227,9 +11343,9 @@
         "floor": 26377812,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812450579,
+        "price": 10178000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -11239,12 +11355,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 10178000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 10178000
         },
         "barter": [],
         "popup": "bid",
@@ -11343,9 +11459,9 @@
         "floor": 46419570,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812450576,
+        "price": 13590000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -11355,12 +11471,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 13590000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 13590000
         },
         "barter": [],
         "popup": "bid",
@@ -17546,64 +17662,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231221"
       },
       {
-        "id": 343,
-        "name": "Toni Kroos",
-        "position": 3,
-        "id_team": 15,
-        "points": 132,
-        "avg": 7.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703154250,
-        "streak": [
-          {
-            "points": 10,
-            "color": 4
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          }
-        ],
-        "streak_sum": 26,
-        "value": 16927000,
-        "prev_value": 16851000,
-        "last_points": "?",
-        "id_uc": 12055022,
-        "floor": 33034500,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 16927000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "T. Kroos",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/343.png?version=20231221112410",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
-      },
-      {
         "id": 33734,
         "name": "Abde Ezzalzouli",
         "position": 4,
@@ -22700,9 +22758,9 @@
         "floor": 5115000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812451310,
+        "price": 3375000,
+        "public": 0,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -22712,12 +22770,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 3375000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 3375000
         },
         "barter": [],
         "popup": "bid",
@@ -23166,9 +23224,9 @@
         "floor": 5115000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812451310,
+        "price": 3375000,
+        "public": 0,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -23178,12 +23236,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 3375000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 3375000
         },
         "barter": [],
         "popup": "bid",
