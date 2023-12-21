@@ -574,7 +574,7 @@
         "last_points": "-",
         "id_uc": 12067022,
         "floor": 23127000,
-        "multiplier": 3,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -586,7 +586,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 15106000
@@ -1156,7 +1156,7 @@
         "last_points": 9,
         "id_uc": 12067022,
         "floor": 19513500,
-        "multiplier": 3,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1168,7 +1168,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 15843000
@@ -1562,7 +1562,7 @@
         "last_points": "-",
         "id_uc": 12067022,
         "floor": 23127000,
-        "multiplier": 3,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1574,7 +1574,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 15106000
@@ -4708,7 +4708,7 @@
         "floor": 1000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11812446786,
+        "id_market": 11812589534,
         "price": 472000,
         "public": 1,
         "bid": null,
@@ -4882,7 +4882,7 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812448357,
+        "id_market": 11812589741,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -5116,7 +5116,7 @@
         "floor": 1000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11812446786,
+        "id_market": 11812589534,
         "price": 472000,
         "public": 1,
         "bid": null,
@@ -5174,7 +5174,7 @@
         "floor": 7452000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11811318012,
+        "id_market": 11812589701,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -5230,9 +5230,9 @@
         "last_points": "?",
         "id_uc": 12054468,
         "floor": 3000000,
-        "multiplier": 3,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812446822,
+        "id_market": 11812589559,
         "price": 8200000,
         "public": 1,
         "bid": null,
@@ -5242,7 +5242,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 8200000
@@ -5290,7 +5290,7 @@
         "floor": 1566000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": 11812446769,
+        "id_market": 11812589690,
         "price": 4300000,
         "public": 1,
         "bid": null,
@@ -5464,7 +5464,7 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812448357,
+        "id_market": 11812589741,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -5638,7 +5638,7 @@
         "floor": 903000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812446820,
+        "id_market": 11812589546,
         "price": 313000,
         "public": 1,
         "bid": null,
@@ -9956,8 +9956,8 @@
     "id": "12067027",
     "name": "Jose (Biscarrués C.F.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c1641dbf205.png",
-    "played": "16 jug.",
-    "money": "85.897.000",
+    "played": "17 jug.",
+    "money": "102.824.000",
     "points": 910,
     "lineup": {
       "positions": {
@@ -10239,9 +10239,9 @@
         "floor": 3000000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812588627,
+        "price": 1382000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -10251,12 +10251,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1382000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1382000
         },
         "barter": [],
         "popup": "bid",
@@ -10647,9 +10647,9 @@
         "floor": 3300000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812588585,
+        "price": 2424000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -10659,12 +10659,12 @@
         "played": 1,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2424000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2424000
         },
         "barter": [],
         "popup": "bid",
@@ -10879,9 +10879,9 @@
         "floor": 3000000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11812588627,
+        "price": 1382000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -10891,12 +10891,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1382000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1382000
         },
         "barter": [],
         "popup": "bid",
@@ -11343,9 +11343,9 @@
         "floor": 26377812,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812450579,
-        "price": 10178000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -11355,12 +11355,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 1,
+          "active": 0,
           "input": 10178000
         },
         "offer": {
           "active": 0,
-          "input": 10178000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -11460,7 +11460,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11812450576,
-        "price": 13590000,
+        "price": 35000000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -11472,11 +11472,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 13590000
+          "input": 35000000
         },
         "offer": {
           "active": 0,
-          "input": 13590000
+          "input": 35000000
         },
         "barter": [],
         "popup": "bid",
@@ -13856,8 +13856,8 @@
     "id": "12069044",
     "name": "Cuzz ( FC Cuzzyroos 🦘)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/63a21583e5a0f.png",
-    "played": "13 jug.",
-    "money": "123.799.000",
+    "played": "12 jug.",
+    "money": "104.788.000",
     "points": 895,
     "lineup": {
       "positions": {
@@ -14456,64 +14456,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53107.png?version=20231218212532",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231221"
-      },
-      {
-        "id": 7024,
-        "name": "Fede Valverde",
-        "position": 3,
-        "id_team": 15,
-        "points": 118,
-        "avg": 6.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702887967,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 17,
-        "value": 19011000,
-        "prev_value": 18943000,
-        "last_points": "?",
-        "id_uc": 12069044,
-        "floor": 36675582,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 19011000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. Valverde",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7024.png?version=20231218092607",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
       },
       {
         "id": 49350,
@@ -16539,7 +16481,7 @@
     "name": "Asier (Real Suciedad)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c21d6f7e092.png",
     "played": "16 jug.",
-    "money": "118.259.000",
+    "money": "120.343.000",
     "points": 873,
     "lineup": {
       "positions": {
@@ -16904,6 +16846,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/12944.png?version=20231217235350",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231221"
+      },
+      "7024": {
+        "id": 7024,
+        "name": "Fede Valverde",
+        "position": 3,
+        "id_team": 15,
+        "points": 118,
+        "avg": 6.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702887967,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 17,
+        "value": 19011000,
+        "prev_value": 18943000,
+        "last_points": "?",
+        "id_uc": 12055022,
+        "floor": 55013373,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 19011000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. Valverde",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7024.png?version=20231218092607",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
       },
       "5916": {
         "id": 5916,
@@ -17486,6 +17486,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/12944.png?version=20231217235350",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231221"
+      },
+      {
+        "id": 7024,
+        "name": "Fede Valverde",
+        "position": 3,
+        "id_team": 15,
+        "points": 118,
+        "avg": 6.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702887967,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 17,
+        "value": 19011000,
+        "prev_value": 18943000,
+        "last_points": "?",
+        "id_uc": 12055022,
+        "floor": 55013373,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 19011000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. Valverde",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7024.png?version=20231218092607",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
       },
       {
         "id": 53407,
@@ -19266,7 +19324,7 @@
         "floor": 4988000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11810071097,
+        "id_market": 11812592641,
         "price": 3145000,
         "public": 1,
         "bid": null,
@@ -20252,7 +20310,7 @@
         "floor": 23463000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11810084186,
+        "id_market": 11812592648,
         "price": 20921793,
         "public": 1,
         "bid": null,
