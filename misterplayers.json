@@ -4824,7 +4824,7 @@
         "floor": 1000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11812589534,
+        "id_market": 11815954792,
         "price": 472000,
         "public": 1,
         "bid": null,
@@ -4880,7 +4880,7 @@
         "last_points": "-",
         "id_uc": 12054468,
         "floor": 10685000,
-        "multiplier": 2.5,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11812447810,
         "price": 18000000,
@@ -4892,7 +4892,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 2,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 18000000
@@ -4998,7 +4998,7 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812589741,
+        "id_market": 11815952501,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -5232,7 +5232,7 @@
         "floor": 1000000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11812589534,
+        "id_market": 11815954792,
         "price": 472000,
         "public": 1,
         "bid": null,
@@ -5290,7 +5290,7 @@
         "floor": 7585000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812589701,
+        "id_market": 11815954674,
         "price": 9000000,
         "public": 1,
         "bid": null,
@@ -5348,7 +5348,7 @@
         "floor": 1566000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812589690,
+        "id_market": 11815954686,
         "price": 4300000,
         "public": 1,
         "bid": null,
@@ -5404,7 +5404,7 @@
         "last_points": "-",
         "id_uc": 12054468,
         "floor": 10685000,
-        "multiplier": 2.5,
+        "multiplier": 1.5,
         "shield": 0,
         "id_market": 11812447810,
         "price": 18000000,
@@ -5416,7 +5416,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 2,
+        "default": 0,
         "market": {
           "active": 1,
           "input": 18000000
@@ -5522,7 +5522,7 @@
         "floor": 4750000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11812589741,
+        "id_market": 11815952501,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -5813,7 +5813,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11811318028,
-        "price": 15000000,
+        "price": 6075000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5825,11 +5825,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 15000000
+          "input": 6075000
         },
         "offer": {
           "active": 0,
-          "input": 15000000
+          "input": 6075000
         },
         "barter": [],
         "popup": "bid",
@@ -12940,6 +12940,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231222"
       },
+      "24792": {
+        "id": 24792,
+        "name": "Juan Iglesias",
+        "position": 2,
+        "id_team": 9,
+        "points": 58,
+        "avg": 4.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919706,
+        "streak": [
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 2,
+            "color": 2
+          }
+        ],
+        "streak_sum": 19,
+        "value": 1218000,
+        "prev_value": 1190000,
+        "last_points": 2,
+        "id_uc": 12054406,
+        "floor": 1218000,
+        "multiplier": 3.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1218000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Iglesias",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/24792.png?version=20231218181506",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231222"
+      },
       "4753": {
         "id": 4753,
         "name": "Yeray Álvarez",
@@ -13463,6 +13521,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231222"
+      },
+      {
+        "id": 24792,
+        "name": "Juan Iglesias",
+        "position": 2,
+        "id_team": 9,
+        "points": 58,
+        "avg": 4.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919706,
+        "streak": [
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 2,
+            "color": 2
+          }
+        ],
+        "streak_sum": 19,
+        "value": 1218000,
+        "prev_value": 1190000,
+        "last_points": 2,
+        "id_uc": 12054406,
+        "floor": 1218000,
+        "multiplier": 3.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1218000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Iglesias",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/24792.png?version=20231218181506",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231222"
       },
       {
         "id": 7843,
@@ -28896,64 +29012,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/536.png?version=20231218000824",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231222"
-      },
-      {
-        "id": 24792,
-        "name": "Juan Iglesias",
-        "position": 2,
-        "id_team": 9,
-        "points": 58,
-        "avg": 4.1,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702919706,
-        "streak": [
-          {
-            "points": 9,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": 2,
-            "color": 2
-          }
-        ],
-        "streak_sum": 19,
-        "value": 1218000,
-        "prev_value": 1190000,
-        "last_points": 2,
-        "id_uc": 12055602,
-        "floor": 1218000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1218000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Iglesias",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/24792.png?version=20231218181506",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231222"
       },
       {
         "id": 28778,
