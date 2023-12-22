@@ -1,8 +1,23 @@
 [
   {
+    "id": 15,
+    "name": "Real Madrid",
+    "pos": 1,
+    "points": 45,
+    "played": 18,
+    "won": 14,
+    "draw": 3,
+    "lost": 1,
+    "goals_for": 39,
+    "goals_against": 11,
+    "diff": 28,
+    "zone": "CL",
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231222"
+  },
+  {
     "id": 222,
     "name": "Girona",
-    "pos": 1,
+    "pos": 2,
     "points": 45,
     "played": 18,
     "won": 14,
@@ -12,22 +27,7 @@
     "goals_against": 21,
     "diff": 21,
     "zone": "CL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231221"
-  },
-  {
-    "id": 15,
-    "name": "Real Madrid",
-    "pos": 2,
-    "points": 43,
-    "played": 18,
-    "won": 13,
-    "draw": 4,
-    "lost": 1,
-    "goals_for": 38,
-    "goals_against": 11,
-    "diff": 27,
-    "zone": "CL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20231222"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "goals_against": 21,
     "diff": 13,
     "zone": "CL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20231222"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "goals_against": 19,
     "diff": 16,
     "zone": "CL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20231222"
   },
   {
     "id": 1,
@@ -72,7 +72,7 @@
     "goals_against": 19,
     "diff": 15,
     "zone": "EuroL",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20231222"
   },
   {
     "id": 16,
@@ -87,7 +87,7 @@
     "goals_against": 18,
     "diff": 11,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20231222"
   },
   {
     "id": 4,
@@ -102,7 +102,7 @@
     "goals_against": 18,
     "diff": 2,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20231222"
   },
   {
     "id": 9,
@@ -117,7 +117,7 @@
     "goals_against": 23,
     "diff": 1,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20231222"
   },
   {
     "id": 11,
@@ -132,7 +132,7 @@
     "goals_against": 15,
     "diff": 0,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20231222"
   },
   {
     "id": 19,
@@ -147,7 +147,7 @@
     "goals_against": 22,
     "diff": -3,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20231222"
   },
   {
     "id": 14,
@@ -162,12 +162,27 @@
     "goals_against": 24,
     "diff": -8,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20231222"
+  },
+  {
+    "id": 50,
+    "name": "Osasuna",
+    "pos": 12,
+    "points": 19,
+    "played": 18,
+    "won": 5,
+    "draw": 4,
+    "lost": 9,
+    "goals_for": 21,
+    "goals_against": 29,
+    "diff": -8,
+    "zone": null,
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231222"
   },
   {
     "id": 20,
     "name": "Villarreal",
-    "pos": 12,
+    "pos": 13,
     "points": 19,
     "played": 18,
     "won": 5,
@@ -177,22 +192,7 @@
     "goals_against": 35,
     "diff": -9,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231221"
-  },
-  {
-    "id": 50,
-    "name": "Osasuna",
-    "pos": 13,
-    "points": 19,
-    "played": 18,
-    "won": 5,
-    "draw": 4,
-    "lost": 9,
-    "goals_for": 20,
-    "goals_against": 29,
-    "diff": -9,
-    "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20231222"
   },
   {
     "id": 408,
@@ -204,30 +204,15 @@
     "draw": 9,
     "lost": 6,
     "goals_for": 17,
-    "goals_against": 21,
-    "diff": -4,
+    "goals_against": 22,
+    "diff": -5,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231221"
-  },
-  {
-    "id": 48,
-    "name": "Alavés",
-    "pos": 15,
-    "points": 17,
-    "played": 18,
-    "won": 4,
-    "draw": 5,
-    "lost": 9,
-    "goals_for": 14,
-    "goals_against": 23,
-    "diff": -9,
-    "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20231222"
   },
   {
     "id": 17,
     "name": "Sevilla",
-    "pos": 16,
+    "pos": 15,
     "points": 16,
     "played": 17,
     "won": 3,
@@ -237,7 +222,22 @@
     "goals_against": 24,
     "diff": -1,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20231222"
+  },
+  {
+    "id": 48,
+    "name": "Alavés",
+    "pos": 16,
+    "points": 16,
+    "played": 18,
+    "won": 4,
+    "draw": 4,
+    "lost": 10,
+    "goals_for": 14,
+    "goals_against": 24,
+    "diff": -10,
+    "zone": null,
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20231222"
   },
   {
     "id": 499,
@@ -252,7 +252,7 @@
     "goals_against": 24,
     "diff": -10,
     "zone": null,
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20231222"
   },
   {
     "id": 5,
@@ -267,7 +267,7 @@
     "goals_against": 28,
     "diff": -10,
     "zone": "releg",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20231222"
   },
   {
     "id": 10,
@@ -282,7 +282,7 @@
     "goals_against": 40,
     "diff": -20,
     "zone": "releg",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20231222"
   },
   {
     "id": 21,
@@ -297,6 +297,6 @@
     "goals_against": 42,
     "diff": -23,
     "zone": "releg",
-    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231221"
+    "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20231222"
   }
 ]
