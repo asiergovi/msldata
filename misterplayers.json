@@ -7959,7 +7959,7 @@
         "id_team": 5,
         "points": 25,
         "avg": 4.2,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702914523,
         "streak": [
@@ -8483,7 +8483,7 @@
         "id_team": 5,
         "points": 25,
         "avg": 4.2,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702914523,
         "streak": [
@@ -9837,7 +9837,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 1,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1700229990,
             "played": 1,
             "short": "N. Williams",
@@ -10886,7 +10886,7 @@
         "id_team": 1,
         "points": 111,
         "avg": 6.9,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1700229990,
         "streak": [
@@ -13453,9 +13453,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11880929558,
+        "price": 200000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -13465,12 +13465,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 200000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 200000
         },
         "barter": [],
         "popup": "bid",
@@ -14035,9 +14035,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11880929558,
+        "price": 200000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -14047,12 +14047,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 200000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 200000
         },
         "barter": [],
         "popup": "bid",
@@ -25236,7 +25236,7 @@
         "id_team": 11,
         "points": 82,
         "avg": 5.1,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1701794758,
         "streak": [
@@ -25934,7 +25934,7 @@
         "id_team": 11,
         "points": 82,
         "avg": 5.1,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1701794758,
         "streak": [
@@ -29051,7 +29051,7 @@
             "slot": 5,
             "position": 2,
             "id_team": 17,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1626593407,
             "played": 1,
             "short": "J. Sánchez",
@@ -29812,7 +29812,7 @@
         "id_team": 17,
         "points": 71,
         "avg": 5.5,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1626593407,
         "streak": [
