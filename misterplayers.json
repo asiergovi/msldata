@@ -4180,7 +4180,7 @@
             "slot": 9,
             "position": 4,
             "id_team": 20,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1704015338,
             "played": 1,
             "short": "G. Moreno",
@@ -5047,7 +5047,7 @@
         "id_team": 20,
         "points": 137,
         "avg": 8.1,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1704015338,
         "streak": [
@@ -20032,9 +20032,9 @@
         "floor": 7095952,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11910061657,
+        "price": 5019000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -20044,12 +20044,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 819000
+          "active": 1,
+          "input": 5019000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5019000
         },
         "barter": [],
         "popup": "bid",
@@ -22482,7 +22482,7 @@
             "slot": 6,
             "position": 3,
             "id_team": 1,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1623323343,
             "played": 1,
             "short": "I. Ruiz De Galarreta",
@@ -23689,7 +23689,7 @@
         "id_team": 1,
         "points": 77,
         "avg": 5.1,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1623323343,
         "streak": [
@@ -28630,7 +28630,7 @@
         "id_team": 20,
         "points": 13,
         "avg": 3.3,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703282257,
         "streak": [
@@ -29560,7 +29560,7 @@
         "id_team": 20,
         "points": 13,
         "avg": 3.3,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703282257,
         "streak": [
