@@ -2491,7 +2491,7 @@
         "last_points": 13,
         "id_uc": 12054777,
         "floor": 7305000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2503,7 +2503,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 5650000
@@ -3247,7 +3247,7 @@
         "last_points": 13,
         "id_uc": 12054777,
         "floor": 7305000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -3259,7 +3259,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 5650000
@@ -7259,7 +7259,7 @@
         "type": "regular",
         "status": "started",
         "points": 18,
-        "rank": 11,
+        "rank": 13,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -16148,7 +16148,7 @@
         "type": "regular",
         "status": "started",
         "points": 18,
-        "rank": 13,
+        "rank": 12,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -16328,8 +16328,8 @@
     "id": "12054485",
     "name": "Josep (FC La Celeneta)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305517412de7.png",
-    "played": "19 jugadores",
-    "money": "101.941.000",
+    "played": "18 jugadores",
+    "money": "100.774.000",
     "points": 1007,
     "lineup": {
       "positions": {
@@ -18030,64 +18030,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/13971.png?version=20231218213332",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/11.png?version=20240121"
-      },
-      {
-        "id": 22591,
-        "name": "Rafa Mir",
-        "position": 4,
-        "id_team": 17,
-        "points": 52,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703281050,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 9,
-            "color": 3
-          }
-        ],
-        "streak_sum": 14,
-        "value": 1167000,
-        "prev_value": 1144000,
-        "last_points": "?",
-        "id_uc": 12054485,
-        "floor": 2844000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1167000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "R. Mir",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22591.png?version=20231222223730",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240121"
       }
     ],
     "gameweeks": {
@@ -18297,7 +18239,7 @@
         "type": "regular",
         "status": "started",
         "points": 20,
-        "rank": 10,
+        "rank": 9,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -24164,7 +24106,7 @@
         "type": "regular",
         "status": "started",
         "points": 20,
-        "rank": 9,
+        "rank": 10,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -26261,8 +26203,8 @@
     "id": "12054484",
     "name": "Carlos López (Orgasmus united)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305e07b217d6.png",
-    "played": "17 jugadores",
-    "money": "68.012.000",
+    "played": "18 jugadores",
+    "money": "69.179.000",
     "points": 887,
     "lineup": {
       "positions": {
@@ -26743,6 +26685,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48194.png?version=20231218173155",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240121"
+      },
+      "22591": {
+        "id": 22591,
+        "name": "Rafa Mir",
+        "position": 4,
+        "id_team": 17,
+        "points": 52,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703281050,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 9,
+            "color": 3
+          }
+        ],
+        "streak_sum": 14,
+        "value": 1167000,
+        "prev_value": 1144000,
+        "last_points": "?",
+        "id_uc": 12054484,
+        "floor": 4266000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1167000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "R. Mir",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22591.png?version=20231222223730",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240121"
       },
       "36371": {
         "id": 36371,
@@ -27706,6 +27706,64 @@
         "floor": 3480000,
         "multiplier": 1.5,
         "shield": 0,
+        "id_market": 11915266946,
+        "price": 1294899,
+        "public": 1,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 1,
+          "input": 1294899
+        },
+        "offer": {
+          "active": 0,
+          "input": 1294899
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Gómez",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6042.png?version=20230823000437",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240121"
+      },
+      {
+        "id": 22591,
+        "name": "Rafa Mir",
+        "position": 4,
+        "id_team": 17,
+        "points": 52,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703281050,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 9,
+            "color": 3
+          }
+        ],
+        "streak_sum": 14,
+        "value": 1167000,
+        "prev_value": 1144000,
+        "last_points": "?",
+        "id_uc": 12054484,
+        "floor": 4266000,
+        "multiplier": 1.5,
+        "shield": 0,
         "id_market": null,
         "price": null,
         "public": null,
@@ -27719,7 +27777,7 @@
         "default": 0,
         "market": {
           "active": 0,
-          "input": 1018000
+          "input": 1167000
         },
         "offer": {
           "active": 0,
@@ -27727,10 +27785,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "M. Gómez",
+        "short": "R. Mir",
         "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6042.png?version=20230823000437",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240121"
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22591.png?version=20231222223730",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240121"
       },
       {
         "id": 36371,
@@ -27998,7 +28056,7 @@
         "type": "regular",
         "status": "started",
         "points": 18,
-        "rank": 12,
+        "rank": 11,
         "negative": 0,
         "formation": "1-4-4-2"
       }
