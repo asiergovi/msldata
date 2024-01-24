@@ -2183,7 +2183,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 16,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1693205325,
             "played": 1,
             "short": "K. Tierney",
@@ -2315,7 +2315,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 2,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1700230075,
             "played": 1,
             "short": "A. Griezmann",
@@ -2349,7 +2349,7 @@
         "id": 15693,
         "name": "Javi Galán",
         "position": 2,
-        "id_team": 2,
+        "id_team": 16,
         "points": 17,
         "avg": 3.4,
         "status": null,
@@ -2401,7 +2401,7 @@
         "short": "J. Galán",
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20231218002335",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240124"
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240124"
       },
       "5": {
         "id": 5,
@@ -2410,7 +2410,7 @@
         "id_team": 1,
         "points": 73,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702854542,
         "streak": [
@@ -3047,7 +3047,7 @@
         "id": 15693,
         "name": "Javi Galán",
         "position": 2,
-        "id_team": 2,
+        "id_team": 16,
         "points": 17,
         "avg": 3.4,
         "status": null,
@@ -3099,7 +3099,7 @@
         "short": "J. Galán",
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20231218002335",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240124"
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240124"
       },
       {
         "id": 55519,
@@ -3108,7 +3108,7 @@
         "id_team": 16,
         "points": 52,
         "avg": 4.7,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693205325,
         "streak": [
@@ -3224,7 +3224,7 @@
         "id_team": 1,
         "points": 73,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702854542,
         "streak": [
@@ -3920,7 +3920,7 @@
         "id_team": 2,
         "points": 173,
         "avg": 8.7,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1700230075,
         "streak": [
@@ -4778,7 +4778,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 1,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1471956529,
             "played": 0,
             "short": "M. Vesga",
@@ -5895,7 +5895,7 @@
         "id_team": 1,
         "points": 71,
         "avg": 4.7,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1471956529,
         "streak": [
@@ -12343,7 +12343,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -12983,7 +12983,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -15154,7 +15154,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 2,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1700037252,
             "played": 1,
             "short": "M. Hermoso",
@@ -15622,7 +15622,7 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11921513730,
+        "id_market": 11925545465,
         "price": 1363657,
         "public": 1,
         "bid": null,
@@ -15680,9 +15680,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11925545559,
+        "price": 204000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -15692,12 +15692,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 204000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 204000
         },
         "barter": [],
         "popup": "bid",
@@ -15738,9 +15738,9 @@
         "floor": 1661000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11925545550,
+        "price": 4467787,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -15750,12 +15750,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 1293000
+          "active": 1,
+          "input": 4467787
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4467787
         },
         "barter": [],
         "popup": "bid",
@@ -16063,7 +16063,7 @@
         "id_team": 2,
         "points": 99,
         "avg": 5.5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1700037252,
         "streak": [
@@ -16552,7 +16552,7 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11921513730,
+        "id_market": 11925545465,
         "price": 1363657,
         "public": 1,
         "bid": null,
@@ -16668,9 +16668,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11925545559,
+        "price": 204000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -16680,12 +16680,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 204000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 204000
         },
         "barter": [],
         "popup": "bid",
@@ -16784,9 +16784,9 @@
         "floor": 1661000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11925545550,
+        "price": 4467787,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -16796,12 +16796,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 1293000
+          "active": 1,
+          "input": 4467787
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4467787
         },
         "barter": [],
         "popup": "bid",
@@ -20011,7 +20011,7 @@
         "id_team": 16,
         "points": 117,
         "avg": 5.9,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -20767,7 +20767,7 @@
         "id_team": 16,
         "points": 117,
         "avg": 5.9,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -21683,7 +21683,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 15,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702887967,
             "played": 1,
             "short": "F. Valverde",
@@ -22452,7 +22452,7 @@
         "id_team": 15,
         "points": 139,
         "avg": 7,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702887967,
         "streak": [
@@ -23845,7 +23845,7 @@
         "id_team": 1,
         "points": 81,
         "avg": 5.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1623323343,
         "streak": [
@@ -24659,7 +24659,7 @@
         "id_team": 1,
         "points": 81,
         "avg": 5.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1623323343,
         "streak": [
@@ -25517,7 +25517,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 5,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702917078,
             "played": 1,
             "short": "R. Tapia",
@@ -25646,7 +25646,7 @@
         "id_team": 17,
         "points": 50,
         "avg": 5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1689404869,
         "streak": [
@@ -26402,7 +26402,7 @@
         "id_team": 17,
         "points": 50,
         "avg": 5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1689404869,
         "streak": [
@@ -26692,7 +26692,7 @@
         "id_team": 5,
         "points": 63,
         "avg": 5.3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702917078,
         "streak": [
