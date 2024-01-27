@@ -84,7 +84,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 17,
-            "status": null,
+            "status": "other",
             "ts_pic": 1701338570,
             "played": 0,
             "short": "I. Rakitić",
@@ -1307,7 +1307,7 @@
         "id_team": 17,
         "points": 132,
         "avg": 7.3,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1701338570,
         "streak": [
@@ -2370,7 +2370,7 @@
         "id_team": 4,
         "points": 50,
         "avg": 3.6,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1695917251,
         "streak": [
@@ -3068,7 +3068,7 @@
         "id_team": 4,
         "points": 50,
         "avg": 3.6,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1695917251,
         "streak": [
@@ -4221,8 +4221,8 @@
     "id": "12054755",
     "name": "Fran (Coca Juniors F.C.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/655280701e71b.png",
-    "played": "13 jugadores",
-    "money": "108.891.000",
+    "played": "14 jugadores",
+    "money": "110.996.000",
     "points": 1135,
     "lineup": {
       "positions": {
@@ -4472,6 +4472,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14670.png?version=20231222212418",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240127"
       },
+      "455": {
+        "id": 455,
+        "name": "Eric Bailly",
+        "position": 2,
+        "id_team": 20,
+        "points": 11,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703961689,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 6,
+            "color": 3
+          }
+        ],
+        "streak_sum": 11,
+        "value": 2105000,
+        "prev_value": 2036000,
+        "last_points": "?",
+        "id_uc": 12054755,
+        "floor": 3157500,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 2105000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "E. Bailly",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/455.png?version=20231230194129",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240127"
+      },
       "53101": {
         "id": 53101,
         "name": "Pejiño",
@@ -4707,6 +4765,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240127"
       },
       {
+        "id": 455,
+        "name": "Eric Bailly",
+        "position": 2,
+        "id_team": 20,
+        "points": 11,
+        "avg": 3.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703961689,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 6,
+            "color": 3
+          }
+        ],
+        "streak_sum": 11,
+        "value": 2105000,
+        "prev_value": 2036000,
+        "last_points": "?",
+        "id_uc": 12054755,
+        "floor": 3157500,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 2105000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "E. Bailly",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/455.png?version=20231230194129",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240127"
+      },
+      {
         "id": 1713,
         "name": "Florian Lejeune",
         "position": 2,
@@ -4738,7 +4854,7 @@
         "floor": 12999999,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11932714769,
+        "id_market": 11934896169,
         "price": 14133690,
         "public": 1,
         "bid": null,
@@ -27174,7 +27290,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 17,
-            "status": null,
+            "status": "other",
             "ts_pic": 1575276596,
             "played": 0,
             "short": "E. Lamela",
@@ -27875,7 +27991,7 @@
         "id_team": 17,
         "points": 41,
         "avg": 5.1,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1575276596,
         "streak": [
@@ -28796,8 +28912,8 @@
     "id": "12055602",
     "name": "Se Birla F.C",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c254d05c2ae.png",
-    "played": "19 jugadores",
-    "money": "91.066.000",
+    "played": "18 jugadores",
+    "money": "88.961.000",
     "points": 921,
     "lineup": {
       "positions": {
@@ -29570,64 +29686,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19514.png?version=20231218202003",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240127"
-      },
-      {
-        "id": 455,
-        "name": "Eric Bailly",
-        "position": 2,
-        "id_team": 20,
-        "points": 11,
-        "avg": 3.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703961689,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 6,
-            "color": 3
-          }
-        ],
-        "streak_sum": 11,
-        "value": 2105000,
-        "prev_value": 2036000,
-        "last_points": "?",
-        "id_uc": 12055602,
-        "floor": 2105000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 2105000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "E. Bailly",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/455.png?version=20231230194129",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240127"
       },
       {
         "id": 536,
