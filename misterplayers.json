@@ -3062,64 +3062,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240130"
       },
       {
-        "id": 340,
-        "name": "Isco",
-        "position": 3,
-        "id_team": 4,
-        "points": 170,
-        "avg": 8.1,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702911761,
-        "streak": [
-          {
-            "points": 13,
-            "color": 4
-          },
-          {
-            "points": 18,
-            "color": 4
-          },
-          {
-            "points": 8,
-            "color": 3
-          }
-        ],
-        "streak_sum": 39,
-        "value": 20420000,
-        "prev_value": 20396000,
-        "last_points": 8,
-        "id_uc": 12054777,
-        "floor": 20420000,
-        "multiplier": 4,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 20420000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Isco",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/340.png?version=20231218160241",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240130"
-      },
-      {
         "id": 27517,
         "name": "Isi Palazón",
         "position": 3,
@@ -4105,8 +4047,8 @@
     "id": "12054755",
     "name": "Fran (Coca Juniors F.C.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/655280701e71b.png",
-    "played": "14 jugadores",
-    "money": "117.742.000",
+    "played": "13 jugadores",
+    "money": "107.616.000",
     "points": 1189,
     "lineup": {
       "positions": {
@@ -4446,9 +4388,9 @@
         "floor": 4975500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11944023157,
+        "price": 3381000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4458,12 +4400,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 3381000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 3381000
         },
         "barter": [],
         "popup": "bid",
@@ -4530,6 +4472,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36046.png?version=20231218203040",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240130"
       },
+      "340": {
+        "id": 340,
+        "name": "Isco",
+        "position": 3,
+        "id_team": 4,
+        "points": 170,
+        "avg": 8.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702911761,
+        "streak": [
+          {
+            "points": 13,
+            "color": 4
+          },
+          {
+            "points": 18,
+            "color": 4
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 39,
+        "value": 20420000,
+        "prev_value": 20396000,
+        "last_points": 8,
+        "id_uc": 12054755,
+        "floor": 81680000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 20420000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Isco",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/340.png?version=20231218160241",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240130"
+      },
       "53101": {
         "id": 53101,
         "name": "Pejiño",
@@ -4562,9 +4562,9 @@
         "floor": 1354500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11944021936,
+        "price": 167000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4574,12 +4574,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 167000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 167000
         },
         "barter": [],
         "popup": "bid",
@@ -4912,9 +4912,9 @@
         "floor": 4975500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11944023157,
+        "price": 3381000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -4924,12 +4924,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 3381000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 3381000
         },
         "barter": [],
         "popup": "bid",
@@ -4937,64 +4937,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27865.png?version=20231222184016",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20240130"
-      },
-      {
-        "id": 7784,
-        "name": "Unai Núñez",
-        "position": 2,
-        "id_team": 5,
-        "points": 114,
-        "avg": 5.2,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702916818,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          }
-        ],
-        "streak_sum": 16,
-        "value": 10126000,
-        "prev_value": 10110000,
-        "last_points": 8,
-        "id_uc": 12054755,
-        "floor": 12967500,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 10126000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "U. Núñez",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7784.png?version=20231218172658",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240130"
       },
       {
         "id": 55454,
@@ -5028,9 +4970,9 @@
         "floor": 4500000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11944021907,
+        "price": 686000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5040,12 +4982,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 686000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 686000
         },
         "barter": [],
         "popup": "bid",
@@ -5113,6 +5055,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240130"
       },
       {
+        "id": 340,
+        "name": "Isco",
+        "position": 3,
+        "id_team": 4,
+        "points": 170,
+        "avg": 8.1,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702911761,
+        "streak": [
+          {
+            "points": 13,
+            "color": 4
+          },
+          {
+            "points": 18,
+            "color": 4
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 39,
+        "value": 20420000,
+        "prev_value": 20396000,
+        "last_points": 8,
+        "id_uc": 12054755,
+        "floor": 81680000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 20420000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Isco",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/340.png?version=20231218160241",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240130"
+      },
+      {
         "id": 53101,
         "name": "Pejiño",
         "position": 3,
@@ -5144,9 +5144,9 @@
         "floor": 1354500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11944021936,
+        "price": 167000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5156,12 +5156,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 167000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 167000
         },
         "barter": [],
         "popup": "bid",
@@ -6033,7 +6033,7 @@
         "floor": 1482000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11940986127,
+        "id_market": 11944011412,
         "price": 2600000,
         "public": 1,
         "bid": null,
@@ -6091,7 +6091,7 @@
         "floor": 5134000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11940986150,
+        "id_market": 11944011439,
         "price": 7000000,
         "public": 1,
         "bid": null,
@@ -6149,7 +6149,7 @@
         "floor": 10489000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943009989,
+        "id_market": 11944011409,
         "price": 12500000,
         "public": 1,
         "bid": null,
@@ -6207,7 +6207,7 @@
         "floor": 789000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846918,
+        "id_market": 11944011441,
         "price": 1200000,
         "public": 1,
         "bid": null,
@@ -6441,7 +6441,7 @@
         "floor": 12250000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846931,
+        "id_market": 11944011434,
         "price": 16500000,
         "public": 1,
         "bid": null,
@@ -6499,7 +6499,7 @@
         "floor": 1482000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11940986127,
+        "id_market": 11944011412,
         "price": 2600000,
         "public": 1,
         "bid": null,
@@ -6557,7 +6557,7 @@
         "floor": 5134000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11940986150,
+        "id_market": 11944011439,
         "price": 7000000,
         "public": 1,
         "bid": null,
@@ -6615,7 +6615,7 @@
         "floor": 1174000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846970,
+        "id_market": 11944011418,
         "price": 1700000,
         "public": 1,
         "bid": null,
@@ -6673,7 +6673,7 @@
         "floor": 10489000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943009989,
+        "id_market": 11944011409,
         "price": 12500000,
         "public": 1,
         "bid": null,
@@ -6731,7 +6731,7 @@
         "floor": 789000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846918,
+        "id_market": 11944011441,
         "price": 1200000,
         "public": 1,
         "bid": null,
@@ -6905,7 +6905,7 @@
         "floor": 3627000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846926,
+        "id_market": 11944011390,
         "price": 4500000,
         "public": 1,
         "bid": null,
@@ -7311,7 +7311,7 @@
         "floor": 10639920,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943846991,
+        "id_market": 11944011424,
         "price": 14000000,
         "public": 1,
         "bid": null,
@@ -23272,7 +23272,7 @@
         "last_points": "-",
         "id_uc": 12054571,
         "floor": 6222000,
-        "multiplier": 2,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -23284,7 +23284,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 1,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 6189000
@@ -23648,64 +23648,6 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28776.png?version=20231217221134",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240130"
       },
-      "55009": {
-        "id": 55009,
-        "name": "Fermín López",
-        "position": 3,
-        "id_team": 3,
-        "points": 56,
-        "avg": 4.3,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702856568,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 9,
-        "value": 5024000,
-        "prev_value": 5014000,
-        "last_points": "-",
-        "id_uc": 12054571,
-        "floor": 8904000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 5024000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. López",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55009.png?version=20231218004248",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240130"
-      },
       "14796": {
         "id": 14796,
         "name": "Óscar Rodríguez",
@@ -23796,7 +23738,7 @@
         "last_points": 5,
         "id_uc": 12054571,
         "floor": 26624000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -23808,7 +23750,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 16663000
@@ -23854,7 +23796,7 @@
         "last_points": "-",
         "id_uc": 12054571,
         "floor": 6222000,
-        "multiplier": 2,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -23866,7 +23808,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 1,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 6189000
@@ -24463,64 +24405,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240130"
       },
       {
-        "id": 55009,
-        "name": "Fermín López",
-        "position": 3,
-        "id_team": 3,
-        "points": 56,
-        "avg": 4.3,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702856568,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 9,
-        "value": 5024000,
-        "prev_value": 5014000,
-        "last_points": "-",
-        "id_uc": 12054571,
-        "floor": 8904000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 5024000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. López",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55009.png?version=20231218004248",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240130"
-      },
-      {
         "id": 27425,
         "name": "Iñigo Ruiz De Galarreta",
         "position": 3,
@@ -24840,7 +24724,7 @@
         "last_points": 12,
         "id_uc": 12054571,
         "floor": 20709000,
-        "multiplier": 2,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -24852,7 +24736,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 13226000
@@ -26166,64 +26050,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240130"
       },
       {
-        "id": 40093,
-        "name": "Lucas Robertone",
-        "position": 3,
-        "id_team": 21,
-        "points": 106,
-        "avg": 5.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702853911,
-        "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 19,
-        "value": 8913000,
-        "prev_value": 8833000,
-        "last_points": 4,
-        "id_uc": 12054509,
-        "floor": 16132504,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 8913000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "L. Robertone",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20231217235831",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240130"
-      },
-      {
         "id": 6057,
         "name": "Rubén Alcaraz",
         "position": 3,
@@ -26977,8 +26803,8 @@
     "id": "12054484",
     "name": "Carlos López (Orgasmus united)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305e07b217d6.png",
-    "played": "17 jugadores",
-    "money": "67.006.000",
+    "played": "16 jugadores",
+    "money": "55.242.000",
     "points": 952,
     "lineup": {
       "positions": {
@@ -27460,36 +27286,94 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6049.png?version=20231218195724",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240130"
       },
-      "18109": {
-        "id": 18109,
-        "name": "Luis Rioja",
+      "55009": {
+        "id": 55009,
+        "name": "Fermín López",
         "position": 3,
-        "id_team": 48,
-        "points": 133,
-        "avg": 6,
+        "id_team": 3,
+        "points": 56,
+        "avg": 4.3,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1561994202,
+        "ts_pic": 1702856568,
         "streak": [
           {
-            "points": 6,
+            "points": 5,
             "color": 3
           },
           {
-            "points": 9,
-            "color": 3
+            "points": 4,
+            "color": 2
           },
           {
-            "points": 11,
-            "color": 4
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 26,
-        "value": 11764000,
-        "prev_value": 11685000,
-        "last_points": 11,
+        "streak_sum": 9,
+        "value": 5024000,
+        "prev_value": 5014000,
+        "last_points": "-",
         "id_uc": 12054484,
-        "floor": 30395250,
+        "floor": 13356000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5024000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. López",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55009.png?version=20231218004248",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240130"
+      },
+      "40093": {
+        "id": 40093,
+        "name": "Lucas Robertone",
+        "position": 3,
+        "id_team": 21,
+        "points": 106,
+        "avg": 5.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702853911,
+        "streak": [
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 19,
+        "value": 8913000,
+        "prev_value": 8833000,
+        "last_points": 4,
+        "id_uc": 12054484,
+        "floor": 24198756,
         "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
@@ -27505,7 +27389,7 @@
         "default": 0,
         "market": {
           "active": 0,
-          "input": 11764000
+          "input": 8913000
         },
         "offer": {
           "active": 0,
@@ -27513,10 +27397,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "L. Rioja",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240130"
+        "short": "L. Robertone",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20231217235831",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240130"
       },
       "1775": {
         "id": 1775,
@@ -28159,6 +28043,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240130"
       },
       {
+        "id": 55009,
+        "name": "Fermín López",
+        "position": 3,
+        "id_team": 3,
+        "points": 56,
+        "avg": 4.3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702856568,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 9,
+        "value": 5024000,
+        "prev_value": 5014000,
+        "last_points": "-",
+        "id_uc": 12054484,
+        "floor": 13356000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 5024000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. López",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55009.png?version=20231218004248",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240130"
+      },
+      {
         "id": 21592,
         "name": "Hugo Guillamón",
         "position": 3,
@@ -28217,35 +28159,35 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240130"
       },
       {
-        "id": 18109,
-        "name": "Luis Rioja",
+        "id": 40093,
+        "name": "Lucas Robertone",
         "position": 3,
-        "id_team": 48,
-        "points": 133,
-        "avg": 6,
+        "id_team": 21,
+        "points": 106,
+        "avg": 5.9,
         "status": null,
         "id_competition": 1,
-        "ts_pic": 1561994202,
+        "ts_pic": 1702853911,
         "streak": [
           {
-            "points": 6,
+            "points": 7,
             "color": 3
           },
           {
-            "points": 9,
+            "points": 8,
             "color": 3
           },
           {
-            "points": 11,
-            "color": 4
+            "points": 4,
+            "color": 2
           }
         ],
-        "streak_sum": 26,
-        "value": 11764000,
-        "prev_value": 11685000,
-        "last_points": 11,
+        "streak_sum": 19,
+        "value": 8913000,
+        "prev_value": 8833000,
+        "last_points": 4,
         "id_uc": 12054484,
-        "floor": 30395250,
+        "floor": 24198756,
         "multiplier": 1.5,
         "shield": 0,
         "id_market": null,
@@ -28261,7 +28203,7 @@
         "default": 0,
         "market": {
           "active": 0,
-          "input": 11764000
+          "input": 8913000
         },
         "offer": {
           "active": 0,
@@ -28269,10 +28211,10 @@
         },
         "barter": [],
         "popup": "bid",
-        "short": "L. Rioja",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240130"
+        "short": "L. Robertone",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40093.png?version=20231217235831",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240130"
       },
       {
         "id": 22543,
@@ -29028,8 +28970,8 @@
     "id": "12055602",
     "name": "Se Birla F.C",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c254d05c2ae.png",
-    "played": "17 jugadores",
-    "money": "60.787.000",
+    "played": "19 jugadores",
+    "money": "82.677.000",
     "points": 945,
     "lineup": {
       "positions": {
@@ -29278,6 +29220,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/6041.png?version=20231218202223",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240130"
+      },
+      "7784": {
+        "id": 7784,
+        "name": "Unai Núñez",
+        "position": 2,
+        "id_team": 5,
+        "points": 114,
+        "avg": 5.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702916818,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 16,
+        "value": 10126000,
+        "prev_value": 10110000,
+        "last_points": 8,
+        "id_uc": 12055602,
+        "floor": 19451250,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10126000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "U. Núñez",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7784.png?version=20231218172658",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240130"
       },
       "4753": {
         "id": 4753,
@@ -29569,6 +29569,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56628.png?version=20240110103037",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240130"
       },
+      "18109": {
+        "id": 18109,
+        "name": "Luis Rioja",
+        "position": 3,
+        "id_team": 48,
+        "points": 133,
+        "avg": 6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1561994202,
+        "streak": [
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 11,
+            "color": 4
+          }
+        ],
+        "streak_sum": 26,
+        "value": 11764000,
+        "prev_value": 11685000,
+        "last_points": 11,
+        "id_uc": 12055602,
+        "floor": 45592875,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 11764000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Rioja",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240130"
+      },
       "56632": {
         "id": 56632,
         "name": "Isaac Romero",
@@ -29777,7 +29835,7 @@
         "floor": 3568387,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943011320,
+        "id_market": 11944023839,
         "price": 18660377,
         "public": 1,
         "bid": null,
@@ -29893,7 +29951,7 @@
         "floor": 6998298,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943011307,
+        "id_market": 11944023888,
         "price": 26927923,
         "public": 1,
         "bid": null,
@@ -29976,6 +30034,64 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55871.png?version=20231027084131",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240130"
+      },
+      {
+        "id": 7784,
+        "name": "Unai Núñez",
+        "position": 2,
+        "id_team": 5,
+        "points": 114,
+        "avg": 5.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702916818,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          }
+        ],
+        "streak_sum": 16,
+        "value": 10126000,
+        "prev_value": 10110000,
+        "last_points": 8,
+        "id_uc": 12055602,
+        "floor": 19451250,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10126000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "U. Núñez",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7784.png?version=20231218172658",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240130"
       },
       {
         "id": 4753,
@@ -30125,7 +30241,7 @@
         "floor": 7597866,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11943011280,
+        "id_market": 11944023902,
         "price": 34090966,
         "public": 1,
         "bid": null,
@@ -30440,6 +30556,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56628.png?version=20240110103037",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240130"
+      },
+      {
+        "id": 18109,
+        "name": "Luis Rioja",
+        "position": 3,
+        "id_team": 48,
+        "points": 133,
+        "avg": 6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1561994202,
+        "streak": [
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 11,
+            "color": 4
+          }
+        ],
+        "streak_sum": 26,
+        "value": 11764000,
+        "prev_value": 11685000,
+        "last_points": 11,
+        "id_uc": 12055602,
+        "floor": 45592875,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 11764000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Rioja",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240130"
       },
       {
         "id": 56632,
