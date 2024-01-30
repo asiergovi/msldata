@@ -83,7 +83,7 @@
             "points": "-",
             "slot": 5,
             "position": 3,
-            "id_team": 17,
+            "id_team": 0,
             "status": null,
             "ts_pic": 1701338570,
             "played": 0,
@@ -91,7 +91,7 @@
             "bg": 0,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/73.png?version=20231130110250",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240130"
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240130"
           },
           "6": {
             "id": 53098,
@@ -1246,11 +1246,11 @@
         "id": 73,
         "name": "Ivan Rakitić",
         "position": 3,
-        "id_team": 17,
+        "id_team": 0,
         "points": 132,
         "avg": 7.3,
         "status": null,
-        "id_competition": 1,
+        "id_competition": 0,
         "ts_pic": 1701338570,
         "streak": [
           {
@@ -1298,7 +1298,7 @@
         "short": "I. Rakitić",
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/73.png?version=20231130110250",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240130"
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240130"
       },
       {
         "id": 346,
@@ -6149,7 +6149,7 @@
         "floor": 10489000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11940986114,
+        "id_market": 11943009989,
         "price": 12500000,
         "public": 1,
         "bid": null,
@@ -6673,7 +6673,7 @@
         "floor": 10489000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11940986114,
+        "id_market": 11943009989,
         "price": 12500000,
         "public": 1,
         "bid": null,
@@ -8434,9 +8434,9 @@
         "floor": 5051000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943010572,
+        "price": 10551000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -8446,12 +8446,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 5051000
+          "active": 1,
+          "input": 10551000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 10551000
         },
         "barter": [],
         "popup": "bid",
@@ -8550,9 +8550,9 @@
         "floor": 8834000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943010608,
+        "price": 10055000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -8562,12 +8562,12 @@
         "played": 1,
         "default": 1,
         "market": {
-          "active": 0,
-          "input": 6855000
+          "active": 1,
+          "input": 10055000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 10055000
         },
         "barter": [],
         "popup": "bid",
@@ -8666,9 +8666,9 @@
         "floor": 11688000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943010637,
+        "price": 15583000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -8678,12 +8678,12 @@
         "played": 1,
         "default": 1,
         "market": {
-          "active": 0,
-          "input": 11183000
+          "active": 1,
+          "input": 15583000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15583000
         },
         "barter": [],
         "popup": "bid",
@@ -24840,7 +24840,7 @@
         "last_points": 12,
         "id_uc": 12054571,
         "floor": 20709000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -24852,7 +24852,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 13226000
@@ -29369,9 +29369,9 @@
         "floor": 6345000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011288,
+        "price": 19481396,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -29381,12 +29381,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 1068000
+          "active": 1,
+          "input": 19481396
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 19481396
         },
         "barter": [],
         "popup": "bid",
@@ -29777,9 +29777,9 @@
         "floor": 3568387,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011320,
+        "price": 18660377,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -29789,12 +29789,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 1099000
+          "active": 1,
+          "input": 18660377
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 18660377
         },
         "barter": [],
         "popup": "bid",
@@ -29893,9 +29893,9 @@
         "floor": 6998298,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011307,
+        "price": 26927923,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -29905,12 +29905,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4469000
+          "active": 1,
+          "input": 26927923
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 26927923
         },
         "barter": [],
         "popup": "bid",
@@ -30067,9 +30067,9 @@
         "floor": 6345000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011288,
+        "price": 19481396,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -30079,12 +30079,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 1068000
+          "active": 1,
+          "input": 19481396
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 19481396
         },
         "barter": [],
         "popup": "bid",
@@ -30125,9 +30125,9 @@
         "floor": 7597866,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011280,
+        "price": 34090966,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -30137,12 +30137,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 5891000
+          "active": 1,
+          "input": 34090966
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 34090966
         },
         "barter": [],
         "popup": "bid",
@@ -30531,9 +30531,9 @@
         "floor": 5073815,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11943011225,
+        "price": 20165559,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -30543,12 +30543,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4363000
+          "active": 1,
+          "input": 20165559
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20165559
         },
         "barter": [],
         "popup": "bid",
