@@ -2170,8 +2170,8 @@
     "id": "12054777",
     "name": "ROILOA NEGREIRA",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/649de7fbdd51c.png",
-    "played": "19 jugadores",
-    "money": "158.122.000",
+    "played": "18 jugadores",
+    "money": "157.357.000",
     "points": 1281,
     "lineup": {
       "positions": {
@@ -2743,9 +2743,9 @@
         "floor": 7305000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11950005397,
+        "id_market": 11950010966,
         "price": 6928000,
-        "public": 0,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -3002,64 +3002,6 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22930.png?version=20231218161629",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240201"
-      },
-      {
-        "id": 15693,
-        "name": "Javi Galán",
-        "position": 2,
-        "id_team": 16,
-        "points": 21,
-        "avg": 3.5,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702855415,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 4,
-        "value": 765000,
-        "prev_value": 703000,
-        "last_points": 4,
-        "id_uc": 12054777,
-        "floor": 2666666,
-        "multiplier": 3,
-        "shield": 0,
-        "id_market": 11950005345,
-        "price": 765000,
-        "public": 0,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 3,
-        "market": {
-          "active": 1,
-          "input": 765000
-        },
-        "offer": {
-          "active": 0,
-          "input": 765000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Galán",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20231218002335",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240201"
       },
       {
         "id": 27865,
@@ -3615,9 +3557,9 @@
         "floor": 7305000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11950005397,
+        "id_market": 11950010966,
         "price": 6928000,
-        "public": 0,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -3905,9 +3847,9 @@
         "floor": 3255000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": 11950005324,
+        "id_market": 11950010984,
         "price": 2289000,
-        "public": 0,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -12077,8 +12019,8 @@
     "id": "12054564",
     "name": "Los de Guti C.F.",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c39e8362d61.png",
-    "played": "14 jugadores",
-    "money": "109.278.000",
+    "played": "15 jugadores",
+    "money": "110.043.000",
     "points": 1123,
     "lineup": {
       "positions": {
@@ -12270,6 +12212,64 @@
       "count": 11
     },
     "bench": {
+      "15693": {
+        "id": 15693,
+        "name": "Javi Galán",
+        "position": 2,
+        "id_team": 16,
+        "points": 21,
+        "avg": 3.5,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702855415,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 765000,
+        "prev_value": 703000,
+        "last_points": 4,
+        "id_uc": 12054564,
+        "floor": 765000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 765000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Galán",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20231218002335",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240201"
+      },
       "48960": {
         "id": 48960,
         "name": "Kiko Femenía",
@@ -12793,6 +12793,64 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27520.png?version=20231222215205",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240201"
+      },
+      {
+        "id": 15693,
+        "name": "Javi Galán",
+        "position": 2,
+        "id_team": 16,
+        "points": 21,
+        "avg": 3.5,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702855415,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 765000,
+        "prev_value": 703000,
+        "last_points": 4,
+        "id_uc": 12054564,
+        "floor": 765000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 765000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Galán",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15693.png?version=20231218002335",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240201"
       },
       {
         "id": 48960,
