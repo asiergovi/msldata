@@ -2291,7 +2291,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 48,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1703247414,
             "played": 1,
             "short": "C. Vicente",
@@ -3764,7 +3764,7 @@
         "id_team": 48,
         "points": 20,
         "avg": 5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703247414,
         "streak": [
@@ -4910,8 +4910,8 @@
         "floor": 3259000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11951986575,
-        "price": 3259000,
+        "id_market": 11952794949,
+        "price": 4300000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -4923,11 +4923,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 3259000
+          "input": 4300000
         },
         "offer": {
           "active": 0,
-          "input": 3259000
+          "input": 4300000
         },
         "barter": [],
         "popup": "bid",
@@ -5142,9 +5142,9 @@
         "floor": 1245000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11952021872,
-        "price": 979000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5154,12 +5154,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 1,
+          "active": 0,
           "input": 979000
         },
         "offer": {
           "active": 0,
-          "input": 979000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -5200,7 +5200,7 @@
         "floor": 32748750,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11952021881,
+        "id_market": 11952794980,
         "price": 11510000,
         "public": 1,
         "bid": null,
@@ -5260,7 +5260,7 @@
         "floor": 12250000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11950780724,
+        "id_market": 11952794916,
         "price": 16500000,
         "public": 1,
         "bid": null,
@@ -5724,8 +5724,8 @@
         "floor": 3259000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11951986575,
-        "price": 3259000,
+        "id_market": 11952794949,
+        "price": 4300000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5737,11 +5737,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 3259000
+          "input": 4300000
         },
         "offer": {
           "active": 0,
-          "input": 3259000
+          "input": 4300000
         },
         "barter": [],
         "popup": "bid",
@@ -5898,7 +5898,7 @@
         "floor": 3797000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11950780804,
+        "id_market": 11952794909,
         "price": 4800000,
         "public": 1,
         "bid": null,
@@ -6188,9 +6188,9 @@
         "floor": 1245000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 11952021872,
-        "price": 979000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -6200,12 +6200,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 1,
+          "active": 0,
           "input": 979000
         },
         "offer": {
           "active": 0,
-          "input": 979000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -6246,7 +6246,7 @@
         "floor": 32748750,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 11952021881,
+        "id_market": 11952794980,
         "price": 11510000,
         "public": 1,
         "bid": null,
@@ -22216,8 +22216,8 @@
     "id": "12054815",
     "name": "Stefano (Castolo FC)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305dac61c4c6.png",
-    "played": "17 jugadores",
-    "money": "111.278.000",
+    "played": "16 jugadores",
+    "money": "110.709.000",
     "points": 1070,
     "lineup": {
       "positions": {
@@ -26318,8 +26318,8 @@
     "id": "12054484",
     "name": "Carlos López (Orgasmus united)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6305e07b217d6.png",
-    "played": "19 jugadores",
-    "money": "70.943.000",
+    "played": "20 jugadores",
+    "money": "71.512.000",
     "points": 964,
     "lineup": {
       "positions": {
