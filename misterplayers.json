@@ -182,7 +182,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 1,
-            "status": "other",
+            "status": null,
             "ts_pic": 1702855075,
             "played": 1,
             "short": "I. Williams",
@@ -1597,7 +1597,7 @@
         "id_team": 1,
         "points": 158,
         "avg": 8.3,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702855075,
         "streak": [
@@ -4911,7 +4911,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11951986575,
-        "price": 4000000,
+        "price": 3259000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -4923,11 +4923,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 4000000
+          "input": 3259000
         },
         "offer": {
           "active": 0,
-          "input": 4000000
+          "input": 3259000
         },
         "barter": [],
         "popup": "bid",
@@ -5085,7 +5085,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11951986782,
-        "price": 4000000,
+        "price": 3012000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5097,11 +5097,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 4000000
+          "input": 3012000
         },
         "offer": {
           "active": 0,
-          "input": 4000000
+          "input": 3012000
         },
         "barter": [],
         "popup": "bid",
@@ -5142,9 +5142,9 @@
         "floor": 1245000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11952021872,
+        "price": 979000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5154,12 +5154,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 979000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 979000
         },
         "barter": [],
         "popup": "bid",
@@ -5200,9 +5200,9 @@
         "floor": 32748750,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11952021881,
+        "price": 11510000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5212,12 +5212,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 11510000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 11510000
         },
         "barter": [],
         "popup": "bid",
@@ -5725,7 +5725,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11951986575,
-        "price": 4000000,
+        "price": 3259000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -5737,11 +5737,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 4000000
+          "input": 3259000
         },
         "offer": {
           "active": 0,
-          "input": 4000000
+          "input": 3259000
         },
         "barter": [],
         "popup": "bid",
@@ -6131,7 +6131,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11951986782,
-        "price": 4000000,
+        "price": 3012000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -6143,11 +6143,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 4000000
+          "input": 3012000
         },
         "offer": {
           "active": 0,
-          "input": 4000000
+          "input": 3012000
         },
         "barter": [],
         "popup": "bid",
@@ -6188,9 +6188,9 @@
         "floor": 1245000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11952021872,
+        "price": 979000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -6200,12 +6200,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 979000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 979000
         },
         "barter": [],
         "popup": "bid",
@@ -6246,9 +6246,9 @@
         "floor": 32748750,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11952021881,
+        "price": 11510000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -6258,12 +6258,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 11510000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 11510000
         },
         "barter": [],
         "popup": "bid",
@@ -6363,7 +6363,7 @@
         "multiplier": 1.5,
         "shield": 0,
         "id_market": 11950780858,
-        "price": 12000000,
+        "price": 6334000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -6375,11 +6375,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 12000000
+          "input": 6334000
         },
         "offer": {
           "active": 0,
-          "input": 12000000
+          "input": 6334000
         },
         "barter": [],
         "popup": "bid",
@@ -24330,7 +24330,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 222,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702925289,
             "played": 1,
             "short": "D. Blind",
@@ -25223,7 +25223,7 @@
         "id_team": 222,
         "points": 119,
         "avg": 5.4,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702925289,
         "streak": [
