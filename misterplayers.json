@@ -36,7 +36,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1701335256,
-            "played": 0,
+            "played": 1,
             "short": "J. Cancelo",
             "bg": 0,
             "best_xi": "",
@@ -344,9 +344,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955883115,
+        "price": 384000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -356,12 +356,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 384000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 384000
         },
         "barter": [],
         "popup": "bid",
@@ -868,9 +868,9 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955883115,
+        "price": 384000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -880,12 +880,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 384000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 384000
         },
         "barter": [],
         "popup": "bid",
@@ -1109,7 +1109,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -1216,9 +1216,9 @@
         "floor": 9338000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955883168,
+        "price": 16500000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -1228,12 +1228,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 9338000
+          "active": 1,
+          "input": 16500000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 16500000
         },
         "barter": [],
         "popup": "bid",
@@ -1332,9 +1332,9 @@
         "floor": 28503000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955883231,
+        "price": 20000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -1344,12 +1344,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 12430000
+          "active": 1,
+          "input": 20000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20000000
         },
         "barter": [],
         "popup": "bid",
@@ -1504,7 +1504,7 @@
         "last_points": 10,
         "id_uc": 12067022,
         "floor": 3555000,
-        "multiplier": 2.5,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1516,7 +1516,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 2,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 1218000
@@ -2335,7 +2335,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1702856691,
-            "played": 0,
+            "played": 1,
             "short": "İ. Gündoğan",
             "bg": 0,
             "best_xi": "",
@@ -3352,7 +3352,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -7748,7 +7748,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1702843104,
-            "played": 0,
+            "played": 1,
             "short": "A. Christensen",
             "bg": 0,
             "best_xi": "",
@@ -8014,7 +8014,7 @@
         "position": 3,
         "id_team": 10,
         "points": 78,
-        "avg": 3.7,
+        "avg": 3.9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702927805,
@@ -8028,14 +8028,14 @@
             "color": 2
           },
           {
-            "points": 0,
+            "points": "-",
             "color": 0
           }
         ],
         "streak_sum": 8,
         "value": 3259000,
         "prev_value": 3259000,
-        "last_points": 0,
+        "last_points": "-",
         "id_uc": 12054468,
         "floor": 3259000,
         "multiplier": 1.5,
@@ -8631,7 +8631,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -8828,7 +8828,7 @@
         "position": 3,
         "id_team": 10,
         "points": 78,
-        "avg": 3.7,
+        "avg": 3.9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702927805,
@@ -8842,14 +8842,14 @@
             "color": 2
           },
           {
-            "points": 0,
+            "points": "-",
             "color": 0
           }
         ],
         "streak_sum": 8,
         "value": 3259000,
         "prev_value": 3259000,
-        "last_points": 0,
+        "last_points": "-",
         "id_uc": 12054468,
         "floor": 3259000,
         "multiplier": 1.5,
@@ -10131,7 +10131,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1702843401,
-            "played": 0,
+            "played": 1,
             "short": "A. Blanco",
             "bg": 0,
             "best_xi": "",
@@ -10642,7 +10642,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -11537,6 +11537,2423 @@
         "points": 26,
         "negative": 0,
         "width": 26,
+        "short": "J23",
+        "color": 2,
+        "status": "started"
+      }
+    }
+  },
+  "12054406": {
+    "id": "12054406",
+    "name": "Carlod ( pachukas f.c )",
+    "img": "https://cdn.gomister.com/file/cdn-mister/users/64c2bf3c52256.png",
+    "played": "21 jugadores",
+    "money": "112.344.000",
+    "points": 1134,
+    "lineup": {
+      "positions": {
+        "1": {
+          "1": {
+            "id": 48920,
+            "name": "Predrag Rajković",
+            "points": -1,
+            "slot": 1,
+            "position": 1,
+            "id_team": 408,
+            "status": null,
+            "ts_pic": 1702931970,
+            "played": 1,
+            "short": "P. Rajković",
+            "bg": 1,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
+          }
+        },
+        "2": {
+          "2": {
+            "id": 23138,
+            "name": "Marcos Acuña",
+            "points": "?",
+            "slot": 2,
+            "position": 2,
+            "id_team": 17,
+            "status": null,
+            "ts_pic": 1703280537,
+            "played": 0,
+            "short": "M. Acuña",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23138.png?version=20231222222857",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+          },
+          "3": {
+            "id": 7843,
+            "name": "Mario Hermoso",
+            "points": "?",
+            "slot": 3,
+            "position": 2,
+            "id_team": 2,
+            "status": null,
+            "ts_pic": 1700037252,
+            "played": 0,
+            "short": "M. Hermoso",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7843.png?version=20231115093412",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
+          },
+          "4": {
+            "id": 171,
+            "name": "Rubén Duarte",
+            "points": "?",
+            "slot": 4,
+            "position": 2,
+            "id_team": 48,
+            "status": null,
+            "ts_pic": 1702852939,
+            "played": 1,
+            "short": "R. Duarte",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/171.png?version=20231217234219",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240203"
+          }
+        },
+        "3": {
+          "5": {
+            "id": 14911,
+            "name": "Álvaro García",
+            "points": "?",
+            "slot": 5,
+            "position": 3,
+            "id_team": 14,
+            "status": null,
+            "ts_pic": 1535113647,
+            "played": 0,
+            "short": "Á. García",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14911.png?version=20180824142727",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
+          },
+          "6": {
+            "id": 17453,
+            "name": "Frenkie De Jong",
+            "points": "?",
+            "slot": 6,
+            "position": 3,
+            "id_team": 3,
+            "status": null,
+            "ts_pic": 1702568201,
+            "played": 1,
+            "short": "F. De Jong",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17453.png?version=20231214163641",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
+          },
+          "7": {
+            "id": 19146,
+            "name": "Nabil Fekir",
+            "points": "?",
+            "slot": 7,
+            "position": 3,
+            "id_team": 4,
+            "status": null,
+            "ts_pic": 1702911940,
+            "played": 0,
+            "short": "N. Fekir",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19146.png?version=20231218160540",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+          },
+          "8": {
+            "id": 31267,
+            "name": "Omar Mascarell",
+            "points": 1,
+            "slot": 8,
+            "position": 3,
+            "id_team": 408,
+            "status": null,
+            "ts_pic": 1702932624,
+            "played": 1,
+            "short": "O. Mascarell",
+            "bg": 2,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
+          }
+        },
+        "4": {
+          "9": {
+            "id": 3729,
+            "name": "Youssef En Nesyri",
+            "points": "?",
+            "slot": 9,
+            "position": 4,
+            "id_team": 17,
+            "status": null,
+            "ts_pic": 1703281090,
+            "played": 0,
+            "short": "Y. En Nesyri",
+            "bg": 0,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3729.png?version=20231222223810",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+          },
+          "10": {
+            "id": 11866,
+            "name": "Hugo Duro",
+            "points": 10,
+            "slot": 10,
+            "position": 4,
+            "id_team": 19,
+            "status": null,
+            "ts_pic": 1703281834,
+            "played": 1,
+            "short": "H. Duro",
+            "bg": 4,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11866.png?version=20231222225034",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240203"
+          },
+          "11": {
+            "id": 48684,
+            "name": "Robert Lewandowski",
+            "points": 3,
+            "slot": 11,
+            "position": 4,
+            "id_team": 3,
+            "status": null,
+            "ts_pic": 1700230006,
+            "played": 1,
+            "short": "R. Lewandowski",
+            "bg": 2,
+            "best_xi": "",
+            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48684.png?version=20231117150646",
+            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
+          }
+        }
+      },
+      "count": 11
+    },
+    "bench": {
+      "354": {
+        "id": 354,
+        "name": "Aritz Elustondo",
+        "position": 2,
+        "id_team": 16,
+        "points": 40,
+        "avg": 4.4,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702843714,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 7,
+        "value": 493000,
+        "prev_value": 493000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 723000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 493000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Elustondo",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/354.png?version=20231217210834",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240203"
+      },
+      "51903": {
+        "id": 51903,
+        "name": "César Montes",
+        "position": 2,
+        "id_team": 21,
+        "points": 36,
+        "avg": 2.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1693610158,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          }
+        ],
+        "streak_sum": 5,
+        "value": 217000,
+        "prev_value": 217000,
+        "last_points": 2,
+        "id_uc": 12054406,
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 217000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Montes",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/51903.png?version=20230902011558",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240203"
+      },
+      "31496": {
+        "id": 31496,
+        "name": "Héctor Bellerín",
+        "position": 2,
+        "id_team": 4,
+        "points": 27,
+        "avg": 1.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702910229,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 0,
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 3,
+        "value": 896000,
+        "prev_value": 896000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1326000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 896000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "H. Bellerín",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31496.png?version=20231218153709",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+      },
+      "28784": {
+        "id": 28784,
+        "name": "José Ángel Carmona",
+        "position": 2,
+        "id_team": 9,
+        "points": 38,
+        "avg": 2.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919628,
+        "streak": [
+          {
+            "points": 0,
+            "color": 0
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 2,
+        "value": 193000,
+        "prev_value": 193000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1500000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 193000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Ángel Carmona",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28784.png?version=20231218181348",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20240203"
+      },
+      "34": {
+        "id": 34,
+        "name": "José Giménez",
+        "position": 2,
+        "id_team": 2,
+        "points": 49,
+        "avg": 3.3,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702855462,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 10,
+        "value": 2825000,
+        "prev_value": 2825000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 7900000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 2825000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Giménez",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
+      },
+      "63": {
+        "id": 63,
+        "name": "Marc Bartra",
+        "position": 2,
+        "id_team": 4,
+        "points": 8,
+        "avg": 2.7,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702910675,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 191000,
+        "prev_value": 191000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": 11954890895,
+        "price": 191000,
+        "public": 1,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 1,
+          "input": 191000
+        },
+        "offer": {
+          "active": 0,
+          "input": 191000
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Bartra",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/63.png?version=20231218154435",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+      },
+      "40166": {
+        "id": 40166,
+        "name": "Aurélien Tchouaméni",
+        "position": 3,
+        "id_team": 15,
+        "points": 110,
+        "avg": 6.5,
+        "status": "five",
+        "id_competition": 1,
+        "ts_pic": 1702843952,
+        "streak": [
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 11,
+            "color": 4
+          }
+        ],
+        "streak_sum": 27,
+        "value": 12183000,
+        "prev_value": 12183000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 33369627,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 12183000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Tchouaméni",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20231217211232",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
+      },
+      "55057": {
+        "id": 55057,
+        "name": "Djibril Sow",
+        "position": 3,
+        "id_team": 17,
+        "points": 76,
+        "avg": 4.2,
+        "status": "doubt",
+        "id_competition": 1,
+        "ts_pic": 1703182575,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 999000,
+        "prev_value": 999000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 2856000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 999000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "D. Sow",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55057.png?version=20231221191615",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+      },
+      "48537": {
+        "id": 48537,
+        "name": "Luiz Henrique",
+        "position": 4,
+        "id_team": 0,
+        "points": 66,
+        "avg": 4.7,
+        "status": null,
+        "id_competition": 0,
+        "ts_pic": 1702912278,
+        "streak": [
+          {
+            "points": 11,
+            "color": 4
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 22,
+        "value": 1344000,
+        "prev_value": 1291000,
+        "last_points": "-",
+        "id_uc": 12054406,
+        "floor": 4100000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": 11952785167,
+        "price": 4446549,
+        "public": 1,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 1,
+          "input": 4446549
+        },
+        "offer": {
+          "active": 0,
+          "input": 4446549
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Henrique",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48537.png?version=20231218161118",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240203"
+      },
+      "17290": {
+        "id": 17290,
+        "name": "Sergio Camello",
+        "position": 4,
+        "id_team": 14,
+        "points": 65,
+        "avg": 3.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703109119,
+        "streak": [
+          {
+            "points": 1,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 1457000,
+        "prev_value": 1457000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1661000,
+        "multiplier": 3.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1457000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Camello",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17290.png?version=20231220225159",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
+      }
+    },
+    "team_now": [
+      {
+        "id": 48920,
+        "name": "Predrag Rajković",
+        "position": 1,
+        "id_team": 408,
+        "points": 111,
+        "avg": 4.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702931970,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": -1,
+            "color": 1
+          }
+        ],
+        "streak_sum": 8,
+        "value": 9048000,
+        "prev_value": 9048000,
+        "last_points": -1,
+        "id_uc": 12054406,
+        "floor": 15204000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 9048000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "P. Rajković",
+        "bg": 1,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
+      },
+      {
+        "id": 354,
+        "name": "Aritz Elustondo",
+        "position": 2,
+        "id_team": 16,
+        "points": 40,
+        "avg": 4.4,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702843714,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 7,
+        "value": 493000,
+        "prev_value": 493000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 723000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 493000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Elustondo",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/354.png?version=20231217210834",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240203"
+      },
+      {
+        "id": 51903,
+        "name": "César Montes",
+        "position": 2,
+        "id_team": 21,
+        "points": 36,
+        "avg": 2.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1693610158,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          }
+        ],
+        "streak_sum": 5,
+        "value": 217000,
+        "prev_value": 217000,
+        "last_points": 2,
+        "id_uc": 12054406,
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 217000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Montes",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/51903.png?version=20230902011558",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240203"
+      },
+      {
+        "id": 31496,
+        "name": "Héctor Bellerín",
+        "position": 2,
+        "id_team": 4,
+        "points": 27,
+        "avg": 1.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702910229,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 0,
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 3,
+        "value": 896000,
+        "prev_value": 896000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1326000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 896000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "H. Bellerín",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31496.png?version=20231218153709",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+      },
+      {
+        "id": 28784,
+        "name": "José Ángel Carmona",
+        "position": 2,
+        "id_team": 9,
+        "points": 38,
+        "avg": 2.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702919628,
+        "streak": [
+          {
+            "points": 0,
+            "color": 0
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 2,
+        "value": 193000,
+        "prev_value": 193000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1500000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 193000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Ángel Carmona",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28784.png?version=20231218181348",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20240203"
+      },
+      {
+        "id": 34,
+        "name": "José Giménez",
+        "position": 2,
+        "id_team": 2,
+        "points": 49,
+        "avg": 3.3,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702855462,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 10,
+        "value": 2825000,
+        "prev_value": 2825000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 7900000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 2825000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Giménez",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
+      },
+      {
+        "id": 63,
+        "name": "Marc Bartra",
+        "position": 2,
+        "id_team": 4,
+        "points": 8,
+        "avg": 2.7,
+        "status": "injury",
+        "id_competition": 1,
+        "ts_pic": 1702910675,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 191000,
+        "prev_value": 191000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": 11954890895,
+        "price": 191000,
+        "public": 1,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 1,
+          "input": 191000
+        },
+        "offer": {
+          "active": 0,
+          "input": 191000
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Bartra",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/63.png?version=20231218154435",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+      },
+      {
+        "id": 23138,
+        "name": "Marcos Acuña",
+        "position": 2,
+        "id_team": 17,
+        "points": 34,
+        "avg": 3.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703280537,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 576000,
+        "prev_value": 576000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1000000,
+        "multiplier": 4,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 576000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Acuña",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23138.png?version=20231222222857",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+      },
+      {
+        "id": 7843,
+        "name": "Mario Hermoso",
+        "position": 2,
+        "id_team": 2,
+        "points": 102,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1700037252,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 11,
+        "value": 10205000,
+        "prev_value": 10205000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 10205000,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 10205000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "M. Hermoso",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7843.png?version=20231115093412",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
+      },
+      {
+        "id": 171,
+        "name": "Rubén Duarte",
+        "position": 2,
+        "id_team": 48,
+        "points": 86,
+        "avg": 4.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702852939,
+        "streak": [
+          {
+            "points": 11,
+            "color": 4
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 22,
+        "value": 1569000,
+        "prev_value": 1569000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1569000,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 1569000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "R. Duarte",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/171.png?version=20231217234219",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240203"
+      },
+      {
+        "id": 14911,
+        "name": "Álvaro García",
+        "position": 3,
+        "id_team": 14,
+        "points": 107,
+        "avg": 5.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1535113647,
+        "streak": [
+          {
+            "points": 12,
+            "color": 4
+          },
+          {
+            "points": 0,
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 12,
+        "value": 7102000,
+        "prev_value": 7102000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 21315000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 7102000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Á. García",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14911.png?version=20180824142727",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
+      },
+      {
+        "id": 40166,
+        "name": "Aurélien Tchouaméni",
+        "position": 3,
+        "id_team": 15,
+        "points": 110,
+        "avg": 6.5,
+        "status": "five",
+        "id_competition": 1,
+        "ts_pic": 1702843952,
+        "streak": [
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 11,
+            "color": 4
+          }
+        ],
+        "streak_sum": 27,
+        "value": 12183000,
+        "prev_value": 12183000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 33369627,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 12183000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Tchouaméni",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20231217211232",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
+      },
+      {
+        "id": 55057,
+        "name": "Djibril Sow",
+        "position": 3,
+        "id_team": 17,
+        "points": 76,
+        "avg": 4.2,
+        "status": "doubt",
+        "id_competition": 1,
+        "ts_pic": 1703182575,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 999000,
+        "prev_value": 999000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 2856000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 999000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "D. Sow",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55057.png?version=20231221191615",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+      },
+      {
+        "id": 17453,
+        "name": "Frenkie De Jong",
+        "position": 3,
+        "id_team": 3,
+        "points": 103,
+        "avg": 7.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702568201,
+        "streak": [
+          {
+            "points": 7,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 19,
+        "value": 18567000,
+        "prev_value": 18567000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 63839407,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 18567000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. De Jong",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17453.png?version=20231214163641",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
+      },
+      {
+        "id": 19146,
+        "name": "Nabil Fekir",
+        "position": 3,
+        "id_team": 4,
+        "points": 16,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702911940,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 6,
+            "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 14,
+        "value": 7539000,
+        "prev_value": 7539000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 11440500,
+        "multiplier": 4,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 7539000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "N. Fekir",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19146.png?version=20231218160540",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
+      },
+      {
+        "id": 31267,
+        "name": "Omar Mascarell",
+        "position": 3,
+        "id_team": 408,
+        "points": 45,
+        "avg": 2.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702932624,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 1,
+            "color": 2
+          }
+        ],
+        "streak_sum": 8,
+        "value": 215000,
+        "prev_value": 215000,
+        "last_points": 1,
+        "id_uc": 12054406,
+        "floor": 666666.6666666666,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 215000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "O. Mascarell",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
+      },
+      {
+        "id": 11866,
+        "name": "Hugo Duro",
+        "position": 4,
+        "id_team": 19,
+        "points": 145,
+        "avg": 6.3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703281834,
+        "streak": [
+          {
+            "points": 9,
+            "color": 3
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 10,
+            "color": 4
+          }
+        ],
+        "streak_sum": 22,
+        "value": 12483000,
+        "prev_value": 12483000,
+        "last_points": 10,
+        "id_uc": 12054406,
+        "floor": 33341766,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 12483000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "H. Duro",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11866.png?version=20231222225034",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240203"
+      },
+      {
+        "id": 48537,
+        "name": "Luiz Henrique",
+        "position": 4,
+        "id_team": 0,
+        "points": 66,
+        "avg": 4.7,
+        "status": null,
+        "id_competition": 0,
+        "ts_pic": 1702912278,
+        "streak": [
+          {
+            "points": 11,
+            "color": 4
+          },
+          {
+            "points": 4,
+            "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
+          }
+        ],
+        "streak_sum": 22,
+        "value": 1344000,
+        "prev_value": 1291000,
+        "last_points": "-",
+        "id_uc": 12054406,
+        "floor": 4100000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": 11952785167,
+        "price": 4446549,
+        "public": 1,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 1,
+          "input": 4446549
+        },
+        "offer": {
+          "active": 0,
+          "input": 4446549
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "L. Henrique",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48537.png?version=20231218161118",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240203"
+      },
+      {
+        "id": 48684,
+        "name": "Robert Lewandowski",
+        "position": 4,
+        "id_team": 3,
+        "points": 126,
+        "avg": 6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1700230006,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 10,
+        "value": 20271000,
+        "prev_value": 20271000,
+        "last_points": 3,
+        "id_uc": 12054406,
+        "floor": 81592534,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 20271000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "R. Lewandowski",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48684.png?version=20231117150646",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
+      },
+      {
+        "id": 17290,
+        "name": "Sergio Camello",
+        "position": 4,
+        "id_team": 14,
+        "points": 65,
+        "avg": 3.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703109119,
+        "streak": [
+          {
+            "points": 1,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 1457000,
+        "prev_value": 1457000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 1661000,
+        "multiplier": 3.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1457000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Camello",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17290.png?version=20231220225159",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
+      },
+      {
+        "id": 3729,
+        "name": "Youssef En Nesyri",
+        "position": 4,
+        "id_team": 17,
+        "points": 80,
+        "avg": 4.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703281090,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 3971000,
+        "prev_value": 3971000,
+        "last_points": "?",
+        "id_uc": 12054406,
+        "floor": 5793000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 3971000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Y. En Nesyri",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3729.png?version=20231222223810",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
+      }
+    ],
+    "gameweeks": {
+      "2520": {
+        "id_gameweek": 2520,
+        "gameweek": 1,
+        "type": "regular",
+        "status": "closed",
+        "points": 42,
+        "rank": 9,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2521": {
+        "id_gameweek": 2521,
+        "gameweek": 2,
+        "type": "regular",
+        "status": "closed",
+        "points": 43,
+        "rank": 11,
+        "negative": 0,
+        "formation": "1-5-3-2"
+      },
+      "2522": {
+        "id_gameweek": 2522,
+        "gameweek": 3,
+        "type": "regular",
+        "status": "closed",
+        "points": 40,
+        "rank": 12,
+        "negative": 0,
+        "formation": "1-4-5-1"
+      },
+      "2523": {
+        "id_gameweek": 2523,
+        "gameweek": 4,
+        "type": "regular",
+        "status": "closed",
+        "points": 57,
+        "rank": 2,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2524": {
+        "id_gameweek": 2524,
+        "gameweek": 5,
+        "type": "regular",
+        "status": "closed",
+        "points": 51,
+        "rank": 9,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2525": {
+        "id_gameweek": 2525,
+        "gameweek": 6,
+        "type": "regular",
+        "status": "closed",
+        "points": 62,
+        "rank": 5,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2526": {
+        "id_gameweek": 2526,
+        "gameweek": 7,
+        "type": "regular",
+        "status": "closed",
+        "points": 50,
+        "rank": 5,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2527": {
+        "id_gameweek": 2527,
+        "gameweek": 8,
+        "type": "regular",
+        "status": "closed",
+        "points": 53,
+        "rank": 5,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2528": {
+        "id_gameweek": 2528,
+        "gameweek": 9,
+        "type": "regular",
+        "status": "closed",
+        "points": 59,
+        "rank": 6,
+        "negative": 0,
+        "formation": "1-4-3-3"
+      },
+      "2529": {
+        "id_gameweek": 2529,
+        "gameweek": 10,
+        "type": "regular",
+        "status": "closed",
+        "points": 70,
+        "rank": 2,
+        "negative": 0,
+        "formation": "1-4-4-2"
+      },
+      "2530": {
+        "id_gameweek": 2530,
+        "gameweek": 11,
+        "type": "regular",
+        "status": "closed",
+        "points": 37,
+        "rank": 15,
+        "negative": 0,
+        "formation": "1-3-5-2"
+      },
+      "2531": {
+        "id_gameweek": 2531,
+        "gameweek": 12,
+        "type": "regular",
+        "status": "closed",
+        "points": 52,
+        "rank": 10,
+        "negative": 0,
+        "formation": "1-3-5-2"
+      },
+      "2532": {
+        "id_gameweek": 2532,
+        "gameweek": 13,
+        "type": "regular",
+        "status": "closed",
+        "points": 43,
+        "rank": 13,
+        "negative": 0,
+        "formation": "1-4-3-3"
+      },
+      "2533": {
+        "id_gameweek": 2533,
+        "gameweek": 14,
+        "type": "regular",
+        "status": "closed",
+        "points": 60,
+        "rank": 4,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2534": {
+        "id_gameweek": 2534,
+        "gameweek": 15,
+        "type": "regular",
+        "status": "closed",
+        "points": 29,
+        "rank": 16,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2535": {
+        "id_gameweek": 2535,
+        "gameweek": 16,
+        "type": "regular",
+        "status": "closed",
+        "points": 58,
+        "rank": 8,
+        "negative": 0,
+        "formation": "1-4-3-3"
+      },
+      "2536": {
+        "id_gameweek": 2536,
+        "gameweek": 17,
+        "type": "regular",
+        "status": "closed",
+        "points": 54,
+        "rank": 7,
+        "negative": 0,
+        "formation": "1-4-3-3"
+      },
+      "2537": {
+        "id_gameweek": 2537,
+        "gameweek": 18,
+        "type": "regular",
+        "status": "closed",
+        "points": 66,
+        "rank": 5,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2538": {
+        "id_gameweek": 2538,
+        "gameweek": 19,
+        "type": "regular",
+        "status": "closed",
+        "points": 54,
+        "rank": 7,
+        "negative": 0,
+        "formation": "1-4-3-3"
+      },
+      "2539": {
+        "id_gameweek": 2539,
+        "gameweek": 20,
+        "type": "regular",
+        "status": "closed",
+        "points": 32,
+        "rank": 15,
+        "negative": 0,
+        "formation": "1-4-4-2"
+      },
+      "2540": {
+        "id_gameweek": 2540,
+        "gameweek": 21,
+        "type": "regular",
+        "status": "closed",
+        "points": 56,
+        "rank": 7,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2541": {
+        "id_gameweek": 2541,
+        "gameweek": 22,
+        "type": "regular",
+        "status": "closing",
+        "points": 53,
+        "rank": 6,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      },
+      "2542": {
+        "id_gameweek": 2542,
+        "gameweek": 23,
+        "type": "regular",
+        "status": "started",
+        "points": 13,
+        "rank": 13,
+        "negative": 0,
+        "formation": "1-3-4-3"
+      }
+    },
+    "gameweeks_history": {
+      "1": {
+        "points": 42,
+        "negative": 0,
+        "width": 42,
+        "short": "J1",
+        "color": 3,
+        "status": "closed"
+      },
+      "2": {
+        "points": 43,
+        "negative": 0,
+        "width": 43,
+        "short": "J2",
+        "color": 3,
+        "status": "closed"
+      },
+      "3": {
+        "points": 40,
+        "negative": 0,
+        "width": 40,
+        "short": "J3",
+        "color": 3,
+        "status": "closed"
+      },
+      "4": {
+        "points": 57,
+        "negative": 0,
+        "width": 57,
+        "short": "J4",
+        "color": 3,
+        "status": "closed"
+      },
+      "5": {
+        "points": 51,
+        "negative": 0,
+        "width": 51,
+        "short": "J5",
+        "color": 3,
+        "status": "closed"
+      },
+      "6": {
+        "points": 62,
+        "negative": 0,
+        "width": 62,
+        "short": "J6",
+        "color": 3,
+        "status": "closed"
+      },
+      "7": {
+        "points": 50,
+        "negative": 0,
+        "width": 50,
+        "short": "J7",
+        "color": 3,
+        "status": "closed"
+      },
+      "8": {
+        "points": 53,
+        "negative": 0,
+        "width": 53,
+        "short": "J8",
+        "color": 3,
+        "status": "closed"
+      },
+      "9": {
+        "points": 59,
+        "negative": 0,
+        "width": 59,
+        "short": "J9",
+        "color": 3,
+        "status": "closed"
+      },
+      "10": {
+        "points": 70,
+        "negative": 0,
+        "width": 70,
+        "short": "J10",
+        "color": 4,
+        "status": "closed"
+      },
+      "11": {
+        "points": 37,
+        "negative": 0,
+        "width": 37,
+        "short": "J11",
+        "color": 2,
+        "status": "closed"
+      },
+      "12": {
+        "points": 52,
+        "negative": 0,
+        "width": 52,
+        "short": "J12",
+        "color": 3,
+        "status": "closed"
+      },
+      "13": {
+        "points": 43,
+        "negative": 0,
+        "width": 43,
+        "short": "J13",
+        "color": 3,
+        "status": "closed"
+      },
+      "14": {
+        "points": 60,
+        "negative": 0,
+        "width": 60,
+        "short": "J14",
+        "color": 3,
+        "status": "closed"
+      },
+      "15": {
+        "points": 29,
+        "negative": 0,
+        "width": 29,
+        "short": "J15",
+        "color": 2,
+        "status": "closed"
+      },
+      "16": {
+        "points": 58,
+        "negative": 0,
+        "width": 58,
+        "short": "J16",
+        "color": 3,
+        "status": "closed"
+      },
+      "17": {
+        "points": 54,
+        "negative": 0,
+        "width": 54,
+        "short": "J17",
+        "color": 3,
+        "status": "closed"
+      },
+      "18": {
+        "points": 66,
+        "negative": 0,
+        "width": 66,
+        "short": "J18",
+        "color": 3,
+        "status": "closed"
+      },
+      "19": {
+        "points": 54,
+        "negative": 0,
+        "width": 54,
+        "short": "J19",
+        "color": 3,
+        "status": "closed"
+      },
+      "20": {
+        "points": 32,
+        "negative": 0,
+        "width": 32,
+        "short": "J20",
+        "color": 2,
+        "status": "closed"
+      },
+      "21": {
+        "points": 56,
+        "negative": 0,
+        "width": 56,
+        "short": "J21",
+        "color": 3,
+        "status": "closed"
+      },
+      "22": {
+        "points": 53,
+        "negative": 0,
+        "width": 53,
+        "short": "J22",
+        "color": 3,
+        "status": "closing"
+      },
+      "23": {
+        "points": 13,
+        "negative": 0,
+        "width": 13,
         "short": "J23",
         "color": 2,
         "status": "started"
@@ -13380,2430 +15797,13 @@
       }
     }
   },
-  "12054406": {
-    "id": "12054406",
-    "name": "Carlod ( pachukas f.c )",
-    "img": "https://cdn.gomister.com/file/cdn-mister/users/64c2bf3c52256.png",
-    "played": "21 jugadores",
-    "money": "112.344.000",
-    "points": 1131,
-    "lineup": {
-      "positions": {
-        "1": {
-          "1": {
-            "id": 48920,
-            "name": "Predrag Rajković",
-            "points": -1,
-            "slot": 1,
-            "position": 1,
-            "id_team": 408,
-            "status": null,
-            "ts_pic": 1702931970,
-            "played": 1,
-            "short": "P. Rajković",
-            "bg": 1,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
-          }
-        },
-        "2": {
-          "2": {
-            "id": 23138,
-            "name": "Marcos Acuña",
-            "points": "?",
-            "slot": 2,
-            "position": 2,
-            "id_team": 17,
-            "status": null,
-            "ts_pic": 1703280537,
-            "played": 0,
-            "short": "M. Acuña",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23138.png?version=20231222222857",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-          },
-          "3": {
-            "id": 7843,
-            "name": "Mario Hermoso",
-            "points": "?",
-            "slot": 3,
-            "position": 2,
-            "id_team": 2,
-            "status": null,
-            "ts_pic": 1700037252,
-            "played": 0,
-            "short": "M. Hermoso",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7843.png?version=20231115093412",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
-          },
-          "4": {
-            "id": 171,
-            "name": "Rubén Duarte",
-            "points": "?",
-            "slot": 4,
-            "position": 2,
-            "id_team": 48,
-            "status": null,
-            "ts_pic": 1702852939,
-            "played": 0,
-            "short": "R. Duarte",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/171.png?version=20231217234219",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240203"
-          }
-        },
-        "3": {
-          "5": {
-            "id": 14911,
-            "name": "Álvaro García",
-            "points": "?",
-            "slot": 5,
-            "position": 3,
-            "id_team": 14,
-            "status": null,
-            "ts_pic": 1535113647,
-            "played": 0,
-            "short": "Á. García",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14911.png?version=20180824142727",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
-          },
-          "6": {
-            "id": 17453,
-            "name": "Frenkie De Jong",
-            "points": "?",
-            "slot": 6,
-            "position": 3,
-            "id_team": 3,
-            "status": null,
-            "ts_pic": 1702568201,
-            "played": 0,
-            "short": "F. De Jong",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17453.png?version=20231214163641",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
-          },
-          "7": {
-            "id": 19146,
-            "name": "Nabil Fekir",
-            "points": "?",
-            "slot": 7,
-            "position": 3,
-            "id_team": 4,
-            "status": null,
-            "ts_pic": 1702911940,
-            "played": 0,
-            "short": "N. Fekir",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19146.png?version=20231218160540",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-          },
-          "8": {
-            "id": 31267,
-            "name": "Omar Mascarell",
-            "points": 1,
-            "slot": 8,
-            "position": 3,
-            "id_team": 408,
-            "status": null,
-            "ts_pic": 1702932624,
-            "played": 1,
-            "short": "O. Mascarell",
-            "bg": 2,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
-          }
-        },
-        "4": {
-          "9": {
-            "id": 3729,
-            "name": "Youssef En Nesyri",
-            "points": "?",
-            "slot": 9,
-            "position": 4,
-            "id_team": 17,
-            "status": null,
-            "ts_pic": 1703281090,
-            "played": 0,
-            "short": "Y. En Nesyri",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3729.png?version=20231222223810",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-          },
-          "10": {
-            "id": 11866,
-            "name": "Hugo Duro",
-            "points": 10,
-            "slot": 10,
-            "position": 4,
-            "id_team": 19,
-            "status": null,
-            "ts_pic": 1703281834,
-            "played": 1,
-            "short": "H. Duro",
-            "bg": 4,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11866.png?version=20231222225034",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240203"
-          },
-          "11": {
-            "id": 48684,
-            "name": "Robert Lewandowski",
-            "points": "?",
-            "slot": 11,
-            "position": 4,
-            "id_team": 3,
-            "status": null,
-            "ts_pic": 1700230006,
-            "played": 0,
-            "short": "R. Lewandowski",
-            "bg": 0,
-            "best_xi": "",
-            "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48684.png?version=20231117150646",
-            "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
-          }
-        }
-      },
-      "count": 11
-    },
-    "bench": {
-      "354": {
-        "id": 354,
-        "name": "Aritz Elustondo",
-        "position": 2,
-        "id_team": 16,
-        "points": 40,
-        "avg": 4.4,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702843714,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 7,
-        "value": 493000,
-        "prev_value": 493000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 723000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 493000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Elustondo",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/354.png?version=20231217210834",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240203"
-      },
-      "51903": {
-        "id": 51903,
-        "name": "César Montes",
-        "position": 2,
-        "id_team": 21,
-        "points": 36,
-        "avg": 2.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1693610158,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          }
-        ],
-        "streak_sum": 5,
-        "value": 217000,
-        "prev_value": 217000,
-        "last_points": 2,
-        "id_uc": 12054406,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 217000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "C. Montes",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/51903.png?version=20230902011558",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240203"
-      },
-      "31496": {
-        "id": 31496,
-        "name": "Héctor Bellerín",
-        "position": 2,
-        "id_team": 4,
-        "points": 27,
-        "avg": 1.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702910229,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 0,
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 3,
-        "value": 896000,
-        "prev_value": 896000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1326000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 896000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "H. Bellerín",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31496.png?version=20231218153709",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-      },
-      "28784": {
-        "id": 28784,
-        "name": "José Ángel Carmona",
-        "position": 2,
-        "id_team": 9,
-        "points": 38,
-        "avg": 2.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702919628,
-        "streak": [
-          {
-            "points": 0,
-            "color": 0
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 2,
-        "value": 193000,
-        "prev_value": 193000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1500000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 193000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Ángel Carmona",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28784.png?version=20231218181348",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20240203"
-      },
-      "34": {
-        "id": 34,
-        "name": "José Giménez",
-        "position": 2,
-        "id_team": 2,
-        "points": 49,
-        "avg": 3.3,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702855462,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 10,
-        "value": 2825000,
-        "prev_value": 2825000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 7900000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 2825000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Giménez",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
-      },
-      "63": {
-        "id": 63,
-        "name": "Marc Bartra",
-        "position": 2,
-        "id_team": 4,
-        "points": 8,
-        "avg": 2.7,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702910675,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 191000,
-        "prev_value": 191000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11954890895,
-        "price": 191000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 191000
-        },
-        "offer": {
-          "active": 0,
-          "input": 191000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Bartra",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/63.png?version=20231218154435",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-      },
-      "40166": {
-        "id": 40166,
-        "name": "Aurélien Tchouaméni",
-        "position": 3,
-        "id_team": 15,
-        "points": 110,
-        "avg": 6.5,
-        "status": "five",
-        "id_competition": 1,
-        "ts_pic": 1702843952,
-        "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 9,
-            "color": 3
-          },
-          {
-            "points": 11,
-            "color": 4
-          }
-        ],
-        "streak_sum": 27,
-        "value": 12183000,
-        "prev_value": 12183000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 33369627,
-        "multiplier": 2.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 2,
-        "market": {
-          "active": 0,
-          "input": 12183000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Tchouaméni",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20231217211232",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
-      },
-      "55057": {
-        "id": 55057,
-        "name": "Djibril Sow",
-        "position": 3,
-        "id_team": 17,
-        "points": 76,
-        "avg": 4.2,
-        "status": "doubt",
-        "id_competition": 1,
-        "ts_pic": 1703182575,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 999000,
-        "prev_value": 999000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 2856000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 999000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "D. Sow",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55057.png?version=20231221191615",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-      },
-      "48537": {
-        "id": 48537,
-        "name": "Luiz Henrique",
-        "position": 4,
-        "id_team": 0,
-        "points": 66,
-        "avg": 4.7,
-        "status": null,
-        "id_competition": 0,
-        "ts_pic": 1702912278,
-        "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 22,
-        "value": 1344000,
-        "prev_value": 1291000,
-        "last_points": "-",
-        "id_uc": 12054406,
-        "floor": 4100000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11952785167,
-        "price": 4446549,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 4446549
-        },
-        "offer": {
-          "active": 0,
-          "input": 4446549
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "L. Henrique",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48537.png?version=20231218161118",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240203"
-      },
-      "17290": {
-        "id": 17290,
-        "name": "Sergio Camello",
-        "position": 4,
-        "id_team": 14,
-        "points": 65,
-        "avg": 3.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703109119,
-        "streak": [
-          {
-            "points": 1,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 1457000,
-        "prev_value": 1457000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1661000,
-        "multiplier": 3.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1457000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "S. Camello",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17290.png?version=20231220225159",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
-      }
-    },
-    "team_now": [
-      {
-        "id": 48920,
-        "name": "Predrag Rajković",
-        "position": 1,
-        "id_team": 408,
-        "points": 111,
-        "avg": 4.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702931970,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": -1,
-            "color": 1
-          }
-        ],
-        "streak_sum": 8,
-        "value": 9048000,
-        "prev_value": 9048000,
-        "last_points": -1,
-        "id_uc": 12054406,
-        "floor": 15204000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 9048000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "P. Rajković",
-        "bg": 1,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48920.png?version=20231218213930",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
-      },
-      {
-        "id": 354,
-        "name": "Aritz Elustondo",
-        "position": 2,
-        "id_team": 16,
-        "points": 40,
-        "avg": 4.4,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702843714,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 7,
-        "value": 493000,
-        "prev_value": 493000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 723000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 493000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Elustondo",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/354.png?version=20231217210834",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240203"
-      },
-      {
-        "id": 51903,
-        "name": "César Montes",
-        "position": 2,
-        "id_team": 21,
-        "points": 36,
-        "avg": 2.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1693610158,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          }
-        ],
-        "streak_sum": 5,
-        "value": 217000,
-        "prev_value": 217000,
-        "last_points": 2,
-        "id_uc": 12054406,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 217000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "C. Montes",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/51903.png?version=20230902011558",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240203"
-      },
-      {
-        "id": 31496,
-        "name": "Héctor Bellerín",
-        "position": 2,
-        "id_team": 4,
-        "points": 27,
-        "avg": 1.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702910229,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 0,
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 3,
-        "value": 896000,
-        "prev_value": 896000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1326000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 896000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "H. Bellerín",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31496.png?version=20231218153709",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-      },
-      {
-        "id": 28784,
-        "name": "José Ángel Carmona",
-        "position": 2,
-        "id_team": 9,
-        "points": 38,
-        "avg": 2.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702919628,
-        "streak": [
-          {
-            "points": 0,
-            "color": 0
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 2,
-        "value": 193000,
-        "prev_value": 193000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1500000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 193000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Ángel Carmona",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28784.png?version=20231218181348",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/9.png?version=20240203"
-      },
-      {
-        "id": 34,
-        "name": "José Giménez",
-        "position": 2,
-        "id_team": 2,
-        "points": 49,
-        "avg": 3.3,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702855462,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 10,
-        "value": 2825000,
-        "prev_value": 2825000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 7900000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 2825000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Giménez",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/34.png?version=20231218002422",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
-      },
-      {
-        "id": 63,
-        "name": "Marc Bartra",
-        "position": 2,
-        "id_team": 4,
-        "points": 8,
-        "avg": 2.7,
-        "status": "injury",
-        "id_competition": 1,
-        "ts_pic": 1702910675,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 191000,
-        "prev_value": 191000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11954890895,
-        "price": 191000,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 191000
-        },
-        "offer": {
-          "active": 0,
-          "input": 191000
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Bartra",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/63.png?version=20231218154435",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-      },
-      {
-        "id": 23138,
-        "name": "Marcos Acuña",
-        "position": 2,
-        "id_team": 17,
-        "points": 34,
-        "avg": 3.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703280537,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 4,
-        "value": 576000,
-        "prev_value": 576000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1000000,
-        "multiplier": 4,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 576000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Acuña",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/23138.png?version=20231222222857",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-      },
-      {
-        "id": 7843,
-        "name": "Mario Hermoso",
-        "position": 2,
-        "id_team": 2,
-        "points": 102,
-        "avg": 5.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1700037252,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 11,
-        "value": 10205000,
-        "prev_value": 10205000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 10205000,
-        "multiplier": 2.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 2,
-        "market": {
-          "active": 0,
-          "input": 10205000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "M. Hermoso",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7843.png?version=20231115093412",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240203"
-      },
-      {
-        "id": 171,
-        "name": "Rubén Duarte",
-        "position": 2,
-        "id_team": 48,
-        "points": 86,
-        "avg": 4.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702852939,
-        "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 22,
-        "value": 1569000,
-        "prev_value": 1569000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1569000,
-        "multiplier": 2.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 2,
-        "market": {
-          "active": 0,
-          "input": 1569000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "R. Duarte",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/171.png?version=20231217234219",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240203"
-      },
-      {
-        "id": 14911,
-        "name": "Álvaro García",
-        "position": 3,
-        "id_team": 14,
-        "points": 107,
-        "avg": 5.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1535113647,
-        "streak": [
-          {
-            "points": 12,
-            "color": 4
-          },
-          {
-            "points": 0,
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 12,
-        "value": 7102000,
-        "prev_value": 7102000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 21315000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 7102000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Á. García",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14911.png?version=20180824142727",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
-      },
-      {
-        "id": 40166,
-        "name": "Aurélien Tchouaméni",
-        "position": 3,
-        "id_team": 15,
-        "points": 110,
-        "avg": 6.5,
-        "status": "five",
-        "id_competition": 1,
-        "ts_pic": 1702843952,
-        "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 9,
-            "color": 3
-          },
-          {
-            "points": 11,
-            "color": 4
-          }
-        ],
-        "streak_sum": 27,
-        "value": 12183000,
-        "prev_value": 12183000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 33369627,
-        "multiplier": 2.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 2,
-        "market": {
-          "active": 0,
-          "input": 12183000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Tchouaméni",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/40166.png?version=20231217211232",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
-      },
-      {
-        "id": 55057,
-        "name": "Djibril Sow",
-        "position": 3,
-        "id_team": 17,
-        "points": 76,
-        "avg": 4.2,
-        "status": "doubt",
-        "id_competition": 1,
-        "ts_pic": 1703182575,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 999000,
-        "prev_value": 999000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 2856000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 999000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "D. Sow",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55057.png?version=20231221191615",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-      },
-      {
-        "id": 17453,
-        "name": "Frenkie De Jong",
-        "position": 3,
-        "id_team": 3,
-        "points": 103,
-        "avg": 7.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702568201,
-        "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 19,
-        "value": 18567000,
-        "prev_value": 18567000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 63839407,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 18567000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. De Jong",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17453.png?version=20231214163641",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
-      },
-      {
-        "id": 19146,
-        "name": "Nabil Fekir",
-        "position": 3,
-        "id_team": 4,
-        "points": 16,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702911940,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 6,
-            "color": 3
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 14,
-        "value": 7539000,
-        "prev_value": 7539000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 11440500,
-        "multiplier": 4,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 7539000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "N. Fekir",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19146.png?version=20231218160540",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240203"
-      },
-      {
-        "id": 31267,
-        "name": "Omar Mascarell",
-        "position": 3,
-        "id_team": 408,
-        "points": 45,
-        "avg": 2.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702932624,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 1,
-            "color": 2
-          }
-        ],
-        "streak_sum": 8,
-        "value": 215000,
-        "prev_value": 215000,
-        "last_points": 1,
-        "id_uc": 12054406,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 215000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "O. Mascarell",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31267.png?version=20231218215024",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240203"
-      },
-      {
-        "id": 11866,
-        "name": "Hugo Duro",
-        "position": 4,
-        "id_team": 19,
-        "points": 145,
-        "avg": 6.3,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703281834,
-        "streak": [
-          {
-            "points": 9,
-            "color": 3
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 10,
-            "color": 4
-          }
-        ],
-        "streak_sum": 22,
-        "value": 12483000,
-        "prev_value": 12483000,
-        "last_points": 10,
-        "id_uc": 12054406,
-        "floor": 33341766,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 12483000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "H. Duro",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11866.png?version=20231222225034",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240203"
-      },
-      {
-        "id": 48537,
-        "name": "Luiz Henrique",
-        "position": 4,
-        "id_team": 0,
-        "points": 66,
-        "avg": 4.7,
-        "status": null,
-        "id_competition": 0,
-        "ts_pic": 1702912278,
-        "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
-          {
-            "points": 4,
-            "color": 2
-          },
-          {
-            "points": 7,
-            "color": 3
-          }
-        ],
-        "streak_sum": 22,
-        "value": 1344000,
-        "prev_value": 1291000,
-        "last_points": "-",
-        "id_uc": 12054406,
-        "floor": 4100000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": 11952785167,
-        "price": 4446549,
-        "public": 1,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 1,
-          "input": 4446549
-        },
-        "offer": {
-          "active": 0,
-          "input": 4446549
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "L. Henrique",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48537.png?version=20231218161118",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/0.png?version=20240203"
-      },
-      {
-        "id": 48684,
-        "name": "Robert Lewandowski",
-        "position": 4,
-        "id_team": 3,
-        "points": 123,
-        "avg": 6.2,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1700230006,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 10,
-        "value": 20271000,
-        "prev_value": 20271000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 81592534,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 20271000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "R. Lewandowski",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48684.png?version=20231117150646",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240203"
-      },
-      {
-        "id": 17290,
-        "name": "Sergio Camello",
-        "position": 4,
-        "id_team": 14,
-        "points": 65,
-        "avg": 3.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703109119,
-        "streak": [
-          {
-            "points": 1,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 1457000,
-        "prev_value": 1457000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 1661000,
-        "multiplier": 3.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1457000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "S. Camello",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17290.png?version=20231220225159",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240203"
-      },
-      {
-        "id": 3729,
-        "name": "Youssef En Nesyri",
-        "position": 4,
-        "id_team": 17,
-        "points": 80,
-        "avg": 4.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703281090,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 3971000,
-        "prev_value": 3971000,
-        "last_points": "?",
-        "id_uc": 12054406,
-        "floor": 5793000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 3971000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Y. En Nesyri",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3729.png?version=20231222223810",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240203"
-      }
-    ],
-    "gameweeks": {
-      "2520": {
-        "id_gameweek": 2520,
-        "gameweek": 1,
-        "type": "regular",
-        "status": "closed",
-        "points": 42,
-        "rank": 9,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2521": {
-        "id_gameweek": 2521,
-        "gameweek": 2,
-        "type": "regular",
-        "status": "closed",
-        "points": 43,
-        "rank": 11,
-        "negative": 0,
-        "formation": "1-5-3-2"
-      },
-      "2522": {
-        "id_gameweek": 2522,
-        "gameweek": 3,
-        "type": "regular",
-        "status": "closed",
-        "points": 40,
-        "rank": 12,
-        "negative": 0,
-        "formation": "1-4-5-1"
-      },
-      "2523": {
-        "id_gameweek": 2523,
-        "gameweek": 4,
-        "type": "regular",
-        "status": "closed",
-        "points": 57,
-        "rank": 2,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2524": {
-        "id_gameweek": 2524,
-        "gameweek": 5,
-        "type": "regular",
-        "status": "closed",
-        "points": 51,
-        "rank": 9,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2525": {
-        "id_gameweek": 2525,
-        "gameweek": 6,
-        "type": "regular",
-        "status": "closed",
-        "points": 62,
-        "rank": 5,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2526": {
-        "id_gameweek": 2526,
-        "gameweek": 7,
-        "type": "regular",
-        "status": "closed",
-        "points": 50,
-        "rank": 5,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2527": {
-        "id_gameweek": 2527,
-        "gameweek": 8,
-        "type": "regular",
-        "status": "closed",
-        "points": 53,
-        "rank": 5,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2528": {
-        "id_gameweek": 2528,
-        "gameweek": 9,
-        "type": "regular",
-        "status": "closed",
-        "points": 59,
-        "rank": 6,
-        "negative": 0,
-        "formation": "1-4-3-3"
-      },
-      "2529": {
-        "id_gameweek": 2529,
-        "gameweek": 10,
-        "type": "regular",
-        "status": "closed",
-        "points": 70,
-        "rank": 2,
-        "negative": 0,
-        "formation": "1-4-4-2"
-      },
-      "2530": {
-        "id_gameweek": 2530,
-        "gameweek": 11,
-        "type": "regular",
-        "status": "closed",
-        "points": 37,
-        "rank": 15,
-        "negative": 0,
-        "formation": "1-3-5-2"
-      },
-      "2531": {
-        "id_gameweek": 2531,
-        "gameweek": 12,
-        "type": "regular",
-        "status": "closed",
-        "points": 52,
-        "rank": 10,
-        "negative": 0,
-        "formation": "1-3-5-2"
-      },
-      "2532": {
-        "id_gameweek": 2532,
-        "gameweek": 13,
-        "type": "regular",
-        "status": "closed",
-        "points": 43,
-        "rank": 13,
-        "negative": 0,
-        "formation": "1-4-3-3"
-      },
-      "2533": {
-        "id_gameweek": 2533,
-        "gameweek": 14,
-        "type": "regular",
-        "status": "closed",
-        "points": 60,
-        "rank": 4,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2534": {
-        "id_gameweek": 2534,
-        "gameweek": 15,
-        "type": "regular",
-        "status": "closed",
-        "points": 29,
-        "rank": 16,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2535": {
-        "id_gameweek": 2535,
-        "gameweek": 16,
-        "type": "regular",
-        "status": "closed",
-        "points": 58,
-        "rank": 8,
-        "negative": 0,
-        "formation": "1-4-3-3"
-      },
-      "2536": {
-        "id_gameweek": 2536,
-        "gameweek": 17,
-        "type": "regular",
-        "status": "closed",
-        "points": 54,
-        "rank": 7,
-        "negative": 0,
-        "formation": "1-4-3-3"
-      },
-      "2537": {
-        "id_gameweek": 2537,
-        "gameweek": 18,
-        "type": "regular",
-        "status": "closed",
-        "points": 66,
-        "rank": 5,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2538": {
-        "id_gameweek": 2538,
-        "gameweek": 19,
-        "type": "regular",
-        "status": "closed",
-        "points": 54,
-        "rank": 7,
-        "negative": 0,
-        "formation": "1-4-3-3"
-      },
-      "2539": {
-        "id_gameweek": 2539,
-        "gameweek": 20,
-        "type": "regular",
-        "status": "closed",
-        "points": 32,
-        "rank": 15,
-        "negative": 0,
-        "formation": "1-4-4-2"
-      },
-      "2540": {
-        "id_gameweek": 2540,
-        "gameweek": 21,
-        "type": "regular",
-        "status": "closed",
-        "points": 56,
-        "rank": 7,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2541": {
-        "id_gameweek": 2541,
-        "gameweek": 22,
-        "type": "regular",
-        "status": "closing",
-        "points": 53,
-        "rank": 6,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      },
-      "2542": {
-        "id_gameweek": 2542,
-        "gameweek": 23,
-        "type": "regular",
-        "status": "started",
-        "points": 10,
-        "rank": 13,
-        "negative": 0,
-        "formation": "1-3-4-3"
-      }
-    },
-    "gameweeks_history": {
-      "1": {
-        "points": 42,
-        "negative": 0,
-        "width": 42,
-        "short": "J1",
-        "color": 3,
-        "status": "closed"
-      },
-      "2": {
-        "points": 43,
-        "negative": 0,
-        "width": 43,
-        "short": "J2",
-        "color": 3,
-        "status": "closed"
-      },
-      "3": {
-        "points": 40,
-        "negative": 0,
-        "width": 40,
-        "short": "J3",
-        "color": 3,
-        "status": "closed"
-      },
-      "4": {
-        "points": 57,
-        "negative": 0,
-        "width": 57,
-        "short": "J4",
-        "color": 3,
-        "status": "closed"
-      },
-      "5": {
-        "points": 51,
-        "negative": 0,
-        "width": 51,
-        "short": "J5",
-        "color": 3,
-        "status": "closed"
-      },
-      "6": {
-        "points": 62,
-        "negative": 0,
-        "width": 62,
-        "short": "J6",
-        "color": 3,
-        "status": "closed"
-      },
-      "7": {
-        "points": 50,
-        "negative": 0,
-        "width": 50,
-        "short": "J7",
-        "color": 3,
-        "status": "closed"
-      },
-      "8": {
-        "points": 53,
-        "negative": 0,
-        "width": 53,
-        "short": "J8",
-        "color": 3,
-        "status": "closed"
-      },
-      "9": {
-        "points": 59,
-        "negative": 0,
-        "width": 59,
-        "short": "J9",
-        "color": 3,
-        "status": "closed"
-      },
-      "10": {
-        "points": 70,
-        "negative": 0,
-        "width": 70,
-        "short": "J10",
-        "color": 4,
-        "status": "closed"
-      },
-      "11": {
-        "points": 37,
-        "negative": 0,
-        "width": 37,
-        "short": "J11",
-        "color": 2,
-        "status": "closed"
-      },
-      "12": {
-        "points": 52,
-        "negative": 0,
-        "width": 52,
-        "short": "J12",
-        "color": 3,
-        "status": "closed"
-      },
-      "13": {
-        "points": 43,
-        "negative": 0,
-        "width": 43,
-        "short": "J13",
-        "color": 3,
-        "status": "closed"
-      },
-      "14": {
-        "points": 60,
-        "negative": 0,
-        "width": 60,
-        "short": "J14",
-        "color": 3,
-        "status": "closed"
-      },
-      "15": {
-        "points": 29,
-        "negative": 0,
-        "width": 29,
-        "short": "J15",
-        "color": 2,
-        "status": "closed"
-      },
-      "16": {
-        "points": 58,
-        "negative": 0,
-        "width": 58,
-        "short": "J16",
-        "color": 3,
-        "status": "closed"
-      },
-      "17": {
-        "points": 54,
-        "negative": 0,
-        "width": 54,
-        "short": "J17",
-        "color": 3,
-        "status": "closed"
-      },
-      "18": {
-        "points": 66,
-        "negative": 0,
-        "width": 66,
-        "short": "J18",
-        "color": 3,
-        "status": "closed"
-      },
-      "19": {
-        "points": 54,
-        "negative": 0,
-        "width": 54,
-        "short": "J19",
-        "color": 3,
-        "status": "closed"
-      },
-      "20": {
-        "points": 32,
-        "negative": 0,
-        "width": 32,
-        "short": "J20",
-        "color": 2,
-        "status": "closed"
-      },
-      "21": {
-        "points": 56,
-        "negative": 0,
-        "width": 56,
-        "short": "J21",
-        "color": 3,
-        "status": "closed"
-      },
-      "22": {
-        "points": 53,
-        "negative": 0,
-        "width": 53,
-        "short": "J22",
-        "color": 3,
-        "status": "closing"
-      },
-      "23": {
-        "points": 10,
-        "negative": 0,
-        "width": 10,
-        "short": "J23",
-        "color": 2,
-        "status": "started"
-      }
-    }
-  },
   "12069044": {
     "id": "12069044",
     "name": "Cuzz ( FC Cuzzyroos 🦘)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/63a21583e5a0f.png",
     "played": "14 jugadores",
     "money": "123.911.000",
-    "points": 1116,
+    "points": 1117,
     "lineup": {
       "positions": {
         "1": {
@@ -15850,7 +15850,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1702856396,
-            "played": 0,
+            "played": 1,
             "short": "J. Koundé",
             "bg": 0,
             "best_xi": "",
@@ -15866,7 +15866,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1702856493,
-            "played": 0,
+            "played": 1,
             "short": "R. Araújo",
             "bg": 0,
             "best_xi": "",
@@ -15948,7 +15948,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1702842926,
-            "played": 0,
+            "played": 1,
             "short": "A. Guevara",
             "bg": 0,
             "best_xi": "",
@@ -15960,7 +15960,7 @@
           "10": {
             "id": 82,
             "name": "Sandro",
-            "points": 7,
+            "points": 8,
             "slot": 10,
             "position": 4,
             "id_team": 11,
@@ -16327,7 +16327,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -16443,7 +16443,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -16617,7 +16617,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -16929,8 +16929,8 @@
         "name": "Sandro",
         "position": 4,
         "id_team": 11,
-        "points": 62,
-        "avg": 5.2,
+        "points": 63,
+        "avg": 5.3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1437662345,
@@ -16944,14 +16944,14 @@
             "color": 3
           },
           {
-            "points": 7,
+            "points": 8,
             "color": 3
           }
         ],
-        "streak_sum": 16,
+        "streak_sum": 17,
         "value": 2372000,
         "prev_value": 2372000,
-        "last_points": 7,
+        "last_points": 8,
         "id_uc": 12069044,
         "floor": 9233000,
         "multiplier": 1.5,
@@ -17209,8 +17209,8 @@
         "gameweek": 23,
         "type": "regular",
         "status": "started",
-        "points": 16,
-        "rank": 6,
+        "points": 17,
+        "rank": 5,
         "negative": 0,
         "formation": "1-5-3-2"
       }
@@ -17393,9 +17393,9 @@
         "status": "closing"
       },
       "23": {
-        "points": 16,
+        "points": 17,
         "negative": 0,
-        "width": 16,
+        "width": 17,
         "short": "J23",
         "color": 2,
         "status": "started"
@@ -17505,7 +17505,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1702853090,
-            "played": 0,
+            "played": 1,
             "short": "J. Guridi",
             "bg": 0,
             "best_xi": "",
@@ -17571,7 +17571,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1692952101,
-            "played": 0,
+            "played": 1,
             "short": "S. Omorodion",
             "bg": 0,
             "best_xi": "",
@@ -18454,7 +18454,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -18918,7 +18918,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -19163,7 +19163,7 @@
         "type": "regular",
         "status": "started",
         "points": 15,
-        "rank": 10,
+        "rank": 9,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -19490,7 +19490,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1702856795,
-            "played": 0,
+            "played": 1,
             "short": "Pedri",
             "bg": 0,
             "best_xi": "",
@@ -19540,7 +19540,7 @@
             "id_team": 3,
             "status": null,
             "ts_pic": 1695105022,
-            "played": 0,
+            "played": 1,
             "short": "L. Yamal",
             "bg": 0,
             "best_xi": "",
@@ -20755,7 +20755,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -20987,7 +20987,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -21348,7 +21348,7 @@
         "type": "regular",
         "status": "started",
         "points": 16,
-        "rank": 8,
+        "rank": 7,
         "negative": 0,
         "formation": "1-4-3-3"
       }
@@ -27555,7 +27555,7 @@
         "type": "regular",
         "status": "started",
         "points": 16,
-        "rank": 7,
+        "rank": 6,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -28101,7 +28101,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -28567,7 +28567,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -29276,7 +29276,7 @@
         "type": "regular",
         "status": "started",
         "points": 16,
-        "rank": 5,
+        "rank": 8,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -29487,7 +29487,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1702843558,
-            "played": 0,
+            "played": 1,
             "short": "A. Sivera",
             "bg": 0,
             "best_xi": "",
@@ -29555,7 +29555,7 @@
             "id_team": 48,
             "status": null,
             "ts_pic": 1561994202,
-            "played": 0,
+            "played": 1,
             "short": "L. Rioja",
             "bg": 0,
             "best_xi": "",
@@ -30056,7 +30056,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -30752,7 +30752,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -31171,7 +31171,7 @@
         "type": "regular",
         "status": "started",
         "points": 15,
-        "rank": 9,
+        "rank": 10,
         "negative": 0,
         "formation": "1-3-5-2"
       }
