@@ -3,8 +3,8 @@
     "id": "12067022",
     "name": "Palancas F.C.",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/6306345fa2044.png",
-    "played": "18 jugadores",
-    "money": "127.249.000",
+    "played": "19 jugadores",
+    "money": "143.161.000",
     "points": 1342,
     "lineup": {
       "positions": {
@@ -370,6 +370,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56923.png?version=20240120152549",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240203"
       },
+      "328": {
+        "id": 328,
+        "name": "Dani Carvajal",
+        "position": 2,
+        "id_team": 15,
+        "points": 116,
+        "avg": 7.3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 14,
+            "color": 4
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 17,
+        "value": 15912000,
+        "prev_value": 15912000,
+        "last_points": "?",
+        "id_uc": 12067022,
+        "floor": 31824000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 15912000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "D. Carvajal",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/328.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
+      },
       "17623": {
         "id": 17623,
         "name": "Ferland Mendy",
@@ -518,9 +576,9 @@
         "floor": 51552116,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955728777,
+        "price": 14646000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -530,12 +588,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 14646000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 14646000
         },
         "barter": [],
         "popup": "bid",
@@ -895,6 +953,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240203"
       },
       {
+        "id": 328,
+        "name": "Dani Carvajal",
+        "position": 2,
+        "id_team": 15,
+        "points": 116,
+        "avg": 7.3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1437662346,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 14,
+            "color": 4
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 17,
+        "value": 15912000,
+        "prev_value": 15912000,
+        "last_points": "?",
+        "id_uc": 12067022,
+        "floor": 31824000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 15912000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "D. Carvajal",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/328.png?version=20150723163906",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
+      },
+      {
         "id": 17623,
         "name": "Ferland Mendy",
         "position": 2,
@@ -1156,7 +1272,7 @@
         "last_points": "?",
         "id_uc": 12067022,
         "floor": 21370000,
-        "multiplier": 2.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1168,7 +1284,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 2,
+        "default": 3,
         "market": {
           "active": 0,
           "input": 11558000
@@ -1564,9 +1680,9 @@
         "floor": 51552116,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 11955728777,
+        "price": 14646000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -1576,12 +1692,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 14646000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 14646000
         },
         "barter": [],
         "popup": "bid",
@@ -9884,8 +10000,8 @@
     "id": "12067027",
     "name": "Jose (Biscarrués C.F.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c1641dbf205.png",
-    "played": "14 jugadores",
-    "money": "128.981.000",
+    "played": "13 jugadores",
+    "money": "113.069.000",
     "points": 1191,
     "lineup": {
       "positions": {
@@ -10310,64 +10426,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/17615.png?version=20231222183854",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20240203"
-      },
-      {
-        "id": 328,
-        "name": "Dani Carvajal",
-        "position": 2,
-        "id_team": 15,
-        "points": 116,
-        "avg": 7.3,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1437662346,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 14,
-            "color": 4
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 17,
-        "value": 15912000,
-        "prev_value": 15912000,
-        "last_points": "?",
-        "id_uc": 12067027,
-        "floor": 15912000,
-        "multiplier": 2,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 1,
-        "market": {
-          "active": 0,
-          "input": 15912000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "D. Carvajal",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/328.png?version=20150723163906",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240203"
       },
       {
         "id": 91,
@@ -11863,7 +11921,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -12677,7 +12735,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -16059,7 +16117,7 @@
         "id_team": 4,
         "points": 37,
         "avg": 3.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702912087,
         "streak": [
@@ -16757,7 +16815,7 @@
         "id_team": 4,
         "points": 37,
         "avg": 3.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702912087,
         "streak": [
@@ -17511,7 +17569,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 10,
-            "status": null,
+            "status": "other",
             "ts_pic": 1693429398,
             "played": 0,
             "short": "L. Boyé",
@@ -17722,7 +17780,7 @@
         "id_team": 4,
         "points": 104,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702911872,
         "streak": [
@@ -17896,7 +17954,7 @@
         "id_team": 4,
         "points": 65,
         "avg": 3.8,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703269736,
         "streak": [
@@ -18594,7 +18652,7 @@
         "id_team": 4,
         "points": 104,
         "avg": 5.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702911872,
         "streak": [
@@ -18884,7 +18942,7 @@
         "id_team": 4,
         "points": 65,
         "avg": 3.8,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703269736,
         "streak": [
@@ -19000,7 +19058,7 @@
         "id_team": 10,
         "points": 69,
         "avg": 4.1,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1693429398,
         "streak": [
