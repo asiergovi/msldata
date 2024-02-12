@@ -486,64 +486,6 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/29169.png?version=20231222190221",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20240212"
       },
-      "25582": {
-        "id": 25582,
-        "name": "Facundo Pellistri",
-        "position": 4,
-        "id_team": 10,
-        "points": 18,
-        "avg": 9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1706774785,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 13,
-            "color": 4
-          }
-        ],
-        "streak_sum": 18,
-        "value": 4131000,
-        "prev_value": 3962000,
-        "last_points": 13,
-        "id_uc": 12067022,
-        "floor": 8000000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 4131000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. Pellistri",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240212"
-      },
       "33896": {
         "id": 33896,
         "name": "Ilias Akhomach",
@@ -1415,64 +1357,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/29169.png?version=20231222190221",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20240212"
-      },
-      {
-        "id": 25582,
-        "name": "Facundo Pellistri",
-        "position": 4,
-        "id_team": 10,
-        "points": 18,
-        "avg": 9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1706774785,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 13,
-            "color": 4
-          }
-        ],
-        "streak_sum": 18,
-        "value": 4131000,
-        "prev_value": 3962000,
-        "last_points": 13,
-        "id_uc": 12067022,
-        "floor": 8000000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 4131000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "F. Pellistri",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240212"
       },
       {
         "id": 130,
@@ -21166,7 +21050,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 1,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1625124280,
             "played": 0,
             "short": "D. Vivian",
@@ -21711,7 +21595,7 @@
         "id_team": 1,
         "points": 97,
         "avg": 4.4,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1625124280,
         "streak": [
@@ -29702,6 +29586,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48194.png?version=20231218173155",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240212"
       },
+      "25582": {
+        "id": 25582,
+        "name": "Facundo Pellistri",
+        "position": 4,
+        "id_team": 10,
+        "points": 18,
+        "avg": 9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1706774785,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 13,
+            "color": 4
+          }
+        ],
+        "streak_sum": 18,
+        "value": 4131000,
+        "prev_value": 3962000,
+        "last_points": 13,
+        "id_uc": 12054484,
+        "floor": 12000000,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 4131000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. Pellistri",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240212"
+      },
       "18221": {
         "id": 18221,
         "name": "João Félix",
@@ -30805,6 +30747,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1708.png?version=20231217205217",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240212"
+      },
+      {
+        "id": 25582,
+        "name": "Facundo Pellistri",
+        "position": 4,
+        "id_team": 10,
+        "points": 18,
+        "avg": 9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1706774785,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 13,
+            "color": 4
+          }
+        ],
+        "streak_sum": 18,
+        "value": 4131000,
+        "prev_value": 3962000,
+        "last_points": 13,
+        "id_uc": 12054484,
+        "floor": 12000000,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 4131000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "F. Pellistri",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240212"
       },
       {
         "id": 18221,
