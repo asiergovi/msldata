@@ -71,7 +71,7 @@
             "played": 1,
             "short": "M. Pubill",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/35434.png?version=20230913142636",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240220"
           }
@@ -1604,7 +1604,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 65,
         "rank": 3,
         "negative": 0,
@@ -1810,7 +1810,7 @@
         "width": 65,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -2076,7 +2076,7 @@
         "id_team": 16,
         "points": 52,
         "avg": 4.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693205325,
         "streak": [
@@ -2832,7 +2832,7 @@
         "id_team": 16,
         "points": 52,
         "avg": 4.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693205325,
         "streak": [
@@ -4115,7 +4115,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 43,
         "rank": 11,
         "negative": 0,
@@ -4321,7 +4321,7 @@
         "width": 43,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -4431,7 +4431,7 @@
             "played": 1,
             "short": "T. Kubo",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19562.png?version=20231119114114",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240220"
           },
@@ -4497,7 +4497,7 @@
             "played": 1,
             "short": "Á. Correa",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49.png?version=20231217210022",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240220"
           },
@@ -6510,9 +6510,9 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 74,
-        "rank": 2,
+        "rank": 1,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -6716,7 +6716,7 @@
         "width": 74,
         "short": "J25",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -7214,7 +7214,7 @@
         "id_team": 11,
         "points": 0,
         "avg": 0,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1707929352,
         "streak": [
@@ -7272,7 +7272,7 @@
         "id_team": 21,
         "points": 87,
         "avg": 4.6,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -7970,7 +7970,7 @@
         "id_team": 11,
         "points": 0,
         "avg": 0,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1707929352,
         "streak": [
@@ -8318,7 +8318,7 @@
         "id_team": 21,
         "points": 87,
         "avg": 4.6,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -8615,7 +8615,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 51,
         "rank": 6,
         "negative": 0,
@@ -8821,7 +8821,7 @@
         "width": 51,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -9013,7 +9013,7 @@
             "played": 1,
             "short": "A. Budimir",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18004.png?version=20231217210101",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/50.png?version=20240220"
           }
@@ -9029,7 +9029,7 @@
         "id_team": 10,
         "points": 87,
         "avg": 3.6,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702927270,
         "streak": [
@@ -9437,7 +9437,7 @@
         "id_team": 10,
         "points": 87,
         "avg": 3.6,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702927270,
         "streak": [
@@ -10256,9 +10256,9 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 38,
-        "rank": 15,
+        "rank": 14,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -10462,7 +10462,7 @@
         "width": 38,
         "short": "J25",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -10902,7 +10902,7 @@
         "id_team": 16,
         "points": 122,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703280265,
         "streak": [
@@ -11832,7 +11832,7 @@
         "id_team": 16,
         "points": 122,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703280265,
         "streak": [
@@ -12129,7 +12129,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 55,
         "rank": 5,
         "negative": 0,
@@ -12335,7 +12335,7 @@
         "width": 55,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -12511,7 +12511,7 @@
             "played": 1,
             "short": "R. Lewandowski",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48684.png?version=20231117150646",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240220"
           },
@@ -14234,7 +14234,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 61,
         "rank": 4,
         "negative": 0,
@@ -14440,7 +14440,7 @@
         "width": 61,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -14534,7 +14534,7 @@
             "played": 1,
             "short": "M. Merino",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/13697.png?version=20180712180140",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240220"
           },
@@ -14648,7 +14648,7 @@
         "id_team": 15,
         "points": 104,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843504,
         "streak": [
@@ -14706,7 +14706,7 @@
         "id_team": 15,
         "points": 60,
         "avg": 4,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703278289,
         "streak": [
@@ -14764,7 +14764,7 @@
         "id_team": 222,
         "points": 111,
         "avg": 4.8,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702925652,
         "streak": [
@@ -14880,7 +14880,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -14998,7 +14998,7 @@
         "id_team": 15,
         "points": 104,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843504,
         "streak": [
@@ -15114,7 +15114,7 @@
         "id_team": 15,
         "points": 60,
         "avg": 4,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703278289,
         "streak": [
@@ -15288,7 +15288,7 @@
         "id_team": 222,
         "points": 111,
         "avg": 4.8,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702925652,
         "streak": [
@@ -15636,7 +15636,7 @@
         "id_team": 4,
         "points": 99,
         "avg": 5.2,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -16107,9 +16107,9 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 38,
-        "rank": 14,
+        "rank": 15,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -16313,7 +16313,7 @@
         "width": 38,
         "short": "J25",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -16357,7 +16357,7 @@
             "played": 1,
             "short": "E. García",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20231218195002",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240220"
           },
@@ -18386,7 +18386,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 50,
         "rank": 7,
         "negative": 0,
@@ -18592,7 +18592,7 @@
         "width": 50,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -18686,7 +18686,7 @@
             "played": 1,
             "short": "M. Llorente",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/561.png?version=20231218002841",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/2.png?version=20240220"
           },
@@ -19090,7 +19090,7 @@
         "id_team": 5,
         "points": 94,
         "avg": 5.2,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1689667614,
         "streak": [
@@ -20078,7 +20078,7 @@
         "id_team": 5,
         "points": 94,
         "avg": 5.2,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1689667614,
         "streak": [
@@ -20607,9 +20607,9 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 74,
-        "rank": 1,
+        "rank": 2,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -20813,7 +20813,7 @@
         "width": 74,
         "short": "J25",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -21021,7 +21021,7 @@
         "id_team": 3,
         "points": 113,
         "avg": 6.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702856879,
         "streak": [
@@ -21719,7 +21719,7 @@
         "id_team": 3,
         "points": 113,
         "avg": 6.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702856879,
         "streak": [
@@ -22016,7 +22016,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 39,
         "rank": 13,
         "negative": 0,
@@ -22222,7 +22222,7 @@
         "width": 39,
         "short": "J25",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -22248,7 +22248,7 @@
             "played": 1,
             "short": "Ø. Nyland",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55453.png?version=20231221192456",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240220"
           }
@@ -22720,7 +22720,7 @@
         "id_team": 19,
         "points": 33,
         "avg": 4.1,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843022,
         "streak": [
@@ -23360,7 +23360,7 @@
         "id_team": 19,
         "points": 33,
         "avg": 4.1,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843022,
         "streak": [
@@ -24121,7 +24121,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 49,
         "rank": 8,
         "negative": 0,
@@ -24327,7 +24327,7 @@
         "width": 49,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -26574,7 +26574,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 22,
         "rank": 16,
         "negative": 0,
@@ -26780,7 +26780,7 @@
         "width": 22,
         "short": "J25",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -27162,7 +27162,7 @@
         "id_team": 17,
         "points": 134,
         "avg": 5.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703280981,
         "streak": [
@@ -28034,7 +28034,7 @@
         "id_team": 17,
         "points": 134,
         "avg": 5.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703280981,
         "streak": [
@@ -28331,7 +28331,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 46,
         "rank": 9,
         "negative": 0,
@@ -28537,7 +28537,7 @@
         "width": 46,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -28597,7 +28597,7 @@
             "played": 1,
             "short": "A. Moreno",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18437.png?version=20231217204036",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240220"
           },
@@ -30030,7 +30030,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 45,
         "rank": 10,
         "negative": 0,
@@ -30236,7 +30236,7 @@
         "width": 45,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -30275,7 +30275,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 14,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1661974426,
             "played": 0,
             "short": "P. Chavarría",
@@ -30444,7 +30444,7 @@
         "id_team": 5,
         "points": 10,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1705913428,
         "streak": [
@@ -30560,7 +30560,7 @@
         "id_team": 17,
         "points": 45,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1575276596,
         "streak": [
@@ -30676,7 +30676,7 @@
         "id_team": 19,
         "points": 109,
         "avg": 4.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703281807,
         "streak": [
@@ -30910,7 +30910,7 @@
         "id_team": 5,
         "points": 10,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1705913428,
         "streak": [
@@ -31200,7 +31200,7 @@
         "id_team": 17,
         "points": 45,
         "avg": 5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1575276596,
         "streak": [
@@ -31490,7 +31490,7 @@
         "id_team": 19,
         "points": 109,
         "avg": 4.7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703281807,
         "streak": [
@@ -31903,7 +31903,7 @@
         "id_gameweek": 2544,
         "gameweek": 25,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 42,
         "rank": 12,
         "negative": 0,
@@ -32109,7 +32109,7 @@
         "width": 42,
         "short": "J25",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   }
