@@ -9462,7 +9462,7 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12011976529,
+        "id_market": 12012808138,
         "price": 424000,
         "public": 1,
         "bid": null,
@@ -9578,7 +9578,7 @@
         "floor": 1653000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12011977034,
+        "id_market": 12012808144,
         "price": 1024000,
         "public": 1,
         "bid": null,
@@ -10823,7 +10823,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 1,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1437662346,
             "played": 1,
             "short": "Y. Berchiche",
@@ -11542,7 +11542,7 @@
         "id_team": 1,
         "points": 123,
         "avg": 6.5,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -19373,6 +19373,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27852.png?version=20210701092440",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240223"
       },
+      "53113": {
+        "id": 53113,
+        "name": "Hamari Traoré",
+        "position": 2,
+        "id_team": 16,
+        "points": 96,
+        "avg": 4.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703181418,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 6,
+            "color": 3
+          }
+        ],
+        "streak_sum": 9,
+        "value": 8025000,
+        "prev_value": 7921000,
+        "last_points": 6,
+        "id_uc": 12055022,
+        "floor": 9624810,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 8025000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "H. Traoré",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53113.png?version=20231221185658",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240223"
+      },
       "28619": {
         "id": 28619,
         "name": "Iván Balliu",
@@ -20070,6 +20128,64 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/20107.png?version=20191123174656",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/21.png?version=20240223"
+      },
+      {
+        "id": 53113,
+        "name": "Hamari Traoré",
+        "position": 2,
+        "id_team": 16,
+        "points": 96,
+        "avg": 4.6,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703181418,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": 6,
+            "color": 3
+          }
+        ],
+        "streak_sum": 9,
+        "value": 8025000,
+        "prev_value": 7921000,
+        "last_points": 6,
+        "id_uc": 12055022,
+        "floor": 9624810,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 8025000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "H. Traoré",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53113.png?version=20231221185658",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240223"
       },
       {
         "id": 28619,
@@ -23700,64 +23816,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/455.png?version=20231230194129",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240223"
-      },
-      {
-        "id": 53113,
-        "name": "Hamari Traoré",
-        "position": 2,
-        "id_team": 16,
-        "points": 96,
-        "avg": 4.6,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703181418,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": 6,
-            "color": 3
-          }
-        ],
-        "streak_sum": 9,
-        "value": 8025000,
-        "prev_value": 7921000,
-        "last_points": 6,
-        "id_uc": 12054815,
-        "floor": 8025000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 8025000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "H. Traoré",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53113.png?version=20231221185658",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240223"
       },
       {
         "id": 51992,
