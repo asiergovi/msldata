@@ -493,7 +493,7 @@
         "id_team": 3,
         "points": 110,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702856839,
         "streak": [
@@ -1249,7 +1249,7 @@
         "id_team": 3,
         "points": 110,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702856839,
         "streak": [
@@ -8799,8 +8799,8 @@
     "id": "12067027",
     "name": "Jose (Biscarrués C.F.)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/64c1641dbf205.png",
-    "played": "18 jugadores",
-    "money": "136.851.000",
+    "played": "16 jugadores",
+    "money": "131.286.000",
     "points": 1,
     "lineup": {
       "positions": {
@@ -9633,64 +9633,6 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240308"
       },
       {
-        "id": 358,
-        "name": "Íñigo Martínez",
-        "position": 2,
-        "id_team": 3,
-        "points": 56,
-        "avg": 4.7,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1692267549,
-        "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 5,
-        "value": 5114000,
-        "prev_value": 4963000,
-        "last_points": 3,
-        "id_uc": 12067027,
-        "floor": 5114000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 5114000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Í. Martínez",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/358.png?version=20230817121909",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240308"
-      },
-      {
         "id": 332,
         "name": "Nacho Fernández",
         "position": 2,
@@ -9921,64 +9863,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25867.png?version=20231217210321",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240308"
-      },
-      {
-        "id": 28776,
-        "name": "Beñat Turrientes",
-        "position": 3,
-        "id_team": 16,
-        "points": 58,
-        "avg": 3.2,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702847494,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 7,
-        "value": 451000,
-        "prev_value": 450000,
-        "last_points": 4,
-        "id_uc": 12067027,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 451000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "B. Turrientes",
-        "bg": 2,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28776.png?version=20231217221134",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240308"
       },
       {
         "id": 55662,
@@ -25231,8 +25115,8 @@
     "id": "12054571",
     "name": "Alberto (Maccabi de Levantar)",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/63054c83be9ed.png",
-    "played": "17 jugadores",
-    "money": "97.804.000",
+    "played": "19 jugadores",
+    "money": "103.369.000",
     "points": 1,
     "lineup": {
       "positions": {
@@ -25540,6 +25424,64 @@
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25885.png?version=20231218164843",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240308"
       },
+      "358": {
+        "id": 358,
+        "name": "Íñigo Martínez",
+        "position": 2,
+        "id_team": 3,
+        "points": 56,
+        "avg": 4.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1692267549,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 5,
+        "value": 5114000,
+        "prev_value": 4963000,
+        "last_points": 3,
+        "id_uc": 12054571,
+        "floor": 5555000,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 5114000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Í. Martínez",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/358.png?version=20230817121909",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240308"
+      },
       "5653": {
         "id": 5653,
         "name": "Toni Lato",
@@ -25713,6 +25655,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54817.png?version=20231221184941",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240308"
+      },
+      "28776": {
+        "id": 28776,
+        "name": "Beñat Turrientes",
+        "position": 3,
+        "id_team": 16,
+        "points": 58,
+        "avg": 3.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702847494,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 451000,
+        "prev_value": 450000,
+        "last_points": 4,
+        "id_uc": 12054571,
+        "floor": 844000,
+        "multiplier": 4,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 451000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "B. Turrientes",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28776.png?version=20231217221134",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240308"
       },
       "55649": {
         "id": 55649,
@@ -26065,6 +26065,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/5.png?version=20240308"
       },
       {
+        "id": 358,
+        "name": "Íñigo Martínez",
+        "position": 2,
+        "id_team": 3,
+        "points": 56,
+        "avg": 4.7,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1692267549,
+        "streak": [
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 5,
+        "value": 5114000,
+        "prev_value": 4963000,
+        "last_points": 3,
+        "id_uc": 12054571,
+        "floor": 5555000,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 5114000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Í. Martínez",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/358.png?version=20230817121909",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240308"
+      },
+      {
         "id": 56926,
         "name": "Pau Cubarsi",
         "position": 2,
@@ -26411,6 +26469,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54817.png?version=20231221184941",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240308"
+      },
+      {
+        "id": 28776,
+        "name": "Beñat Turrientes",
+        "position": 3,
+        "id_team": 16,
+        "points": 58,
+        "avg": 3.2,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702847494,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 7,
+        "value": 451000,
+        "prev_value": 450000,
+        "last_points": 4,
+        "id_uc": 12054571,
+        "floor": 844000,
+        "multiplier": 4,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 451000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "B. Turrientes",
+        "bg": 2,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28776.png?version=20231217221134",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240308"
       },
       {
         "id": 27425,
