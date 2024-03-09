@@ -84,7 +84,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 4,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1702911940,
             "played": 0,
             "short": "N. Fekir",
@@ -901,7 +901,7 @@
         "id_team": 4,
         "points": 49,
         "avg": 6.1,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702911940,
         "streak": [
@@ -1756,8 +1756,8 @@
     "id": "12054777",
     "name": "ROILOA NEGREIRA",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/649de7fbdd51c.png",
-    "played": "18 jugadores",
-    "money": "170.786.000",
+    "played": "19 jugadores",
+    "money": "171.211.000",
     "points": 1,
     "lineup": {
       "positions": {
@@ -1949,6 +1949,64 @@
       "count": 11
     },
     "bench": {
+      "49111": {
+        "id": 49111,
+        "name": "Cenk Özkacar",
+        "position": 2,
+        "id_team": 19,
+        "points": 36,
+        "avg": 3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1709634590,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 6,
+        "value": 425000,
+        "prev_value": 384000,
+        "last_points": "?",
+        "id_uc": 12054777,
+        "floor": 2369366,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 425000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Özkacar",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49111.png?version=20240305112950",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240309"
+      },
       "15338": {
         "id": 15338,
         "name": "Robin Le Normand",
@@ -2414,6 +2472,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22930.png?version=20231218161629",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240309"
+      },
+      {
+        "id": 49111,
+        "name": "Cenk Özkacar",
+        "position": 2,
+        "id_team": 19,
+        "points": 36,
+        "avg": 3,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1709634590,
+        "streak": [
+          {
+            "points": 3,
+            "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 3,
+            "color": 2
+          }
+        ],
+        "streak_sum": 6,
+        "value": 425000,
+        "prev_value": 384000,
+        "last_points": "?",
+        "id_uc": 12054777,
+        "floor": 2369366,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 425000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "C. Özkacar",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49111.png?version=20240305112950",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240309"
       },
       {
         "id": 55519,
@@ -3915,8 +4031,8 @@
     "id": "12054468",
     "name": "La Florentineta",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/61785a75b93b0.png",
-    "played": "18 jugadores",
-    "money": "154.177.000",
+    "played": "17 jugadores",
+    "money": "153.752.000",
     "points": 1,
     "lineup": {
       "positions": {
@@ -4631,64 +4747,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1718.png?version=20231217210657",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240309"
-      },
-      {
-        "id": 49111,
-        "name": "Cenk Özkacar",
-        "position": 2,
-        "id_team": 19,
-        "points": 36,
-        "avg": 3,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1709634590,
-        "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 3,
-            "color": 2
-          }
-        ],
-        "streak_sum": 6,
-        "value": 425000,
-        "prev_value": 384000,
-        "last_points": "?",
-        "id_uc": 12054468,
-        "floor": 1184683,
-        "multiplier": 2,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 1,
-        "market": {
-          "active": 0,
-          "input": 425000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "C. Özkacar",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/49111.png?version=20240305112950",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/19.png?version=20240309"
       },
       {
         "id": 51566,
@@ -8665,7 +8723,7 @@
         "id_team": 4,
         "points": 40,
         "avg": 2.1,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702910229,
         "streak": [
@@ -9363,7 +9421,7 @@
         "id_team": 4,
         "points": 40,
         "avg": 2.1,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702910229,
         "streak": [
