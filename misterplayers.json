@@ -168,7 +168,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1702855075,
-            "played": 0,
+            "played": 1,
             "short": "I. Williams",
             "bg": 0,
             "best_xi": "",
@@ -286,9 +286,9 @@
         "floor": 1729500,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": 12046317144,
-        "price": 1244000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -298,12 +298,12 @@
         "played": 1,
         "default": 2,
         "market": {
-          "active": 1,
-          "input": 1244000
+          "active": 0,
+          "input": 1326000
         },
         "offer": {
           "active": 0,
-          "input": 1244000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -868,9 +868,9 @@
         "floor": 1729500,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": 12046317144,
-        "price": 1244000,
-        "public": 1,
+        "id_market": null,
+        "price": null,
+        "public": null,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -880,12 +880,12 @@
         "played": 1,
         "default": 2,
         "market": {
-          "active": 1,
-          "input": 1244000
+          "active": 0,
+          "input": 1326000
         },
         "offer": {
           "active": 0,
-          "input": 1244000
+          "input": null
         },
         "barter": [],
         "popup": "bid",
@@ -1225,7 +1225,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -1805,7 +1805,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1702854542,
-            "played": 0,
+            "played": 1,
             "short": "Ó. De Marcos",
             "bg": 0,
             "best_xi": "",
@@ -1871,7 +1871,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1702566817,
-            "played": 0,
+            "played": 1,
             "short": "O. Sancet",
             "bg": 0,
             "best_xi": "",
@@ -2688,7 +2688,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -3094,7 +3094,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -3795,7 +3795,7 @@
         "type": "regular",
         "status": "started",
         "points": 42,
-        "rank": 3,
+        "rank": 4,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -4196,7 +4196,7 @@
             "id_team": 11,
             "status": null,
             "ts_pic": 1437662345,
-            "played": 0,
+            "played": 1,
             "short": "Sandro",
             "bg": 0,
             "best_xi": "",
@@ -5659,7 +5659,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -6423,15 +6423,15 @@
           "11": {
             "id": 14791,
             "name": "Gorka Guruzeta",
-            "points": "?",
+            "points": 3,
             "slot": 11,
             "position": 4,
             "id_team": 1,
             "status": null,
             "ts_pic": 1701763055,
-            "played": 0,
+            "played": 1,
             "short": "G. Guruzeta",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14791.png?version=20231205085735",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240310"
@@ -6714,7 +6714,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -6830,7 +6830,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -7644,7 +7644,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -7862,7 +7862,7 @@
         "streak_sum": 20,
         "value": 15428000,
         "prev_value": 15403000,
-        "last_points": "?",
+        "last_points": 3,
         "id_uc": 12054572,
         "floor": 45663750,
         "multiplier": 1.5,
@@ -7876,7 +7876,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -7889,7 +7889,7 @@
         "barter": [],
         "popup": "bid",
         "short": "G. Guruzeta",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/14791.png?version=20231205085735",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240310"
       },
@@ -7992,7 +7992,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -8402,8 +8402,8 @@
         "gameweek": 28,
         "type": "regular",
         "status": "started",
-        "points": 41,
-        "rank": 5,
+        "points": 44,
+        "rank": 3,
         "negative": 0,
         "formation": "1-4-5-1"
       }
@@ -8626,9 +8626,9 @@
         "status": "closed"
       },
       "28": {
-        "points": 41,
+        "points": 44,
         "negative": 0,
-        "width": 41,
+        "width": 44,
         "short": "J28",
         "color": 3,
         "status": "started"
@@ -12558,7 +12558,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1437662346,
-            "played": 0,
+            "played": 1,
             "short": "Y. Berchiche",
             "bg": 0,
             "best_xi": "",
@@ -12576,7 +12576,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1700229990,
-            "played": 0,
+            "played": 1,
             "short": "N. Williams",
             "bg": 0,
             "best_xi": "",
@@ -13309,7 +13309,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -13657,7 +13657,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -14944,7 +14944,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -15874,7 +15874,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -16776,7 +16776,7 @@
             "id_team": 11,
             "status": null,
             "ts_pic": 1702931132,
-            "played": 0,
+            "played": 1,
             "short": "S. Cardona",
             "bg": 0,
             "best_xi": "",
@@ -16858,7 +16858,7 @@
             "id_team": 11,
             "status": null,
             "ts_pic": 1702881508,
-            "played": 0,
+            "played": 1,
             "short": "K. Rodríguez",
             "bg": 0,
             "best_xi": "",
@@ -17453,7 +17453,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -17569,7 +17569,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -18405,7 +18405,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1702566784,
-            "played": 0,
+            "played": 1,
             "short": "U. Simón",
             "bg": 0,
             "best_xi": "",
@@ -18798,7 +18798,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -19148,7 +19148,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -19554,7 +19554,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -20429,7 +20429,7 @@
         "type": "regular",
         "status": "started",
         "points": 42,
-        "rank": 4,
+        "rank": 5,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -22641,7 +22641,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1625124280,
-            "played": 0,
+            "played": 1,
             "short": "D. Vivian",
             "bg": 0,
             "best_xi": "",
@@ -22657,7 +22657,7 @@
             "id_team": 11,
             "status": null,
             "ts_pic": 1691744824,
-            "played": 0,
+            "played": 1,
             "short": "M. Mármol",
             "bg": 0,
             "best_xi": "",
@@ -23232,7 +23232,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -23455,7 +23455,7 @@
         "last_points": "?",
         "id_uc": 12055022,
         "floor": 15011385,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -23466,8 +23466,8 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
-        "default": 0,
+        "played": 1,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 10497000
@@ -23640,7 +23640,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -24336,7 +24336,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -24932,7 +24932,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1692977725,
-            "played": 0,
+            "played": 1,
             "short": "A. Paredes",
             "bg": 0,
             "best_xi": "",
@@ -24982,7 +24982,7 @@
             "id_team": 1,
             "status": null,
             "ts_pic": 1623323343,
-            "played": 0,
+            "played": 1,
             "short": "I. Ruiz De Galarreta",
             "bg": 0,
             "best_xi": "",
@@ -25101,7 +25101,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -25159,7 +25159,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -25567,7 +25567,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -25741,7 +25741,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 3,
         "market": {
           "active": 0,
@@ -25915,7 +25915,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 1,
@@ -26263,7 +26263,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 3,
         "market": {
           "active": 0,
@@ -30515,7 +30515,7 @@
             "id_team": 11,
             "status": null,
             "ts_pic": 1702931404,
-            "played": 0,
+            "played": 1,
             "short": "J. Muñoz",
             "bg": 0,
             "best_xi": "",
@@ -31580,7 +31580,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
