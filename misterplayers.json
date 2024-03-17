@@ -50,7 +50,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 3,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1701335256,
             "played": 0,
             "short": "J. Cancelo",
@@ -162,7 +162,7 @@
           "10": {
             "id": 29,
             "name": "Iñaki Williams",
-            "points": 7,
+            "points": 8,
             "slot": 10,
             "position": 4,
             "id_team": 1,
@@ -611,7 +611,7 @@
         "id_team": 3,
         "points": 157,
         "avg": 6.5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1701335256,
         "streak": [
@@ -1247,7 +1247,7 @@
         "name": "Iñaki Williams",
         "position": 4,
         "id_team": 1,
-        "points": 197,
+        "points": 198,
         "avg": 7.6,
         "status": null,
         "id_competition": 1,
@@ -1262,14 +1262,14 @@
             "color": 3
           },
           {
-            "points": 7,
+            "points": 8,
             "color": 3
           }
         ],
-        "streak_sum": 15,
+        "streak_sum": 16,
         "value": 20086000,
         "prev_value": 20098000,
-        "last_points": 7,
+        "last_points": 8,
         "id_uc": 12067022,
         "floor": 38836126,
         "multiplier": 2.5,
@@ -1587,7 +1587,7 @@
         "gameweek": 29,
         "type": "regular",
         "status": "started",
-        "points": 38,
+        "points": 39,
         "rank": 4,
         "negative": 0,
         "formation": "1-3-5-2"
@@ -1819,9 +1819,9 @@
         "status": "closed"
       },
       "29": {
-        "points": 38,
+        "points": 39,
         "negative": 0,
-        "width": 38,
+        "width": 39,
         "short": "J29",
         "color": 2,
         "status": "started"
@@ -12473,7 +12473,7 @@
         "type": "regular",
         "status": "started",
         "points": 23,
-        "rank": 9,
+        "rank": 10,
         "negative": 0,
         "formation": "1-4-3-3"
       }
@@ -15614,7 +15614,7 @@
         "name": "Unai Gómez",
         "position": 3,
         "id_team": 1,
-        "points": 71,
+        "points": 72,
         "avg": 3.6,
         "status": null,
         "id_competition": 1,
@@ -15629,14 +15629,14 @@
             "color": 2
           },
           {
-            "points": 2,
+            "points": 3,
             "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 11,
         "value": 1246000,
         "prev_value": 1241000,
-        "last_points": 2,
+        "last_points": 3,
         "id_uc": 12054564,
         "floor": 1246000,
         "multiplier": 1.5,
@@ -16544,7 +16544,7 @@
         "name": "Unai Gómez",
         "position": 3,
         "id_team": 1,
-        "points": 71,
+        "points": 72,
         "avg": 3.6,
         "status": null,
         "id_competition": 1,
@@ -16559,14 +16559,14 @@
             "color": 2
           },
           {
-            "points": 2,
+            "points": 3,
             "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 11,
         "value": 1246000,
         "prev_value": 1241000,
-        "last_points": 2,
+        "last_points": 3,
         "id_uc": 12054564,
         "floor": 1246000,
         "multiplier": 1.5,
@@ -17428,7 +17428,7 @@
           "1": {
             "id": 14811,
             "name": "Unai Simón",
-            "points": 8,
+            "points": 9,
             "slot": 1,
             "position": 1,
             "id_team": 1,
@@ -18141,8 +18141,8 @@
         "name": "Unai Simón",
         "position": 1,
         "id_team": 1,
-        "points": 149,
-        "avg": 5.1,
+        "points": 150,
+        "avg": 5.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702566784,
@@ -18156,14 +18156,14 @@
             "color": 3
           },
           {
-            "points": 8,
+            "points": 9,
             "color": 3
           }
         ],
-        "streak_sum": 18,
+        "streak_sum": 19,
         "value": 10118000,
         "prev_value": 10142000,
-        "last_points": 8,
+        "last_points": 9,
         "id_uc": 12054485,
         "floor": 10118000,
         "multiplier": 2.5,
@@ -19467,8 +19467,8 @@
         "gameweek": 29,
         "type": "regular",
         "status": "started",
-        "points": 40,
-        "rank": 3,
+        "points": 41,
+        "rank": 2,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -19699,9 +19699,9 @@
         "status": "closed"
       },
       "29": {
-        "points": 40,
+        "points": 41,
         "negative": 0,
-        "width": 40,
+        "width": 41,
         "short": "J29",
         "color": 3,
         "status": "started"
@@ -23010,7 +23010,7 @@
         "type": "regular",
         "status": "started",
         "points": 41,
-        "rank": 2,
+        "rank": 3,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -23297,7 +23297,7 @@
           "3": {
             "id": 27852,
             "name": "Daniel Vivian",
-            "points": 4,
+            "points": 5,
             "slot": 3,
             "position": 2,
             "id_team": 1,
@@ -23305,7 +23305,7 @@
             "ts_pic": 1625124280,
             "played": 1,
             "short": "D. Vivian",
-            "bg": 2,
+            "bg": 3,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27852.png?version=20210701092440",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240317"
@@ -23800,8 +23800,8 @@
         "name": "Jon Guridi",
         "position": 3,
         "id_team": 48,
-        "points": 102,
-        "avg": 3.6,
+        "points": 103,
+        "avg": 3.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702853090,
@@ -23815,14 +23815,14 @@
             "color": 3
           },
           {
-            "points": 0,
-            "color": 0
+            "points": 1,
+            "color": 2
           }
         ],
-        "streak_sum": 8,
+        "streak_sum": 9,
         "value": 5435000,
         "prev_value": 5507000,
-        "last_points": 0,
+        "last_points": 1,
         "id_uc": 12055022,
         "floor": 7318000,
         "multiplier": 1.5,
@@ -23849,7 +23849,7 @@
         "barter": [],
         "popup": "bid",
         "short": "J. Guridi",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5916.png?version=20231217234450",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240317"
       },
@@ -24150,8 +24150,8 @@
         "name": "Daniel Vivian",
         "position": 2,
         "id_team": 1,
-        "points": 115,
-        "avg": 4.4,
+        "points": 116,
+        "avg": 4.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1625124280,
@@ -24165,14 +24165,14 @@
             "color": 3
           },
           {
-            "points": 4,
-            "color": 2
+            "points": 5,
+            "color": 3
           }
         ],
-        "streak_sum": 11,
+        "streak_sum": 12,
         "value": 10832000,
         "prev_value": 10798000,
-        "last_points": 4,
+        "last_points": 5,
         "id_uc": 12055022,
         "floor": 15011385,
         "multiplier": 2,
@@ -24199,7 +24199,7 @@
         "barter": [],
         "popup": "bid",
         "short": "D. Vivian",
-        "bg": 2,
+        "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27852.png?version=20210701092440",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240317"
       },
@@ -24672,8 +24672,8 @@
         "name": "Jon Guridi",
         "position": 3,
         "id_team": 48,
-        "points": 102,
-        "avg": 3.6,
+        "points": 103,
+        "avg": 3.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702853090,
@@ -24687,14 +24687,14 @@
             "color": 3
           },
           {
-            "points": 0,
-            "color": 0
+            "points": 1,
+            "color": 2
           }
         ],
-        "streak_sum": 8,
+        "streak_sum": 9,
         "value": 5435000,
         "prev_value": 5507000,
-        "last_points": 0,
+        "last_points": 1,
         "id_uc": 12055022,
         "floor": 7318000,
         "multiplier": 1.5,
@@ -24721,7 +24721,7 @@
         "barter": [],
         "popup": "bid",
         "short": "J. Guridi",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5916.png?version=20231217234450",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240317"
       },
@@ -25418,8 +25418,8 @@
         "gameweek": 29,
         "type": "regular",
         "status": "started",
-        "points": 23,
-        "rank": 10,
+        "points": 24,
+        "rank": 9,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -25650,9 +25650,9 @@
         "status": "closed"
       },
       "29": {
-        "points": 23,
+        "points": 24,
         "negative": 0,
-        "width": 23,
+        "width": 24,
         "short": "J29",
         "color": 2,
         "status": "started"
@@ -25888,9 +25888,9 @@
         "floor": 26624000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072184914,
+        "price": 30547000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -25900,12 +25900,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 15547000
+          "active": 1,
+          "input": 30547000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 30547000
         },
         "barter": [],
         "popup": "bid",
@@ -26354,9 +26354,9 @@
         "floor": 26624000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072184914,
+        "price": 30547000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -26366,12 +26366,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 15547000
+          "active": 1,
+          "input": 30547000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 30547000
         },
         "barter": [],
         "popup": "bid",
@@ -27999,7 +27999,7 @@
           "3": {
             "id": 54960,
             "name": "Rafa Marín",
-            "points": 0,
+            "points": 1,
             "slot": 3,
             "position": 2,
             "id_team": 48,
@@ -28007,7 +28007,7 @@
             "ts_pic": 1690552435,
             "played": 1,
             "short": "R. Marín",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54960.png?version=20230728155355",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240317"
@@ -28678,7 +28678,7 @@
         "name": "Rafa Marín",
         "position": 2,
         "id_team": 48,
-        "points": 98,
+        "points": 99,
         "avg": 4.1,
         "status": null,
         "id_competition": 1,
@@ -28693,14 +28693,14 @@
             "color": 3
           },
           {
-            "points": 0,
-            "color": 0
+            "points": 1,
+            "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 11,
         "value": 5693000,
         "prev_value": 5699000,
-        "last_points": 0,
+        "last_points": 1,
         "id_uc": 12054509,
         "floor": 5693000,
         "multiplier": 1.5,
@@ -28727,7 +28727,7 @@
         "barter": [],
         "popup": "bid",
         "short": "R. Marín",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54960.png?version=20230728155355",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240317"
       },
@@ -29540,7 +29540,7 @@
         "gameweek": 29,
         "type": "regular",
         "status": "started",
-        "points": 4,
+        "points": 5,
         "rank": 16,
         "negative": 0,
         "formation": "1-3-4-3"
@@ -29772,9 +29772,9 @@
         "status": "closed"
       },
       "29": {
-        "points": 4,
+        "points": 5,
         "negative": 0,
-        "width": 4,
+        "width": 5,
         "short": "J29",
         "color": 2,
         "status": "started"
@@ -29878,7 +29878,7 @@
           "6": {
             "id": 18109,
             "name": "Luis Rioja",
-            "points": -1,
+            "points": -2,
             "slot": 6,
             "position": 3,
             "id_team": 48,
@@ -30913,8 +30913,8 @@
         "name": "Luis Rioja",
         "position": 3,
         "id_team": 48,
-        "points": 159,
-        "avg": 5.5,
+        "points": 158,
+        "avg": 5.4,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1561994202,
@@ -30928,14 +30928,14 @@
             "color": 2
           },
           {
-            "points": -1,
+            "points": -2,
             "color": 1
           }
         ],
-        "streak_sum": 8,
+        "streak_sum": 7,
         "value": 14753000,
         "prev_value": 14791000,
-        "last_points": -1,
+        "last_points": -2,
         "id_uc": 12055602,
         "floor": 45592875,
         "multiplier": 1.5,
@@ -31427,7 +31427,7 @@
         "gameweek": 29,
         "type": "regular",
         "status": "started",
-        "points": 20,
+        "points": 19,
         "rank": 11,
         "negative": 0,
         "formation": "1-3-4-3"
@@ -31659,9 +31659,9 @@
         "status": "closed"
       },
       "29": {
-        "points": 20,
+        "points": 19,
         "negative": 0,
-        "width": 20,
+        "width": 19,
         "short": "J29",
         "color": 2,
         "status": "started"
