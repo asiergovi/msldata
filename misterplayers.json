@@ -7279,7 +7279,7 @@
         "last_points": "?",
         "id_uc": 12054468,
         "floor": 666666.6666666666,
-        "multiplier": 1.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": 12071224870,
         "price": 900000,
@@ -7291,7 +7291,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 3,
         "market": {
           "active": 1,
           "input": 900000
@@ -8035,7 +8035,7 @@
         "last_points": "?",
         "id_uc": 12054468,
         "floor": 666666.6666666666,
-        "multiplier": 1.5,
+        "multiplier": 3,
         "shield": 0,
         "id_market": 12071224870,
         "price": 900000,
@@ -8047,7 +8047,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 3,
         "market": {
           "active": 1,
           "input": 900000
@@ -22172,7 +22172,7 @@
         "last_points": "?",
         "id_uc": 12054815,
         "floor": 1880000,
-        "multiplier": 3,
+        "multiplier": 4,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -22184,7 +22184,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 196000
@@ -26062,9 +26062,9 @@
         "floor": 8740500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072923750,
+        "price": 9000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -26074,12 +26074,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4175000
+          "active": 1,
+          "input": 9000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 9000000
         },
         "barter": [],
         "popup": "bid",
@@ -26294,9 +26294,9 @@
         "floor": 11902000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072923721,
+        "price": 13501000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -26306,12 +26306,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 6351000
+          "active": 1,
+          "input": 13501000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 13501000
         },
         "barter": [],
         "popup": "bid",
@@ -26760,9 +26760,9 @@
         "floor": 8740500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072923750,
+        "price": 9000000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -26772,12 +26772,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4175000
+          "active": 1,
+          "input": 9000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 9000000
         },
         "barter": [],
         "popup": "bid",
@@ -27224,9 +27224,9 @@
         "floor": 11902000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12072923721,
+        "price": 13501000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -27236,12 +27236,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 6351000
+          "active": 1,
+          "input": 13501000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 13501000
         },
         "barter": [],
         "popup": "bid",
