@@ -7165,7 +7165,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 222,
-            "status": "doubt",
+            "status": "injury",
             "ts_pic": 1702926619,
             "played": 1,
             "short": "V. Tsygankov",
@@ -7567,8 +7567,8 @@
         "floor": 3735000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12139822141,
-        "price": 5000000,
+        "id_market": 12139826307,
+        "price": 5500000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -7580,11 +7580,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 5000000
+          "input": 5500000
         },
         "offer": {
           "active": 0,
-          "input": 5000000
+          "input": 5500000
         },
         "barter": [],
         "popup": "bid",
@@ -8149,8 +8149,8 @@
         "floor": 3735000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12139822141,
-        "price": 5000000,
+        "id_market": 12139826307,
+        "price": 5500000,
         "public": 1,
         "bid": null,
         "weeks": null,
@@ -8162,11 +8162,11 @@
         "default": 0,
         "market": {
           "active": 1,
-          "input": 5000000
+          "input": 5500000
         },
         "offer": {
           "active": 0,
-          "input": 5000000
+          "input": 5500000
         },
         "barter": [],
         "popup": "bid",
@@ -8472,7 +8472,7 @@
         "id_team": 222,
         "points": 153,
         "avg": 6.4,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702926619,
         "streak": [
@@ -8497,9 +8497,9 @@
         "floor": 16600000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12139826288,
+        "price": 16600000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -8509,12 +8509,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 16600000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 16600000
         },
         "barter": [],
         "popup": "bid",
