@@ -52,7 +52,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1593458231,
-            "played": 0,
+            "played": 1,
             "short": "J. Pacheco",
             "bg": 0,
             "best_xi": "",
@@ -118,7 +118,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1692526483,
-            "played": 0,
+            "played": 1,
             "short": "A. Zakharyan",
             "bg": 0,
             "best_xi": "",
@@ -237,7 +237,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 1,
@@ -703,7 +703,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 1,
@@ -893,64 +893,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/431.png?version=20231130100736",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240414"
-      },
-      {
-        "id": 22471,
-        "name": "Jon Pacheco",
-        "position": 2,
-        "id_team": 16,
-        "points": 63,
-        "avg": 3.9,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1593458231,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": 15,
-            "color": 4
-          }
-        ],
-        "streak_sum": 15,
-        "value": 664000,
-        "prev_value": 678000,
-        "last_points": "?",
-        "id_uc": 12067022,
-        "floor": 666666.6666666666,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 664000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "J. Pacheco",
-        "bg": 0,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22471.png?version=20200629211711",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240414"
       },
       {
         "id": 74,
@@ -1167,7 +1109,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -2265,7 +2207,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1703278973,
-            "played": 0,
+            "played": 1,
             "short": "R. Le Normand",
             "bg": 0,
             "best_xi": "",
@@ -3380,7 +3322,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -5301,7 +5243,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -6347,7 +6289,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 1,
         "market": {
           "active": 0,
@@ -6672,7 +6614,7 @@
         "type": "regular",
         "status": "started",
         "points": 39,
-        "rank": 8,
+        "rank": 6,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -7047,7 +6989,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1700390474,
-            "played": 0,
+            "played": 1,
             "short": "T. Kubo",
             "bg": 0,
             "best_xi": "",
@@ -7472,6 +7414,64 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22619.png?version=20200731224628",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240414"
+      },
+      "22471": {
+        "id": 22471,
+        "name": "Jon Pacheco",
+        "position": 2,
+        "id_team": 16,
+        "points": 63,
+        "avg": 3.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1593458231,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 15,
+            "color": 4
+          }
+        ],
+        "streak_sum": 15,
+        "value": 664000,
+        "prev_value": 678000,
+        "last_points": "?",
+        "id_uc": 12054468,
+        "floor": 1000000,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 664000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Pacheco",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22471.png?version=20200629211711",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240414"
       },
       "34": {
         "id": 34,
@@ -8172,6 +8172,64 @@
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/499.png?version=20240414"
       },
       {
+        "id": 22471,
+        "name": "Jon Pacheco",
+        "position": 2,
+        "id_team": 16,
+        "points": 63,
+        "avg": 3.9,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1593458231,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": 15,
+            "color": 4
+          }
+        ],
+        "streak_sum": 15,
+        "value": 664000,
+        "prev_value": 678000,
+        "last_points": "?",
+        "id_uc": 12054468,
+        "floor": 1000000,
+        "multiplier": 2.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 2,
+        "market": {
+          "active": 0,
+          "input": 664000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "J. Pacheco",
+        "bg": 0,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22471.png?version=20200629211711",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/16.png?version=20240414"
+      },
+      {
         "id": 34,
         "name": "José Giménez",
         "position": 2,
@@ -8676,7 +8734,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -9574,7 +9632,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1703181418,
-            "played": 0,
+            "played": 1,
             "short": "H. Traoré",
             "bg": 0,
             "best_xi": "",
@@ -9959,7 +10017,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 3,
         "market": {
           "active": 0,
@@ -10483,7 +10541,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -10889,7 +10947,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 3,
         "market": {
           "active": 0,
@@ -12153,7 +12211,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1701935269,
-            "played": 0,
+            "played": 1,
             "short": "A. Barrenetxea",
             "bg": 0,
             "best_xi": "",
@@ -12185,7 +12243,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1531411300,
-            "played": 0,
+            "played": 1,
             "short": "M. Merino",
             "bg": 0,
             "best_xi": "",
@@ -12203,7 +12261,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1703280265,
-            "played": 0,
+            "played": 1,
             "short": "M. Oyarzabal",
             "bg": 0,
             "best_xi": "",
@@ -12986,7 +13044,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -13276,7 +13334,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -13566,7 +13624,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -14166,7 +14224,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1702842398,
-            "played": 0,
+            "played": 1,
             "short": "A. Remiro",
             "bg": 0,
             "best_xi": "",
@@ -14282,7 +14340,7 @@
             "id_team": 21,
             "status": null,
             "ts_pic": 1702853911,
-            "played": 0,
+            "played": 1,
             "short": "L. Robertone",
             "bg": 0,
             "best_xi": "",
@@ -14445,7 +14503,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -14793,7 +14851,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -17914,7 +17972,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1703278873,
-            "played": 0,
+            "played": 1,
             "short": "I. Zubeldia",
             "bg": 0,
             "best_xi": "",
@@ -18813,7 +18871,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -20489,7 +20547,7 @@
             "id_team": 21,
             "status": null,
             "ts_pic": 1702367601,
-            "played": 0,
+            "played": 1,
             "short": "J. Viera",
             "bg": 0,
             "best_xi": "",
@@ -21142,7 +21200,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -22108,7 +22166,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1702855415,
-            "played": 0,
+            "played": 1,
             "short": "J. Galán",
             "bg": 0,
             "best_xi": "",
@@ -22190,7 +22248,7 @@
             "id_team": 16,
             "status": null,
             "ts_pic": 1703279643,
-            "played": 0,
+            "played": 1,
             "short": "M. Zubimendi",
             "bg": 0,
             "best_xi": "",
@@ -22657,7 +22715,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -23007,7 +23065,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -23297,7 +23355,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -23529,7 +23587,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -24580,7 +24638,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -24754,7 +24812,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -25336,7 +25394,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -25742,7 +25800,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -27141,7 +27199,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -27839,7 +27897,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -30667,7 +30725,7 @@
         "type": "regular",
         "status": "started",
         "points": 39,
-        "rank": 7,
+        "rank": 8,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -31092,7 +31150,7 @@
             "id_team": 21,
             "status": null,
             "ts_pic": 1702854128,
-            "played": 0,
+            "played": 1,
             "short": "L. Ramazani",
             "bg": 0,
             "best_xi": "",
@@ -31801,7 +31859,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 2,
         "market": {
           "active": 0,
@@ -34049,7 +34107,7 @@
         "type": "regular",
         "status": "started",
         "points": 39,
-        "rank": 6,
+        "rank": 7,
         "negative": 0,
         "formation": "1-3-5-2"
       }
