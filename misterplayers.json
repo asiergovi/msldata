@@ -6672,7 +6672,7 @@
         "type": "regular",
         "status": "started",
         "points": 25,
-        "rank": 12,
+        "rank": 13,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -9233,7 +9233,7 @@
         "type": "regular",
         "status": "started",
         "points": 25,
-        "rank": 11,
+        "rank": 12,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -12131,7 +12131,7 @@
           "5": {
             "id": 16868,
             "name": "Ander Guevara",
-            "points": "?",
+            "points": 3,
             "slot": 5,
             "position": 3,
             "id_team": 48,
@@ -12139,7 +12139,7 @@
             "ts_pic": 1702842926,
             "played": 1,
             "short": "A. Guevara",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/16868.png?version=20231217205526",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
@@ -12163,15 +12163,15 @@
           "7": {
             "id": 36046,
             "name": "Gonzalo Villar",
-            "points": "?",
+            "points": 2,
             "slot": 7,
             "position": 3,
             "id_team": 10,
             "status": null,
             "ts_pic": 1702927840,
-            "played": 0,
+            "played": 1,
             "short": "G. Villar",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36046.png?version=20231218203040",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -12544,16 +12544,12 @@
         "name": "Ander Guevara",
         "position": 3,
         "id_team": 48,
-        "points": 115,
-        "avg": 4,
+        "points": 118,
+        "avg": 3.9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702842926,
         "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
           {
             "points": 3,
             "color": 2
@@ -12561,12 +12557,16 @@
           {
             "points": 1,
             "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 6,
+        "streak_sum": 7,
         "value": 2191000,
         "prev_value": 2278000,
-        "last_points": "?",
+        "last_points": 3,
         "id_uc": 12054755,
         "floor": 4978000,
         "multiplier": 1.5,
@@ -12593,7 +12593,7 @@
         "barter": [],
         "popup": "bid",
         "short": "A. Guevara",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/16868.png?version=20231217205526",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -12602,16 +12602,12 @@
         "name": "Gonzalo Villar",
         "position": 3,
         "id_team": 10,
-        "points": 116,
-        "avg": 4.3,
+        "points": 118,
+        "avg": 4.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702927840,
         "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
           {
             "points": 5,
             "color": 3
@@ -12619,12 +12615,16 @@
           {
             "points": 4,
             "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
         "streak_sum": 11,
         "value": 1237000,
         "prev_value": 1284000,
-        "last_points": "?",
+        "last_points": 2,
         "id_uc": 12054755,
         "floor": 11250000,
         "multiplier": 1.5,
@@ -12638,7 +12638,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -12651,7 +12651,7 @@
         "barter": [],
         "popup": "bid",
         "short": "G. Villar",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36046.png?version=20231218203040",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -13310,8 +13310,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 17,
-        "rank": 15,
+        "points": 22,
+        "rank": 14,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -13558,9 +13558,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 17,
+        "points": 22,
         "negative": 0,
-        "width": 17,
+        "width": 22,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -13885,29 +13885,29 @@
         "name": "Antonio Blanco",
         "position": 3,
         "id_team": 48,
-        "points": 90,
+        "points": 94,
         "avg": 3.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702843401,
         "streak": [
           {
-            "points": 6,
-            "color": 3
+            "points": 2,
+            "color": 2
           },
           {
             "points": 2,
             "color": 2
           },
           {
-            "points": 2,
+            "points": 4,
             "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 8,
         "value": 941000,
         "prev_value": 986000,
-        "last_points": "?",
+        "last_points": 4,
         "id_uc": 12067027,
         "floor": 3751000,
         "multiplier": 1.5,
@@ -13934,7 +13934,7 @@
         "barter": [],
         "popup": "bid",
         "short": "A. Blanco",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25867.png?version=20231217210321",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -14525,29 +14525,29 @@
         "name": "Antonio Blanco",
         "position": 3,
         "id_team": 48,
-        "points": 90,
+        "points": 94,
         "avg": 3.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702843401,
         "streak": [
           {
-            "points": 6,
-            "color": 3
+            "points": 2,
+            "color": 2
           },
           {
             "points": 2,
             "color": 2
           },
           {
-            "points": 2,
+            "points": 4,
             "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 8,
         "value": 941000,
         "prev_value": 986000,
-        "last_points": "?",
+        "last_points": 4,
         "id_uc": 12067027,
         "floor": 3751000,
         "multiplier": 1.5,
@@ -14574,7 +14574,7 @@
         "barter": [],
         "popup": "bid",
         "short": "A. Blanco",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25867.png?version=20231217210321",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -15408,7 +15408,7 @@
         "type": "regular",
         "status": "started",
         "points": 31,
-        "rank": 8,
+        "rank": 10,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -17621,7 +17621,7 @@
         "type": "regular",
         "status": "started",
         "points": 32,
-        "rank": 6,
+        "rank": 9,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -18056,7 +18056,7 @@
           "11": {
             "id": 36377,
             "name": "Myrto Uzuni",
-            "points": 3,
+            "points": 8,
             "slot": 11,
             "position": 4,
             "id_team": 10,
@@ -18064,7 +18064,7 @@
             "ts_pic": 1691770549,
             "played": 1,
             "short": "M. Uzuni",
-            "bg": 2,
+            "bg": 3,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36377.png?version=20230811181549",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -18485,29 +18485,29 @@
         "name": "Lucas Boyé",
         "position": 4,
         "id_team": 10,
-        "points": 85,
-        "avg": 3.5,
+        "points": 94,
+        "avg": 3.9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1693429398,
         "streak": [
           {
-            "points": 3,
-            "color": 2
-          },
-          {
             "points": 0,
             "color": 0
           },
           {
             "points": 0,
             "color": 0
+          },
+          {
+            "points": 12,
+            "color": 4
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 12,
         "value": 486000,
         "prev_value": 518000,
-        "last_points": 3,
+        "last_points": 12,
         "id_uc": 12054485,
         "floor": 7537500,
         "multiplier": 1.5,
@@ -18534,7 +18534,7 @@
         "barter": [],
         "popup": "bid",
         "short": "L. Boyé",
-        "bg": 2,
+        "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11697.png?version=20230830230318",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -19531,29 +19531,29 @@
         "name": "Lucas Boyé",
         "position": 4,
         "id_team": 10,
-        "points": 85,
-        "avg": 3.5,
+        "points": 94,
+        "avg": 3.9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1693429398,
         "streak": [
           {
-            "points": 3,
-            "color": 2
-          },
-          {
             "points": 0,
             "color": 0
           },
           {
             "points": 0,
             "color": 0
+          },
+          {
+            "points": 12,
+            "color": 4
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 12,
         "value": 486000,
         "prev_value": 518000,
-        "last_points": 3,
+        "last_points": 12,
         "id_uc": 12054485,
         "floor": 7537500,
         "multiplier": 1.5,
@@ -19580,7 +19580,7 @@
         "barter": [],
         "popup": "bid",
         "short": "L. Boyé",
-        "bg": 2,
+        "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/11697.png?version=20230830230318",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -19647,16 +19647,12 @@
         "name": "Myrto Uzuni",
         "position": 4,
         "id_team": 10,
-        "points": 132,
-        "avg": 4.4,
+        "points": 137,
+        "avg": 4.6,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1691770549,
         "streak": [
-          {
-            "points": 16,
-            "color": 4
-          },
           {
             "points": 6,
             "color": 3
@@ -19664,12 +19660,16 @@
           {
             "points": "-",
             "color": 0
+          },
+          {
+            "points": 8,
+            "color": 3
           }
         ],
-        "streak_sum": 22,
+        "streak_sum": 14,
         "value": 6891000,
         "prev_value": 6874000,
-        "last_points": 3,
+        "last_points": 8,
         "id_uc": 12054485,
         "floor": 8212500,
         "multiplier": 2.5,
@@ -19696,7 +19696,7 @@
         "barter": [],
         "popup": "bid",
         "short": "M. Uzuni",
-        "bg": 2,
+        "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/36377.png?version=20230811181549",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -20065,8 +20065,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 33,
-        "rank": 5,
+        "points": 38,
+        "rank": 6,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -20313,9 +20313,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 33,
+        "points": 38,
         "negative": 0,
-        "width": 33,
+        "width": 38,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -21815,7 +21815,7 @@
         "type": "regular",
         "status": "started",
         "points": 21,
-        "rank": 14,
+        "rank": 15,
         "negative": 0,
         "formation": "1-5-4-1"
       }
@@ -22084,7 +22084,7 @@
           "1": {
             "id": 56583,
             "name": "Augusto Batalla",
-            "points": "?",
+            "points": 9,
             "slot": 1,
             "position": 1,
             "id_team": 10,
@@ -22092,7 +22092,7 @@
             "ts_pic": 1704291167,
             "played": 1,
             "short": "A. Batalla",
-            "bg": 0,
+            "bg": 3,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56583.png?version=20240103151247",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -22681,16 +22681,12 @@
         "name": "Augusto Batalla",
         "position": 1,
         "id_team": 10,
-        "points": 59,
-        "avg": 4.9,
+        "points": 68,
+        "avg": 5.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1704291167,
         "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
           {
             "points": 10,
             "color": 4
@@ -22698,12 +22694,16 @@
           {
             "points": 5,
             "color": 3
+          },
+          {
+            "points": 9,
+            "color": 3
           }
         ],
-        "streak_sum": 20,
+        "streak_sum": 24,
         "value": 6430000,
         "prev_value": 6385000,
-        "last_points": "?",
+        "last_points": 9,
         "id_uc": 12054815,
         "floor": 15440625,
         "multiplier": 1.5,
@@ -22730,7 +22730,7 @@
         "barter": [],
         "popup": "bid",
         "short": "A. Batalla",
-        "bg": 0,
+        "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56583.png?version=20240103151247",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -24027,8 +24027,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 22,
-        "rank": 13,
+        "points": 31,
+        "rank": 11,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -24275,9 +24275,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 22,
+        "points": 31,
         "negative": 0,
-        "width": 22,
+        "width": 31,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -24331,7 +24331,7 @@
           "3": {
             "id": 11092,
             "name": "Andoni Gorosabel",
-            "points": "?",
+            "points": 0,
             "slot": 3,
             "position": 2,
             "id_team": 48,
@@ -24508,7 +24508,7 @@
         "streak_sum": 0,
         "value": 209000,
         "prev_value": 164000,
-        "last_points": "?",
+        "last_points": "-",
         "id_uc": 12055022,
         "floor": 666666.6666666666,
         "multiplier": null,
@@ -24660,16 +24660,12 @@
         "name": "Carlos Benavídez",
         "position": 3,
         "id_team": 48,
-        "points": 79,
-        "avg": 3.4,
+        "points": 83,
+        "avg": 3.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702853013,
         "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
           {
             "points": 4,
             "color": 2
@@ -24677,12 +24673,16 @@
           {
             "points": 2,
             "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
           }
         ],
-        "streak_sum": 9,
+        "streak_sum": 10,
         "value": 160000,
         "prev_value": 160000,
-        "last_points": "?",
+        "last_points": 4,
         "id_uc": 12055022,
         "floor": 666666.6666666666,
         "multiplier": 1.5,
@@ -24696,7 +24696,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -24709,7 +24709,7 @@
         "barter": [],
         "popup": "bid",
         "short": "C. Benavídez",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53144.png?version=20231217234333",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -24841,22 +24841,22 @@
         "ts_pic": 1702853090,
         "streak": [
           {
-            "points": 5,
-            "color": 3
-          },
-          {
             "points": 1,
             "color": 2
           },
           {
             "points": 1,
             "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 7,
+        "streak_sum": 2,
         "value": 2716000,
         "prev_value": 2803000,
-        "last_points": "?",
+        "last_points": "-",
         "id_uc": 12055022,
         "floor": 7318000,
         "multiplier": 1.5,
@@ -25148,7 +25148,7 @@
         "streak_sum": 0,
         "value": 209000,
         "prev_value": 164000,
-        "last_points": "?",
+        "last_points": "-",
         "id_uc": 12055022,
         "floor": 666666.6666666666,
         "multiplier": null,
@@ -25185,15 +25185,11 @@
         "position": 2,
         "id_team": 48,
         "points": 123,
-        "avg": 4.2,
+        "avg": 4.1,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702842983,
         "streak": [
-          {
-            "points": 15,
-            "color": 4
-          },
           {
             "points": 5,
             "color": 3
@@ -25201,12 +25197,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 0,
+            "color": 0
           }
         ],
-        "streak_sum": 23,
+        "streak_sum": 8,
         "value": 10609000,
         "prev_value": 10616000,
-        "last_points": "?",
+        "last_points": 0,
         "id_uc": 12055022,
         "floor": 10609000,
         "multiplier": 2,
@@ -25648,16 +25648,12 @@
         "name": "Carlos Benavídez",
         "position": 3,
         "id_team": 48,
-        "points": 79,
-        "avg": 3.4,
+        "points": 83,
+        "avg": 3.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702853013,
         "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
           {
             "points": 4,
             "color": 2
@@ -25665,12 +25661,16 @@
           {
             "points": 2,
             "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
           }
         ],
-        "streak_sum": 9,
+        "streak_sum": 10,
         "value": 160000,
         "prev_value": 160000,
-        "last_points": "?",
+        "last_points": 4,
         "id_uc": 12055022,
         "floor": 666666.6666666666,
         "multiplier": 1.5,
@@ -25684,7 +25684,7 @@
         "player_1": null,
         "player_2": null,
         "player_3": null,
-        "played": 0,
+        "played": 1,
         "default": 0,
         "market": {
           "active": 0,
@@ -25697,7 +25697,7 @@
         "barter": [],
         "popup": "bid",
         "short": "C. Benavídez",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53144.png?version=20231217234333",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -25829,22 +25829,22 @@
         "ts_pic": 1702853090,
         "streak": [
           {
-            "points": 5,
-            "color": 3
-          },
-          {
             "points": 1,
             "color": 2
           },
           {
             "points": 1,
             "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 7,
+        "streak_sum": 2,
         "value": 2716000,
         "prev_value": 2803000,
-        "last_points": "?",
+        "last_points": "-",
         "id_uc": 12055022,
         "floor": 7318000,
         "multiplier": 1.5,
@@ -26876,7 +26876,7 @@
           "2": {
             "id": 28621,
             "name": "Abdelkabir Abqar",
-            "points": "?",
+            "points": "-",
             "slot": 2,
             "position": 2,
             "id_team": 48,
@@ -26958,7 +26958,7 @@
           "7": {
             "id": 556,
             "name": "Gerard Gumbau",
-            "points": "?",
+            "points": 2,
             "slot": 7,
             "position": 3,
             "id_team": 10,
@@ -26966,7 +26966,7 @@
             "ts_pic": 1702927805,
             "played": 1,
             "short": "G. Gumbau",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/556.png?version=20231218203005",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -27466,18 +27466,18 @@
             "color": 2
           },
           {
-            "points": 3,
-            "color": 2
-          },
-          {
             "points": 7,
             "color": 3
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 13,
+        "streak_sum": 10,
         "value": 1430000,
         "prev_value": 1474000,
-        "last_points": "?",
+        "last_points": "-",
         "id_uc": 12054571,
         "floor": 1430000,
         "multiplier": 3.5,
@@ -27861,8 +27861,8 @@
         "name": "Gerard Gumbau",
         "position": 3,
         "id_team": 10,
-        "points": 108,
-        "avg": 4.2,
+        "points": 110,
+        "avg": 4.1,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702927805,
@@ -27876,14 +27876,14 @@
             "color": 2
           },
           {
-            "points": 4,
+            "points": 2,
             "color": 2
           }
         ],
-        "streak_sum": 12,
+        "streak_sum": 10,
         "value": 1557000,
         "prev_value": 1547000,
-        "last_points": "?",
+        "last_points": 2,
         "id_uc": 12054571,
         "floor": 1728000,
         "multiplier": 1.5,
@@ -27910,7 +27910,7 @@
         "barter": [],
         "popup": "bid",
         "short": "G. Gumbau",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/556.png?version=20231218203005",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -28685,8 +28685,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 32,
-        "rank": 7,
+        "points": 34,
+        "rank": 8,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -28933,9 +28933,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 32,
+        "points": 34,
         "negative": 0,
-        "width": 32,
+        "width": 34,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -29089,7 +29089,7 @@
           "9": {
             "id": 25582,
             "name": "Facundo Pellistri",
-            "points": "?",
+            "points": 5,
             "slot": 9,
             "position": 4,
             "id_team": 10,
@@ -29097,7 +29097,7 @@
             "ts_pic": 1706774785,
             "played": 1,
             "short": "F. Pellistri",
-            "bg": 0,
+            "bg": 3,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -29318,16 +29318,12 @@
         "name": "Rafa Marín",
         "position": 2,
         "id_team": 48,
-        "points": 102,
-        "avg": 4.1,
+        "points": 104,
+        "avg": 4,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1690552435,
         "streak": [
-          {
-            "points": 6,
-            "color": 3
-          },
           {
             "points": 1,
             "color": 2
@@ -29335,12 +29331,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 6,
         "value": 3485000,
         "prev_value": 3596000,
-        "last_points": "?",
+        "last_points": 2,
         "id_uc": 12054509,
         "floor": 4500000,
         "multiplier": 1.5,
@@ -29367,7 +29367,7 @@
         "barter": [],
         "popup": "bid",
         "short": "R. Marín",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54960.png?version=20230728155355",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -29842,16 +29842,12 @@
         "name": "Rafa Marín",
         "position": 2,
         "id_team": 48,
-        "points": 102,
-        "avg": 4.1,
+        "points": 104,
+        "avg": 4,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1690552435,
         "streak": [
-          {
-            "points": 6,
-            "color": 3
-          },
           {
             "points": 1,
             "color": 2
@@ -29859,12 +29855,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
-        "streak_sum": 10,
+        "streak_sum": 6,
         "value": 3485000,
         "prev_value": 3596000,
-        "last_points": "?",
+        "last_points": 2,
         "id_uc": 12054509,
         "floor": 4500000,
         "multiplier": 1.5,
@@ -29891,7 +29891,7 @@
         "barter": [],
         "popup": "bid",
         "short": "R. Marín",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54960.png?version=20230728155355",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -30190,29 +30190,29 @@
         "name": "Facundo Pellistri",
         "position": 4,
         "id_team": 10,
-        "points": 37,
-        "avg": 4.6,
+        "points": 42,
+        "avg": 4.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1706774785,
         "streak": [
           {
+            "points": 2,
+            "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
+          },
+          {
             "points": 5,
             "color": 3
-          },
-          {
-            "points": 2,
-            "color": 2
-          },
-          {
-            "points": 2,
-            "color": 2
           }
         ],
         "streak_sum": 9,
         "value": 5638000,
         "prev_value": 5738000,
-        "last_points": "?",
+        "last_points": 5,
         "id_uc": 12054509,
         "floor": 24000000,
         "multiplier": 1.5,
@@ -30239,7 +30239,7 @@
         "barter": [],
         "popup": "bid",
         "short": "F. Pellistri",
-        "bg": 0,
+        "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25582.png?version=20240201090625",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -30666,8 +30666,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 34,
-        "rank": 4,
+        "points": 39,
+        "rank": 5,
         "negative": 0,
         "formation": "1-3-4-3"
       }
@@ -30914,9 +30914,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 34,
+        "points": 39,
         "negative": 0,
-        "width": 34,
+        "width": 39,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -31036,7 +31036,7 @@
           "7": {
             "id": 53093,
             "name": "Sergio Ruiz",
-            "points": "?",
+            "points": 10,
             "slot": 7,
             "position": 3,
             "id_team": 10,
@@ -31044,7 +31044,7 @@
             "ts_pic": 1707815892,
             "played": 1,
             "short": "S. Ruiz",
-            "bg": 0,
+            "bg": 4,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53093.png?version=20240213101812",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -31649,16 +31649,12 @@
         "name": "Sergio Ruiz",
         "position": 3,
         "id_team": 10,
-        "points": 107,
-        "avg": 4,
+        "points": 117,
+        "avg": 4.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1707815892,
         "streak": [
-          {
-            "points": 4,
-            "color": 2
-          },
           {
             "points": "-",
             "color": 0
@@ -31666,12 +31662,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 10,
+            "color": 4
           }
         ],
-        "streak_sum": 7,
+        "streak_sum": 13,
         "value": 1613000,
         "prev_value": 1674000,
-        "last_points": "?",
+        "last_points": 10,
         "id_uc": 12054484,
         "floor": 18663750,
         "multiplier": 1.5,
@@ -31698,7 +31698,7 @@
         "barter": [],
         "popup": "bid",
         "short": "S. Ruiz",
-        "bg": 0,
+        "bg": 4,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53093.png?version=20240213101812",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -32183,8 +32183,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 27,
-        "rank": 10,
+        "points": 37,
+        "rank": 7,
         "negative": 0,
         "formation": "1-4-3-3"
       }
@@ -32431,9 +32431,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 27,
+        "points": 37,
         "negative": 0,
-        "width": 27,
+        "width": 37,
         "short": "J31",
         "color": 2,
         "status": "started"
@@ -32453,7 +32453,7 @@
           "1": {
             "id": 7893,
             "name": "Antonio Sivera",
-            "points": "?",
+            "points": 3,
             "slot": 1,
             "position": 1,
             "id_team": 48,
@@ -32461,7 +32461,7 @@
             "ts_pic": 1702843558,
             "played": 1,
             "short": "A. Sivera",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7893.png?version=20231217210558",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
@@ -32487,7 +32487,7 @@
           "3": {
             "id": 19514,
             "name": "Carlos Neva",
-            "points": "?",
+            "points": 4,
             "slot": 3,
             "position": 2,
             "id_team": 10,
@@ -32495,7 +32495,7 @@
             "ts_pic": 1702927203,
             "played": 1,
             "short": "C. Neva",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19514.png?version=20231218202003",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
@@ -32537,7 +32537,7 @@
           "6": {
             "id": 18109,
             "name": "Luis Rioja",
-            "points": "?",
+            "points": 1,
             "slot": 6,
             "position": 3,
             "id_team": 48,
@@ -32545,7 +32545,7 @@
             "ts_pic": 1561994202,
             "played": 1,
             "short": "L. Rioja",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
@@ -32619,7 +32619,7 @@
           "11": {
             "id": 55041,
             "name": "Samu Omorodion",
-            "points": "?",
+            "points": 2,
             "slot": 11,
             "position": 4,
             "id_team": 48,
@@ -32627,7 +32627,7 @@
             "ts_pic": 1692952101,
             "played": 1,
             "short": "S. Omorodion",
-            "bg": 0,
+            "bg": 2,
             "best_xi": "",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55041.png?version=20230825102821",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
@@ -32876,16 +32876,12 @@
         "name": "Antonio Sivera",
         "position": 1,
         "id_team": 48,
-        "points": 136,
+        "points": 139,
         "avg": 4.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702843558,
         "streak": [
-          {
-            "points": 8,
-            "color": 3
-          },
           {
             "points": 1,
             "color": 2
@@ -32893,12 +32889,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 12,
+        "streak_sum": 7,
         "value": 8062000,
         "prev_value": 8045000,
-        "last_points": "?",
+        "last_points": 3,
         "id_uc": 12055602,
         "floor": 12984750,
         "multiplier": 1.5,
@@ -32925,7 +32925,7 @@
         "barter": [],
         "popup": "bid",
         "short": "A. Sivera",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/7893.png?version=20231217210558",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -32992,16 +32992,12 @@
         "name": "Carlos Neva",
         "position": 2,
         "id_team": 10,
-        "points": 86,
+        "points": 90,
         "avg": 3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702927203,
         "streak": [
-          {
-            "points": 0,
-            "color": 0
-          },
           {
             "points": 4,
             "color": 2
@@ -33009,12 +33005,16 @@
           {
             "points": 2,
             "color": 2
+          },
+          {
+            "points": 4,
+            "color": 2
           }
         ],
-        "streak_sum": 6,
+        "streak_sum": 10,
         "value": 160000,
         "prev_value": 168000,
-        "last_points": "?",
+        "last_points": 4,
         "id_uc": 12055602,
         "floor": 3568387,
         "multiplier": 1.5,
@@ -33041,7 +33041,7 @@
         "barter": [],
         "popup": "bid",
         "short": "C. Neva",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/19514.png?version=20231218202003",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/10.png?version=20240414"
       },
@@ -33514,16 +33514,12 @@
         "name": "Luis Rioja",
         "position": 3,
         "id_team": 48,
-        "points": 161,
-        "avg": 5.4,
+        "points": 162,
+        "avg": 5.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1561994202,
         "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
           {
             "points": -2,
             "color": 1
@@ -33531,12 +33527,16 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 1,
+            "color": 2
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 2,
         "value": 12316000,
         "prev_value": 12412000,
-        "last_points": "?",
+        "last_points": 1,
         "id_uc": 12055602,
         "floor": 45592875,
         "multiplier": 1.5,
@@ -33563,7 +33563,7 @@
         "barter": [],
         "popup": "bid",
         "short": "L. Rioja",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/18109.png?version=20190701171642",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       },
@@ -33688,15 +33688,15 @@
         "name": "Samu Omorodion",
         "position": 4,
         "id_team": 48,
-        "points": 124,
-        "avg": 4.3,
+        "points": 126,
+        "avg": 4.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1692952101,
         "streak": [
           {
-            "points": 5,
-            "color": 3
+            "points": 2,
+            "color": 2
           },
           {
             "points": 2,
@@ -33707,10 +33707,10 @@
             "color": 2
           }
         ],
-        "streak_sum": 9,
+        "streak_sum": 6,
         "value": 9769000,
         "prev_value": 9842000,
-        "last_points": "?",
+        "last_points": 2,
         "id_uc": 12055602,
         "floor": 56430000,
         "multiplier": 1.5,
@@ -33737,7 +33737,7 @@
         "barter": [],
         "popup": "bid",
         "short": "S. Omorodion",
-        "bg": 0,
+        "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55041.png?version=20230825102821",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240414"
       }
@@ -34048,8 +34048,8 @@
         "gameweek": 31,
         "type": "regular",
         "status": "started",
-        "points": 29,
-        "rank": 9,
+        "points": 39,
+        "rank": 4,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -34296,9 +34296,9 @@
         "status": "closed"
       },
       "31": {
-        "points": 29,
+        "points": 39,
         "negative": 0,
-        "width": 29,
+        "width": 39,
         "short": "J31",
         "color": 2,
         "status": "started"
