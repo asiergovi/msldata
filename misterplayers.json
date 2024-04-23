@@ -5560,11 +5560,11 @@
         "last_points": 3,
         "id_uc": 12054572,
         "floor": 8834000,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12169226771,
+        "price": 14492000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -5572,14 +5572,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 1,
+        "default": 0,
         "market": {
-          "active": 0,
-          "input": 6092000
+          "active": 1,
+          "input": 14492000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 14492000
         },
         "barter": [],
         "popup": "bid",
@@ -16147,7 +16147,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 2,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702842737,
             "played": 0,
             "short": "Á. Morata",
@@ -17040,7 +17040,7 @@
         "id_team": 2,
         "points": 170,
         "avg": 6.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842737,
         "streak": [
@@ -21738,7 +21738,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 17,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1564055227,
             "played": 1,
             "short": "N. Gudelj",
@@ -22747,7 +22747,7 @@
         "id_team": 17,
         "points": 93,
         "avg": 4.4,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1564055227,
         "streak": [
