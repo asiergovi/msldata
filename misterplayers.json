@@ -16073,7 +16073,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 16,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1703181418,
             "played": 1,
             "short": "H. Traoré",
@@ -16576,7 +16576,7 @@
         "id_team": 16,
         "points": 121,
         "avg": 4.5,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703181418,
         "streak": [
@@ -18051,7 +18051,7 @@
         "id_team": 20,
         "points": 22,
         "avg": 3.1,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703961689,
         "streak": [
@@ -18575,7 +18575,7 @@
         "id_team": 20,
         "points": 22,
         "avg": 3.1,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703961689,
         "streak": [
@@ -30878,7 +30878,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 21,
-            "status": "double",
+            "status": "other",
             "ts_pic": 1702854128,
             "played": 1,
             "short": "L. Ramazani",
@@ -31290,9 +31290,9 @@
         "floor": 1027500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12171068677,
+        "price": 5650439,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -31302,12 +31302,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 812000
+          "active": 1,
+          "input": 5650439
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5650439
         },
         "barter": [],
         "popup": "bid",
@@ -31671,7 +31671,7 @@
         "id_team": 21,
         "points": 102,
         "avg": 3.5,
-        "status": "double",
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1702854128,
         "streak": [
