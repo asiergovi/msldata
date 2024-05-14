@@ -435,7 +435,7 @@
         "id_team": 50,
         "points": 223,
         "avg": 7.2,
-        "status": "injury",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702843261,
         "streak": [
@@ -1249,7 +1249,7 @@
         "id_team": 50,
         "points": 223,
         "avg": 7.2,
-        "status": "injury",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702843261,
         "streak": [
@@ -1762,7 +1762,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 63,
         "rank": 4,
         "negative": 0,
@@ -2048,7 +2048,7 @@
         "width": 63,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -2158,7 +2158,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 3,
-            "status": null,
+            "status": "five",
             "ts_pic": 1702856691,
             "played": 1,
             "short": "İ. Gündoğan",
@@ -2361,7 +2361,7 @@
         "id_team": 20,
         "points": 64,
         "avg": 3.4,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842493,
         "streak": [
@@ -3059,7 +3059,7 @@
         "id_team": 20,
         "points": 64,
         "avg": 3.4,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842493,
         "streak": [
@@ -3523,7 +3523,7 @@
         "id_team": 3,
         "points": 247,
         "avg": 7.3,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1702856691,
         "streak": [
@@ -4558,7 +4558,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 52,
         "rank": 8,
         "negative": 0,
@@ -4844,7 +4844,7 @@
         "width": 52,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -4888,7 +4888,7 @@
             "played": 1,
             "short": "F. García",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27520.png?version=20231222215205",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240514"
           },
@@ -5020,7 +5020,7 @@
             "played": 1,
             "short": "A. Sørloth",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/31355.png?version=20231217204749",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240514"
           },
@@ -5036,7 +5036,7 @@
             "played": 1,
             "short": "Raphinha",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/48657.png?version=20231117091307",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/3.png?version=20240514"
           }
@@ -7249,7 +7249,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 84,
         "rank": 1,
         "negative": 0,
@@ -7535,7 +7535,7 @@
         "width": 84,
         "short": "J35",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -9766,9 +9766,9 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 62,
-        "rank": 5,
+        "rank": 6,
         "negative": 0,
         "formation": "1-3-5-2"
       }
@@ -10052,7 +10052,7 @@
         "width": 62,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -10228,7 +10228,7 @@
             "played": 1,
             "short": "Y. En Nesyri",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/3729.png?version=20231222223810",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/17.png?version=20240514"
           },
@@ -10376,7 +10376,7 @@
         "id_team": 17,
         "points": 118,
         "avg": 4.7,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702881482,
         "streak": [
@@ -10492,7 +10492,7 @@
         "id_team": 15,
         "points": 163,
         "avg": 6,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843952,
         "streak": [
@@ -11248,7 +11248,7 @@
         "id_team": 17,
         "points": 118,
         "avg": 4.7,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702881482,
         "streak": [
@@ -11422,7 +11422,7 @@
         "id_team": 15,
         "points": 163,
         "avg": 6,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843952,
         "streak": [
@@ -12399,9 +12399,9 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 62,
-        "rank": 6,
+        "rank": 5,
         "negative": 0,
         "formation": "1-5-3-2"
       }
@@ -12685,7 +12685,7 @@
         "width": 62,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -12711,7 +12711,7 @@
             "played": 1,
             "short": "P. Gazzaniga",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25606.png?version=20231218194434",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240514"
           }
@@ -12761,7 +12761,7 @@
             "played": 1,
             "short": "Y. Mosquera",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/56947.png?version=20240123203549",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/20.png?version=20240514"
           }
@@ -12843,7 +12843,7 @@
             "played": 1,
             "short": "B. Díaz",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/15344.png?version=20231202190759",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240514"
           }
@@ -14568,7 +14568,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 73,
         "rank": 2,
         "negative": 0,
@@ -14854,7 +14854,7 @@
         "width": 73,
         "short": "J35",
         "color": 4,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -14893,7 +14893,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 21,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1705749704,
             "played": 0,
             "short": "A. Radovanovic",
@@ -14909,7 +14909,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 1,
-            "status": null,
+            "status": "five",
             "ts_pic": 1437662346,
             "played": 1,
             "short": "Y. Berchiche",
@@ -15062,7 +15062,7 @@
         "id_team": 4,
         "points": 147,
         "avg": 4.6,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702910178,
         "streak": [
@@ -15412,7 +15412,7 @@
         "id_team": 21,
         "points": 31,
         "avg": 4.4,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1705749704,
         "streak": [
@@ -15470,7 +15470,7 @@
         "id_team": 4,
         "points": 147,
         "avg": 4.6,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702910178,
         "streak": [
@@ -15528,7 +15528,7 @@
         "id_team": 1,
         "points": 145,
         "avg": 5.8,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -16505,7 +16505,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 28,
         "rank": 16,
         "negative": 0,
@@ -16791,7 +16791,7 @@
         "width": 28,
         "short": "J35",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -17057,7 +17057,7 @@
         "id_team": 16,
         "points": 68,
         "avg": 3.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702855415,
         "streak": [
@@ -17173,7 +17173,7 @@
         "id_team": 16,
         "points": 172,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -17523,7 +17523,7 @@
         "id_team": 16,
         "points": 68,
         "avg": 3.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702855415,
         "streak": [
@@ -17871,7 +17871,7 @@
         "id_team": 16,
         "points": 172,
         "avg": 5.5,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -18558,7 +18558,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 37,
         "rank": 13,
         "negative": 0,
@@ -18844,7 +18844,7 @@
         "width": 37,
         "short": "J35",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -19015,7 +19015,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 20,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1704015338,
             "played": 0,
             "short": "G. Moreno",
@@ -19924,7 +19924,7 @@
         "id_team": 20,
         "points": 203,
         "avg": 7,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1704015338,
         "streak": [
@@ -20379,7 +20379,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 49,
         "rank": 10,
         "negative": 0,
@@ -20665,7 +20665,7 @@
         "width": 49,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -20752,7 +20752,7 @@
             "slot": 5,
             "position": 2,
             "id_team": 11,
-            "status": "five",
+            "status": null,
             "ts_pic": 1702931132,
             "played": 0,
             "short": "S. Cardona",
@@ -21339,7 +21339,7 @@
         "id_team": 11,
         "points": 179,
         "avg": 5.4,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702931132,
         "streak": [
@@ -22200,7 +22200,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 43,
         "rank": 12,
         "negative": 0,
@@ -22486,7 +22486,7 @@
         "width": 43,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -24775,7 +24775,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 55,
         "rank": 7,
         "negative": 0,
@@ -25061,7 +25061,7 @@
         "width": 55,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -25132,7 +25132,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 408,
-            "status": null,
+            "status": "five",
             "ts_pic": 1702932296,
             "played": 1,
             "short": "M. Valjent",
@@ -26083,7 +26083,7 @@
         "id_team": 408,
         "points": 95,
         "avg": 3.7,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1702932296,
         "streak": [
@@ -27176,7 +27176,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 30,
         "rank": 14,
         "negative": 0,
@@ -27462,7 +27462,7 @@
         "width": 30,
         "short": "J35",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -27556,7 +27556,7 @@
             "played": 1,
             "short": "Isco",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/340.png?version=20231218160241",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/4.png?version=20240514"
           },
@@ -29345,7 +29345,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 65,
         "rank": 3,
         "negative": 0,
@@ -29631,7 +29631,7 @@
         "width": 65,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -31097,7 +31097,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 44,
         "rank": 11,
         "negative": 0,
@@ -31383,7 +31383,7 @@
         "width": 44,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -31459,7 +31459,7 @@
             "played": 1,
             "short": "E. García",
             "bg": 4,
-            "best_xi": "",
+            "best_xi": "pic-best_xi",
             "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/27333.png?version=20231218195002",
             "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240514"
           }
@@ -31538,7 +31538,7 @@
             "slot": 9,
             "position": 4,
             "id_team": 408,
-            "status": null,
+            "status": "five",
             "ts_pic": 1676921237,
             "played": 1,
             "short": "V. Muriqi",
@@ -32347,7 +32347,7 @@
         "id_team": 408,
         "points": 155,
         "avg": 5.7,
-        "status": null,
+        "status": "five",
         "id_competition": 1,
         "ts_pic": 1676921237,
         "streak": [
@@ -32744,7 +32744,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 50,
         "rank": 9,
         "negative": 0,
@@ -33030,7 +33030,7 @@
         "width": 50,
         "short": "J35",
         "color": 3,
-        "status": "started"
+        "status": "closed"
       }
     }
   },
@@ -33183,7 +33183,7 @@
             "slot": 9,
             "position": 3,
             "id_team": 4,
-            "status": "injury",
+            "status": "doubt",
             "ts_pic": 1695917251,
             "played": 0,
             "short": "A. Diao",
@@ -33217,7 +33217,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 48,
-            "status": "five",
+            "status": null,
             "ts_pic": 1692952101,
             "played": 0,
             "short": "S. Omorodion",
@@ -33238,7 +33238,7 @@
         "id_team": 20,
         "points": 100,
         "avg": 3.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842036,
         "streak": [
@@ -33412,7 +33412,7 @@
         "id_team": 3,
         "points": 14,
         "avg": 4.7,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703788154,
         "streak": [
@@ -33530,7 +33530,7 @@
         "id_team": 20,
         "points": 100,
         "avg": 3.8,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842036,
         "streak": [
@@ -33820,7 +33820,7 @@
         "id_team": 4,
         "points": 60,
         "avg": 3.3,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1695917251,
         "streak": [
@@ -34226,7 +34226,7 @@
         "id_team": 3,
         "points": 14,
         "avg": 4.7,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1703788154,
         "streak": [
@@ -34284,7 +34284,7 @@
         "id_team": 48,
         "points": 131,
         "avg": 4.1,
-        "status": "five",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1692952101,
         "streak": [
@@ -34681,7 +34681,7 @@
         "id_gameweek": 2554,
         "gameweek": 35,
         "type": "regular",
-        "status": "started",
+        "status": "closed",
         "points": 30,
         "rank": 15,
         "negative": 0,
@@ -34967,7 +34967,7 @@
         "width": 30,
         "short": "J35",
         "color": 2,
-        "status": "started"
+        "status": "closed"
       }
     }
   }
