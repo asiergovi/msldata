@@ -2854,7 +2854,7 @@
         "id_team": 10,
         "points": 35,
         "avg": 3.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1706860498,
         "streak": [
@@ -3842,7 +3842,7 @@
         "id_team": 10,
         "points": 35,
         "avg": 3.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1706860498,
         "streak": [
@@ -9808,7 +9808,7 @@
             "slot": 1,
             "position": 1,
             "id_team": 5,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1693609611,
             "played": 0,
             "short": "V. Guaita",
@@ -12369,7 +12369,7 @@
             "slot": 6,
             "position": 3,
             "id_team": 14,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1703271523,
             "played": 1,
             "short": "Ó. Valentín",
@@ -12815,64 +12815,6 @@
       }
     },
     "team_now": [
-      {
-        "id": 25606,
-        "name": "Paulo Gazzaniga",
-        "position": 1,
-        "id_team": 222,
-        "points": 196,
-        "avg": 5.4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702925074,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 10,
-            "color": 4
-          },
-          {
-            "points": 5,
-            "color": 3
-          }
-        ],
-        "streak_sum": 20,
-        "value": 10711000,
-        "prev_value": 10635000,
-        "last_points": 5,
-        "id_uc": 12054564,
-        "floor": 17574000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 10711000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "P. Gazzaniga",
-        "bg": 3,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25606.png?version=20231218194434",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240517"
-      },
       {
         "id": 40147,
         "name": "Antonio Rüdiger",
@@ -13518,7 +13460,7 @@
         "id_team": 14,
         "points": 136,
         "avg": 4.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703271523,
         "streak": [
@@ -14572,7 +14514,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 1,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1700229990,
             "played": 0,
             "short": "N. Williams",
@@ -15357,7 +15299,7 @@
         "id_team": 1,
         "points": 165,
         "avg": 5.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1700229990,
         "streak": [
@@ -16311,7 +16253,7 @@
             "slot": 1,
             "position": 1,
             "id_team": 10,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1704291167,
             "played": 0,
             "short": "A. Batalla",
@@ -16788,7 +16730,7 @@
         "id_team": 16,
         "points": 172,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -16906,7 +16848,7 @@
         "id_team": 10,
         "points": 86,
         "avg": 5.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1704291167,
         "streak": [
@@ -17602,7 +17544,7 @@
         "id_team": 16,
         "points": 172,
         "avg": 5.5,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1703279643,
         "streak": [
@@ -18574,7 +18516,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 408,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702843482,
             "played": 1,
             "short": "A. Raíllo",
@@ -18977,7 +18919,7 @@
         "id_team": 408,
         "points": 147,
         "avg": 6.1,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702843482,
         "streak": [
@@ -19201,64 +19143,6 @@
         "bg": 2,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/22620.png?version=20231222195101",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240517"
-      },
-      {
-        "id": 1762,
-        "name": "Álex Berenguer",
-        "position": 3,
-        "id_team": 1,
-        "points": 158,
-        "avg": 4.8,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702842286,
-        "streak": [
-          {
-            "points": -1,
-            "color": 1
-          },
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 10,
-            "color": 4
-          }
-        ],
-        "streak_sum": 14,
-        "value": 6965000,
-        "prev_value": 6852000,
-        "last_points": 10,
-        "id_uc": 12054755,
-        "floor": 12754504,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 6965000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Á. Berenguer",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1762.png?version=20231217204446",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240517"
       },
       {
         "id": 16868,
@@ -22416,7 +22300,7 @@
             "slot": 5,
             "position": 2,
             "id_team": 21,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1574527616,
             "played": 0,
             "short": "É. González",
@@ -22885,7 +22769,7 @@
         "id_team": 1,
         "points": 71,
         "avg": 3.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702854827,
         "streak": [
@@ -23467,7 +23351,7 @@
         "id_team": 21,
         "points": 107,
         "avg": 3.7,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1574527616,
         "streak": [
@@ -23815,7 +23699,7 @@
         "id_team": 1,
         "points": 71,
         "avg": 3.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702854827,
         "streak": [
@@ -27396,7 +27280,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 19,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1703281466,
             "played": 1,
             "short": "T. Correia",
@@ -27478,7 +27362,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 2,
-            "status": "doubt",
+            "status": "injury",
             "ts_pic": 1692267477,
             "played": 1,
             "short": "P. Barrios",
@@ -27542,6 +27426,64 @@
       "count": 11
     },
     "bench": {
+      "25606": {
+        "id": 25606,
+        "name": "Paulo Gazzaniga",
+        "position": 1,
+        "id_team": 222,
+        "points": 196,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702925074,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 20,
+        "value": 10711000,
+        "prev_value": 10635000,
+        "last_points": 5,
+        "id_uc": 12054571,
+        "floor": 26361000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10711000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "P. Gazzaniga",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25606.png?version=20231218194434",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240517"
+      },
       "28621": {
         "id": 28621,
         "name": "Abdelkabir Abqar",
@@ -27599,6 +27541,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/28621.png?version=20231117161102",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/48.png?version=20240517"
+      },
+      "1762": {
+        "id": 1762,
+        "name": "Álex Berenguer",
+        "position": 3,
+        "id_team": 1,
+        "points": 158,
+        "avg": 4.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702842286,
+        "streak": [
+          {
+            "points": -1,
+            "color": 1
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 10,
+            "color": 4
+          }
+        ],
+        "streak_sum": 14,
+        "value": 6965000,
+        "prev_value": 6852000,
+        "last_points": 10,
+        "id_uc": 12054571,
+        "floor": 19131756,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 6965000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Á. Berenguer",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1762.png?version=20231217204446",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240517"
       },
       "556": {
         "id": 556,
@@ -27893,6 +27893,64 @@
     },
     "team_now": [
       {
+        "id": 25606,
+        "name": "Paulo Gazzaniga",
+        "position": 1,
+        "id_team": 222,
+        "points": 196,
+        "avg": 5.4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702925074,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 10,
+            "color": 4
+          },
+          {
+            "points": 5,
+            "color": 3
+          }
+        ],
+        "streak_sum": 20,
+        "value": 10711000,
+        "prev_value": 10635000,
+        "last_points": 5,
+        "id_uc": 12054571,
+        "floor": 26361000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 10711000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "P. Gazzaniga",
+        "bg": 3,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/25606.png?version=20231218194434",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240517"
+      },
+      {
         "id": 28621,
         "name": "Abdelkabir Abqar",
         "position": 2,
@@ -28073,7 +28131,7 @@
         "id_team": 19,
         "points": 110,
         "avg": 3.8,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703281466,
         "streak": [
@@ -28181,6 +28239,64 @@
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/5653.png?version=20231218214742",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/408.png?version=20240517"
+      },
+      {
+        "id": 1762,
+        "name": "Álex Berenguer",
+        "position": 3,
+        "id_team": 1,
+        "points": 158,
+        "avg": 4.8,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702842286,
+        "streak": [
+          {
+            "points": -1,
+            "color": 1
+          },
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 10,
+            "color": 4
+          }
+        ],
+        "streak_sum": 14,
+        "value": 6965000,
+        "prev_value": 6852000,
+        "last_points": 10,
+        "id_uc": 12054571,
+        "floor": 19131756,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 6965000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Á. Berenguer",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/1762.png?version=20231217204446",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/1.png?version=20240517"
       },
       {
         "id": 54817,
@@ -28479,7 +28595,7 @@
         "id_team": 2,
         "points": 114,
         "avg": 4.8,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1692267477,
         "streak": [
@@ -28504,9 +28620,9 @@
         "floor": 6885000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12232953195,
+        "price": 5197000,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -28516,12 +28632,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 5197000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5197000
         },
         "barter": [],
         "popup": "bid",
@@ -28676,7 +28792,7 @@
         "last_points": 8,
         "id_uc": 12054571,
         "floor": 20709000,
-        "multiplier": 3.5,
+        "multiplier": 4,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -29467,7 +29583,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 408,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1693565106,
             "played": 1,
             "short": "M. Nastasić",
@@ -29678,7 +29794,7 @@
         "id_team": 5,
         "points": 142,
         "avg": 5.5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693609611,
         "streak": [
@@ -30086,7 +30202,7 @@
         "id_team": 5,
         "points": 142,
         "avg": 5.5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1693609611,
         "streak": [
@@ -31596,7 +31712,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 17,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1703182881,
             "played": 1,
             "short": "D. Lukébakio",
@@ -32331,7 +32447,7 @@
         "id_team": 17,
         "points": 103,
         "avg": 4.9,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703182881,
         "streak": [
