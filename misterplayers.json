@@ -2324,8 +2324,8 @@
     "id": "12054777",
     "name": "ROILOA NEGREIRA",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/649de7fbdd51c.png",
-    "played": "21 jugadores",
-    "money": "183.983.000",
+    "played": "20 jugadores",
+    "money": "162.834.000",
     "points": 2,
     "lineup": {
       "positions": {
@@ -2723,9 +2723,9 @@
         "floor": 21164000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12241043771,
+        "price": 15795089,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -2735,12 +2735,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 12023000
+          "active": 1,
+          "input": 15795089
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15795089
         },
         "barter": [],
         "popup": "bid",
@@ -3305,9 +3305,9 @@
         "floor": 4540000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12241044018,
+        "price": 6904878,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -3317,12 +3317,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 4540000
+          "active": 1,
+          "input": 6904878
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 6904878
         },
         "barter": [],
         "popup": "bid",
@@ -3537,9 +3537,9 @@
         "floor": 21164000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12241043771,
+        "price": 15795089,
+        "public": 1,
         "bid": null,
         "weeks": null,
         "type": null,
@@ -3549,12 +3549,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 12023000
+          "active": 1,
+          "input": 15795089
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15795089
         },
         "barter": [],
         "popup": "bid",
@@ -4258,64 +4258,6 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/12902.png?version=20230608093556",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/14.png?version=20240520"
-      },
-      {
-        "id": 54868,
-        "name": "Sávio",
-        "position": 4,
-        "id_team": 222,
-        "points": 235,
-        "avg": 6.5,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1700230570,
-        "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
-          {
-            "points": 8,
-            "color": 3
-          },
-          {
-            "points": 13,
-            "color": 4
-          }
-        ],
-        "streak_sum": 26,
-        "value": 21149000,
-        "prev_value": 21100000,
-        "last_points": 13,
-        "id_uc": 12054777,
-        "floor": 21149000,
-        "multiplier": 4,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "weeks": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 21149000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "Sávio",
-        "bg": 4,
-        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54868.png?version=20231117151610",
-        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240520"
       }
     ],
     "gameweeks": {
@@ -4993,8 +4935,8 @@
     "id": "12054468",
     "name": "La Florentineta",
     "img": "https://cdn.gomister.com/file/cdn-mister/users/61785a75b93b0.png",
-    "played": "16 jugadores",
-    "money": "130.496.000",
+    "played": "17 jugadores",
+    "money": "151.645.000",
     "points": 2,
     "lineup": {
       "positions": {
@@ -5533,6 +5475,64 @@
         "bg": 0,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/53114.png?version=20231117151236",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/15.png?version=20240520"
+      },
+      "54868": {
+        "id": 54868,
+        "name": "Sávio",
+        "position": 4,
+        "id_team": 222,
+        "points": 235,
+        "avg": 6.5,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1700230570,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 13,
+            "color": 4
+          }
+        ],
+        "streak_sum": 26,
+        "value": 21149000,
+        "prev_value": 21100000,
+        "last_points": 13,
+        "id_uc": 12054468,
+        "floor": 84596000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 21149000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Sávio",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54868.png?version=20231117151610",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240520"
       }
     },
     "team_now": [
@@ -6462,6 +6462,64 @@
         "short": "A. Dovbyk",
         "bg": 3,
         "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/55058.png?version=20231217211100",
+        "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240520"
+      },
+      {
+        "id": 54868,
+        "name": "Sávio",
+        "position": 4,
+        "id_team": 222,
+        "points": 235,
+        "avg": 6.5,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1700230570,
+        "streak": [
+          {
+            "points": 5,
+            "color": 3
+          },
+          {
+            "points": 8,
+            "color": 3
+          },
+          {
+            "points": 13,
+            "color": 4
+          }
+        ],
+        "streak_sum": 26,
+        "value": 21149000,
+        "prev_value": 21100000,
+        "last_points": 13,
+        "id_uc": 12054468,
+        "floor": 84596000,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "weeks": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 21149000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "Sávio",
+        "bg": 4,
+        "photoUrl": "https://cdn.gomister.com/file/cdn-common/players/54868.png?version=20231117151610",
         "teamLogoUrl": "https://cdn.gomister.com/file/cdn-common/teams/222.png?version=20240520"
       }
     ],
