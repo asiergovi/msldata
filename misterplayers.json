@@ -1138,7 +1138,7 @@
         "last_points": "?",
         "id_uc": 13287950,
         "floor": 2002000,
-        "multiplier": 1.5,
+        "multiplier": 3.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2518,7 +2518,7 @@
         "last_points": "?",
         "id_uc": 13290762,
         "floor": 3774000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2530,7 +2530,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 3665000
@@ -2692,7 +2692,7 @@
         "last_points": "?",
         "id_uc": 13290762,
         "floor": 3684000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2704,7 +2704,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 3488000
@@ -2911,7 +2911,7 @@
         "last_points": "?",
         "id_uc": 13290762,
         "floor": 1931000,
-        "multiplier": null,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2923,7 +2923,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 1931000
@@ -3623,9 +3623,9 @@
         "floor": 666666.6666666666,
         "multiplier": null,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12463823183,
+        "price": 13745548,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -3635,12 +3635,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 627000
+          "active": 1,
+          "input": 13745548
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 13745548
         },
         "barter": [],
         "popup": "bid",
@@ -3739,9 +3739,9 @@
         "floor": 970000,
         "multiplier": 4,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12463823149,
+        "price": 20579901,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -3751,12 +3751,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 970000
+          "active": 1,
+          "input": 20579901
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 20579901
         },
         "barter": [],
         "popup": "bid",
@@ -5159,7 +5159,7 @@
         "floor": 929000,
         "multiplier": null,
         "shield": 0,
-        "id_market": 12458934510,
+        "id_market": 12463810302,
         "price": 1048634,
         "public": 1,
         "bid": null,
@@ -5217,7 +5217,7 @@
         "floor": 1060500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12458934493,
+        "id_market": 12463810335,
         "price": 1018702,
         "public": 1,
         "bid": null,
@@ -5391,7 +5391,7 @@
         "floor": 1003443,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12458934503,
+        "id_market": 12463810307,
         "price": 740000,
         "public": 1,
         "bid": null,
@@ -5739,7 +5739,7 @@
         "floor": 2493000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 12458934580,
+        "id_market": 12463810348,
         "price": 6179250,
         "public": 1,
         "bid": null,
@@ -8386,8 +8386,8 @@
     "id": "13289485",
     "name": "Jose (Biscarrués C.F.)",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/64c1641dbf205.png",
-    "played": "18 jugadores",
-    "money": "49.738.000",
+    "played": "19 jugadores",
+    "money": "51.063.000",
     "points": 0,
     "lineup": [],
     "bench": [],
@@ -8797,6 +8797,64 @@
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28619.png?version=20231222194537",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240725"
+      },
+      {
+        "id": 22527,
+        "name": "Aimar Oroz",
+        "position": 3,
+        "id_team": 50,
+        "points": 0,
+        "avg": 0,
+        "status": "doubt",
+        "id_competition": 1,
+        "ts_pic": 1702841847,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 1325000,
+        "prev_value": 1286000,
+        "last_points": "?",
+        "id_uc": 13289485,
+        "floor": 3577500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1325000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "A. Oroz",
+        "bg": 0,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22527.png?version=20231217203727",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/50.png?version=20240725"
       },
       {
         "id": 59087,
@@ -11472,8 +11530,8 @@
     "id": "13288020",
     "name": "Chesty westy f.c.",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/6683fb4e4ccdf.png",
-    "played": "22 jugadores",
-    "money": "66.910.000",
+    "played": "21 jugadores",
+    "money": "65.585.000",
     "points": 0,
     "lineup": [],
     "bench": [],
@@ -11879,64 +11937,6 @@
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/48950.png?version=20231218002611",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240725"
-      },
-      {
-        "id": 22527,
-        "name": "Aimar Oroz",
-        "position": 3,
-        "id_team": 50,
-        "points": 0,
-        "avg": 0,
-        "status": "doubt",
-        "id_competition": 1,
-        "ts_pic": 1702841847,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 1325000,
-        "prev_value": 1286000,
-        "last_points": "?",
-        "id_uc": 13288020,
-        "floor": 2385000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1325000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "A. Oroz",
-        "bg": 0,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22527.png?version=20231217203727",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/50.png?version=20240725"
       },
       {
         "id": 53098,
@@ -12957,7 +12957,7 @@
         "floor": 1303500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12460293623,
+        "id_market": 12463801323,
         "price": 1850000,
         "public": 1,
         "bid": null,
@@ -13073,7 +13073,7 @@
         "floor": 1084500,
         "multiplier": 4,
         "shield": 0,
-        "id_market": 12460293608,
+        "id_market": 12463801289,
         "price": 3900000,
         "public": 1,
         "bid": null,
@@ -13131,7 +13131,7 @@
         "floor": 666666.6666666666,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12460293615,
+        "id_market": 12463801296,
         "price": 1000000,
         "public": 1,
         "bid": null,
@@ -13189,7 +13189,7 @@
         "floor": 2103000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": 12460293664,
+        "id_market": 12463801351,
         "price": 5350000,
         "public": 1,
         "bid": null,
@@ -13247,7 +13247,7 @@
         "floor": 1500000,
         "multiplier": 3,
         "shield": 0,
-        "id_market": 12460293553,
+        "id_market": 12463801220,
         "price": 4200000,
         "public": 1,
         "bid": null,
@@ -13305,7 +13305,7 @@
         "floor": 2268000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12460293603,
+        "id_market": 12463801284,
         "price": 916000,
         "public": 1,
         "bid": null,
@@ -13363,7 +13363,7 @@
         "floor": 4153500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12460293560,
+        "id_market": 12463801228,
         "price": 5800000,
         "public": 1,
         "bid": null,
@@ -13421,7 +13421,7 @@
         "floor": 1000000,
         "multiplier": 3.5,
         "shield": 0,
-        "id_market": 12460293593,
+        "id_market": 12463801269,
         "price": 2300000,
         "public": 1,
         "bid": null,
@@ -13479,7 +13479,7 @@
         "floor": 10190000,
         "multiplier": null,
         "shield": 0,
-        "id_market": 12460293649,
+        "id_market": 12463801335,
         "price": 14500000,
         "public": 1,
         "bid": null,
@@ -13535,7 +13535,7 @@
         "last_points": "?",
         "id_uc": 13283382,
         "floor": 1724858,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -13547,7 +13547,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 1532000
@@ -13595,9 +13595,9 @@
         "floor": 10858685,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12463801711,
+        "price": 12500000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -13607,12 +13607,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 10192000
+          "active": 1,
+          "input": 12500000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 12500000
         },
         "barter": [],
         "popup": "bid",
@@ -13653,7 +13653,7 @@
         "floor": 3325000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 12460293588,
+        "id_market": 12463801262,
         "price": 4800000,
         "public": 1,
         "bid": null,
@@ -13711,7 +13711,7 @@
         "floor": 2863500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12460293657,
+        "id_market": 12463801346,
         "price": 4000000,
         "public": 1,
         "bid": null,
@@ -13769,7 +13769,7 @@
         "floor": 4500000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 12460293583,
+        "id_market": 12463801255,
         "price": 7500000,
         "public": 1,
         "bid": null,
@@ -13827,7 +13827,7 @@
         "floor": 9011000,
         "multiplier": null,
         "shield": 0,
-        "id_market": 12460293599,
+        "id_market": 12463801279,
         "price": 11000000,
         "public": 1,
         "bid": null,
