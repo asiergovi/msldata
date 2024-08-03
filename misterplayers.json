@@ -7392,64 +7392,6 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240803"
       },
       {
-        "id": 19747,
-        "name": "Thierry Correia",
-        "position": 2,
-        "id_team": 19,
-        "points": 0,
-        "avg": 0,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703281466,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 4015000,
-        "prev_value": 3854000,
-        "last_points": "?",
-        "id_uc": 13283957,
-        "floor": 4015000,
-        "multiplier": null,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 4015000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "T. Correia",
-        "bg": 0,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/19747.png?version=20231222224426",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240803"
-      },
-      {
         "id": 361,
         "name": "Yuri Berchiche",
         "position": 2,
@@ -9423,9 +9365,9 @@
         "floor": 1054000,
         "multiplier": 2.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12498648181,
+        "price": 1054000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -9435,12 +9377,12 @@
         "played": 0,
         "default": 2,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1054000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1054000
         },
         "barter": [],
         "popup": "bid",
@@ -9506,6 +9448,64 @@
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28619.png?version=20231222194537",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240803"
+      },
+      {
+        "id": 19747,
+        "name": "Thierry Correia",
+        "position": 2,
+        "id_team": 19,
+        "points": 0,
+        "avg": 0,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703281466,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 4015000,
+        "prev_value": 3854000,
+        "last_points": "?",
+        "id_uc": 13289485,
+        "floor": 6022500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 4015000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "T. Correia",
+        "bg": 0,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/19747.png?version=20231222224426",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240803"
       },
       {
         "id": 22527,
@@ -9758,7 +9758,7 @@
         "floor": 10032000,
         "multiplier": null,
         "shield": 0,
-        "id_market": 12494622876,
+        "id_market": 12498646011,
         "price": 10195000,
         "public": 1,
         "bid": null,
@@ -9816,9 +9816,9 @@
         "floor": 4502250,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12498648468,
+        "price": 1489000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -9828,12 +9828,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1489000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1489000
         },
         "barter": [],
         "popup": "bid",
