@@ -5531,9 +5531,9 @@
           "floor": 2697000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12560332432,
+          "price": 2697000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -5543,12 +5543,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 2697000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 2697000
           },
           "barter": [],
           "popup": "bid",
@@ -5730,6 +5730,56 @@
           "bg": 0,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/49092.png?version=20220817170703",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/17.png?version=20240816"
+        },
+        "19146": {
+          "id": 19146,
+          "name": "Nabil Fekir",
+          "position": 3,
+          "id_team": 4,
+          "points": 7,
+          "avg": 7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1702911940,
+          "streak": [
+            {
+              "points": 7,
+              "color": 3
+            }
+          ],
+          "streak_sum": 7,
+          "value": 11695000,
+          "prev_value": 11650000,
+          "last_points": 7,
+          "id_uc": 13296694,
+          "floor": 17908500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 11695000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "N. Fekir",
+          "bg": 3,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/19146.png?version=20231218160540",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
         },
         "52044": {
           "id": 52044,
