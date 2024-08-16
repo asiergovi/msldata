@@ -1156,8 +1156,8 @@
     "id": "13284287",
     "name": "Los Cameros",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/6682e2af5f110.png",
-    "played": "17 jugadores",
-    "money": "50.859.000",
+    "played": "16 jugadores",
+    "money": "49.082.000",
     "points": 15,
     "lineup": {
       "positions": {
@@ -2436,56 +2436,6 @@
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/58426.png?version=20240616124715",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240816"
-      },
-      {
-        "id": 13700,
-        "name": "William Carvalho",
-        "position": 3,
-        "id_team": 4,
-        "points": 4,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702912087,
-        "streak": [
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 4,
-        "value": 1777000,
-        "prev_value": 1719000,
-        "last_points": 4,
-        "id_uc": 13284287,
-        "floor": 1777000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1777000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "W. Carvalho",
-        "bg": 2,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
       },
       {
         "id": 321,
@@ -8965,8 +8915,8 @@
     "id": "13285878",
     "name": "Pintores FC",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/66831e7816409.png",
-    "played": "11 jugadores",
-    "money": "76.554.000",
+    "played": "12 jugadores",
+    "money": "78.331.000",
     "points": 8,
     "lineup": {
       "positions": {
@@ -9157,7 +9107,58 @@
       },
       "count": 11
     },
-    "bench": [],
+    "bench": {
+      "13700": {
+        "id": 13700,
+        "name": "William Carvalho",
+        "position": 3,
+        "id_team": 4,
+        "points": 4,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702912087,
+        "streak": [
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 1777000,
+        "prev_value": 1719000,
+        "last_points": 4,
+        "id_uc": 13285878,
+        "floor": 2665500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1777000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "W. Carvalho",
+        "bg": 2,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
+      }
+    },
     "team_now": [
       {
         "id": 7893,
@@ -9307,9 +9308,9 @@
         "floor": 4371000,
         "multiplier": 2,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12559094366,
+        "price": 29802138,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -9319,12 +9320,12 @@
         "played": 0,
         "default": 1,
         "market": {
-          "active": 0,
-          "input": 1528000
+          "active": 1,
+          "input": 29802138
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 29802138
         },
         "barter": [],
         "popup": "bid",
@@ -9531,9 +9532,9 @@
         "floor": 14587030,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12559094010,
+        "price": 31184581,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -9543,12 +9544,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 11648000
+          "active": 1,
+          "input": 31184581
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 31184581
         },
         "barter": [],
         "popup": "bid",
@@ -9722,6 +9723,56 @@
         "bg": 2,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/49336.png?version=20230817122009",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20240816"
+      },
+      {
+        "id": 13700,
+        "name": "William Carvalho",
+        "position": 3,
+        "id_team": 4,
+        "points": 4,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702912087,
+        "streak": [
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 1777000,
+        "prev_value": 1719000,
+        "last_points": 4,
+        "id_uc": 13285878,
+        "floor": 2665500,
+        "multiplier": 1.5,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 0,
+        "market": {
+          "active": 0,
+          "input": 1777000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "W. Carvalho",
+        "bg": 2,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
       },
       {
         "id": 55491,
