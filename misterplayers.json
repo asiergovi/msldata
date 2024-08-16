@@ -1721,7 +1721,7 @@
         "last_points": 7,
         "id_uc": 13284287,
         "floor": 10016000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1733,7 +1733,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 10016000
@@ -2119,7 +2119,7 @@
         "last_points": 4,
         "id_uc": 13284287,
         "floor": 5996000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -2131,7 +2131,7 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 5996000
@@ -2436,6 +2436,56 @@
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/58426.png?version=20240616124715",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240816"
+      },
+      {
+        "id": 13700,
+        "name": "William Carvalho",
+        "position": 3,
+        "id_team": 4,
+        "points": 4,
+        "avg": 4,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1702912087,
+        "streak": [
+          {
+            "points": 4,
+            "color": 2
+          }
+        ],
+        "streak_sum": 4,
+        "value": 1777000,
+        "prev_value": 1719000,
+        "last_points": 4,
+        "id_uc": 13284287,
+        "floor": 3998250,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 1,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 1777000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "W. Carvalho",
+        "bg": 2,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
       },
       {
         "id": 321,
@@ -9107,58 +9157,7 @@
       },
       "count": 11
     },
-    "bench": {
-      "13700": {
-        "id": 13700,
-        "name": "William Carvalho",
-        "position": 3,
-        "id_team": 4,
-        "points": 4,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702912087,
-        "streak": [
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 4,
-        "value": 1777000,
-        "prev_value": 1719000,
-        "last_points": 4,
-        "id_uc": 13285878,
-        "floor": 2665500,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1777000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "W. Carvalho",
-        "bg": 2,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
-      }
-    },
+    "bench": [],
     "team_now": [
       {
         "id": 7893,
@@ -9723,56 +9722,6 @@
         "bg": 2,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/49336.png?version=20230817122009",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20240816"
-      },
-      {
-        "id": 13700,
-        "name": "William Carvalho",
-        "position": 3,
-        "id_team": 4,
-        "points": 4,
-        "avg": 4,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1702912087,
-        "streak": [
-          {
-            "points": 4,
-            "color": 2
-          }
-        ],
-        "streak_sum": 4,
-        "value": 1777000,
-        "prev_value": 1719000,
-        "last_points": 4,
-        "id_uc": 13285878,
-        "floor": 2665500,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 1,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 1777000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "W. Carvalho",
-        "bg": 2,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/13700.png?version=20231218160807",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240816"
       },
       {
         "id": 55491,
@@ -19933,7 +19882,7 @@
         "floor": 2768632,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 12557020483,
+        "id_market": 12559113494,
         "price": 2039000,
         "public": 1,
         "bid": null,
@@ -20157,7 +20106,7 @@
         "floor": 2092000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12557020446,
+        "id_market": 12559113462,
         "price": 1801000,
         "public": 1,
         "bid": null,
@@ -20333,7 +20282,7 @@
         "floor": 2568000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12557020505,
+        "id_market": 12559113538,
         "price": 2249000,
         "public": 1,
         "bid": null,
@@ -20565,7 +20514,7 @@
         "floor": 2768632,
         "multiplier": 2,
         "shield": 0,
-        "id_market": 12557020483,
+        "id_market": 12559113494,
         "price": 2039000,
         "public": 1,
         "bid": null,
@@ -20681,7 +20630,7 @@
         "floor": 1587000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12557020461,
+        "id_market": 12559113474,
         "price": 1484000,
         "public": 1,
         "bid": null,
@@ -20739,7 +20688,7 @@
         "floor": 5180000,
         "multiplier": null,
         "shield": 0,
-        "id_market": 12557020611,
+        "id_market": 12559113502,
         "price": 5027000,
         "public": 1,
         "bid": null,
@@ -21195,7 +21144,7 @@
         "floor": 2092000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": 12557020446,
+        "id_market": 12559113462,
         "price": 1801000,
         "public": 1,
         "bid": null,
