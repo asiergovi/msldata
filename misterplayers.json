@@ -3076,9 +3076,9 @@
         "floor": 1772000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12570671601,
+        "price": 1772000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -3088,12 +3088,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1772000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1772000
         },
         "barter": [],
         "popup": "bid",
@@ -3768,9 +3768,9 @@
         "floor": 1772000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12570671601,
+        "price": 1772000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -3780,12 +3780,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 1772000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 1772000
         },
         "barter": [],
         "popup": "bid",
@@ -4385,7 +4385,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 20,
-            "status": "doubt",
+            "status": "injury",
             "ts_pic": 1702842493,
             "played": 0,
             "short": "A. Pedraza",
@@ -4663,7 +4663,7 @@
         "id_team": 20,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702842493,
         "streak": [
@@ -5790,7 +5790,7 @@
         "id_team": 20,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -6748,7 +6748,7 @@
         "id_team": 20,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
@@ -9933,8 +9933,8 @@
     "id": "13287950",
     "name": "Stefano (Castolo FC)",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/6305dac61c4c6.png",
-    "played": "16 jugadores",
-    "money": "114.597.000",
+    "played": "15 jugadores",
+    "money": "112.544.000",
     "points": 24,
     "lineup": {
       "positions": {
@@ -11174,64 +11174,6 @@
         "short": "R. de Tomás",
         "bg": 0,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/12902.png?version=20230608093556",
-        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240818"
-      },
-      {
-        "id": 17290,
-        "name": "Sergio Camello",
-        "position": 4,
-        "id_team": 14,
-        "points": 0,
-        "avg": 0,
-        "status": null,
-        "id_competition": 1,
-        "ts_pic": 1703109119,
-        "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          },
-          {
-            "points": "-",
-            "color": 0
-          }
-        ],
-        "streak_sum": 0,
-        "value": 2053000,
-        "prev_value": 1970000,
-        "last_points": "?",
-        "id_uc": 13287950,
-        "floor": 2053000,
-        "multiplier": 1.5,
-        "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
-        "bid": null,
-        "days": null,
-        "type": null,
-        "player_1": null,
-        "player_2": null,
-        "player_3": null,
-        "played": 0,
-        "default": 0,
-        "market": {
-          "active": 0,
-          "input": 2053000
-        },
-        "offer": {
-          "active": 0,
-          "input": null
-        },
-        "barter": [],
-        "popup": "bid",
-        "short": "S. Camello",
-        "bg": 0,
-        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17290.png?version=20231220225159",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240818"
       }
     ],
@@ -16147,8 +16089,8 @@
     "id": "13296694",
     "name": "Palancas F.C.",
     "img": "https://cdn-mister.mundodeportivo.com/file/cdn-mister/users/6306345fa2044.png",
-    "played": "19 jugadores",
-    "money": "119.530.000",
+    "played": "20 jugadores",
+    "money": "121.583.000",
     "points": 13,
     "lineup": {
       "positions": {
@@ -16755,6 +16697,64 @@
         "bg": 3,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/1684.png?version=20160529154125",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240818"
+      },
+      "17290": {
+        "id": 17290,
+        "name": "Sergio Camello",
+        "position": 4,
+        "id_team": 14,
+        "points": 0,
+        "avg": 0,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703109119,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 2053000,
+        "prev_value": 1970000,
+        "last_points": "?",
+        "id_uc": 13296694,
+        "floor": 3079500,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 2053000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Camello",
+        "bg": 0,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17290.png?version=20231220225159",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240818"
       }
     },
     "team_now": [
@@ -17779,6 +17779,64 @@
         "bg": 3,
         "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/1684.png?version=20160529154125",
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240818"
+      },
+      {
+        "id": 17290,
+        "name": "Sergio Camello",
+        "position": 4,
+        "id_team": 14,
+        "points": 0,
+        "avg": 0,
+        "status": null,
+        "id_competition": 1,
+        "ts_pic": 1703109119,
+        "streak": [
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          },
+          {
+            "points": "-",
+            "color": 0
+          }
+        ],
+        "streak_sum": 0,
+        "value": 2053000,
+        "prev_value": 1970000,
+        "last_points": "?",
+        "id_uc": 13296694,
+        "floor": 3079500,
+        "multiplier": 2,
+        "shield": 0,
+        "id_market": null,
+        "price": null,
+        "public": null,
+        "bid": null,
+        "days": null,
+        "type": null,
+        "player_1": null,
+        "player_2": null,
+        "player_3": null,
+        "played": 0,
+        "default": 1,
+        "market": {
+          "active": 0,
+          "input": 2053000
+        },
+        "offer": {
+          "active": 0,
+          "input": null
+        },
+        "barter": [],
+        "popup": "bid",
+        "short": "S. Camello",
+        "bg": 0,
+        "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17290.png?version=20231220225159",
+        "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240818"
       }
     ],
     "gameweeks": {
