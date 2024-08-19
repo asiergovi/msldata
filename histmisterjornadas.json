@@ -224,9 +224,9 @@
           "floor": 802000,
           "multiplier": null,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12574084920,
+          "price": 802000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -236,12 +236,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 802000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 802000
           },
           "barter": [],
           "popup": "bid",
@@ -274,8 +274,8 @@
           "floor": 1895000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12569051196,
-          "price": 1830000,
+          "id_market": 12574084897,
+          "price": 1895000,
           "public": 1,
           "bid": null,
           "days": null,
@@ -287,11 +287,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 1830000
+            "input": 1895000
           },
           "offer": {
             "active": 0,
-            "input": 1830000
+            "input": 1895000
           },
           "barter": [],
           "popup": "bid",
@@ -324,9 +324,9 @@
           "floor": 9876000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12574084846,
+          "price": 9876000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -336,12 +336,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 9876000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 9876000
           },
           "barter": [],
           "popup": "bid",
@@ -374,9 +374,9 @@
           "floor": 1725000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12574084076,
+          "price": 1725000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -386,12 +386,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1725000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1725000
           },
           "barter": [],
           "popup": "bid",
@@ -474,8 +474,8 @@
           "floor": 2165000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12569051225,
-          "price": 2086000,
+          "id_market": 12574083786,
+          "price": 2165000,
           "public": 1,
           "bid": null,
           "days": null,
@@ -487,11 +487,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 2086000
+            "input": 2165000
           },
           "offer": {
             "active": 0,
-            "input": 2086000
+            "input": 2165000
           },
           "barter": [],
           "popup": "bid",
@@ -2381,9 +2381,9 @@
           "floor": 1601000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12574068402,
+          "price": 2058530,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -2393,12 +2393,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 1601000
+            "active": 1,
+            "input": 2058530
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 2058530
           },
           "barter": [],
           "popup": "bid",
@@ -2675,7 +2675,7 @@
           "floor": 1243000,
           "multiplier": 3,
           "shield": 0,
-          "id_market": 12570574642,
+          "id_market": 12574054718,
           "price": 2951967,
           "public": 1,
           "bid": null,
@@ -2725,7 +2725,7 @@
           "floor": 4088000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12570574671,
+          "id_market": 12574054502,
           "price": 4143783,
           "public": 1,
           "bid": null,
@@ -2773,7 +2773,7 @@
           "last_points": 7,
           "id_uc": 13283364,
           "floor": 2776000,
-          "multiplier": 3,
+          "multiplier": 3.5,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -2785,7 +2785,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 3,
+          "default": 0,
           "market": {
             "active": 0,
             "input": 2776000
@@ -2800,6 +2800,56 @@
           "bg": 3,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/308.png?version=20231222184052",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/408.png?version=20240819"
+        },
+        "63": {
+          "id": 63,
+          "name": "Marc Bartra",
+          "position": 2,
+          "id_team": 4,
+          "points": 12,
+          "avg": 12,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1702910675,
+          "streak": [
+            {
+              "points": 12,
+              "color": 4
+            }
+          ],
+          "streak_sum": 12,
+          "value": 2249000,
+          "prev_value": 2149000,
+          "last_points": 12,
+          "id_uc": 13283364,
+          "floor": 4835250,
+          "multiplier": 1.5,
+          "shield": 0,
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 2249000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "M. Bartra",
+          "bg": 4,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/63.png?version=20231218154435",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240819"
         },
         "21592": {
           "id": 21592,
@@ -2825,7 +2875,7 @@
           "floor": 2018000,
           "multiplier": 2.5,
           "shield": 0,
-          "id_market": 12570574599,
+          "id_market": 12574054588,
           "price": 1906000,
           "public": 1,
           "bid": null,
@@ -3244,56 +3294,6 @@
           "bg": 3,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28280.png?version=20231218213836",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/408.png?version=20240819"
-        },
-        "63": {
-          "id": 63,
-          "name": "Marc Bartra",
-          "position": 2,
-          "id_team": 4,
-          "points": 12,
-          "avg": 12,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1702910675,
-          "streak": [
-            {
-              "points": 12,
-              "color": 4
-            }
-          ],
-          "streak_sum": 12,
-          "value": 2249000,
-          "prev_value": 2149000,
-          "last_points": 12,
-          "id_uc": 13284241,
-          "floor": 3223500,
-          "multiplier": 1.5,
-          "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "days": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 1,
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 2249000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "M. Bartra",
-          "bg": 4,
-          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/63.png?version=20231218154435",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240819"
         },
         "42": {
           "id": 42,
