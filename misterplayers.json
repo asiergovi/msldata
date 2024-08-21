@@ -2616,11 +2616,11 @@
         "last_points": 2,
         "id_uc": 13287950,
         "floor": 3825000,
-        "multiplier": 3,
+        "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12586346422,
+        "price": 3825000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -2628,14 +2628,14 @@
         "player_2": null,
         "player_3": null,
         "played": 1,
-        "default": 3,
+        "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 3825000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 3825000
         },
         "barter": [],
         "popup": "bid",
