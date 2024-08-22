@@ -270,9 +270,9 @@
         "floor": 13315973,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12590116180,
+        "price": 15500000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -282,12 +282,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 13175000
+          "active": 1,
+          "input": 15500000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15500000
         },
         "barter": [],
         "popup": "bid",
@@ -370,9 +370,9 @@
         "floor": 3514500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12590116269,
+        "price": 5000000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -382,12 +382,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 2684000
+          "active": 1,
+          "input": 5000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5000000
         },
         "barter": [],
         "popup": "bid",
@@ -767,9 +767,9 @@
         "floor": 13315973,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12590116180,
+        "price": 15500000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -779,12 +779,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 13175000
+          "active": 1,
+          "input": 15500000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 15500000
         },
         "barter": [],
         "popup": "bid",
@@ -917,9 +917,9 @@
         "floor": 3514500,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12590116269,
+        "price": 5000000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -929,12 +929,12 @@
         "played": 1,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 2684000
+          "active": 1,
+          "input": 5000000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 5000000
         },
         "barter": [],
         "popup": "bid",
@@ -2534,7 +2534,7 @@
         "id_team": 3,
         "points": 0,
         "avg": 0,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1723209224,
         "streak": [
@@ -2981,7 +2981,7 @@
         "id_team": 3,
         "points": 0,
         "avg": 0,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1723209224,
         "streak": [
@@ -11443,7 +11443,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 50,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1703267026,
             "played": 1,
             "short": "R. Peña",
@@ -12282,7 +12282,7 @@
         "id_team": 50,
         "points": 2,
         "avg": 2,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703267026,
         "streak": [
@@ -13553,7 +13553,7 @@
         "id_team": 8,
         "points": 5,
         "avg": 5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1706860164,
         "streak": [
@@ -14105,7 +14105,7 @@
         "id_team": 8,
         "points": 5,
         "avg": 5,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1706860164,
         "streak": [
@@ -14355,7 +14355,7 @@
             "slot": 5,
             "position": 2,
             "id_team": 16,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1702842789,
             "played": 0,
             "short": "Á. Odriozola",
@@ -14928,7 +14928,7 @@
         "id_team": 16,
         "points": 0,
         "avg": 0,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1702842789,
         "streak": [
@@ -15830,7 +15830,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 16,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1701935269,
             "played": 1,
             "short": "A. Barrenetxea",
@@ -16701,7 +16701,7 @@
         "id_team": 16,
         "points": 3,
         "avg": 3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1701935269,
         "streak": [
@@ -17401,7 +17401,7 @@
             "slot": 5,
             "position": 2,
             "id_team": 49,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1718534584,
             "played": 0,
             "short": "J. Sáenz",
