@@ -7104,7 +7104,7 @@
   },
   "2859": {
     "13283382": {
-      "points": 0,
+      "points": 11,
       "lineup": {
         "positions": {
           "1": {
@@ -7195,7 +7195,7 @@
             "6": {
               "id": 12945,
               "name": "Fran Beltrán",
-              "points": "?",
+              "points": 11,
               "slot": 6,
               "position": 3,
               "id_team": 5,
@@ -7203,7 +7203,7 @@
               "ts_pic": 1702916931,
               "played": 1,
               "short": "F. Beltrán",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/12945.png?version=20231218172851",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -7498,7 +7498,7 @@
       }
     },
     "13283957": {
-      "points": 0,
+      "points": 20,
       "lineup": {
         "positions": {
           "1": {
@@ -7555,7 +7555,7 @@
             "4": {
               "id": 24739,
               "name": "Óscar Mingueza",
-              "points": "?",
+              "points": 14,
               "slot": 4,
               "position": 2,
               "id_team": 5,
@@ -7563,7 +7563,7 @@
               "ts_pic": 1702916773,
               "played": 1,
               "short": "Ó. Mingueza",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/24739.png?version=20231218172613",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -7671,7 +7671,7 @@
             "11": {
               "id": 28787,
               "name": "Diego López",
-              "points": "?",
+              "points": 6,
               "slot": 11,
               "position": 4,
               "id_team": 19,
@@ -7679,7 +7679,7 @@
               "ts_pic": 1703281807,
               "played": 1,
               "short": "D. López",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28787.png?version=20231222225007",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -7892,7 +7892,7 @@
       }
     },
     "13287950": {
-      "points": 0,
+      "points": 2,
       "lineup": {
         "positions": {
           "1": {
@@ -7933,7 +7933,7 @@
             "3": {
               "id": 36,
               "name": "Javier Manquillo",
-              "points": "?",
+              "points": "-",
               "slot": 3,
               "position": 2,
               "id_team": 5,
@@ -8005,7 +8005,7 @@
               "id_team": 20,
               "status": null,
               "ts_pic": 1702842260,
-              "played": 0,
+              "played": 1,
               "short": "A. Baena",
               "bg": 0,
               "best_xi": "",
@@ -8049,7 +8049,7 @@
             "10": {
               "id": 11866,
               "name": "Hugo Duro",
-              "points": "?",
+              "points": 2,
               "slot": 10,
               "position": 4,
               "id_team": 19,
@@ -8057,7 +8057,7 @@
               "ts_pic": 1703281834,
               "played": 1,
               "short": "H. Duro",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/11866.png?version=20231222225034",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -8093,7 +8093,12 @@
           "status": null,
           "id_competition": 1,
           "ts_pic": 1724154759,
-          "streak": [],
+          "streak": [
+            {
+              "points": "-",
+              "color": 0
+            }
+          ],
           "streak_sum": 0,
           "value": 1919000,
           "prev_value": 1869000,
@@ -8181,7 +8186,7 @@
       }
     },
     "13287961": {
-      "points": 0,
+      "points": 6,
       "lineup": {
         "positions": {
           "1": {
@@ -8272,7 +8277,7 @@
             "6": {
               "id": 48194,
               "name": "Williot Swedberg",
-              "points": "?",
+              "points": 6,
               "slot": 6,
               "position": 3,
               "id_team": 5,
@@ -8280,7 +8285,7 @@
               "ts_pic": 1702917115,
               "played": 1,
               "short": "W. Swedberg",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/48194.png?version=20231218173155",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -8386,12 +8391,16 @@
             {
               "points": "-",
               "color": 0
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
           "streak_sum": 0,
           "value": 261000,
           "prev_value": 224000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13287961,
           "floor": 666666.6666666666,
           "multiplier": 1.5,
@@ -8575,7 +8584,7 @@
       }
     },
     "13283720": {
-      "points": 0,
+      "points": 15,
       "lineup": {
         "positions": {
           "1": {
@@ -8682,7 +8691,7 @@
             "7": {
               "id": 22601,
               "name": "Pepelu",
-              "points": "?",
+              "points": 3,
               "slot": 7,
               "position": 3,
               "id_team": 19,
@@ -8690,7 +8699,7 @@
               "ts_pic": 1693595639,
               "played": 1,
               "short": "Pepelu",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22601.png?version=20230901211359",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -8716,7 +8725,7 @@
             "9": {
               "id": 130,
               "name": "Iago Aspas",
-              "points": "?",
+              "points": 12,
               "slot": 9,
               "position": 4,
               "id_team": 5,
@@ -8724,7 +8733,7 @@
               "ts_pic": 1700229976,
               "played": 1,
               "short": "I. Aspas",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/130.png?version=20231117150616",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -8738,7 +8747,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1703280981,
-              "played": 0,
+              "played": 1,
               "short": "L. Ocampos",
               "bg": 0,
               "best_xi": "",
@@ -9069,7 +9078,7 @@
       }
     },
     "13285878": {
-      "points": 0,
+      "points": 1,
       "lineup": {
         "positions": {
           "1": {
@@ -9100,7 +9109,7 @@
               "id_team": 20,
               "status": null,
               "ts_pic": 1703961689,
-              "played": 0,
+              "played": 1,
               "short": "E. Bailly",
               "bg": 0,
               "best_xi": "",
@@ -9208,7 +9217,7 @@
             "9": {
               "id": 52372,
               "name": "Javier Guerra",
-              "points": "?",
+              "points": 1,
               "slot": 9,
               "position": 3,
               "id_team": 19,
@@ -9216,7 +9225,7 @@
               "ts_pic": 1691737146,
               "played": 1,
               "short": "J. Guerra",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/52372.png?version=20230811085906",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -9248,7 +9257,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1703182881,
-              "played": 0,
+              "played": 1,
               "short": "D. Lukébakio",
               "bg": 0,
               "best_xi": "",
@@ -9262,7 +9271,7 @@
       "bench": []
     },
     "13290762": {
-      "points": 0,
+      "points": 7,
       "lineup": {
         "positions": {
           "1": {
@@ -9369,7 +9378,7 @@
             "7": {
               "id": 57291,
               "name": "Damián Rodríguez",
-              "points": "?",
+              "points": 4,
               "slot": 7,
               "position": 3,
               "id_team": 5,
@@ -9377,7 +9386,7 @@
               "ts_pic": 1710756061,
               "played": 1,
               "short": "D. Rodríguez",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/57291.png?version=20240318110101",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -9435,7 +9444,7 @@
             "11": {
               "id": 55523,
               "name": "Anastasios Douvikas",
-              "points": "?",
+              "points": 3,
               "slot": 11,
               "position": 4,
               "id_team": 5,
@@ -9443,7 +9452,7 @@
               "ts_pic": 1693226591,
               "played": 1,
               "short": "A. Douvikas",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/55523.png?version=20230828144311",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -9708,8 +9717,8 @@
           "name": "Luis Rioja",
           "position": 3,
           "id_team": 19,
-          "points": 3,
-          "avg": 3,
+          "points": 5,
+          "avg": 2.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1561994202,
@@ -9717,12 +9726,16 @@
             {
               "points": 3,
               "color": 2
+            },
+            {
+              "points": 2,
+              "color": 2
             }
           ],
-          "streak_sum": 3,
+          "streak_sum": 5,
           "value": 9066000,
           "prev_value": 9111000,
-          "last_points": "?",
+          "last_points": 2,
           "id_uc": 13290762,
           "floor": 9066000,
           "multiplier": 2,
@@ -9749,7 +9762,7 @@
           "barter": [],
           "popup": "bid",
           "short": "L. Rioja",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/18109.png?version=20190701171642",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
         },
@@ -9869,7 +9882,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1703183096,
-              "played": 0,
+              "played": 1,
               "short": "Ø. Nyland",
               "bg": 0,
               "best_xi": "",
@@ -9919,7 +9932,7 @@
               "id_team": 20,
               "status": null,
               "ts_pic": 1659078732,
-              "played": 0,
+              "played": 1,
               "short": "K. Femenía",
               "bg": 0,
               "best_xi": "",
@@ -10071,9 +10084,9 @@
           "floor": 3271000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12590054129,
-          "price": 3271000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
@@ -10083,12 +10096,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 1,
+            "active": 0,
             "input": 3271000
           },
           "offer": {
             "active": 0,
-            "input": 3271000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -10121,9 +10134,9 @@
           "floor": 2017000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12595121355,
-          "price": 2017000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
@@ -10133,12 +10146,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 1,
+            "active": 0,
             "input": 2017000
           },
           "offer": {
             "active": 0,
-            "input": 2017000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -10171,24 +10184,24 @@
           "floor": 5280000,
           "multiplier": null,
           "shield": 0,
-          "id_market": 12595121342,
-          "price": 5280000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
-            "active": 1,
+            "active": 0,
             "input": 5280000
           },
           "offer": {
             "active": 0,
-            "input": 5280000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -10221,9 +10234,9 @@
           "floor": 2673000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12595121318,
-          "price": 2673000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
@@ -10233,12 +10246,12 @@
           "played": 0,
           "default": 1,
           "market": {
-            "active": 1,
+            "active": 0,
             "input": 2673000
           },
           "offer": {
             "active": 0,
-            "input": 2673000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
@@ -10250,7 +10263,7 @@
       }
     },
     "13294650": {
-      "points": 0,
+      "points": 4,
       "lineup": {
         "positions": {
           "1": {
@@ -10297,7 +10310,7 @@
               "id_team": 20,
               "status": null,
               "ts_pic": 1702931132,
-              "played": 0,
+              "played": 1,
               "short": "S. Cardona",
               "bg": 0,
               "best_xi": "",
@@ -10357,7 +10370,7 @@
             "7": {
               "id": 33726,
               "name": "Hugo Álvarez",
-              "points": "?",
+              "points": 4,
               "slot": 7,
               "position": 3,
               "id_team": 5,
@@ -10365,7 +10378,7 @@
               "ts_pic": 1704321207,
               "played": 1,
               "short": "H. Álvarez",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/33726.png?version=20240103233327",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -10413,7 +10426,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1704968937,
-              "played": 0,
+              "played": 1,
               "short": "I. Romero",
               "bg": 0,
               "best_xi": "",
@@ -10689,7 +10702,7 @@
       }
     },
     "13288020": {
-      "points": 0,
+      "points": 4,
       "lineup": {
         "positions": {
           "1": {
@@ -10812,7 +10825,7 @@
             "8": {
               "id": 49275,
               "name": "André Almeida",
-              "points": "?",
+              "points": 1,
               "slot": 8,
               "position": 3,
               "id_team": 19,
@@ -10820,7 +10833,7 @@
               "ts_pic": 1702843022,
               "played": 1,
               "short": "A. Almeida",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/49275.png?version=20231217205702",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -10846,7 +10859,7 @@
             "10": {
               "id": 22591,
               "name": "Rafa Mir",
-              "points": "?",
+              "points": 3,
               "slot": 10,
               "position": 4,
               "id_team": 19,
@@ -10854,7 +10867,7 @@
               "ts_pic": 1703281050,
               "played": 1,
               "short": "R. Mir",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22591.png?version=20231222223730",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -11204,7 +11217,7 @@
           "floor": 5760000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12596841656,
+          "id_market": 12598339943,
           "price": 11469959,
           "public": 1,
           "bid": null,
@@ -11283,7 +11296,7 @@
       }
     },
     "13284241": {
-      "points": 0,
+      "points": 3,
       "lineup": {
         "positions": {
           "1": {
@@ -11314,7 +11327,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1626593407,
-              "played": 0,
+              "played": 1,
               "short": "J. Sánchez",
               "bg": 0,
               "best_xi": "",
@@ -11340,7 +11353,7 @@
             "4": {
               "id": 55088,
               "name": "Carl Starfelt",
-              "points": "?",
+              "points": 3,
               "slot": 4,
               "position": 2,
               "id_team": 5,
@@ -11348,7 +11361,7 @@
               "ts_pic": 1702847794,
               "played": 1,
               "short": "C. Starfelt",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/55088.png?version=20231217221634",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -11782,12 +11795,16 @@
             {
               "points": "-",
               "color": 0
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
           "streak_sum": 0,
           "value": 6254000,
           "prev_value": 6281000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13284287,
           "floor": 6254000,
           "multiplier": null,
@@ -11823,8 +11840,8 @@
           "name": "Carlos Dominguez",
           "position": 2,
           "id_team": 5,
-          "points": 3,
-          "avg": 3,
+          "points": 9,
+          "avg": 4.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1702914523,
@@ -11832,12 +11849,16 @@
             {
               "points": 3,
               "color": 2
+            },
+            {
+              "points": 6,
+              "color": 3
             }
           ],
-          "streak_sum": 3,
+          "streak_sum": 9,
           "value": 1345000,
           "prev_value": 1291000,
-          "last_points": "?",
+          "last_points": 6,
           "id_uc": 13284287,
           "floor": 1345000,
           "multiplier": 1.5,
@@ -11864,7 +11885,7 @@
           "barter": [],
           "popup": "bid",
           "short": "C. Dominguez",
-          "bg": 0,
+          "bg": 3,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/25885.png?version=20231218164843",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
         },
@@ -11873,8 +11894,8 @@
           "name": "Dimitri Foulquier",
           "position": 2,
           "id_team": 19,
-          "points": 2,
-          "avg": 2,
+          "points": 5,
+          "avg": 2.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1703281304,
@@ -11882,12 +11903,16 @@
             {
               "points": 2,
               "color": 2
+            },
+            {
+              "points": 3,
+              "color": 2
             }
           ],
-          "streak_sum": 2,
+          "streak_sum": 5,
           "value": 2619000,
           "prev_value": 2578000,
-          "last_points": "?",
+          "last_points": 3,
           "id_uc": 13284287,
           "floor": 2619000,
           "multiplier": 1.5,
@@ -11914,7 +11939,7 @@
           "barter": [],
           "popup": "bid",
           "short": "D. Foulquier",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/217.png?version=20231222224144",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
         },
@@ -11932,12 +11957,16 @@
             {
               "points": "-",
               "color": 0
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
           "streak_sum": 0,
           "value": 221000,
           "prev_value": 188000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13284287,
           "floor": 666666.6666666666,
           "multiplier": null,
@@ -12082,12 +12111,16 @@
             {
               "points": "-",
               "color": 0
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
           "streak_sum": 0,
           "value": 1952000,
           "prev_value": 2012000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13284287,
           "floor": 1952000,
           "multiplier": 1.5,
@@ -12151,7 +12184,7 @@
           "player_1": null,
           "player_2": null,
           "player_3": null,
-          "played": 0,
+          "played": 1,
           "default": 0,
           "market": {
             "active": 0,
@@ -12171,7 +12204,7 @@
       }
     },
     "13289485": {
-      "points": 0,
+      "points": 3,
       "lineup": {
         "positions": {
           "1": {
@@ -12202,7 +12235,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1702841623,
-              "played": 0,
+              "played": 1,
               "short": "A. Pedrosa",
               "bg": 0,
               "best_xi": "",
@@ -12212,7 +12245,7 @@
             "3": {
               "id": 19747,
               "name": "Thierry Correia",
-              "points": "?",
+              "points": 3,
               "slot": 3,
               "position": 2,
               "id_team": 19,
@@ -12220,7 +12253,7 @@
               "ts_pic": 1703281466,
               "played": 1,
               "short": "T. Correia",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/19747.png?version=20231222224426",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
@@ -12316,7 +12349,7 @@
               "id_team": 17,
               "status": null,
               "ts_pic": 1702855922,
-              "played": 0,
+              "played": 1,
               "short": "S. Ñíguez",
               "bg": 0,
               "best_xi": "",
@@ -12386,7 +12419,7 @@
           "floor": 2416000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12595062567,
+          "id_market": 12598354460,
           "price": 1250000,
           "public": 1,
           "bid": null,
@@ -12436,7 +12469,7 @@
           "floor": 1820000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12595062151,
+          "id_market": 12598354308,
           "price": 1417000,
           "public": 1,
           "bid": null,
@@ -12536,7 +12569,7 @@
           "floor": 1565000,
           "multiplier": 2.5,
           "shield": 0,
-          "id_market": 12591657365,
+          "id_market": 12598354408,
           "price": 1539000,
           "public": 1,
           "bid": null,
@@ -12636,7 +12669,7 @@
           "floor": 1552000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12595062505,
+          "id_market": 12598354399,
           "price": 1342000,
           "public": 1,
           "bid": null,
@@ -12686,7 +12719,7 @@
           "floor": 6666666,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12595062548,
+          "id_market": 12598354455,
           "price": 6759000,
           "public": 1,
           "bid": null,
@@ -12736,7 +12769,7 @@
           "floor": 8559000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12591657264,
+          "id_market": 12598354321,
           "price": 9176000,
           "public": 1,
           "bid": null,
@@ -12765,14 +12798,14 @@
       }
     },
     "13283364": {
-      "points": 0,
+      "points": 3,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 6035,
               "name": "Iván Villar",
-              "points": "?",
+              "points": 3,
               "slot": 1,
               "position": 1,
               "id_team": 5,
@@ -12780,7 +12813,7 @@
               "ts_pic": 1702914423,
               "played": 1,
               "short": "I. Villar",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/6035.png?version=20231218164703",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
@@ -12970,12 +13003,16 @@
             {
               "points": 4,
               "color": 2
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
           "streak_sum": 4,
           "value": 1307000,
           "prev_value": 1254000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13283364,
           "floor": 1307000,
           "multiplier": 1.5,
@@ -13011,7 +13048,7 @@
           "name": "Borja Iglesias",
           "position": 4,
           "id_team": 5,
-          "points": 2,
+          "points": 4,
           "avg": 2,
           "status": null,
           "id_competition": 1,
@@ -13020,12 +13057,16 @@
             {
               "points": 2,
               "color": 2
+            },
+            {
+              "points": 2,
+              "color": 2
             }
           ],
-          "streak_sum": 2,
+          "streak_sum": 4,
           "value": 5799000,
           "prev_value": 5758000,
-          "last_points": "?",
+          "last_points": 2,
           "id_uc": 13283364,
           "floor": 5799000,
           "multiplier": 3,
@@ -13052,7 +13093,7 @@
           "barter": [],
           "popup": "bid",
           "short": "B. Iglesias",
-          "bg": 0,
+          "bg": 2,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/128.png?version=20231217221332",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240823"
         },
@@ -13061,8 +13102,8 @@
           "name": "Diego López",
           "position": 4,
           "id_team": 19,
-          "points": 5,
-          "avg": 5,
+          "points": 11,
+          "avg": 5.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1703281807,
@@ -13070,12 +13111,16 @@
             {
               "points": 5,
               "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
             }
           ],
-          "streak_sum": 5,
+          "streak_sum": 11,
           "value": 7263000,
           "prev_value": 7134000,
-          "last_points": "?",
+          "last_points": 6,
           "id_uc": 13283364,
           "floor": 10894500,
           "multiplier": 1.5,
@@ -13102,7 +13147,7 @@
           "barter": [],
           "popup": "bid",
           "short": "D. López",
-          "bg": 0,
+          "bg": 3,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28787.png?version=20231222225007",
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240823"
         }
