@@ -587,27 +587,27 @@
       "id_away": 11,
       "goals_home": 2,
       "goals_away": 1,
-      "status": "playing",
+      "status": "played",
       "date": {
         "ts": 1724605200,
-        "text": "En juego +90",
-        "format": "'En juego' +90'"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "id_gsm": null,
       "id_sofa": 12437647,
       "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
+      "as_graded_date": "2024-08-25 21:09:10",
+      "marca_graded_date": "2024-08-25 21:18:28",
+      "sofascore_graded_date": "2024-08-25 21:16:12",
+      "mundodeportivo_graded_date": "2024-08-25 21:20:44",
+      "mixtos_graded_date": "2024-08-25 21:21:06",
       "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
+      "mixtos2_graded_date": "2024-08-25 21:19:34",
+      "marca_stats_graded_date": "2024-08-25 21:16:12",
       "gzt_mag_graded_date": null,
       "gzt_mix_graded_date": null,
       "gzt_stats_graded_date": null,
-      "finished_at": null,
+      "finished_at": "2024-08-25 21:00:47",
       "n1": "Leganés",
       "n2": "Las Palmas",
       "gameweek": 2,
@@ -621,27 +621,27 @@
       "id_away": 4,
       "goals_home": 0,
       "goals_away": 0,
-      "status": "playing",
+      "status": "played",
       "date": {
         "ts": 1724606100,
-        "text": "En juego 89",
-        "format": "'En juego' 89'"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "id_gsm": null,
       "id_sofa": 12437645,
       "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
+      "as_graded_date": "2024-08-25 21:27:11",
+      "marca_graded_date": "2024-08-25 21:20:40",
+      "sofascore_graded_date": "2024-08-25 21:21:50",
+      "mundodeportivo_graded_date": "2024-08-25 21:37:54",
+      "mixtos_graded_date": "2024-08-25 21:38:56",
       "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
+      "mixtos2_graded_date": "2024-08-25 21:28:17",
+      "marca_stats_graded_date": "2024-08-25 21:21:50",
       "gzt_mag_graded_date": null,
       "gzt_mix_graded_date": null,
       "gzt_stats_graded_date": null,
-      "finished_at": null,
+      "finished_at": "2024-08-25 21:06:02",
       "n1": "Alavés",
       "n2": "Betis",
       "gameweek": 2,
@@ -655,11 +655,11 @@
       "id_away": 222,
       "goals_home": 0,
       "goals_away": 0,
-      "status": "fixture",
+      "status": "playing",
       "date": {
         "ts": 1724614200,
-        "text": "Hoy 21:30",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 29",
+        "format": "'En juego' 29'"
       },
       "id_gsm": null,
       "id_sofa": 12437628,
@@ -1342,8 +1342,8 @@
       "status": "fixture",
       "date": {
         "ts": 1725219000,
-        "text": "1 sept 21:30",
-        "format": "d MMM H:mm"
+        "text": "dom 21:30",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 12437702,
@@ -4455,8 +4455,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4489,8 +4489,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4523,8 +4523,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4557,8 +4557,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4591,8 +4591,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4625,8 +4625,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4659,8 +4659,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4693,8 +4693,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4727,8 +4727,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
@@ -4761,8 +4761,8 @@
       "goals_away": 0,
       "status": "fixture",
       "date": {
-        "ts": 1732471200,
-        "text": "24 nov 19:00",
+        "ts": 1732474800,
+        "text": "24 nov 20:00",
         "format": "d MMM H:mm"
       },
       "id_gsm": null,
