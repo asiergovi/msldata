@@ -553,27 +553,27 @@
       "id_away": 317,
       "goals_home": 3,
       "goals_away": 0,
-      "status": "playing",
+      "status": "played",
       "date": {
         "ts": 1724598000,
-        "text": "En juego +90",
-        "format": "'En juego' +90'"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "id_gsm": null,
       "id_sofa": 12437638,
       "id_besoccer": null,
-      "as_graded_date": null,
-      "marca_graded_date": null,
-      "sofascore_graded_date": null,
-      "mundodeportivo_graded_date": null,
-      "mixtos_graded_date": null,
+      "as_graded_date": "2024-08-25 19:28:55",
+      "marca_graded_date": "2024-08-25 19:46:28",
+      "sofascore_graded_date": "2024-08-25 19:16:24",
+      "mundodeportivo_graded_date": "2024-08-25 19:03:56",
+      "mixtos_graded_date": "2024-08-25 19:47:30",
       "classic_graded_date": null,
-      "mixtos2_graded_date": null,
-      "marca_stats_graded_date": null,
+      "mixtos2_graded_date": "2024-08-25 19:47:30",
+      "marca_stats_graded_date": "2024-08-25 19:16:24",
       "gzt_mag_graded_date": null,
       "gzt_mix_graded_date": null,
       "gzt_stats_graded_date": null,
-      "finished_at": null,
+      "finished_at": "2024-08-25 19:01:01",
       "n1": "Real Madrid",
       "n2": "Valladolid",
       "gameweek": 2,
@@ -587,11 +587,11 @@
       "id_away": 11,
       "goals_home": 0,
       "goals_away": 0,
-      "status": "fixture",
+      "status": "playing",
       "date": {
         "ts": 1724605200,
-        "text": "Hoy 19:00",
-        "format": "'Hoy' H:mm"
+        "text": "Descanso",
+        "format": "'Descanso'"
       },
       "id_gsm": null,
       "id_sofa": 12437647,
@@ -621,11 +621,11 @@
       "id_away": 4,
       "goals_home": 0,
       "goals_away": 0,
-      "status": "fixture",
+      "status": "playing",
       "date": {
         "ts": 1724606100,
-        "text": "Hoy 19:15",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 44",
+        "format": "'En juego' 44'"
       },
       "id_gsm": null,
       "id_sofa": 12437645,
@@ -1308,8 +1308,8 @@
       "status": "fixture",
       "date": {
         "ts": 1725210900,
-        "text": "1 sept 19:15",
-        "format": "d MMM H:mm"
+        "text": "dom 19:15",
+        "format": "EEE H:mm"
       },
       "id_gsm": null,
       "id_sofa": 12437690,
