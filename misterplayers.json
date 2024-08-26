@@ -1833,7 +1833,7 @@
         "last_points": "?",
         "id_uc": 13283957,
         "floor": 13281837,
-        "multiplier": 1.5,
+        "multiplier": 2.5,
         "shield": 0,
         "id_market": null,
         "price": null,
@@ -1845,7 +1845,7 @@
         "player_2": null,
         "player_3": null,
         "played": 0,
-        "default": 0,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 10373000
@@ -12330,9 +12330,9 @@
         "floor": 12144590,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12614673451,
+        "price": 11918000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -12342,12 +12342,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 11918000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 11918000
         },
         "barter": [],
         "popup": "bid",
