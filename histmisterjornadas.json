@@ -7133,7 +7133,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 16,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1593458231,
               "played": 1,
               "short": "J. Pacheco",
@@ -7688,7 +7688,7 @@
               "played": 1,
               "short": "Ó. Mingueza",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/24739.png?version=20231218172613",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240826"
             }
@@ -7874,7 +7874,7 @@
           "id_team": 48,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1630422242,
           "streak": [
@@ -7928,7 +7928,7 @@
           "id_team": 1,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1623323343,
           "streak": [
@@ -8001,7 +8001,7 @@
           "last_points": 9,
           "id_uc": 13283957,
           "floor": 8583000,
-          "multiplier": 1.5,
+          "multiplier": 2,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -8013,7 +8013,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 0,
+          "default": 1,
           "market": {
             "active": 0,
             "input": 6021000
@@ -8392,7 +8392,7 @@
           "id_team": 3,
           "points": 0,
           "avg": 0,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1723209224,
           "streak": [
@@ -8487,7 +8487,7 @@
               "slot": 3,
               "position": 2,
               "id_team": 16,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1702843714,
               "played": 1,
               "short": "A. Elustondo",
@@ -9002,7 +9002,7 @@
               "played": 1,
               "short": "I. Aspas",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/130.png?version=20231117150616",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240826"
             },
@@ -9101,10 +9101,10 @@
           "id": 5608,
           "name": "Clément Lenglet",
           "position": 2,
-          "id_team": 3,
+          "id_team": 2,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1719568540,
           "streak": [
@@ -9149,7 +9149,7 @@
           "short": "C. Lenglet",
           "bg": 0,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/5608.png?version=20240628115540",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240826"
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240826"
         },
         "22569": {
           "id": 22569,
@@ -9341,9 +9341,9 @@
           "floor": 3975000,
           "multiplier": 4,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12611263400,
+          "price": 3975000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -9353,12 +9353,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 3975000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 3975000
           },
           "barter": [],
           "popup": "bid",
@@ -9395,9 +9395,9 @@
           "floor": 5114000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12611263334,
+          "price": 5114000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -9407,12 +9407,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 5114000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 5114000
           },
           "barter": [],
           "popup": "bid",
@@ -10031,7 +10031,7 @@
           "id_team": 16,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1703278873,
           "streak": [
@@ -10301,7 +10301,7 @@
           "id_team": 317,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1687168867,
           "streak": [
@@ -10455,7 +10455,7 @@
               "played": 1,
               "short": "E. Franquesa",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22573.png?version=20240616124223",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240826"
             },
@@ -10505,7 +10505,7 @@
               "played": 1,
               "short": "T. Kubo",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/19562.png?version=20231119114114",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/16.png?version=20240826"
             },
@@ -10624,7 +10624,7 @@
           "floor": 3570000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12608953774,
+          "id_market": 12611255137,
           "price": 3350000,
           "public": 1,
           "bid": null,
@@ -10678,7 +10678,7 @@
           "floor": 2247000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12608970072,
+          "id_market": 12611255038,
           "price": 2091000,
           "public": 1,
           "bid": null,
@@ -10786,7 +10786,7 @@
           "floor": 3001000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12608953345,
+          "id_market": 12611254988,
           "price": 2779000,
           "public": 1,
           "bid": null,
@@ -10899,7 +10899,7 @@
               "played": 1,
               "short": "M. Llorente",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/561.png?version=20231218002841",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240826"
             },
@@ -12230,7 +12230,7 @@
               "slot": 5,
               "position": 2,
               "id_team": 16,
-              "status": "injury",
+              "status": "doubt",
               "ts_pic": 1702842789,
               "played": 0,
               "short": "Á. Odriozola",
@@ -12314,7 +12314,7 @@
               "slot": 10,
               "position": 4,
               "id_team": 14,
-              "status": "other",
+              "status": null,
               "ts_pic": 1702847379,
               "played": 0,
               "short": "Bebé",
@@ -12513,7 +12513,7 @@
           "id_team": 5,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1702916482,
           "streak": [
@@ -12675,7 +12675,7 @@
           "id_team": 16,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1702913541,
           "streak": [
@@ -12729,7 +12729,7 @@
           "id_team": 19,
           "points": 0,
           "avg": 0,
-          "status": "other",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1437662346,
           "streak": [
@@ -13139,7 +13139,7 @@
           "id_team": 16,
           "points": 3,
           "avg": 3,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1701935269,
           "streak": [
@@ -13301,7 +13301,7 @@
           "id_team": 1,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1720334579,
           "streak": [
@@ -13355,7 +13355,7 @@
           "id_team": 9,
           "points": 0,
           "avg": 0,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1702920190,
           "streak": [
@@ -13505,7 +13505,7 @@
               "played": 1,
               "short": "R. García",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/270.png?version=20150723163906",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/50.png?version=20240826"
             },
@@ -13587,7 +13587,7 @@
               "played": 1,
               "short": "A. Griezmann",
               "bg": 4,
-              "best_xi": "",
+              "best_xi": "pic-best_xi",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/51.png?version=20231117150755",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240826"
             }
