@@ -8305,7 +8305,7 @@
           "floor": 2059000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12612701668,
+          "id_market": 12612887891,
           "price": 2059000,
           "public": 1,
           "bid": null,
@@ -9013,7 +9013,7 @@
               "slot": 10,
               "position": 4,
               "id_team": 17,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1703280981,
               "played": 1,
               "short": "L. Ocampos",
@@ -9123,7 +9123,7 @@
           "last_points": "-",
           "id_uc": 13283720,
           "floor": 2999000,
-          "multiplier": 1.5,
+          "multiplier": 2,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -9135,7 +9135,7 @@
           "player_2": null,
           "player_3": null,
           "played": 0,
-          "default": 0,
+          "default": 1,
           "market": {
             "active": 0,
             "input": 2732000
@@ -9285,7 +9285,7 @@
           "last_points": 1,
           "id_uc": 13283720,
           "floor": 2643000,
-          "multiplier": 3,
+          "multiplier": 2.5,
           "shield": 0,
           "id_market": null,
           "price": null,
@@ -9297,7 +9297,7 @@
           "player_2": null,
           "player_3": null,
           "played": 1,
-          "default": 3,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 2643000
@@ -9453,7 +9453,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 20,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1703961689,
               "played": 1,
               "short": "E. Bailly",
@@ -11714,9 +11714,9 @@
           "floor": 2175000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12612882921,
+          "price": 1779000,
+          "public": 0,
           "bid": null,
           "days": null,
           "type": null,
@@ -11726,12 +11726,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1779000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1779000
           },
           "barter": [],
           "popup": "bid",
@@ -12513,7 +12513,7 @@
           "id_team": 5,
           "points": 0,
           "avg": 0,
-          "status": null,
+          "status": "other",
           "id_competition": 1,
           "ts_pic": 1702916482,
           "streak": [
