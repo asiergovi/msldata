@@ -14422,7 +14422,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 1,
-              "status": null,
+              "status": "other",
               "ts_pic": 1437662346,
               "played": 0,
               "short": "Y. Berchiche",
@@ -14645,7 +14645,7 @@
           "id_team": 48,
           "points": 0,
           "avg": 0,
-          "status": null,
+          "status": "other",
           "id_competition": 1,
           "ts_pic": 1630422242,
           "streak": [
@@ -15490,8 +15490,8 @@
           "floor": 2348000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12619992238,
-          "price": 2329000,
+          "id_market": 12623652979,
+          "price": 2348000,
           "public": 1,
           "bid": null,
           "days": null,
@@ -15503,11 +15503,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 2329000
+            "input": 2348000
           },
           "offer": {
             "active": 0,
-            "input": 2329000
+            "input": 2348000
           },
           "barter": [],
           "popup": "bid",
@@ -15544,8 +15544,8 @@
           "floor": 2635000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12619992120,
-          "price": 2556000,
+          "id_market": 12623652896,
+          "price": 2635000,
           "public": 1,
           "bid": null,
           "days": null,
@@ -15557,11 +15557,11 @@
           "default": 0,
           "market": {
             "active": 1,
-            "input": 2556000
+            "input": 2635000
           },
           "offer": {
             "active": 0,
-            "input": 2556000
+            "input": 2635000
           },
           "barter": [],
           "popup": "bid",
@@ -15602,9 +15602,9 @@
           "floor": 5988000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12623653059,
+          "price": 5988000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -15614,12 +15614,12 @@
           "played": 1,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 5988000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 5988000
           },
           "barter": [],
           "popup": "bid",
@@ -16098,7 +16098,7 @@
           "floor": 4842000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12620028468,
+          "id_market": 12623650439,
           "price": 4507000,
           "public": 1,
           "bid": null,
@@ -16152,7 +16152,7 @@
           "floor": 3468000,
           "multiplier": 3,
           "shield": 0,
-          "id_market": 12620028499,
+          "id_market": 12623650374,
           "price": 9007000,
           "public": 1,
           "bid": null,
@@ -16376,7 +16376,7 @@
           "floor": 7400000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12620028394,
+          "id_market": 12623650317,
           "price": 9000000,
           "public": 1,
           "bid": null,
@@ -16430,7 +16430,7 @@
           "floor": 5985000,
           "multiplier": 2.5,
           "shield": 0,
-          "id_market": 12620028367,
+          "id_market": 12623650639,
           "price": 13000000,
           "public": 1,
           "bid": null,
@@ -19441,7 +19441,7 @@
           "id_team": 1,
           "points": 12,
           "avg": 6,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1700229990,
           "streak": [
@@ -19668,7 +19668,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 1,
-              "status": "doubt",
+              "status": null,
               "ts_pic": 1720334579,
               "played": 0,
               "short": "Á. Djaló",
