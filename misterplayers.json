@@ -2610,7 +2610,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 1,
-            "status": null,
+            "status": "other",
             "ts_pic": 1437662346,
             "played": 0,
             "short": "Y. Berchiche",
@@ -2833,7 +2833,7 @@
         "id_team": 48,
         "points": 0,
         "avg": 0,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1630422242,
         "streak": [
@@ -3105,7 +3105,7 @@
         "id_team": 48,
         "points": 0,
         "avg": 0,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1630422242,
         "streak": [
@@ -3271,7 +3271,7 @@
         "id_team": 1,
         "points": 5,
         "avg": 2.5,
-        "status": null,
+        "status": "other",
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -3292,9 +3292,9 @@
         "floor": 9314000,
         "multiplier": 1.5,
         "shield": 0,
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12622278060,
+        "price": 11409056,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -3304,12 +3304,12 @@
         "played": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 9314000
+          "active": 1,
+          "input": 11409056
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 11409056
         },
         "barter": [],
         "popup": "bid",
@@ -5547,7 +5547,7 @@
         "id_team": 1,
         "points": 12,
         "avg": 6,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1700229990,
         "streak": [
@@ -6383,7 +6383,7 @@
         "id_team": 1,
         "points": 12,
         "avg": 6,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1700229990,
         "streak": [
@@ -16684,7 +16684,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 1,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1720334579,
             "played": 0,
             "short": "Á. Djaló",
@@ -17969,7 +17969,7 @@
         "id_team": 1,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1720334579,
         "streak": [
