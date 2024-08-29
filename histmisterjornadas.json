@@ -14852,7 +14852,7 @@
           "floor": 8890957,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12622219007,
+          "id_market": 12627587784,
           "price": 11591683,
           "public": 1,
           "bid": null,
@@ -16190,7 +16190,7 @@
               "slot": 10,
               "position": 3,
               "id_team": 3,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1723620893,
               "played": 1,
               "short": "M. Bernal",
@@ -17265,7 +17265,7 @@
       }
     },
     "13294650": {
-      "points": 54,
+      "points": 55,
       "lineup": {
         "positions": {
           "1": {
@@ -17438,7 +17438,7 @@
             "11": {
               "id": 31355,
               "name": "Alexander Sørloth",
-              "points": 3,
+              "points": 4,
               "slot": 11,
               "position": 4,
               "id_team": 2,
@@ -18192,7 +18192,7 @@
           "floor": 3272000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12625784172,
+          "id_market": 12627576538,
           "price": 2779000,
           "public": 1,
           "bid": null,
@@ -18250,7 +18250,7 @@
           "floor": 3633000,
           "multiplier": 3.5,
           "shield": 0,
-          "id_market": 12623899655,
+          "id_market": 12627576550,
           "price": 2984000,
           "public": 1,
           "bid": null,
@@ -18279,7 +18279,7 @@
       }
     },
     "13284241": {
-      "points": 37,
+      "points": 35,
       "lineup": {
         "positions": {
           "1": {
@@ -18370,7 +18370,7 @@
             "6": {
               "id": 42,
               "name": "Koke",
-              "points": 4,
+              "points": 3,
               "slot": 6,
               "position": 3,
               "id_team": 2,
@@ -18452,7 +18452,7 @@
             "11": {
               "id": 57117,
               "name": "Alejo Véliz",
-              "points": 4,
+              "points": 3,
               "slot": 11,
               "position": 4,
               "id_team": 8,
@@ -18893,8 +18893,8 @@
           "name": "Álvaro Tejero",
           "position": 2,
           "id_team": 8,
-          "points": 10,
-          "avg": 3.3,
+          "points": 9,
+          "avg": 3,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1720533291,
@@ -18908,14 +18908,14 @@
               "color": 2
             },
             {
-              "points": 7,
+              "points": 6,
               "color": 3
             }
           ],
-          "streak_sum": 10,
+          "streak_sum": 9,
           "value": 2366000,
           "prev_value": 2348000,
-          "last_points": 7,
+          "last_points": 6,
           "id_uc": 13288020,
           "floor": 3522000,
           "multiplier": 1.5,
@@ -19345,8 +19345,8 @@
           "name": "Javi Puado",
           "position": 4,
           "id_team": 8,
-          "points": 11,
-          "avg": 3.7,
+          "points": 10,
+          "avg": 3.3,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1719422442,
@@ -19360,14 +19360,14 @@
               "color": 2
             },
             {
-              "points": 4,
+              "points": 3,
               "color": 2
             }
           ],
-          "streak_sum": 11,
+          "streak_sum": 10,
           "value": 8462000,
           "prev_value": 8445000,
-          "last_points": 4,
+          "last_points": 3,
           "id_uc": 13288020,
           "floor": 8462000,
           "multiplier": 4,
@@ -20162,7 +20162,7 @@
           "floor": 2881000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12622259196,
+          "id_market": 12627617788,
           "price": 1250000,
           "public": 1,
           "bid": null,
@@ -20220,7 +20220,7 @@
           "floor": 2002000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": 12623693589,
+          "id_market": 12627617660,
           "price": 1417000,
           "public": 1,
           "bid": null,
@@ -20390,7 +20390,7 @@
           "floor": 1667000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12622259163,
+          "id_market": 12627617762,
           "price": 1342000,
           "public": 1,
           "bid": null,
@@ -20448,7 +20448,7 @@
           "floor": 4653000,
           "multiplier": null,
           "shield": 0,
-          "id_market": 12622259116,
+          "id_market": 12627617613,
           "price": 2374000,
           "public": 1,
           "bid": null,
@@ -20502,7 +20502,7 @@
           "floor": 8502000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": 12622259132,
+          "id_market": 12627617676,
           "price": 9176000,
           "public": 1,
           "bid": null,
@@ -20900,11 +20900,11 @@
           "id": 12947,
           "name": "Kevin Vázquez",
           "position": 2,
-          "id_team": 5,
+          "id_team": 0,
           "points": 0,
           "avg": 0,
-          "status": "other",
-          "id_competition": 1,
+          "status": null,
+          "id_competition": 0,
           "ts_pic": 1702916482,
           "streak": [
             {
@@ -20952,7 +20952,7 @@
           "short": "K. Vázquez",
           "bg": 0,
           "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/12947.png?version=20231218172122",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240829"
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/0.png?version=20240829"
         },
         "59372": {
           "id": 59372,
