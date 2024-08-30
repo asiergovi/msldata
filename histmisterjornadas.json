@@ -18968,7 +18968,7 @@
               "slot": 10,
               "position": 4,
               "id_team": 4,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1703269736,
               "played": 0,
               "short": "E. Ávila",
@@ -20988,9 +20988,9 @@
           "floor": 1463000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12634943151,
+          "price": 1653450,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -21000,12 +21000,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 1463000
+            "active": 1,
+            "input": 1653450
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1653450
           },
           "barter": [],
           "popup": "bid",
