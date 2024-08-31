@@ -15,9 +15,24 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240831"
   },
   {
+    "id": 2,
+    "name": "Atlético",
+    "pos": 2,
+    "points": 8,
+    "played": 4,
+    "won": 2,
+    "draw": 2,
+    "lost": 0,
+    "goals_for": 6,
+    "goals_against": 2,
+    "diff": 4,
+    "zone": "CL",
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240831"
+  },
+  {
     "id": 20,
     "name": "Villarreal",
-    "pos": 2,
+    "pos": 3,
     "points": 7,
     "played": 3,
     "won": 2,
@@ -32,7 +47,7 @@
   {
     "id": 5,
     "name": "Celta",
-    "pos": 3,
+    "pos": 4,
     "points": 6,
     "played": 3,
     "won": 2,
@@ -43,21 +58,6 @@
     "diff": 2,
     "zone": "CL",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240831"
-  },
-  {
-    "id": 2,
-    "name": "Atlético",
-    "pos": 4,
-    "points": 5,
-    "played": 3,
-    "won": 1,
-    "draw": 2,
-    "lost": 0,
-    "goals_for": 5,
-    "goals_against": 2,
-    "diff": 3,
-    "zone": "CL",
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240831"
   },
   {
     "id": 15,
@@ -90,9 +90,24 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240831"
   },
   {
+    "id": 14,
+    "name": "Rayo Vallecano",
+    "pos": 7,
+    "points": 5,
+    "played": 4,
+    "won": 1,
+    "draw": 2,
+    "lost": 1,
+    "goals_for": 4,
+    "goals_against": 4,
+    "diff": 0,
+    "zone": null,
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240831"
+  },
+  {
     "id": 222,
     "name": "Girona",
-    "pos": 7,
+    "pos": 8,
     "points": 4,
     "played": 3,
     "won": 1,
@@ -103,21 +118,6 @@
     "diff": 1,
     "zone": null,
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20240831"
-  },
-  {
-    "id": 1,
-    "name": "Athletic Club",
-    "pos": 8,
-    "points": 4,
-    "played": 3,
-    "won": 1,
-    "draw": 1,
-    "lost": 1,
-    "goals_for": 3,
-    "goals_against": 3,
-    "diff": 0,
-    "zone": null,
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/1.png?version=20240831"
   },
   {
     "id": 48,
@@ -135,19 +135,19 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240831"
   },
   {
-    "id": 14,
-    "name": "Rayo Vallecano",
+    "id": 1,
+    "name": "Athletic Club",
     "pos": 10,
     "points": 4,
-    "played": 3,
+    "played": 4,
     "won": 1,
     "draw": 1,
-    "lost": 1,
+    "lost": 2,
     "goals_for": 3,
-    "goals_against": 3,
-    "diff": 0,
+    "goals_against": 4,
+    "diff": -1,
     "zone": null,
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240831"
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/1.png?version=20240831"
   },
   {
     "id": 50,
@@ -273,13 +273,13 @@
     "id": 8,
     "name": "Espanyol",
     "pos": 19,
-    "points": 1,
-    "played": 3,
+    "points": 2,
+    "played": 4,
     "won": 0,
-    "draw": 1,
+    "draw": 2,
     "lost": 2,
-    "goals_for": 0,
-    "goals_against": 2,
+    "goals_for": 1,
+    "goals_against": 3,
     "diff": -2,
     "zone": "releg",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/8.png?version=20240831"
