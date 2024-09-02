@@ -24169,7 +24169,7 @@
               "slot": 7,
               "position": 3,
               "id_team": 16,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1702847706,
               "played": 1,
               "short": "B. Méndez",
@@ -24397,9 +24397,9 @@
           "floor": 1861000,
           "multiplier": 1.5,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12650546160,
+          "price": 1861000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -24409,12 +24409,12 @@
           "played": 0,
           "default": 0,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 1861000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 1861000
           },
           "barter": [],
           "popup": "bid",
@@ -24914,7 +24914,7 @@
           "id_team": 15,
           "points": 6,
           "avg": 3,
-          "status": null,
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1703278483,
           "streak": [
@@ -26933,9 +26933,9 @@
           "floor": 8502000,
           "multiplier": 2,
           "shield": 0,
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12650547071,
+          "price": 8078000,
+          "public": 0,
           "bid": null,
           "days": null,
           "type": null,
@@ -26945,12 +26945,12 @@
           "played": 0,
           "default": 1,
           "market": {
-            "active": 0,
+            "active": 1,
             "input": 8078000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 8078000
           },
           "barter": [],
           "popup": "bid",
