@@ -25848,10 +25848,10 @@
           "player_3": null,
           "played": 0,
           "floor": 5245000,
-          "multiplier": 1.5,
+          "multiplier": 2.5,
           "shield": 0,
           "clauses_signs": 0,
-          "default": 0,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 5245000
@@ -25868,14 +25868,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240910",
           "clause": {
             "floor": 5245000,
-            "multiplier": 1.5,
-            "default": 0,
+            "multiplier": 2.5,
+            "default": 2,
             "shield": 0,
             "tier": 2,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 7867500,
-            "percentage": 50
+            "value": 13112500,
+            "percentage": 150
           },
           "profile": "users"
         },
@@ -25909,9 +25909,9 @@
           "last_points": 6,
           "id_uc": 13283364,
           "created": "2024-09-01 05:00:21",
-          "id_market": 12697789734,
-          "price": 3072000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
@@ -25925,12 +25925,12 @@
           "clauses_signs": 0,
           "default": 0,
           "market": {
-            "active": 1,
+            "active": 0,
             "input": 3072000
           },
           "offer": {
             "active": 0,
-            "input": 3072000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
