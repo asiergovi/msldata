@@ -30,9 +30,24 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/15.png?version=20240915"
   },
   {
+    "id": 2,
+    "name": "Atlético",
+    "pos": 3,
+    "points": 11,
+    "played": 5,
+    "won": 3,
+    "draw": 2,
+    "lost": 0,
+    "goals_for": 7,
+    "goals_against": 2,
+    "diff": 5,
+    "zone": "CL",
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240915"
+  },
+  {
     "id": 20,
     "name": "Villarreal",
-    "pos": 3,
+    "pos": 4,
     "points": 11,
     "played": 5,
     "won": 3,
@@ -47,7 +62,7 @@
   {
     "id": 5,
     "name": "Celta",
-    "pos": 4,
+    "pos": 5,
     "points": 9,
     "played": 5,
     "won": 3,
@@ -56,23 +71,8 @@
     "goals_for": 13,
     "goals_against": 10,
     "diff": 3,
-    "zone": "CL",
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240915"
-  },
-  {
-    "id": 2,
-    "name": "Atlético",
-    "pos": 5,
-    "points": 8,
-    "played": 4,
-    "won": 2,
-    "draw": 2,
-    "lost": 0,
-    "goals_for": 6,
-    "goals_against": 2,
-    "diff": 4,
     "zone": "EuroL",
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240915"
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240915"
   },
   {
     "id": 48,
@@ -289,13 +289,13 @@
     "name": "Valencia",
     "pos": 20,
     "points": 1,
-    "played": 4,
+    "played": 5,
     "won": 0,
     "draw": 1,
-    "lost": 3,
+    "lost": 4,
     "goals_for": 3,
-    "goals_against": 7,
-    "diff": -4,
+    "goals_against": 8,
+    "diff": -5,
     "zone": "releg",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240915"
   }
