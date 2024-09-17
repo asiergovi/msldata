@@ -1540,7 +1540,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 38,
         "rank": 12,
         "negative": 0,
@@ -1586,7 +1586,7 @@
         "width": 38,
         "short": "J5",
         "color": 2,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -3203,7 +3203,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 50,
         "rank": 4,
         "negative": 0,
@@ -3249,7 +3249,7 @@
         "width": 50,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -3370,7 +3370,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 3,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1723209224,
             "played": 1,
             "short": "D. Olmo",
@@ -4683,7 +4683,7 @@
         "id_team": 3,
         "points": 41,
         "avg": 13.7,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1723209224,
         "streak": [
@@ -5298,7 +5298,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 68,
         "rank": 1,
         "negative": 0,
@@ -5344,7 +5344,7 @@
         "width": 68,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -7321,7 +7321,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 39,
         "rank": 11,
         "negative": 0,
@@ -7367,7 +7367,7 @@
         "width": 39,
         "short": "J5",
         "color": 2,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -7681,10 +7681,10 @@
         "player_3": null,
         "played": 0,
         "floor": 17001000,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
         "clauses_signs": 0,
-        "default": 1,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 11891000
@@ -7701,14 +7701,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/15.png?version=20240917",
         "clause": {
           "floor": 17001000,
-          "multiplier": 2,
-          "default": 1,
+          "multiplier": 1.5,
+          "default": 0,
           "shield": 0,
           "tier": 4,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 34002000,
-          "percentage": 100
+          "value": 25501500,
+          "percentage": 50
         },
         "profile": "users"
       },
@@ -8259,10 +8259,10 @@
         "player_3": null,
         "played": 0,
         "floor": 17001000,
-        "multiplier": 2,
+        "multiplier": 1.5,
         "shield": 0,
         "clauses_signs": 0,
-        "default": 1,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 11891000
@@ -8279,14 +8279,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/15.png?version=20240917",
         "clause": {
           "floor": 17001000,
-          "multiplier": 2,
-          "default": 1,
+          "multiplier": 1.5,
+          "default": 0,
           "shield": 0,
           "tier": 4,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 34002000,
-          "percentage": 100
+          "value": 25501500,
+          "percentage": 50
         },
         "profile": "users"
       },
@@ -8840,9 +8840,9 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 66,
-        "rank": 2,
+        "rank": 3,
         "negative": 0,
         "formation": "1-4-4-2"
       }
@@ -8886,7 +8886,7 @@
         "width": 66,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -10287,7 +10287,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 49,
         "rank": 5,
         "negative": 0,
@@ -10333,7 +10333,7 @@
         "width": 49,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -12094,9 +12094,9 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 66,
-        "rank": 3,
+        "rank": 2,
         "negative": 0,
         "formation": "1-4-3-3"
       }
@@ -12140,7 +12140,7 @@
         "width": 66,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -13685,7 +13685,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 43,
         "rank": 8,
         "negative": 0,
@@ -13731,7 +13731,7 @@
         "width": 43,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -15780,7 +15780,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 43,
         "rank": 7,
         "negative": 0,
@@ -15826,7 +15826,7 @@
         "width": 43,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -15963,7 +15963,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 222,
-            "status": "other",
+            "status": null,
             "ts_pic": 1692267609,
             "played": 0,
             "short": "O. Romeu",
@@ -16683,7 +16683,7 @@
         "id_team": 222,
         "points": 9,
         "avg": 2.3,
-        "status": "other",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1692267609,
         "streak": [
@@ -16866,7 +16866,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 40,
         "rank": 10,
         "negative": 0,
@@ -16912,7 +16912,7 @@
         "width": 40,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -18313,7 +18313,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 44,
         "rank": 6,
         "negative": 0,
@@ -18359,7 +18359,7 @@
         "width": 44,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -19544,7 +19544,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 41,
         "rank": 9,
         "negative": 0,
@@ -19590,7 +19590,7 @@
         "width": 41,
         "short": "J5",
         "color": 3,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -19727,7 +19727,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 49,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1718534853,
             "played": 1,
             "short": "Y. Neyou",
@@ -19870,7 +19870,7 @@
         "id_team": 17,
         "points": 3,
         "avg": 1.5,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702855922,
         "streak": [
@@ -20736,7 +20736,7 @@
         "id_team": 17,
         "points": 3,
         "avg": 1.5,
-        "status": "red",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702855922,
         "streak": [
@@ -20880,7 +20880,7 @@
         "id_team": 49,
         "points": 24,
         "avg": 4.8,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1718534853,
         "streak": [
@@ -21351,7 +21351,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 38,
         "rank": 13,
         "negative": 0,
@@ -21397,7 +21397,7 @@
         "width": 38,
         "short": "J5",
         "color": 2,
-        "status": "closing"
+        "status": "closed"
       }
     }
   },
@@ -21486,7 +21486,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 4,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1702912087,
             "played": 1,
             "short": "W. Carvalho",
@@ -23551,7 +23551,7 @@
         "id_team": 4,
         "points": 15,
         "avg": 3.8,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702912087,
         "streak": [
@@ -24022,7 +24022,7 @@
         "id_gameweek": 2862,
         "gameweek": 5,
         "type": "regular",
-        "status": "closing",
+        "status": "closed",
         "points": 22,
         "rank": 14,
         "negative": 0,
@@ -24068,7 +24068,7 @@
         "width": 22,
         "short": "J5",
         "color": 2,
-        "status": "closing"
+        "status": "closed"
       }
     }
   }
