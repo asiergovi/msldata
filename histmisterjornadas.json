@@ -42288,7 +42288,7 @@
           "last_points": "?",
           "id_uc": 13287950,
           "created": "2024-07-23 05:00:07",
-          "id_market": 12743755867,
+          "id_market": 12745945441,
           "price": 11188000,
           "public": 1,
           "bid": null,
@@ -43517,9 +43517,9 @@
           "last_points": "?",
           "id_uc": 13296694,
           "created": "2024-09-06 05:00:25",
-          "id_market": 12735683605,
-          "price": 3368000,
-          "public": 1,
+          "id_market": null,
+          "price": null,
+          "public": null,
           "bid": null,
           "days": null,
           "type": null,
@@ -43533,12 +43533,12 @@
           "clauses_signs": 0,
           "default": 1,
           "market": {
-            "active": 1,
-            "input": 3368000
+            "active": 0,
+            "input": 3507000
           },
           "offer": {
             "active": 0,
-            "input": 3368000
+            "input": null
           },
           "barter": [],
           "popup": "bid",
