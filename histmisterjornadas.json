@@ -38410,9 +38410,9 @@
           "last_points": "?",
           "id_uc": 13283382,
           "created": "2024-09-19 05:00:27",
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12760105412,
+          "price": 4300000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -38426,12 +38426,12 @@
           "clauses_signs": 0,
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 3527000
+            "active": 1,
+            "input": 4300000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 4300000
           },
           "barter": [],
           "popup": "bid",
@@ -43179,7 +43179,7 @@
           "id_team": 408,
           "points": 22,
           "avg": 3.7,
-          "status": null,
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1720275113,
           "streak": [
