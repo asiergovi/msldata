@@ -165,24 +165,9 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240921"
   },
   {
-    "id": 222,
-    "name": "Girona",
-    "pos": 12,
-    "points": 7,
-    "played": 5,
-    "won": 2,
-    "draw": 1,
-    "lost": 2,
-    "goals_for": 8,
-    "goals_against": 8,
-    "diff": 0,
-    "zone": null,
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20240921"
-  },
-  {
     "id": 8,
     "name": "Espanyol",
-    "pos": 13,
+    "pos": 12,
     "points": 7,
     "played": 5,
     "won": 2,
@@ -193,6 +178,21 @@
     "diff": 0,
     "zone": null,
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/8.png?version=20240921"
+  },
+  {
+    "id": 222,
+    "name": "Girona",
+    "pos": 13,
+    "points": 7,
+    "played": 6,
+    "won": 2,
+    "draw": 1,
+    "lost": 3,
+    "goals_for": 8,
+    "goals_against": 10,
+    "diff": -2,
+    "zone": null,
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20240921"
   },
   {
     "id": 17,
@@ -255,9 +255,24 @@
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/317.png?version=20240921"
   },
   {
+    "id": 19,
+    "name": "Valencia",
+    "pos": 18,
+    "points": 4,
+    "played": 6,
+    "won": 1,
+    "draw": 1,
+    "lost": 4,
+    "goals_for": 5,
+    "goals_against": 10,
+    "diff": -5,
+    "zone": "releg",
+    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240921"
+  },
+  {
     "id": 9,
     "name": "Getafe",
-    "pos": 18,
+    "pos": 19,
     "points": 3,
     "played": 5,
     "won": 0,
@@ -272,7 +287,7 @@
   {
     "id": 11,
     "name": "Las Palmas",
-    "pos": 19,
+    "pos": 20,
     "points": 2,
     "played": 6,
     "won": 0,
@@ -283,20 +298,5 @@
     "diff": -5,
     "zone": "releg",
     "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/11.png?version=20240921"
-  },
-  {
-    "id": 19,
-    "name": "Valencia",
-    "pos": 20,
-    "points": 1,
-    "played": 5,
-    "won": 0,
-    "draw": 1,
-    "lost": 4,
-    "goals_for": 3,
-    "goals_against": 10,
-    "diff": -7,
-    "zone": "releg",
-    "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/19.png?version=20240921"
   }
 ]
