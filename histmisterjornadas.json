@@ -43213,10 +43213,10 @@
           "player_3": null,
           "played": 1,
           "floor": 2519000,
-          "multiplier": 1.5,
+          "multiplier": 2,
           "shield": 0,
           "clauses_signs": 0,
-          "default": 0,
+          "default": 1,
           "market": {
             "active": 0,
             "input": 2519000
@@ -43233,14 +43233,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240922",
           "clause": {
             "floor": 2519000,
-            "multiplier": 1.5,
-            "default": 0,
+            "multiplier": 2,
+            "default": 1,
             "shield": 0,
             "tier": 2,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 3778500,
-            "percentage": 50
+            "value": 5038000,
+            "percentage": 100
           },
           "profile": "users"
         },
@@ -43357,10 +43357,10 @@
           "player_3": null,
           "played": 0,
           "floor": 2398000,
-          "multiplier": 1.5,
+          "multiplier": 2,
           "shield": 0,
           "clauses_signs": 0,
-          "default": 0,
+          "default": 1,
           "market": {
             "active": 0,
             "input": 2398000
@@ -43377,14 +43377,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240922",
           "clause": {
             "floor": 2398000,
-            "multiplier": 1.5,
-            "default": 0,
+            "multiplier": 2,
+            "default": 1,
             "shield": 0,
             "tier": 2,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 3597000,
-            "percentage": 50
+            "value": 4796000,
+            "percentage": 100
           },
           "profile": "users"
         },
@@ -44167,7 +44167,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 11,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1692363949,
               "played": 0,
               "short": "M. Park",
