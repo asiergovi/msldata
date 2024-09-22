@@ -419,16 +419,12 @@
         "name": "Diego Conde",
         "position": 1,
         "id_team": 20,
-        "points": 30,
-        "avg": 6,
+        "points": 33,
+        "avg": 5.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1718534458,
         "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
           {
             "points": 8,
             "color": 3
@@ -436,6 +432,10 @@
           {
             "points": 5,
             "color": 3
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
         "streak_sum": 16,
@@ -732,7 +732,7 @@
         "last_points": 4,
         "id_uc": 13283957,
         "created": "2024-07-18 05:00:06",
-        "id_market": 12772391591,
+        "id_market": 12772686395,
         "price": 8804460,
         "public": 1,
         "bid": null,
@@ -959,10 +959,10 @@
         "player_3": null,
         "played": 0,
         "floor": 12117310,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "clauses_signs": 0,
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 0,
           "input": 9413000
@@ -979,14 +979,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/15.png?version=20240922",
         "clause": {
           "floor": 12117310,
-          "multiplier": 1.5,
-          "default": 0,
+          "multiplier": 2,
+          "default": 1,
           "shield": 0,
           "tier": 3,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 18175965,
-          "percentage": 50
+          "value": 24234620,
+          "percentage": 100
         },
         "profile": "users"
       },
@@ -1567,7 +1567,7 @@
             "slot": 5,
             "position": 3,
             "id_team": 14,
-            "status": null,
+            "status": "injury",
             "ts_pic": 1535113647,
             "played": 0,
             "short": "Á. García",
@@ -1972,16 +1972,12 @@
         "name": "Pedri",
         "position": 3,
         "id_team": 3,
-        "points": 45,
-        "avg": 9,
+        "points": 51,
+        "avg": 8.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702856795,
         "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
           {
             "points": 8,
             "color": 3
@@ -1989,9 +1985,13 @@
           {
             "points": 14,
             "color": 4
+          },
+          {
+            "points": 6,
+            "color": 3
           }
         ],
-        "streak_sum": 33,
+        "streak_sum": 28,
         "value": 15596000,
         "prev_value": 15554000,
         "last_points": "?",
@@ -2413,19 +2413,19 @@
         "ts_pic": 1703282172,
         "streak": [
           {
-            "points": 6,
-            "color": 3
-          },
-          {
             "points": 4,
             "color": 2
           },
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 13,
+        "streak_sum": 7,
         "value": 5683000,
         "prev_value": 5634000,
         "last_points": "?",
@@ -2766,16 +2766,12 @@
         "name": "Pedri",
         "position": 3,
         "id_team": 3,
-        "points": 45,
-        "avg": 9,
+        "points": 51,
+        "avg": 8.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702856795,
         "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
           {
             "points": 8,
             "color": 3
@@ -2783,9 +2779,13 @@
           {
             "points": 14,
             "color": 4
+          },
+          {
+            "points": 6,
+            "color": 3
           }
         ],
-        "streak_sum": 33,
+        "streak_sum": 28,
         "value": 15596000,
         "prev_value": 15554000,
         "last_points": "?",
@@ -2910,16 +2910,12 @@
         "name": "Yéremi Pino",
         "position": 3,
         "id_team": 20,
-        "points": 18,
-        "avg": 3.6,
+        "points": 22,
+        "avg": 3.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1703282519,
         "streak": [
-          {
-            "points": 4,
-            "color": 2
-          },
           {
             "points": 2,
             "color": 2
@@ -2927,6 +2923,10 @@
           {
             "points": 6,
             "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
           }
         ],
         "streak_sum": 12,
@@ -2984,7 +2984,7 @@
         "id_team": 14,
         "points": 21,
         "avg": 5.3,
-        "status": null,
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1535113647,
         "streak": [
@@ -3198,16 +3198,12 @@
         "name": "Robert Lewandowski",
         "position": 4,
         "id_team": 3,
-        "points": 40,
-        "avg": 8,
+        "points": 56,
+        "avg": 9.3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1700230006,
         "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
           {
             "points": 10,
             "color": 4
@@ -3215,9 +3211,13 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 16,
+            "color": 4
           }
         ],
-        "streak_sum": 16,
+        "streak_sum": 29,
         "value": 20032000,
         "prev_value": 19997000,
         "last_points": "?",
@@ -3961,16 +3961,12 @@
         "name": "Ter Stegen",
         "position": 1,
         "id_team": 3,
-        "points": 22,
-        "avg": 4.4,
+        "points": 29,
+        "avg": 4.8,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1695216596,
         "streak": [
-          {
-            "points": 4,
-            "color": 2
-          },
           {
             "points": 5,
             "color": 3
@@ -3978,9 +3974,13 @@
           {
             "points": 4,
             "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
           }
         ],
-        "streak_sum": 13,
+        "streak_sum": 16,
         "value": 12141000,
         "prev_value": 12199000,
         "last_points": "?",
@@ -4465,16 +4465,12 @@
         "name": "Marc Casadó",
         "position": 3,
         "id_team": 3,
-        "points": 19,
-        "avg": 6.3,
+        "points": 23,
+        "avg": 5.8,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1719308744,
         "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
           {
             "points": 5,
             "color": 3
@@ -4482,9 +4478,13 @@
           {
             "points": 8,
             "color": 3
+          },
+          {
+            "points": 4,
+            "color": 2
           }
         ],
-        "streak_sum": 13,
+        "streak_sum": 17,
         "value": 6202000,
         "prev_value": 6113000,
         "last_points": "?",
@@ -4825,16 +4825,12 @@
         "name": "Thierno Barry",
         "position": 4,
         "id_team": 20,
-        "points": 21,
-        "avg": 5.3,
+        "points": 23,
+        "avg": 4.6,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1724310093,
         "streak": [
-          {
-            "points": 11,
-            "color": 4
-          },
           {
             "points": 3,
             "color": 2
@@ -4842,9 +4838,13 @@
           {
             "points": 4,
             "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
-        "streak_sum": 18,
+        "streak_sum": 9,
         "value": 4263000,
         "prev_value": 4152000,
         "last_points": "?",
@@ -5226,8 +5226,8 @@
         "name": "Iñaki Peña",
         "position": 1,
         "id_team": 3,
-        "points": 0,
-        "avg": 0,
+        "points": 5,
+        "avg": 5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1579011617,
@@ -5241,11 +5241,11 @@
             "color": 0
           },
           {
-            "points": "-",
-            "color": 0
+            "points": 5,
+            "color": 3
           }
         ],
-        "streak_sum": 0,
+        "streak_sum": 5,
         "value": 176000,
         "prev_value": 183000,
         "last_points": "?",
@@ -5660,8 +5660,8 @@
         "name": "Iñaki Peña",
         "position": 1,
         "id_team": 3,
-        "points": 0,
-        "avg": 0,
+        "points": 5,
+        "avg": 5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1579011617,
@@ -5675,11 +5675,11 @@
             "color": 0
           },
           {
-            "points": "-",
-            "color": 0
+            "points": 5,
+            "color": 3
           }
         ],
-        "streak_sum": 0,
+        "streak_sum": 5,
         "value": 176000,
         "prev_value": 183000,
         "last_points": "?",
@@ -5876,16 +5876,12 @@
         "name": "Jules Koundé",
         "position": 2,
         "id_team": 3,
-        "points": 36,
-        "avg": 7.2,
+        "points": 42,
+        "avg": 7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1712819219,
         "streak": [
-          {
-            "points": 3,
-            "color": 2
-          },
           {
             "points": 14,
             "color": 4
@@ -5893,9 +5889,13 @@
           {
             "points": 7,
             "color": 3
+          },
+          {
+            "points": 6,
+            "color": 3
           }
         ],
-        "streak_sum": 24,
+        "streak_sum": 27,
         "value": 13763000,
         "prev_value": 13692000,
         "last_points": "?",
@@ -5949,15 +5949,11 @@
         "position": 2,
         "id_team": 20,
         "points": 26,
-        "avg": 5.2,
+        "avg": 4.3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702931132,
         "streak": [
-          {
-            "points": 14,
-            "color": 4
-          },
           {
             "points": 4,
             "color": 2
@@ -5965,9 +5961,13 @@
           {
             "points": 2,
             "color": 2
+          },
+          {
+            "points": 0,
+            "color": 0
           }
         ],
-        "streak_sum": 20,
+        "streak_sum": 6,
         "value": 9536000,
         "prev_value": 9553000,
         "last_points": "?",
@@ -6621,9 +6621,9 @@
         "last_points": "?",
         "id_uc": 13294650,
         "created": "2024-07-21 05:00:06",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12772681646,
+        "price": 18059280,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -6637,12 +6637,12 @@
         "clauses_signs": 0,
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 16533000
+          "active": 1,
+          "input": 18059280
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 18059280
         },
         "barter": [],
         "popup": "bid",
@@ -9495,19 +9495,19 @@
         "ts_pic": 1723209224,
         "streak": [
           {
-            "points": 15,
-            "color": 4
-          },
-          {
             "points": 14,
             "color": 4
           },
           {
             "points": 12,
             "color": 4
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 41,
+        "streak_sum": 26,
         "value": 15619000,
         "prev_value": 15658000,
         "last_points": "?",
@@ -10361,19 +10361,19 @@
         "ts_pic": 1723209224,
         "streak": [
           {
-            "points": 15,
-            "color": 4
-          },
-          {
             "points": 14,
             "color": 4
           },
           {
             "points": 12,
             "color": 4
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 41,
+        "streak_sum": 26,
         "value": 15619000,
         "prev_value": 15658000,
         "last_points": "?",
@@ -11628,19 +11628,19 @@
         "ts_pic": 1701341820,
         "streak": [
           {
-            "points": 3,
-            "color": 2
-          },
-          {
             "points": 5,
             "color": 3
           },
           {
             "points": 7,
             "color": 3
+          },
+          {
+            "points": "-",
+            "color": 0
           }
         ],
-        "streak_sum": 15,
+        "streak_sum": 12,
         "value": 8370000,
         "prev_value": 8203000,
         "last_points": "?",
@@ -12197,15 +12197,15 @@
         "name": "Santi Comesaña",
         "position": 3,
         "id_team": 20,
-        "points": 21,
+        "points": 25,
         "avg": 4.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1703282402,
         "streak": [
           {
-            "points": 5,
-            "color": 3
+            "points": 4,
+            "color": 2
           },
           {
             "points": 4,
@@ -12216,7 +12216,7 @@
             "color": 2
           }
         ],
-        "streak_sum": 13,
+        "streak_sum": 12,
         "value": 7425000,
         "prev_value": 7365000,
         "last_points": "?",
@@ -13102,16 +13102,12 @@
         "name": "Logan Costa",
         "position": 2,
         "id_team": 20,
-        "points": 20,
-        "avg": 6.7,
+        "points": 22,
+        "avg": 5.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1724358432,
         "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
           {
             "points": 5,
             "color": 3
@@ -13119,6 +13115,10 @@
           {
             "points": 13,
             "color": 4
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
         "streak_sum": 20,
@@ -13390,16 +13390,12 @@
         "name": "Raphinha",
         "position": 4,
         "id_team": 3,
-        "points": 48,
-        "avg": 9.6,
+        "points": 64,
+        "avg": 10.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1700208787,
         "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
           {
             "points": 21,
             "color": 4
@@ -13407,9 +13403,13 @@
           {
             "points": 6,
             "color": 3
+          },
+          {
+            "points": 16,
+            "color": 4
           }
         ],
-        "streak_sum": 34,
+        "streak_sum": 43,
         "value": 16075000,
         "prev_value": 16019000,
         "last_points": "?",
@@ -13752,16 +13752,12 @@
         "name": "Logan Costa",
         "position": 2,
         "id_team": 20,
-        "points": 20,
-        "avg": 6.7,
+        "points": 22,
+        "avg": 5.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1724358432,
         "streak": [
-          {
-            "points": 2,
-            "color": 2
-          },
           {
             "points": 5,
             "color": 3
@@ -13769,6 +13765,10 @@
           {
             "points": 13,
             "color": 4
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
         "streak_sum": 20,
@@ -14256,16 +14256,12 @@
         "name": "Lamine Yamal",
         "position": 4,
         "id_team": 3,
-        "points": 53,
-        "avg": 10.6,
+        "points": 62,
+        "avg": 10.3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1726424345,
         "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
           {
             "points": 10,
             "color": 4
@@ -14273,9 +14269,13 @@
           {
             "points": 18,
             "color": 4
+          },
+          {
+            "points": 9,
+            "color": 3
           }
         ],
-        "streak_sum": 35,
+        "streak_sum": 37,
         "value": 20419000,
         "prev_value": 20394000,
         "last_points": "?",
@@ -14400,16 +14400,12 @@
         "name": "Raphinha",
         "position": 4,
         "id_team": 3,
-        "points": 48,
-        "avg": 9.6,
+        "points": 64,
+        "avg": 10.7,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1700208787,
         "streak": [
-          {
-            "points": 7,
-            "color": 3
-          },
           {
             "points": 21,
             "color": 4
@@ -14417,9 +14413,13 @@
           {
             "points": 6,
             "color": 3
+          },
+          {
+            "points": 16,
+            "color": 4
           }
         ],
-        "streak_sum": 34,
+        "streak_sum": 43,
         "value": 16075000,
         "prev_value": 16019000,
         "last_points": "?",
@@ -16573,16 +16573,12 @@
         "name": "Alex Baena",
         "position": 3,
         "id_team": 20,
-        "points": 26,
-        "avg": 6.5,
+        "points": 31,
+        "avg": 6.2,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702842260,
         "streak": [
-          {
-            "points": 8,
-            "color": 3
-          },
           {
             "points": "-",
             "color": 0
@@ -16590,9 +16586,13 @@
           {
             "points": 7,
             "color": 3
+          },
+          {
+            "points": 5,
+            "color": 3
           }
         ],
-        "streak_sum": 15,
+        "streak_sum": 12,
         "value": 15065000,
         "prev_value": 14999000,
         "last_points": "?",
@@ -16609,10 +16609,10 @@
         "player_3": null,
         "played": 0,
         "floor": 17592000,
-        "multiplier": 2,
+        "multiplier": 2.5,
         "shield": 0,
         "clauses_signs": 0,
-        "default": 1,
+        "default": 2,
         "market": {
           "active": 0,
           "input": 15065000
@@ -16629,14 +16629,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/20.png?version=20240922",
         "clause": {
           "floor": 17592000,
-          "multiplier": 2,
-          "default": 1,
+          "multiplier": 2.5,
+          "default": 2,
           "shield": 0,
           "tier": 5,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 35184000,
-          "percentage": 100
+          "value": 43980000,
+          "percentage": 150
         },
         "profile": "users"
       },
@@ -17149,16 +17149,12 @@
         "name": "Nicolas Pépé",
         "position": 4,
         "id_team": 20,
-        "points": 15,
-        "avg": 3.8,
+        "points": 22,
+        "avg": 4.4,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1722785801,
         "streak": [
-          {
-            "points": 6,
-            "color": 3
-          },
           {
             "points": "-",
             "color": 0
@@ -17166,9 +17162,13 @@
           {
             "points": 2,
             "color": 2
+          },
+          {
+            "points": 7,
+            "color": 3
           }
         ],
-        "streak_sum": 8,
+        "streak_sum": 9,
         "value": 4411000,
         "prev_value": 4478000,
         "last_points": "?",
@@ -19204,7 +19204,7 @@
         "last_points": "?",
         "id_uc": 13289485,
         "created": "2024-07-19 18:59:03",
-        "id_market": 12770542041,
+        "id_market": 12772688419,
         "price": 4073000,
         "public": 1,
         "bid": null,
@@ -19564,7 +19564,7 @@
         "last_points": 0,
         "id_uc": 13289485,
         "created": "2024-07-27 05:00:08",
-        "id_market": 12764417765,
+        "id_market": 12772688452,
         "price": 5044000,
         "public": 1,
         "bid": null,
@@ -20660,16 +20660,12 @@
         "name": "Pablo Torre",
         "position": 3,
         "id_team": 3,
-        "points": 4,
-        "avg": 4,
+        "points": 18,
+        "avg": 9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702926421,
         "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
           {
             "points": 4,
             "color": 2
@@ -20677,9 +20673,13 @@
           {
             "points": "-",
             "color": 0
+          },
+          {
+            "points": 14,
+            "color": 4
           }
         ],
-        "streak_sum": 4,
+        "streak_sum": 18,
         "value": 1028000,
         "prev_value": 1014000,
         "last_points": "?",
@@ -20732,16 +20732,12 @@
         "name": "Pau Víctor",
         "position": 4,
         "id_team": 3,
-        "points": 5,
-        "avg": 1.3,
+        "points": 8,
+        "avg": 1.6,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1721552314,
         "streak": [
-          {
-            "points": -1,
-            "color": 1
-          },
           {
             "points": "-",
             "color": 0
@@ -20749,9 +20745,13 @@
           {
             "points": 4,
             "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 7,
         "value": 1555000,
         "prev_value": 1582000,
         "last_points": "?",
@@ -21094,16 +21094,12 @@
         "name": "Kiko Femenía",
         "position": 2,
         "id_team": 20,
-        "points": 18,
-        "avg": 3.6,
+        "points": 21,
+        "avg": 3.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1659078732,
         "streak": [
-          {
-            "points": 5,
-            "color": 3
-          },
           {
             "points": 4,
             "color": 2
@@ -21111,9 +21107,13 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 12,
+        "streak_sum": 10,
         "value": 4724000,
         "prev_value": 4628000,
         "last_points": "?",
@@ -21166,26 +21166,26 @@
         "name": "Íñigo Martínez",
         "position": 2,
         "id_team": 3,
-        "points": 24,
-        "avg": 4.8,
+        "points": 30,
+        "avg": 5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1692267549,
         "streak": [
           {
-            "points": 7,
-            "color": 3
-          },
-          {
             "points": 5,
             "color": 3
           },
           {
             "points": 5,
+            "color": 3
+          },
+          {
+            "points": 6,
             "color": 3
           }
         ],
-        "streak_sum": 17,
+        "streak_sum": 16,
         "value": 9684000,
         "prev_value": 9510000,
         "last_points": "?",
@@ -21310,16 +21310,12 @@
         "name": "Pablo Torre",
         "position": 3,
         "id_team": 3,
-        "points": 4,
-        "avg": 4,
+        "points": 18,
+        "avg": 9,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1702926421,
         "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
           {
             "points": 4,
             "color": 2
@@ -21327,9 +21323,13 @@
           {
             "points": "-",
             "color": 0
+          },
+          {
+            "points": 14,
+            "color": 4
           }
         ],
-        "streak_sum": 4,
+        "streak_sum": 18,
         "value": 1028000,
         "prev_value": 1014000,
         "last_points": "?",
@@ -21598,16 +21598,12 @@
         "name": "Ayoze Pérez",
         "position": 4,
         "id_team": 20,
-        "points": 37,
-        "avg": 7.4,
+        "points": 45,
+        "avg": 7.5,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1676920837,
         "streak": [
-          {
-            "points": 6,
-            "color": 3
-          },
           {
             "points": 10,
             "color": 4
@@ -21615,9 +21611,13 @@
           {
             "points": 11,
             "color": 4
+          },
+          {
+            "points": 8,
+            "color": 3
           }
         ],
-        "streak_sum": 27,
+        "streak_sum": 29,
         "value": 13936000,
         "prev_value": 13822000,
         "last_points": "?",
@@ -21670,16 +21670,12 @@
         "name": "Pau Víctor",
         "position": 4,
         "id_team": 3,
-        "points": 5,
-        "avg": 1.3,
+        "points": 8,
+        "avg": 1.6,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1721552314,
         "streak": [
-          {
-            "points": -1,
-            "color": 1
-          },
           {
             "points": "-",
             "color": 0
@@ -21687,9 +21683,13 @@
           {
             "points": 4,
             "color": 2
+          },
+          {
+            "points": 3,
+            "color": 2
           }
         ],
-        "streak_sum": 3,
+        "streak_sum": 7,
         "value": 1555000,
         "prev_value": 1582000,
         "last_points": "?",
@@ -24161,16 +24161,12 @@
         "name": "Ilias Akhomach",
         "position": 4,
         "id_team": 20,
-        "points": 13,
-        "avg": 3.3,
+        "points": 15,
+        "avg": 3,
         "status": null,
         "id_competition": 1,
         "ts_pic": 1692687386,
         "streak": [
-          {
-            "points": "-",
-            "color": 0
-          },
           {
             "points": 4,
             "color": 2
@@ -24178,9 +24174,13 @@
           {
             "points": 3,
             "color": 2
+          },
+          {
+            "points": 2,
+            "color": 2
           }
         ],
-        "streak_sum": 7,
+        "streak_sum": 9,
         "value": 3255000,
         "prev_value": 3357000,
         "last_points": "?",
