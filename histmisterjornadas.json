@@ -38268,7 +38268,7 @@
               "slot": 5,
               "position": 3,
               "id_team": 14,
-              "status": null,
+              "status": "injury",
               "ts_pic": 1535113647,
               "played": 0,
               "short": "Á. García",
@@ -38673,16 +38673,12 @@
           "name": "Pedri",
           "position": 3,
           "id_team": 3,
-          "points": 45,
-          "avg": 9,
+          "points": 51,
+          "avg": 8.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1702856795,
           "streak": [
-            {
-              "points": 11,
-              "color": 4
-            },
             {
               "points": 8,
               "color": 3
@@ -38690,9 +38686,13 @@
             {
               "points": 14,
               "color": 4
+            },
+            {
+              "points": 6,
+              "color": 3
             }
           ],
-          "streak_sum": 33,
+          "streak_sum": 28,
           "value": 15596000,
           "prev_value": 15554000,
           "last_points": "?",
@@ -39083,8 +39083,8 @@
           "name": "Iñaki Peña",
           "position": 1,
           "id_team": 3,
-          "points": 0,
-          "avg": 0,
+          "points": 5,
+          "avg": 5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1579011617,
@@ -39098,11 +39098,11 @@
               "color": 0
             },
             {
-              "points": "-",
-              "color": 0
+              "points": 5,
+              "color": 3
             }
           ],
-          "streak_sum": 0,
+          "streak_sum": 5,
           "value": 176000,
           "prev_value": 183000,
           "last_points": "?",
@@ -40148,19 +40148,19 @@
           "ts_pic": 1723209224,
           "streak": [
             {
-              "points": 15,
-              "color": 4
-            },
-            {
               "points": 14,
               "color": 4
             },
             {
               "points": 12,
               "color": 4
+            },
+            {
+              "points": "-",
+              "color": 0
             }
           ],
-          "streak_sum": 41,
+          "streak_sum": 26,
           "value": 15619000,
           "prev_value": 15658000,
           "last_points": "?",
@@ -42069,16 +42069,12 @@
           "name": "Logan Costa",
           "position": 2,
           "id_team": 20,
-          "points": 20,
-          "avg": 6.7,
+          "points": 22,
+          "avg": 5.5,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1724358432,
           "streak": [
-            {
-              "points": 2,
-              "color": 2
-            },
             {
               "points": 5,
               "color": 3
@@ -42086,6 +42082,10 @@
             {
               "points": 13,
               "color": 4
+            },
+            {
+              "points": 2,
+              "color": 2
             }
           ],
           "streak_sum": 20,
@@ -42357,16 +42357,12 @@
           "name": "Raphinha",
           "position": 4,
           "id_team": 3,
-          "points": 48,
-          "avg": 9.6,
+          "points": 64,
+          "avg": 10.7,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1700208787,
           "streak": [
-            {
-              "points": 7,
-              "color": 3
-            },
             {
               "points": 21,
               "color": 4
@@ -42374,9 +42370,13 @@
             {
               "points": 6,
               "color": 3
+            },
+            {
+              "points": 16,
+              "color": 4
             }
           ],
-          "streak_sum": 34,
+          "streak_sum": 43,
           "value": 16075000,
           "prev_value": 16019000,
           "last_points": "?",
@@ -44068,16 +44068,12 @@
           "name": "Pablo Torre",
           "position": 3,
           "id_team": 3,
-          "points": 4,
-          "avg": 4,
+          "points": 18,
+          "avg": 9,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1702926421,
           "streak": [
-            {
-              "points": "-",
-              "color": 0
-            },
             {
               "points": 4,
               "color": 2
@@ -44085,9 +44081,13 @@
             {
               "points": "-",
               "color": 0
+            },
+            {
+              "points": 14,
+              "color": 4
             }
           ],
-          "streak_sum": 4,
+          "streak_sum": 18,
           "value": 1028000,
           "prev_value": 1014000,
           "last_points": "?",
@@ -44140,16 +44140,12 @@
           "name": "Pau Víctor",
           "position": 4,
           "id_team": 3,
-          "points": 5,
-          "avg": 1.3,
+          "points": 8,
+          "avg": 1.6,
           "status": null,
           "id_competition": 1,
           "ts_pic": 1721552314,
           "streak": [
-            {
-              "points": -1,
-              "color": 1
-            },
             {
               "points": "-",
               "color": 0
@@ -44157,9 +44153,13 @@
             {
               "points": 4,
               "color": 2
+            },
+            {
+              "points": 3,
+              "color": 2
             }
           ],
-          "streak_sum": 3,
+          "streak_sum": 7,
           "value": 1555000,
           "prev_value": 1582000,
           "last_points": "?",
