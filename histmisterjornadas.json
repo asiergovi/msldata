@@ -39188,9 +39188,9 @@
           "last_points": "?",
           "id_uc": 13294650,
           "created": "2024-09-22 19:25:44",
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12785065098,
+          "price": 9426673,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -39205,12 +39205,12 @@
           "transfer_origin": "clause",
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 338000
+            "active": 1,
+            "input": 9426673
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 9426673
           },
           "barter": [],
           "popup": "bid",
@@ -39457,7 +39457,7 @@
           "id_team": 2,
           "points": 22,
           "avg": 5.5,
-          "status": "injury",
+          "status": "doubt",
           "id_competition": 1,
           "ts_pic": 1692267477,
           "streak": [
@@ -39553,9 +39553,9 @@
           "last_points": "?",
           "id_uc": 13294650,
           "created": "2024-09-18 05:00:35",
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12785063404,
+          "price": 801000,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -39570,12 +39570,12 @@
           "transfer_origin": "normal",
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 647000
+            "active": 1,
+            "input": 801000
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 801000
           },
           "barter": [],
           "popup": "bid",
@@ -39592,6 +39592,79 @@
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
             "value": 1000000,
+            "percentage": 50
+          },
+          "profile": "users"
+        },
+        "48657": {
+          "id": 48657,
+          "name": "Raphinha",
+          "position": 4,
+          "id_team": 3,
+          "points": 64,
+          "avg": 10.7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1700208787,
+          "streak": [
+            {
+              "points": 21,
+              "color": 4
+            },
+            {
+              "points": 6,
+              "color": 3
+            },
+            {
+              "points": 16,
+              "color": 4
+            }
+          ],
+          "streak_sum": 43,
+          "value": 16225000,
+          "prev_value": 16150000,
+          "last_points": "?",
+          "id_uc": 13294650,
+          "created": "2024-09-24 15:58:15",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "floor": 57062742,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 16225000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "Raphinha",
+          "bg": 0,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/48657.png?version=20231117091307",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240924",
+          "clause": {
+            "floor": 57062742,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 5,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 85594113,
             "percentage": 50
           },
           "profile": "users"
@@ -41718,7 +41791,7 @@
               "slot": 5,
               "position": 2,
               "id_team": 5,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1702916773,
               "played": 0,
               "short": "Ó. Mingueza",
@@ -41818,7 +41891,7 @@
               "slot": 11,
               "position": 4,
               "id_team": 15,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1719831274,
               "played": 0,
               "short": "Endrick",
@@ -42898,79 +42971,6 @@
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
             "value": 65576250,
-            "percentage": 50
-          },
-          "profile": "users"
-        },
-        "48657": {
-          "id": 48657,
-          "name": "Raphinha",
-          "position": 4,
-          "id_team": 3,
-          "points": 64,
-          "avg": 10.7,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1700208787,
-          "streak": [
-            {
-              "points": 21,
-              "color": 4
-            },
-            {
-              "points": 6,
-              "color": 3
-            },
-            {
-              "points": 16,
-              "color": 4
-            }
-          ],
-          "streak_sum": 43,
-          "value": 16225000,
-          "prev_value": 16150000,
-          "last_points": "?",
-          "id_uc": 13287961,
-          "created": "2024-09-19 05:00:35",
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "days": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 0,
-          "floor": 38041828,
-          "multiplier": 1.5,
-          "shield": 0,
-          "clauses_signs": 0,
-          "transfer_origin": "normal",
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 16225000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "Raphinha",
-          "bg": 0,
-          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/48657.png?version=20231117091307",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240924",
-          "clause": {
-            "floor": 38041828,
-            "multiplier": 1.5,
-            "default": 0,
-            "shield": 0,
-            "tier": 5,
-            "shield2WeeksSku": "shield_1",
-            "shield1MonthSku": "shield_2",
-            "value": 57062742,
             "percentage": 50
           },
           "profile": "users"
