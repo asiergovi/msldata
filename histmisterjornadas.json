@@ -39377,79 +39377,6 @@
           },
           "profile": "users"
         },
-        "55045": {
-          "id": 55045,
-          "name": "Hugo Sotelo",
-          "position": 3,
-          "id_team": 5,
-          "points": 12,
-          "avg": 4,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1691133193,
-          "streak": [
-            {
-              "points": 2,
-              "color": 2
-            },
-            {
-              "points": 5,
-              "color": 3
-            },
-            {
-              "points": 5,
-              "color": 3
-            }
-          ],
-          "streak_sum": 12,
-          "value": 711000,
-          "prev_value": 655000,
-          "last_points": "?",
-          "id_uc": 13294650,
-          "created": "2024-09-18 05:00:25",
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "days": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 0,
-          "floor": 711000,
-          "multiplier": 1.5,
-          "shield": 0,
-          "clauses_signs": 0,
-          "transfer_origin": "normal",
-          "default": 0,
-          "market": {
-            "active": 0,
-            "input": 711000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "H. Sotelo",
-          "bg": 0,
-          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/55045.png?version=20230804091313",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240924",
-          "clause": {
-            "floor": 711000,
-            "multiplier": 1.5,
-            "default": 0,
-            "shield": 0,
-            "tier": 1,
-            "shield2WeeksSku": "shield_1",
-            "shield1MonthSku": "shield_2",
-            "value": 1066500,
-            "percentage": 50
-          },
-          "profile": "users"
-        },
         "51135": {
           "id": 51135,
           "name": "Pablo Barrios",
@@ -42407,7 +42334,7 @@
               "slot": 4,
               "position": 2,
               "id_team": 49,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1702912741,
               "played": 0,
               "short": "J. Hernández",
@@ -42825,6 +42752,79 @@
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
             "value": 1000000,
+            "percentage": 50
+          },
+          "profile": "users"
+        },
+        "55045": {
+          "id": 55045,
+          "name": "Hugo Sotelo",
+          "position": 3,
+          "id_team": 5,
+          "points": 12,
+          "avg": 4,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1691133193,
+          "streak": [
+            {
+              "points": 2,
+              "color": 2
+            },
+            {
+              "points": 5,
+              "color": 3
+            },
+            {
+              "points": 5,
+              "color": 3
+            }
+          ],
+          "streak_sum": 12,
+          "value": 711000,
+          "prev_value": 655000,
+          "last_points": "?",
+          "id_uc": 13287961,
+          "created": "2024-09-24 16:47:51",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "floor": 1066500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 711000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "H. Sotelo",
+          "bg": 0,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/55045.png?version=20230804091313",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/5.png?version=20240924",
+          "clause": {
+            "floor": 1066500,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 1,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 1599750,
             "percentage": 50
           },
           "profile": "users"
@@ -43395,7 +43395,7 @@
           "id_team": 19,
           "points": 23,
           "avg": 5.8,
-          "status": "injury",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1703281834,
           "streak": [
@@ -43525,7 +43525,7 @@
               "slot": 4,
               "position": 2,
               "id_team": 408,
-              "status": null,
+              "status": "doubt",
               "ts_pic": 1702932296,
               "played": 0,
               "short": "M. Valjent",
@@ -44730,7 +44730,7 @@
           "last_points": "-",
           "id_uc": 13296694,
           "created": "2024-09-06 05:00:25",
-          "id_market": 12778764858,
+          "id_market": 12785084456,
           "price": 1455000,
           "public": 1,
           "bid": null,
@@ -44951,7 +44951,7 @@
               "slot": 2,
               "position": 2,
               "id_team": 11,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1692363949,
               "played": 0,
               "short": "M. Park",
@@ -45049,7 +45049,7 @@
               "slot": 8,
               "position": 3,
               "id_team": 17,
-              "status": "double",
+              "status": null,
               "ts_pic": 1725059639,
               "played": 0,
               "short": "J. Sánchez",
@@ -45120,7 +45120,7 @@
           "id_team": 9,
           "points": 13,
           "avg": 4.3,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1716063034,
           "streak": [
@@ -45606,7 +45606,7 @@
           "id_team": 49,
           "points": 24,
           "avg": 4.8,
-          "status": "doubt",
+          "status": "injury",
           "id_competition": 1,
           "ts_pic": 1718534853,
           "streak": [
