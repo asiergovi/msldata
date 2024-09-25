@@ -38410,7 +38410,7 @@
           "last_points": 11,
           "id_uc": 13283382,
           "created": "2024-09-21 05:00:31",
-          "id_market": 12791423970,
+          "id_market": 12791649431,
           "price": 3500800,
           "public": 1,
           "bid": null,
@@ -38775,7 +38775,7 @@
           "last_points": "?",
           "id_uc": 13283382,
           "created": "2024-09-24 05:00:37",
-          "id_market": 12791424746,
+          "id_market": 12791650047,
           "price": 4976000,
           "public": 1,
           "bid": null,
@@ -38848,7 +38848,7 @@
           "last_points": 3,
           "id_uc": 13283382,
           "created": "2024-09-22 05:00:25",
-          "id_market": 12791424225,
+          "id_market": 12791649996,
           "price": 2150000,
           "public": 1,
           "bid": null,
@@ -43721,11 +43721,11 @@
           "player_3": null,
           "played": 0,
           "floor": 3937500,
-          "multiplier": 2,
+          "multiplier": 2.5,
           "shield": 0,
           "clauses_signs": 0,
           "transfer_origin": "clause",
-          "default": 1,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 1030000
@@ -43742,14 +43742,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20240925",
           "clause": {
             "floor": 3937500,
-            "multiplier": 2,
-            "default": 1,
+            "multiplier": 2.5,
+            "default": 2,
             "shield": 0,
             "tier": 1,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 7875000,
-            "percentage": 100
+            "value": 9843750,
+            "percentage": 150
           },
           "profile": "users"
         },
@@ -46067,7 +46067,7 @@
           "last_points": "?",
           "id_uc": 13289485,
           "created": "2024-08-04 05:00:09",
-          "id_market": 12787175122,
+          "id_market": 12791662512,
           "price": 2315000,
           "public": 1,
           "bid": null,
@@ -46326,6 +46326,79 @@
             "shield1MonthSku": "shield_2",
             "value": 8756000,
             "percentage": 100
+          },
+          "profile": "users"
+        },
+        "51": {
+          "id": 51,
+          "name": "Antoine Griezmann",
+          "position": 4,
+          "id_team": 2,
+          "points": 35,
+          "avg": 5.8,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1700230075,
+          "streak": [
+            {
+              "points": 4,
+              "color": 2
+            },
+            {
+              "points": 11,
+              "color": 4
+            },
+            {
+              "points": 2,
+              "color": 2
+            }
+          ],
+          "streak_sum": 17,
+          "value": 21573000,
+          "prev_value": 21599000,
+          "last_points": "?",
+          "id_uc": 13289485,
+          "created": "2024-09-25 17:33:03",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "floor": 50870718,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 21573000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "A. Griezmann",
+          "bg": 0,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/51.png?version=20231117150755",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240925",
+          "clause": {
+            "floor": 50870718,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 5,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 76306077,
+            "percentage": 50
           },
           "profile": "users"
         }
