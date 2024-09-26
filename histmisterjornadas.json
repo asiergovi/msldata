@@ -40817,7 +40817,7 @@
           "last_points": 3,
           "id_uc": 13290762,
           "created": "2024-07-17 20:08:44",
-          "id_market": 12797887212,
+          "id_market": 12798060192,
           "price": 12758538,
           "public": 1,
           "bid": null,
@@ -41036,7 +41036,7 @@
           "last_points": 2,
           "id_uc": 13290762,
           "created": "2024-07-26 05:00:08",
-          "id_market": 12797887201,
+          "id_market": 12798059957,
           "price": 15004000,
           "public": 1,
           "bid": null,
@@ -41109,7 +41109,7 @@
           "last_points": 2,
           "id_uc": 13290762,
           "created": "2024-09-16 05:00:27",
-          "id_market": 12797887222,
+          "id_market": 12798060262,
           "price": 14008000,
           "public": 1,
           "bid": null,
@@ -42559,6 +42559,79 @@
             "shield1MonthSku": "shield_2",
             "value": 22901575,
             "percentage": 150
+          },
+          "profile": "users"
+        },
+        "55491": {
+          "id": 55491,
+          "name": "Dodi Lukébakio",
+          "position": 4,
+          "id_team": 17,
+          "points": 33,
+          "avg": 4.7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1703182881,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 8,
+              "color": 3
+            },
+            {
+              "points": 6,
+              "color": 3
+            }
+          ],
+          "streak_sum": 17,
+          "value": 9575000,
+          "prev_value": 9428000,
+          "last_points": 6,
+          "id_uc": 13283957,
+          "created": "2024-09-26 17:30:52",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "floor": 23937500,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 9575000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "D. Lukébakio",
+          "bg": 3,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/55491.png?version=20231221192121",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/17.png?version=20240926",
+          "clause": {
+            "floor": 23937500,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 3,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 35906250,
+            "percentage": 50
           },
           "profile": "users"
         },
@@ -44020,7 +44093,7 @@
               "slot": 3,
               "position": 2,
               "id_team": 15,
-              "status": "injury",
+              "status": "doubt",
               "ts_pic": 1437662346,
               "played": 0,
               "short": "D. Carvajal",
@@ -44280,11 +44353,11 @@
           "player_3": null,
           "played": 1,
           "floor": 2849000,
-          "multiplier": 2,
+          "multiplier": 2.5,
           "shield": 0,
           "clauses_signs": 0,
           "transfer_origin": "normal",
-          "default": 1,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 2849000
@@ -44301,14 +44374,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/49.png?version=20240926",
           "clause": {
             "floor": 2849000,
-            "multiplier": 2,
-            "default": 1,
+            "multiplier": 2.5,
+            "default": 2,
             "shield": 0,
             "tier": 2,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 5698000,
-            "percentage": 100
+            "value": 7122500,
+            "percentage": 150
           },
           "profile": "users"
         },
@@ -44499,11 +44572,11 @@
           "player_3": null,
           "played": 1,
           "floor": 2736000,
-          "multiplier": 2,
+          "multiplier": 2.5,
           "shield": 0,
           "clauses_signs": 0,
           "transfer_origin": "normal",
-          "default": 1,
+          "default": 2,
           "market": {
             "active": 0,
             "input": 2736000
@@ -44520,14 +44593,14 @@
           "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240926",
           "clause": {
             "floor": 2736000,
-            "multiplier": 2,
-            "default": 1,
+            "multiplier": 2.5,
+            "default": 2,
             "shield": 0,
             "tier": 2,
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
-            "value": 5472000,
-            "percentage": 100
+            "value": 6840000,
+            "percentage": 150
           },
           "profile": "users"
         },
@@ -44600,6 +44673,79 @@
             "shield2WeeksSku": "shield_1",
             "shield1MonthSku": "shield_2",
             "value": 22467000,
+            "percentage": 50
+          },
+          "profile": "users"
+        },
+        "14791": {
+          "id": 14791,
+          "name": "Gorka Guruzeta",
+          "position": 4,
+          "id_team": 1,
+          "points": 33,
+          "avg": 4.7,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1701763055,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 15,
+              "color": 4
+            },
+            {
+              "points": 3,
+              "color": 2
+            }
+          ],
+          "streak_sum": 21,
+          "value": 11592000,
+          "prev_value": 11559000,
+          "last_points": 3,
+          "id_uc": 13283720,
+          "created": "2024-09-26 17:28:35",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 1,
+          "floor": 27070956,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 11592000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "G. Guruzeta",
+          "bg": 2,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/14791.png?version=20231205085735",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/1.png?version=20240926",
+          "clause": {
+            "floor": 27070956,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 4,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 40606434,
             "percentage": 50
           },
           "profile": "users"
