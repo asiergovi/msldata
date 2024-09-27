@@ -116,7 +116,7 @@
             "slot": 7,
             "position": 3,
             "id_team": 20,
-            "status": "doubt",
+            "status": "injury",
             "ts_pic": 1703282519,
             "played": 0,
             "short": "Y. Pino",
@@ -3858,7 +3858,7 @@
         "id_team": 14,
         "points": 18,
         "avg": 3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661974426,
         "streak": [
@@ -4663,7 +4663,7 @@
         "id_team": 14,
         "points": 18,
         "avg": 3,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1661974426,
         "streak": [
@@ -8852,9 +8852,9 @@
         "last_points": 3,
         "id_uc": 13294650,
         "created": "2024-09-17 05:00:37",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12804404164,
+        "price": 995000,
+        "public": 0,
         "bid": null,
         "days": null,
         "type": null,
@@ -8869,12 +8869,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 995000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 995000
         },
         "barter": [],
         "popup": "bid",
@@ -9144,7 +9144,7 @@
         "last_points": 1,
         "id_uc": 13294650,
         "created": "2024-07-21 05:00:06",
-        "id_market": 12800103785,
+        "id_market": 12804406151,
         "price": 17208760,
         "public": 1,
         "bid": null,
@@ -13536,7 +13536,7 @@
             "slot": 3,
             "position": 2,
             "id_team": 15,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1437662346,
             "played": 0,
             "short": "D. Carvajal",
@@ -14421,7 +14421,7 @@
         "id_team": 15,
         "points": 32,
         "avg": 5.3,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1437662346,
         "streak": [
@@ -17198,7 +17198,7 @@
         "id_team": 20,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702842493,
         "streak": [
@@ -17565,7 +17565,7 @@
         "id_team": 20,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702842493,
         "streak": [
@@ -18822,7 +18822,7 @@
             "slot": 11,
             "position": 4,
             "id_team": 11,
-            "status": null,
+            "status": "doubt",
             "ts_pic": 1437662345,
             "played": 1,
             "short": "Sandro",
@@ -20378,7 +20378,7 @@
         "id_team": 11,
         "points": 42,
         "avg": 6,
-        "status": null,
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1437662345,
         "streak": [
@@ -21170,9 +21170,9 @@
         "last_points": 3,
         "id_uc": 13284241,
         "created": "2024-09-12 05:00:24",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12804404949,
+        "price": 651000,
+        "public": 0,
         "bid": null,
         "days": null,
         "type": null,
@@ -21187,12 +21187,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 651000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 651000
         },
         "barter": [],
         "popup": "bid",
@@ -22352,7 +22352,7 @@
         "id_team": 15,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703278521,
         "streak": [
@@ -22498,7 +22498,7 @@
         "id_team": 49,
         "points": 24,
         "avg": 4.8,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1718534853,
         "streak": [
@@ -23157,7 +23157,7 @@
         "id_team": 15,
         "points": 0,
         "avg": 0,
-        "status": "injury",
+        "status": "doubt",
         "id_competition": 1,
         "ts_pic": 1703278521,
         "streak": [
@@ -23303,7 +23303,7 @@
         "id_team": 49,
         "points": 24,
         "avg": 4.8,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1718534853,
         "streak": [
@@ -24093,9 +24093,9 @@
         "last_points": "-",
         "id_uc": 13284287,
         "created": "2024-08-19 05:00:20",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12804404779,
+        "price": 917000,
+        "public": 0,
         "bid": null,
         "days": null,
         "type": null,
@@ -24110,12 +24110,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 917000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 917000
         },
         "barter": [],
         "popup": "bid",
@@ -24971,9 +24971,9 @@
         "last_points": "-",
         "id_uc": 13284287,
         "created": "2024-08-19 05:00:20",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12804404779,
+        "price": 917000,
+        "public": 0,
         "bid": null,
         "days": null,
         "type": null,
@@ -24988,12 +24988,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 917000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 917000
         },
         "barter": [],
         "popup": "bid",
