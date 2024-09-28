@@ -3570,9 +3570,9 @@
         "last_points": 13,
         "id_uc": 13287961,
         "created": "2024-09-12 17:56:00",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12812976785,
+        "price": 2753000,
+        "public": 0,
         "bid": null,
         "days": null,
         "type": null,
@@ -3587,12 +3587,12 @@
         "transfer_origin": "clause",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 2753000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 2753000
         },
         "barter": [],
         "popup": "bid",
