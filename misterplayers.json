@@ -11155,9 +11155,9 @@
         "last_points": "?",
         "id_uc": 13294650,
         "created": "2024-09-12 09:35:49",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12811048057,
+        "price": 4639198,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -11172,12 +11172,12 @@
         "transfer_origin": "clause",
         "default": 0,
         "market": {
-          "active": 0,
-          "input": 3731000
+          "active": 1,
+          "input": 4639198
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 4639198
         },
         "barter": [],
         "popup": "bid",
@@ -12720,7 +12720,7 @@
         "id_team": 17,
         "points": 12,
         "avg": 2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1704968937,
         "streak": [
@@ -13963,7 +13963,7 @@
         "id_team": 17,
         "points": 12,
         "avg": 2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1704968937,
         "streak": [
@@ -17232,11 +17232,11 @@
         "player_3": null,
         "played": 0,
         "floor": 666666.6666666666,
-        "multiplier": 1.5,
+        "multiplier": 3,
         "shield": 0,
         "clauses_signs": 0,
         "transfer_origin": "normal",
-        "default": 0,
+        "default": 3,
         "market": {
           "active": 1,
           "input": 456000
@@ -17253,14 +17253,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240928",
         "clause": {
           "floor": 666666.6666666666,
-          "multiplier": 1.5,
-          "default": 0,
+          "multiplier": 3,
+          "default": 3,
           "shield": 0,
           "tier": 1,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 1000000,
-          "percentage": 50
+          "value": 2000000,
+          "percentage": 200
         },
         "profile": "users"
       },
@@ -17451,11 +17451,11 @@
         "player_3": null,
         "played": 0,
         "floor": 1765000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "clauses_signs": 0,
         "transfer_origin": "normal",
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 1,
           "input": 1499000
@@ -17472,14 +17472,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240928",
         "clause": {
           "floor": 1765000,
-          "multiplier": 1.5,
-          "default": 0,
+          "multiplier": 2,
+          "default": 1,
           "shield": 0,
           "tier": 1,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 2647500,
-          "percentage": 50
+          "value": 3530000,
+          "percentage": 100
         },
         "profile": "users"
       },
@@ -17818,11 +17818,11 @@
         "player_3": null,
         "played": 0,
         "floor": 1701000,
-        "multiplier": 3,
+        "multiplier": 4,
         "shield": 0,
         "clauses_signs": 0,
         "transfer_origin": "normal",
-        "default": 3,
+        "default": 0,
         "market": {
           "active": 0,
           "input": 1701000
@@ -17839,14 +17839,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/16.png?version=20240928",
         "clause": {
           "floor": 1701000,
-          "multiplier": 3,
-          "default": 3,
+          "multiplier": 4,
+          "default": 5,
           "shield": 0,
           "tier": 1,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 5103000,
-          "percentage": 200
+          "value": 6804000,
+          "percentage": 300
         },
         "profile": "users"
       },
@@ -17891,11 +17891,11 @@
         "player_3": null,
         "played": 0,
         "floor": 666666.6666666666,
-        "multiplier": 1.5,
+        "multiplier": 3,
         "shield": 0,
         "clauses_signs": 0,
         "transfer_origin": "normal",
-        "default": 0,
+        "default": 3,
         "market": {
           "active": 1,
           "input": 456000
@@ -17912,14 +17912,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240928",
         "clause": {
           "floor": 666666.6666666666,
-          "multiplier": 1.5,
-          "default": 0,
+          "multiplier": 3,
+          "default": 3,
           "shield": 0,
           "tier": 1,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 1000000,
-          "percentage": 50
+          "value": 2000000,
+          "percentage": 200
         },
         "profile": "users"
       },
@@ -18694,11 +18694,11 @@
         "player_3": null,
         "played": 0,
         "floor": 1765000,
-        "multiplier": 1.5,
+        "multiplier": 2,
         "shield": 0,
         "clauses_signs": 0,
         "transfer_origin": "normal",
-        "default": 0,
+        "default": 1,
         "market": {
           "active": 1,
           "input": 1499000
@@ -18715,14 +18715,14 @@
         "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20240928",
         "clause": {
           "floor": 1765000,
-          "multiplier": 1.5,
-          "default": 0,
+          "multiplier": 2,
+          "default": 1,
           "shield": 0,
           "tier": 1,
           "shield2WeeksSku": "shield_1",
           "shield1MonthSku": "shield_2",
-          "value": 2647500,
-          "percentage": 50
+          "value": 3530000,
+          "percentage": 100
         },
         "profile": "users"
       },
@@ -22406,7 +22406,7 @@
         "id_team": 8,
         "points": 16,
         "avg": 3.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1719422155,
         "streak": [
@@ -23211,7 +23211,7 @@
         "id_team": 8,
         "points": 16,
         "avg": 3.2,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1719422155,
         "streak": [
