@@ -349,7 +349,7 @@
         "id_team": 3,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702568201,
         "streak": [
@@ -935,7 +935,7 @@
         "id_team": 3,
         "points": 0,
         "avg": 0,
-        "status": "doubt",
+        "status": "injury",
         "id_competition": 1,
         "ts_pic": 1702568201,
         "streak": [
@@ -1962,9 +1962,9 @@
         "last_points": "?",
         "id_uc": 13287961,
         "created": "2024-09-25 05:00:37",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12808912325,
+        "price": 160000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -1979,12 +1979,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 160000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 160000
         },
         "barter": [],
         "popup": "bid",
@@ -2402,9 +2402,9 @@
         "last_points": "?",
         "id_uc": 13287961,
         "created": "2024-09-25 05:00:37",
-        "id_market": null,
-        "price": null,
-        "public": null,
+        "id_market": 12808912325,
+        "price": 160000,
+        "public": 1,
         "bid": null,
         "days": null,
         "type": null,
@@ -2419,12 +2419,12 @@
         "transfer_origin": "normal",
         "default": 0,
         "market": {
-          "active": 0,
+          "active": 1,
           "input": 160000
         },
         "offer": {
           "active": 0,
-          "input": null
+          "input": 160000
         },
         "barter": [],
         "popup": "bid",
@@ -6093,7 +6093,7 @@
         "last_points": "?",
         "id_uc": 13288020,
         "created": "2024-09-21 05:00:31",
-        "id_market": 12804608564,
+        "id_market": 12808905415,
         "price": 8102757,
         "public": 1,
         "bid": null,
@@ -6239,7 +6239,7 @@
         "last_points": "?",
         "id_uc": 13288020,
         "created": "2024-09-20 05:00:25",
-        "id_market": 12804608576,
+        "id_market": 12808905427,
         "price": 7517512,
         "public": 1,
         "bid": null,
@@ -7256,7 +7256,7 @@
             "slot": 10,
             "position": 4,
             "id_team": 3,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1700208787,
             "played": 0,
             "short": "Raphinha",
@@ -8317,7 +8317,7 @@
         "id_team": 3,
         "points": 68,
         "avg": 9.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1700208787,
         "streak": [
@@ -10482,7 +10482,7 @@
             "slot": 4,
             "position": 2,
             "id_team": 3,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1702925402,
             "played": 0,
             "short": "E. García",
@@ -11351,7 +11351,7 @@
         "id_team": 3,
         "points": 22,
         "avg": 3.7,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1702925402,
         "streak": [
@@ -12576,7 +12576,7 @@
             "slot": 8,
             "position": 3,
             "id_team": 3,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1719308744,
             "played": 0,
             "short": "M. Casadó",
@@ -13525,7 +13525,7 @@
         "id_team": 3,
         "points": 29,
         "avg": 5.8,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1719308744,
         "streak": [
@@ -16883,7 +16883,7 @@
             "slot": 2,
             "position": 2,
             "id_team": 3,
-            "status": "doubt",
+            "status": null,
             "ts_pic": 1692267549,
             "played": 0,
             "short": "Í. Martínez",
@@ -17857,7 +17857,7 @@
         "id_team": 3,
         "points": 37,
         "avg": 5.3,
-        "status": "doubt",
+        "status": null,
         "id_competition": 1,
         "ts_pic": 1692267549,
         "streak": [
