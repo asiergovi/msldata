@@ -56248,7 +56248,7 @@
   },
   "2865": {
     "13283382": {
-      "points": 9,
+      "points": 15,
       "lineup": {
         "positions": {
           "1": {
@@ -56273,15 +56273,15 @@
             "2": {
               "id": 18532,
               "name": "Aleksandar Sedlar",
-              "points": "?",
+              "points": 2,
               "slot": 2,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1702842201,
-              "played": 0,
+              "played": 1,
               "short": "A. Sedlar",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/18532.png?version=20231217204321",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -56405,15 +56405,15 @@
             "10": {
               "id": 59602,
               "name": "Bertuğ Yıldırım",
-              "points": "?",
+              "points": 4,
               "slot": 10,
               "position": 4,
               "id_team": 9,
               "status": null,
               "ts_pic": 1724483630,
-              "played": 0,
+              "played": 1,
               "short": "B. Yıldırım",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/59602.png?version=20240824091350",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -56734,7 +56734,7 @@
       }
     },
     "13283364": {
-      "points": 4,
+      "points": 5,
       "lineup": {
         "positions": {
           "1": {
@@ -56791,15 +56791,15 @@
             "4": {
               "id": 36048,
               "name": "Nahuel Tenaglia",
-              "points": "?",
+              "points": 1,
               "slot": 4,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1692606150,
-              "played": 0,
+              "played": 1,
               "short": "N. Tenaglia",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/36048.png?version=20230821102230",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -57005,7 +57005,7 @@
           "id_team": 1,
           "points": 42,
           "avg": 6,
-          "status": "doubt",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1625124280,
           "streak": [
@@ -57220,7 +57220,7 @@
       }
     },
     "13288020": {
-      "points": 0,
+      "points": 2,
       "lineup": {
         "positions": {
           "1": {
@@ -57343,15 +57343,15 @@
             "8": {
               "id": 17291,
               "name": "Carles Pérez",
-              "points": "?",
+              "points": 2,
               "slot": 8,
               "position": 3,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702916855,
-              "played": 0,
+              "played": 1,
               "short": "C. Pérez",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17291.png?version=20231218172735",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -57441,9 +57441,9 @@
           "last_points": "?",
           "id_uc": 13288020,
           "created": "2024-09-27 05:00:41",
-          "id_market": null,
-          "price": null,
-          "public": null,
+          "id_market": 12810846857,
+          "price": 8176857,
+          "public": 1,
           "bid": null,
           "days": null,
           "type": null,
@@ -57458,12 +57458,12 @@
           "transfer_origin": "normal",
           "default": 0,
           "market": {
-            "active": 0,
-            "input": 2330000
+            "active": 1,
+            "input": 8176857
           },
           "offer": {
             "active": 0,
-            "input": null
+            "input": 8176857
           },
           "barter": [],
           "popup": "bid",
@@ -57629,6 +57629,79 @@
             "percentage": 50
           },
           "profile": "users"
+        },
+        "17290": {
+          "id": 17290,
+          "name": "Sergio Camello",
+          "position": 4,
+          "id_team": 14,
+          "points": 23,
+          "avg": 3.3,
+          "status": null,
+          "id_competition": 1,
+          "ts_pic": 1703109119,
+          "streak": [
+            {
+              "points": 3,
+              "color": 2
+            },
+            {
+              "points": 2,
+              "color": 2
+            },
+            {
+              "points": 2,
+              "color": 2
+            }
+          ],
+          "streak_sum": 7,
+          "value": 4874000,
+          "prev_value": 4802000,
+          "last_points": "?",
+          "id_uc": 13288020,
+          "created": "2024-09-28 16:35:53",
+          "id_market": null,
+          "price": null,
+          "public": null,
+          "bid": null,
+          "days": null,
+          "type": null,
+          "player_1": null,
+          "player_2": null,
+          "player_3": null,
+          "played": 0,
+          "floor": 9748000,
+          "multiplier": 1.5,
+          "shield": 0,
+          "clauses_signs": 0,
+          "transfer_origin": "clause",
+          "default": 0,
+          "market": {
+            "active": 0,
+            "input": 4874000
+          },
+          "offer": {
+            "active": 0,
+            "input": null
+          },
+          "barter": [],
+          "popup": "bid",
+          "short": "S. Camello",
+          "bg": 0,
+          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17290.png?version=20231220225159",
+          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240928",
+          "clause": {
+            "floor": 9748000,
+            "multiplier": 1.5,
+            "default": 0,
+            "shield": 0,
+            "tier": 2,
+            "shield2WeeksSku": "shield_1",
+            "shield1MonthSku": "shield_2",
+            "value": 14622000,
+            "percentage": 50
+          },
+          "profile": "users"
         }
       }
     },
@@ -57744,7 +57817,7 @@
               "slot": 7,
               "position": 3,
               "id_team": 1,
-              "status": "doubt",
+              "status": "injury",
               "ts_pic": 1702566817,
               "played": 0,
               "short": "O. Sancet",
@@ -57851,7 +57924,7 @@
           "streak_sum": 0,
           "value": 160000,
           "prev_value": 160000,
-          "last_points": "?",
+          "last_points": "-",
           "id_uc": 13287961,
           "created": "2024-09-25 05:00:37",
           "id_market": 12808912325,
@@ -58265,7 +58338,7 @@
       }
     },
     "13294650": {
-      "points": 0,
+      "points": 3,
       "lineup": {
         "positions": {
           "1": {
@@ -58372,15 +58445,15 @@
             "7": {
               "id": 56506,
               "name": "Carlos Vicente",
-              "points": "?",
+              "points": 3,
               "slot": 7,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1703247414,
-              "played": 0,
+              "played": 1,
               "short": "C. Vicente",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/56506.png?version=20231222131654",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -58605,7 +58678,7 @@
       }
     },
     "13283957": {
-      "points": 0,
+      "points": 5,
       "lineup": {
         "positions": {
           "1": {
@@ -58646,15 +58719,15 @@
             "3": {
               "id": 3117,
               "name": "Diego Rico",
-              "points": "?",
+              "points": 5,
               "slot": 3,
               "position": 2,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702919467,
-              "played": 0,
+              "played": 1,
               "short": "D. Rico",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/3117.png?version=20231218181107",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -58744,7 +58817,7 @@
             "9": {
               "id": 5916,
               "name": "Jon Guridi",
-              "points": "?",
+              "points": "-",
               "slot": 9,
               "position": 3,
               "id_team": 48,
@@ -58949,7 +59022,7 @@
           "id_team": 5,
           "points": 45,
           "avg": 7.5,
-          "status": "injury",
+          "status": null,
           "id_competition": 1,
           "ts_pic": 1702916773,
           "streak": [
@@ -59237,7 +59310,7 @@
       }
     },
     "13290762": {
-      "points": 0,
+      "points": 13,
       "lineup": {
         "positions": {
           "1": {
@@ -59278,15 +59351,15 @@
             "3": {
               "id": 28613,
               "name": "Omar Alderete",
-              "points": "?",
+              "points": 6,
               "slot": 3,
               "position": 2,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702919897,
-              "played": 0,
+              "played": 1,
               "short": "O. Alderete",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28613.png?version=20231218181817",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -59312,15 +59385,15 @@
             "5": {
               "id": 58383,
               "name": "Chrisantus Uche",
-              "points": "?",
+              "points": 7,
               "slot": 5,
               "position": 3,
               "id_team": 9,
               "status": null,
               "ts_pic": 1725697274,
-              "played": 0,
+              "played": 1,
               "short": "C. Uche",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/58383.png?version=20240907102114",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -59650,7 +59723,7 @@
       }
     },
     "13283720": {
-      "points": 4,
+      "points": 14,
       "lineup": {
         "positions": {
           "1": {
@@ -59757,15 +59830,15 @@
             "7": {
               "id": 10024,
               "name": "Mauro Arambarri",
-              "points": "?",
+              "points": 10,
               "slot": 7,
               "position": 3,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702920072,
-              "played": 0,
+              "played": 1,
               "short": "M. Arambarri",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/10024.png?version=20231218182112",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -59805,7 +59878,7 @@
             "10": {
               "id": 16868,
               "name": "Ander Guevara",
-              "points": "?",
+              "points": "-",
               "slot": 10,
               "position": 3,
               "id_team": 48,
@@ -60209,22 +60282,22 @@
       }
     },
     "13285878": {
-      "points": 3,
+      "points": 12,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 7893,
               "name": "Antonio Sivera",
-              "points": "?",
+              "points": 8,
               "slot": 1,
               "position": 1,
               "id_team": 48,
               "status": null,
               "ts_pic": 1702843558,
-              "played": 0,
+              "played": 1,
               "short": "A. Sivera",
-              "bg": 0,
+              "bg": 3,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/7893.png?version=20231217210558",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -60250,15 +60323,15 @@
             "3": {
               "id": 28621,
               "name": "Abdelkabir Abqar",
-              "points": "?",
+              "points": 1,
               "slot": 3,
               "position": 2,
               "id_team": 48,
               "status": null,
               "ts_pic": 1700233862,
-              "played": 0,
+              "played": 1,
               "short": "A. Abqar",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/28621.png?version=20231117161102",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -60476,7 +60549,7 @@
       }
     },
     "13287950": {
-      "points": 0,
+      "points": 10,
       "lineup": {
         "positions": {
           "1": {
@@ -60583,15 +60656,15 @@
             "7": {
               "id": 22612,
               "name": "Luis Milla",
-              "points": "?",
+              "points": 10,
               "slot": 7,
               "position": 3,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702920035,
-              "played": 0,
+              "played": 1,
               "short": "L. Milla",
-              "bg": 0,
+              "bg": 4,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/22612.png?version=20231218182035",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -60889,7 +60962,7 @@
       }
     },
     "13296694": {
-      "points": 0,
+      "points": 7,
       "lineup": {
         "positions": {
           "1": {
@@ -60964,15 +61037,15 @@
             "5": {
               "id": 185,
               "name": "Joan Jordan",
-              "points": "?",
+              "points": 4,
               "slot": 5,
               "position": 3,
               "id_team": 48,
               "status": null,
               "ts_pic": 1703280783,
-              "played": 0,
+              "played": 1,
               "short": "J. Jordan",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/185.png?version=20231222223303",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -61046,15 +61119,15 @@
             "10": {
               "id": 607,
               "name": "Borja Mayoral",
-              "points": "?",
+              "points": 3,
               "slot": 10,
               "position": 4,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702920190,
-              "played": 0,
+              "played": 1,
               "short": "B. Mayoral",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/607.png?version=20231218182310",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -61521,7 +61594,7 @@
       }
     },
     "13284241": {
-      "points": 2,
+      "points": 6,
       "lineup": {
         "positions": {
           "1": {
@@ -61546,13 +61619,13 @@
             "2": {
               "id": 58139,
               "name": "Nabil Aberdin",
-              "points": "?",
+              "points": 0,
               "slot": 2,
               "position": 2,
               "id_team": 9,
               "status": null,
               "ts_pic": 1716063034,
-              "played": 0,
+              "played": 1,
               "short": "N. Aberdin",
               "bg": 0,
               "best_xi": "",
@@ -61562,15 +61635,15 @@
             "3": {
               "id": 27869,
               "name": "Juan Berrocal",
-              "points": "?",
+              "points": 4,
               "slot": 3,
               "position": 2,
               "id_team": 9,
               "status": null,
               "ts_pic": 1724070382,
-              "played": 0,
+              "played": 1,
               "short": "J. Berrocal",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/27869.png?version=20240819142622",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -61861,7 +61934,7 @@
       }
     },
     "13289485": {
-      "points": 0,
+      "points": 4,
       "lineup": {
         "positions": {
           "1": {
@@ -61918,15 +61991,15 @@
             "4": {
               "id": 24792,
               "name": "Juan Iglesias",
-              "points": "?",
+              "points": 2,
               "slot": 4,
               "position": 2,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702919706,
-              "played": 0,
+              "played": 1,
               "short": "J. Iglesias",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/24792.png?version=20231218181506",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -62002,15 +62075,15 @@
             "9": {
               "id": 27863,
               "name": "Stoichkov",
-              "points": "?",
+              "points": 2,
               "slot": 9,
               "position": 4,
               "id_team": 48,
               "status": null,
               "ts_pic": 1721238471,
-              "played": 0,
+              "played": 1,
               "short": "Stoichkov",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/27863.png?version=20240717194751",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -62274,22 +62347,22 @@
       }
     },
     "13284287": {
-      "points": 0,
+      "points": 7,
       "lineup": {
         "positions": {
           "1": {
             "1": {
               "id": 609,
               "name": "David Soria",
-              "points": "?",
+              "points": 3,
               "slot": 1,
               "position": 1,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702919366,
-              "played": 0,
+              "played": 1,
               "short": "D. Soria",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/609.png?version=20231218180926",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -62349,15 +62422,15 @@
             "5": {
               "id": 16779,
               "name": "Álex Sola",
-              "points": "?",
+              "points": 3,
               "slot": 5,
               "position": 3,
               "id_team": 9,
               "status": null,
               "ts_pic": 1702842426,
-              "played": 0,
+              "played": 1,
               "short": "Á. Sola",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/16779.png?version=20231217204706",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20240928"
@@ -62397,7 +62470,7 @@
             "8": {
               "id": 39847,
               "name": "Yellu Santiago",
-              "points": "?",
+              "points": "-",
               "slot": 8,
               "position": 3,
               "id_team": 9,
@@ -62431,15 +62504,15 @@
             "10": {
               "id": 59641,
               "name": "Toni Martínez",
-              "points": "?",
+              "points": 1,
               "slot": 10,
               "position": 4,
               "id_team": 48,
               "status": null,
               "ts_pic": 1724757244,
-              "played": 0,
+              "played": 1,
               "short": "T. Martínez",
-              "bg": 0,
+              "bg": 2,
               "best_xi": "",
               "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/59641.png?version=20240827131404",
               "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20240928"
@@ -63046,79 +63119,6 @@
             "shield1MonthSku": "shield_2",
             "value": 1665000,
             "percentage": 50
-          },
-          "profile": "users"
-        },
-        "17290": {
-          "id": 17290,
-          "name": "Sergio Camello",
-          "position": 4,
-          "id_team": 14,
-          "points": 23,
-          "avg": 3.3,
-          "status": null,
-          "id_competition": 1,
-          "ts_pic": 1703109119,
-          "streak": [
-            {
-              "points": 3,
-              "color": 2
-            },
-            {
-              "points": 2,
-              "color": 2
-            },
-            {
-              "points": 2,
-              "color": 2
-            }
-          ],
-          "streak_sum": 7,
-          "value": 4874000,
-          "prev_value": 4802000,
-          "last_points": "?",
-          "id_uc": 13284287,
-          "created": "2024-08-28 05:00:24",
-          "id_market": null,
-          "price": null,
-          "public": null,
-          "bid": null,
-          "days": null,
-          "type": null,
-          "player_1": null,
-          "player_2": null,
-          "player_3": null,
-          "played": 0,
-          "floor": 4874000,
-          "multiplier": 2,
-          "shield": 0,
-          "clauses_signs": 0,
-          "transfer_origin": "normal",
-          "default": 1,
-          "market": {
-            "active": 0,
-            "input": 4874000
-          },
-          "offer": {
-            "active": 0,
-            "input": null
-          },
-          "barter": [],
-          "popup": "bid",
-          "short": "S. Camello",
-          "bg": 0,
-          "photoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/players/17290.png?version=20231220225159",
-          "teamLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20240928",
-          "clause": {
-            "floor": 4874000,
-            "multiplier": 2,
-            "default": 1,
-            "shield": 0,
-            "tier": 2,
-            "shield2WeeksSku": "shield_1",
-            "shield1MonthSku": "shield_2",
-            "value": 9748000,
-            "percentage": 100
           },
           "profile": "users"
         }
