@@ -973,6 +973,22 @@
   ],
   "32": [
     {
+      "id": 27107,
+      "id_gameweek": 2889,
+      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/8.png?version=20221205131749",
+      "n1": "Espanyol",
+      "goals_home": 0,
+      "status": "fixture",
+      "date": {
+        "ts": 1745002800,
+        "text": "18 abr 21:00",
+        "format": "d MMM H:mm"
+      },
+      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20221205131749",
+      "n2": "Getafe",
+      "goals_away": 0
+    },
+    {
       "id": 27111,
       "id_gameweek": 2889,
       "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20221205131749",
@@ -1082,22 +1098,6 @@
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20221205134308",
       "n2": "Alavés",
-      "goals_away": 0
-    },
-    {
-      "id": 27107,
-      "id_gameweek": 2889,
-      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/8.png?version=20221205131749",
-      "n1": "Espanyol",
-      "goals_home": 0,
-      "status": "fixture",
-      "date": {
-        "ts": 1745175600,
-        "text": "20 abr 21:00",
-        "format": "d MMM H:mm"
-      },
-      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20221205131749",
-      "n2": "Getafe",
       "goals_away": 0
     },
     {
@@ -1931,12 +1931,12 @@
       "id_gameweek": 2884,
       "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20230321174517",
       "n1": "Barcelona",
-      "goals_home": 2,
-      "status": "playing",
+      "goals_home": 3,
+      "status": "played",
       "date": {
         "ts": 1743105600,
-        "text": "Descanso",
-        "format": "'Descanso'"
+        "text": "Fin",
+        "format": "'Fin'"
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/50.png?version=20221205131749",
       "n2": "Osasuna",
