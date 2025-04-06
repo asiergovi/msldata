@@ -827,22 +827,6 @@
       "goals_away": 0
     },
     {
-      "id": 27117,
-      "id_gameweek": 2890,
-      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240613184505",
-      "n1": "Atlético",
-      "goals_home": 0,
-      "status": "fixture",
-      "date": {
-        "ts": 1745350200,
-        "text": "22 abr 21:30",
-        "format": "d MMM H:mm"
-      },
-      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20221205131749",
-      "n2": "Rayo Vallecano",
-      "goals_away": 0
-    },
-    {
       "id": 27118,
       "id_gameweek": 2890,
       "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/3.png?version=20230321174517",
@@ -952,6 +936,22 @@
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/17.png?version=20221205131749",
       "n2": "Sevilla",
+      "goals_away": 0
+    },
+    {
+      "id": 27117,
+      "id_gameweek": 2890,
+      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/2.png?version=20240613184505",
+      "n1": "Atlético",
+      "goals_home": 0,
+      "status": "fixture",
+      "date": {
+        "ts": 1745523000,
+        "text": "24 abr 21:30",
+        "format": "d MMM H:mm"
+      },
+      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20221205131749",
+      "n2": "Rayo Vallecano",
       "goals_away": 0
     },
     {
@@ -1223,8 +1223,8 @@
       "status": "fixture",
       "date": {
         "ts": 1744545600,
-        "text": "13 abr 14:00",
-        "format": "d MMM H:mm"
+        "text": "dom 14:00",
+        "format": "EEE H:mm"
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/222.png?version=20221205131749",
       "n2": "Girona",
@@ -1385,8 +1385,8 @@
       "status": "fixture",
       "date": {
         "ts": 1743940800,
-        "text": "Hoy 14:00",
-        "format": "'Hoy' H:mm"
+        "text": "En juego 0",
+        "format": "'En juego' 0'"
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/16.png?version=20221205131749",
       "n2": "Real Sociedad",
