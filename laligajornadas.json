@@ -649,6 +649,22 @@
   ],
   "34": [
     {
+      "id": 27130,
+      "id_gameweek": 2891,
+      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20221205131749",
+      "n1": "Rayo Vallecano",
+      "goals_home": 0,
+      "status": "fixture",
+      "date": {
+        "ts": 1746212400,
+        "text": "2 may 21:00",
+        "format": "d MMM H:mm"
+      },
+      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20221205131749",
+      "n2": "Getafe",
+      "goals_away": 0
+    },
+    {
       "id": 27126,
       "id_gameweek": 2891,
       "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/48.png?version=20221205134308",
@@ -758,22 +774,6 @@
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/4.png?version=20221205131749",
       "n2": "Betis",
-      "goals_away": 0
-    },
-    {
-      "id": 27130,
-      "id_gameweek": 2891,
-      "homeLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/14.png?version=20221205131749",
-      "n1": "Rayo Vallecano",
-      "goals_home": 0,
-      "status": "fixture",
-      "date": {
-        "ts": 1746385200,
-        "text": "4 may 21:00",
-        "format": "d MMM H:mm"
-      },
-      "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/9.png?version=20221205131749",
-      "n2": "Getafe",
       "goals_away": 0
     },
     {
@@ -1143,8 +1143,8 @@
       "status": "fixture",
       "date": {
         "ts": 1744398000,
-        "text": "vie 21:00",
-        "format": "EEE H:mm"
+        "text": "Hoy 21:00",
+        "format": "'Hoy' H:mm"
       },
       "awayLogoUrl": "https://cdn-mister.mundodeportivo.com/file/cdn-common/teams/17.png?version=20221205131749",
       "n2": "Sevilla",
